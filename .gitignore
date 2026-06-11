@@ -1,0 +1,22 @@
+# AI 工具缓存
+.claude/
+.kimi/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# 数据文件（可选，根据需求决定是否忽略）
+# data/github_hot.db
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

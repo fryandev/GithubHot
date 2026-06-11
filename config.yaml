@@ -1,0 +1,199 @@
+# GitHub Hot 项目配置
+
+github:
+  # GitHub Personal Access Token（可选，但强烈建议配置以提高 API 限制）
+  token: ""
+  # API 基础地址
+  base_url: "https://api.github.com"
+  # 每次请求页大小
+  per_page: 100
+  # 请求间隔（秒），避免触发速率限制
+  request_delay: 1.5
+
+# 热门项目判定标准
+hotness:
+  # 基础门槛
+  min_stars: 3000
+  min_forks: 500
+  
+  # 增速门槛（7天/30天新增）
+  min_star_growth_7d: 50
+  min_star_growth_30d: 200
+  
+  # 综合评分权重
+  weights:
+    stars: 1.0
+    forks: 2.0
+    watchers: 0.5
+    open_issues: 0.1
+    recent_growth_7d: 10.0
+    recent_growth_30d: 5.0
+  
+  # 热门等级划分
+  levels:
+    legendary: 100000    # 传奇级
+    very_hot: 20000      # 非常热门
+    hot: 5000            # 热门
+    rising: 1000         # 新兴
+
+# 搜索配置
+search:
+  # 默认搜索的 star 阈值（用于初始抓取）
+  default_star_threshold: 1000
+  # 每次运行抓取的页数
+  max_pages: 5
+  # 排序方式: stars, forks, updated
+  sort: "stars"
+  # 排序方向: desc, asc
+  order: "desc"
+
+# 分类配置
+categories:
+  # 语言分类（从 GitHub API 自动获取，这里是额外映射）
+  language_aliases:
+    "C++": "cpp"
+    "C#": "csharp"
+    "Objective-C": "objc"
+    "Shell": "shell"
+    "Jupyter Notebook": "jupyter"
+  
+  # 领域分类关键词映射
+  domain_keywords:
+    ai-ml:
+      - "machine learning"
+      - "deep learning"
+      - "artificial intelligence"
+      - "neural network"
+      - "llm"
+      - "transformer"
+      - "pytorch"
+      - "tensorflow"
+      - "stable diffusion"
+      - "openai"
+      - "chatgpt"
+      - "generative ai"
+      - "computer vision"
+      - "nlp"
+      - "大模型"
+      - "人工智能"
+    web-dev:
+      - "web framework"
+      - "frontend"
+      - "backend"
+      - "full-stack"
+      - "react"
+      - "vue"
+      - "angular"
+      - "django"
+      - "flask"
+      - "express"
+      - "nextjs"
+      - "nuxt"
+      - "ssr"
+      - "spa"
+    devops:
+      - "devops"
+      - "ci/cd"
+      - "continuous integration"
+      - "deployment"
+      - "monitoring"
+      - "logging"
+      - "docker"
+      - "kubernetes"
+      - "k8s"
+      - "terraform"
+      - "ansible"
+      - "github actions"
+    database:
+      - "database"
+      - "sql"
+      - "nosql"
+      - "cache"
+      - "redis"
+      - "mongodb"
+      - "postgresql"
+      - "mysql"
+      - "elasticsearch"
+      - "向量数据库"
+      - "vector database"
+    infrastructure:
+      - "cloud"
+      - "server"
+      - "infrastructure"
+      - "distributed"
+      - "microservice"
+      - "load balancer"
+      - "proxy"
+      - "gateway"
+    security:
+      - "security"
+      - "cryptography"
+      - "encryption"
+      - "vulnerability"
+      - "penetration"
+      - "firewall"
+      - "oauth"
+      - "auth"
+      - "零信任"
+    mobile:
+      - "android"
+      - "ios"
+      - "mobile"
+      - "flutter"
+      - "react native"
+      - "swift"
+      - "kotlin"
+    tools:
+      - "cli"
+      - "command line"
+      - "tool"
+      - "utility"
+      - "productivity"
+      - "editor"
+      - "plugin"
+      - "extension"
+      - "格式化"
+      - "lint"
+    data-science:
+      - "data science"
+      - "data analysis"
+      - "visualization"
+      - "pandas"
+      - "numpy"
+      - "jupyter"
+      - "matplotlib"
+      - "数据分析"
+    blockchain:
+      - "blockchain"
+      - "bitcoin"
+      - "ethereum"
+      - "web3"
+      - "smart contract"
+      - "defi"
+      - "nft"
+      - "加密货币"
+    game-dev:
+      - "game engine"
+      - "game development"
+      - "unity"
+      - "unreal"
+      - "游戏"
+      - "game framework"
+    embedded:
+      - "embedded"
+      - "iot"
+      - "arduino"
+      - "raspberry pi"
+      - "esp32"
+      - "stm32"
+      - "物联网"
+      - "嵌入式"
+
+# 文档生成配置
+docs:
+  # 文档输出目录
+  output_dir: "docs"
+  # 每页显示项目数
+  projects_per_page: 50
+  # 是否生成趋势图数据
+  generate_trends: true
