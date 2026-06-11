@@ -1,7 +1,7 @@
 # ⭐ 热门 - 第 5 页
 
 > ⭐ 热门 项目列表
-> 最后更新：2026-06-12 00:02
+> 最后更新：2026-06-12 00:35
 
 共收录 **12283** 个项目
 （第 5/123 页）
@@ -1911,7 +1911,7 @@ Translate the video from one language to another and embed dubbing & subtitles.
 
 **Topics**：bert, chatgpt, cnn, deep-learning, diffusion, gan, leedl-tutorial, machine-learning, network-compression, pruning, reinforcement-learning, rnn, self-attention, transfer-learning, transformer, tutorial
 
-**中文Topics**：bert, chatgpt, cnn, 深度学习, 扩散模型, gan, LEEDL教程, 机器学习, 网络压缩, 剪枝, 强化学习, rnn, 自注意力机制, 迁移学习, transformer, 教程
+**中文Topics**：伯特, 聊天gpt, cnn, 深度学习, 扩散, 甘, leedl 教程, 机器学习, 网络压缩, 修剪, 强化学习, RN, 自我关注, 迁移学习, 变压器, 教程
 
 
 ---

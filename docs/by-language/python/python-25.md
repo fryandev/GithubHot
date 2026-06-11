@@ -1,7 +1,7 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-06-12 00:02
+> 最后更新：2026-06-12 00:35
 
 共收录 **2478** 个项目
 （第 25/25 页）
@@ -2165,10 +2165,10 @@ Astrid 代理运行时的 RFC
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
-| ⭐ Stars | 27952 |
+| ⭐ Stars | 27957 |
 | 🍴 Forks | 2877 |
-| 👀 Watchers | 27952 |
-| 📝 Open Issues | 26 |
+| 👀 Watchers | 27957 |
+| 📝 Open Issues | 27 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-10-19 |

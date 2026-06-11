@@ -1,7 +1,7 @@
 # Web 开发 - 第 6 页
 
 > Web 开发 相关的热门开源项目
-> 最后更新：2026-06-12 00:02
+> 最后更新：2026-06-12 00:35
 
 共收录 **1208** 个项目
 （第 6/13 页）
@@ -869,7 +869,7 @@ Angular + Firebase = ❤️
 
 **Topics**：angular, angularfire, cloud-firestore, cloud-functions, firebase, ngrx, notifications, offline-data, realtime, realtime-database, rxjs
 
-**中文Topics**：angular, angularfire, Cloud Firestore, Cloud Functions, firebase, ngrx, 通知功能, 离线数据, 实时功能, 实时数据库, rxjs
+**中文Topics**：angular, 角火, 云火存储, 云功能, 火力基地, ngrx, 通知, 离线数据, 实时, 实时数据库, RXJ
 
 
 ---

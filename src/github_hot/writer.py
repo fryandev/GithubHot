@@ -176,39 +176,50 @@ pip install -r requirements.txt
 export GITHUB_TOKEN="your_github_personal_access_token"
 ```
 
-### 抓取数据
+### 运行命令
+
+本项目通过 `PYTHONPATH=src` 方式运行：
 
 ```bash
 # 抓取热门项目
-python -m github_hot.cli fetch
+PYTHONPATH=src python -m github_hot.cli fetch
 
 # 更新热门评分
-python -m github_hot.cli score
+PYTHONPATH=src python -m github_hot.cli score
 
 # 生成分类标签
-python -m github_hot.cli classify
+PYTHONPATH=src python -m github_hot.cli classify
 
 # 生成文档
-python -m github_hot.cli generate
+PYTHONPATH=src python -m github_hot.cli generate
 
 # 一键执行全部
-python -m github_hot.cli update
+PYTHONPATH=src python -m github_hot.cli update
+
+# 日常刷新（推荐）
+PYTHONPATH=src python -m github_hot.cli refresh
 ```
 
 ### 查询项目
 
 ```bash
 # 查看热门项目 Top 20
-python -m github_hot.cli list-projects --limit 20
+PYTHONPATH=src python -m github_hot.cli list-projects --limit 20
 
 # 按语言筛选
-python -m github_hot.cli list-projects --language python
+PYTHONPATH=src python -m github_hot.cli list-projects --language python
 
 # 按领域筛选
-python -m github_hot.cli list-projects --tag ai-ml
+PYTHONPATH=src python -m github_hot.cli list-projects --tag ai-ml
+
+# 按最低 Stars 筛选
+PYTHONPATH=src python -m github_hot.cli list-projects --min-stars 10000
+
+# 查看单个项目详情
+PYTHONPATH=src python -m github_hot.cli info owner/repo
 
 # 查看统计
-python -m github_hot.cli stats
+PYTHONPATH=src python -m github_hot.cli stats
 ```
 
 ## 📏 热门判定标准

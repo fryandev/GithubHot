@@ -1,7 +1,7 @@
 # 📆 最近90天活跃 - 第 9 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-06-12 00:02
+> 最后更新：2026-06-12 00:35
 
 共收录 **1656** 个项目
 （第 9/17 页）
@@ -2321,7 +2321,7 @@ Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Prea
 
 **Topics**：algorithm-engineering, deep-learning, interview-questions, machine-learning, recommendation-algorithms, recommender-system, tensorflow, tianchi-competition
 
-**中文Topics**：算法工程, 深度学习, 面试问题, 机器学习, 推荐算法, 推荐系统, tensorflow, 天池竞赛
+**中文Topics**：算法工程, 深度学习, 面试问题, 机器学习, 推荐算法, 推荐系统, tensorflow, 天池比赛
 
 
 ---

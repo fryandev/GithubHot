@@ -1,7 +1,7 @@
 # Web 开发 - 第 12 页
 
 > Web 开发 相关的热门开源项目
-> 最后更新：2026-06-12 00:02
+> 最后更新：2026-06-12 00:35
 
 共收录 **1208** 个项目
 （第 12/13 页）
@@ -1989,7 +1989,7 @@ A flexible playground for live editing React components
 
 **Topics**：3d, three-js, threejs, vitejs, vuejs, vuejs3, webgl
 
-**中文Topics**：3d, three-js, threejs, vitejs, vuejs, vuejs3, webgl
+**中文Topics**：3d, 三个js, 三个js, 维特斯, vuejs, vuejs3, 网页GL
 
 
 ---

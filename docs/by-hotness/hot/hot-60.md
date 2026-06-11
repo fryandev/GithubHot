@@ -1,7 +1,7 @@
 # ⭐ 热门 - 第 60 页
 
 > ⭐ 热门 项目列表
-> 最后更新：2026-06-12 00:02
+> 最后更新：2026-06-12 00:35
 
 共收录 **12283** 个项目
 （第 60/123 页）
@@ -2060,7 +2060,7 @@ yolo3+ocr
 
 **Topics**：chinese-ocr, chinese-text-detect, darknet-text-detect, idcard, ocr, opencv-dnn, trainticket, yolo3
 
-**中文Topics**：中文OCR, 中文文本检测, 暗网文本检测, 身份证识别, ocr, OpenCV DNN, 训练数据集, yolo3
+**中文Topics**：中文OCR, 中文文本检测, 暗网文本检测, 身份证, ocr, OpenCV-DNN, 火车票, yolo3
 
 
 ---

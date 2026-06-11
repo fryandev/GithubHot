@@ -1,183 +1,15 @@
 # 🔥 最近7天活跃 - 第 12 页
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-06-12 00:02
+> 最后更新：2026-06-12 00:35
 
-共收录 **3202** 个项目
-（第 12/33 页）
+共收录 **3184** 个项目
+（第 12/32 页）
 
 ## 项目列表
 
 
-### 1101. opencv/opencv_contrib
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) |
-| ⭐ Stars | 10095 |
-| 🍴 Forks | 5943 |
-| 👀 Watchers | 10095 |
-| 📝 Open Issues | 671 |
-| 💻 主语言 | C++ |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2013-09-11 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Repository for OpenCV's extra modules
-
-**中文简介**：
-OpenCV 额外模块的存储库
-
-
-**Topics**：opencv
-
-
-
----
-
-### 1102. nopSolutions/nopCommerce
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) |
-| ⭐ Stars | 10075 |
-| 🍴 Forks | 5978 |
-| 👀 Watchers | 10075 |
-| 📝 Open Issues | 173 |
-| 💻 主语言 | C# |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2014-04-09 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
-
-**中文简介**：
-ASP.NET Core 电子商务软件。 nopCommerce 是一个免费的开源购物车。
-
-
-**Topics**：asp-net, asp-net-core, aspnet, aspnetcore, cart, dotnet, dotnet-core, e-commerce, ecommerce, ecommerce-platform, headless, mvc, net6, net7, net8, shop, shopping-cart, sqlserver
-
-
-
----
-
-### 1103. weaviate/weaviate
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/weaviate/weaviate](https://github.com/weaviate/weaviate) |
-| ⭐ Stars | 16280 |
-| 🍴 Forks | 1306 |
-| 👀 Watchers | 16280 |
-| 📝 Open Issues | 505 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2016-03-30 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | BSD-3-Clause |
-
-**简介**：
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-
-**中文简介**：
-Weaviate 是一个开源矢量数据库，可存储对象和矢量，允许将矢量搜索与结构化过滤与云原生数据库的容错性和可扩展性相结合。
-
-
-**Topics**：approximate-nearest-neighbor-search, generative-search, grpc, hnsw, hybrid-search, image-search, information-retrieval, mlops, nearest-neighbor-search, neural-search, recommender-system, search-engine, semantic-search, semantic-search-engine, similarity-search, vector-database, vector-search, vector-search-engine, vectors, weaviate
-
-
-
----
-
-### 1104. playframework/playframework
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/playframework/playframework](https://github.com/playframework/playframework) |
-| ⭐ Stars | 12621 |
-| 🍴 Forks | 4031 |
-| 👀 Watchers | 12621 |
-| 📝 Open Issues | 489 |
-| 💻 主语言 | Scala |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2011-09-07 |
-| 🔄 最后更新 | 2026-06-03 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-The Community Maintained High Velocity Web Framework For Java and Scala.
-
-**中文简介**：
-社区维护 Java 和 Scala 的高速 Web 框架。
-
-
-**Topics**：framework, hacktoberfest, java, jvm, play, playframework, reactive, restful, scala, web-framework, webapps
-
-
-
----
-
-### 1105. windmill-labs/windmill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/windmill-labs/windmill](https://github.com/windmill-labs/windmill) |
-| ⭐ Stars | 16664 |
-| 🍴 Forks | 980 |
-| 👀 Watchers | 16664 |
-| 📝 Open Issues | 737 |
-| 💻 主语言 | HTML |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2022-05-05 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
-
-**中文简介**：
-开源开发者平台可为您的整个基础设施提供支持，并将脚本转换为 Webhooks、工作流程和 UI。最快的工作流程引擎（13 倍于 Airflow）。 Retool 和 Temporal 的开源替代方案。
-
-
-**Topics**：low-code, open-source, platform, postgresql, python, self-hostable, typescript
-
-
-
----
-
-### 1106. beetbox/beets
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/beetbox/beets](https://github.com/beetbox/beets) |
-| ⭐ Stars | 15227 |
-| 🍴 Forks | 2036 |
-| 👀 Watchers | 15227 |
-| 📝 Open Issues | 704 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2010-08-09 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-music library manager and MusicBrainz tagger
-
-**中文简介**：
-音乐库管理器和 MusicBrainz 标记器
-
-
-**Topics**：cli, hacktoberfest, music, music-library, musicbrainz, python
-
-
-
----
-
-### 1107. spring-projects/spring-security
+### 1101. spring-projects/spring-security
 
 | 属性 | 信息 |
 |---|---|
@@ -205,7 +37,7 @@ Spring Security
 
 ---
 
-### 1108. mysql/mysql-server
+### 1102. mysql/mysql-server
 
 | 属性 | 信息 |
 |---|---|
@@ -233,7 +65,7 @@ MySQL Server（世界上最流行的开源数据库）和 MySQL Cluster（实时
 
 ---
 
-### 1109. confident-ai/deepeval
+### 1103. confident-ai/deepeval
 
 | 属性 | 信息 |
 |---|---|
@@ -261,7 +93,7 @@ LLM评估框架
 
 ---
 
-### 1110. webadderallorg/Recordly
+### 1104. webadderallorg/Recordly
 
 | 属性 | 信息 |
 |---|---|
@@ -289,7 +121,7 @@ Create polished demo videos without editing skills. Mac/Windows/Linux
 
 ---
 
-### 1111. jundot/omlx
+### 1105. jundot/omlx
 
 | 属性 | 信息 |
 |---|---|
@@ -317,7 +149,7 @@ LLM 推理服务器，具有适用于 Apple Silicon 的连续批处理和 SSD �
 
 ---
 
-### 1112. different-ai/openwork
+### 1106. different-ai/openwork
 
 | 属性 | 信息 |
 |---|---|
@@ -345,7 +177,7 @@ Claude Cowork 的开源替代方案（由 opencode 提供支持）
 
 ---
 
-### 1113. trinodb/trino
+### 1107. trinodb/trino
 
 | 属性 | 信息 |
 |---|---|
@@ -373,7 +205,7 @@ Trino 的官方存储库，用于大数据的分布式 SQL 查询引擎，以前
 
 ---
 
-### 1114. microsoft/pyright
+### 1108. microsoft/pyright
 
 | 属性 | 信息 |
 |---|---|
@@ -401,7 +233,7 @@ Python 静态类型检查器
 
 ---
 
-### 1115. Canner/WrenAI
+### 1109. Canner/WrenAI
 
 | 属性 | 信息 |
 |---|---|
@@ -429,7 +261,7 @@ Give AI agents the context to query business data correctly through the open con
 
 ---
 
-### 1116. actions/runner-images
+### 1110. actions/runner-images
 
 | 属性 | 信息 |
 |---|---|
@@ -457,7 +289,7 @@ GitHub Actions 跑步者图像
 
 ---
 
-### 1117. scylladb/scylladb
+### 1111. scylladb/scylladb
 
 | 属性 | 信息 |
 |---|---|
@@ -485,7 +317,7 @@ NoSQL data store using the Seastar framework, compatible with Apache Cassandra a
 
 ---
 
-### 1118. microsoft/data-formulator
+### 1112. microsoft/data-formulator
 
 | 属性 | 信息 |
 |---|---|
@@ -513,7 +345,7 @@ NoSQL data store using the Seastar framework, compatible with Apache Cassandra a
 
 ---
 
-### 1119. sogou/workflow
+### 1113. sogou/workflow
 
 | 属性 | 信息 |
 |---|---|
@@ -541,7 +373,7 @@ C++ 并行计算和异步网络框架
 
 ---
 
-### 1120. botpress/botpress
+### 1114. botpress/botpress
 
 | 属性 | 信息 |
 |---|---|
@@ -569,7 +401,7 @@ The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
 ---
 
-### 1121. gastownhall/gastown
+### 1115. gastownhall/gastown
 
 | 属性 | 信息 |
 |---|---|
@@ -597,7 +429,7 @@ Gas Town - 多代理工作区管理器
 
 ---
 
-### 1122. redox-os/redox
+### 1116. redox-os/redox
 
 | 属性 | 信息 |
 |---|---|
@@ -625,7 +457,7 @@ https://gitlab.redox-os.org/redox-os/redox 的镜像
 
 ---
 
-### 1123. eythaann/Seelen-UI
+### 1117. eythaann/Seelen-UI
 
 | 属性 | 信息 |
 |---|---|
@@ -653,7 +485,7 @@ The Fully Customizable Desktop Environment for Windows 10/11.
 
 ---
 
-### 1124. highcharts/highcharts
+### 1118. highcharts/highcharts
 
 | 属性 | 信息 |
 |---|---|
@@ -681,7 +513,7 @@ Highcharts JS，JavaScript 图表框架
 
 ---
 
-### 1125. udecode/plate
+### 1119. udecode/plate
 
 | 属性 | 信息 |
 |---|---|
@@ -709,7 +541,7 @@ Rich-text editor with AI and shadcn/ui
 
 ---
 
-### 1126. PCSX2/pcsx2
+### 1120. PCSX2/pcsx2
 
 | 属性 | 信息 |
 |---|---|
@@ -737,7 +569,7 @@ PCSX2 - Playstation 2 模拟器
 
 ---
 
-### 1127. googleapis/mcp-toolbox
+### 1121. googleapis/mcp-toolbox
 
 | 属性 | 信息 |
 |---|---|
@@ -765,7 +597,7 @@ MCP Toolbox for Databases 是用于数据库的开源 MCP 服务器。
 
 ---
 
-### 1128. huggingface/transformers.js
+### 1122. huggingface/transformers.js
 
 | 属性 | 信息 |
 |---|---|
@@ -793,7 +625,7 @@ State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in
 
 ---
 
-### 1129. cookiecutter/cookiecutter-django
+### 1123. cookiecutter/cookiecutter-django
 
 | 属性 | 信息 |
 |---|---|
@@ -821,7 +653,7 @@ Cookiecutter Django 是一个用于快速启动生产就绪的 Django 项目的�
 
 ---
 
-### 1130. wolfpld/tracy
+### 1124. wolfpld/tracy
 
 | 属性 | 信息 |
 |---|---|
@@ -849,7 +681,7 @@ Frame profiler
 
 ---
 
-### 1131. Jackett/Jackett
+### 1125. Jackett/Jackett
 
 | 属性 | 信息 |
 |---|---|
@@ -877,7 +709,7 @@ API Support for your favorite torrent trackers
 
 ---
 
-### 1132. imputnet/helium
+### 1126. imputnet/helium
 
 | 属性 | 信息 |
 |---|---|
@@ -905,7 +737,7 @@ Private, fast, and honest web browser
 
 ---
 
-### 1133. tc39/ecma262
+### 1127. tc39/ecma262
 
 | 属性 | 信息 |
 |---|---|
@@ -934,7 +766,7 @@ ECMA-262 的状态、流程和文档
 
 ---
 
-### 1134. redis/jedis
+### 1128. redis/jedis
 
 | 属性 | 信息 |
 |---|---|
@@ -962,7 +794,7 @@ Redis Java 客户端
 
 ---
 
-### 1135. eclipse-vertx/vert.x
+### 1129. eclipse-vertx/vert.x
 
 | 属性 | 信息 |
 |---|---|
@@ -990,7 +822,7 @@ Vert.x 是一个用于在 JVM 上构建反应式应用程序的工具包
 
 ---
 
-### 1136. jsdoc/jsdoc
+### 1130. jsdoc/jsdoc
 
 | 属性 | 信息 |
 |---|---|
@@ -1018,7 +850,7 @@ JavaScript 的 API 文档生成器。
 
 ---
 
-### 1137. ionic-team/capacitor
+### 1131. ionic-team/capacitor
 
 | 属性 | 信息 |
 |---|---|
@@ -1046,7 +878,7 @@ Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web �
 
 ---
 
-### 1138. coredns/coredns
+### 1132. coredns/coredns
 
 | 属性 | 信息 |
 |---|---|
@@ -1074,7 +906,7 @@ CoreDNS 是一个链接插件的 DNS 服务器
 
 ---
 
-### 1139. suitenumerique/docs
+### 1133. suitenumerique/docs
 
 | 属性 | 信息 |
 |---|---|
@@ -1102,7 +934,7 @@ A collaborative note taking, wiki and documentation platform that scales. Built 
 
 ---
 
-### 1140. mozilla-mobile/firefox-ios
+### 1134. mozilla-mobile/firefox-ios
 
 | 属性 | 信息 |
 |---|---|
@@ -1130,7 +962,7 @@ iOS 版火狐浏览器
 
 ---
 
-### 1141. grpc/grpc-java
+### 1135. grpc/grpc-java
 
 | 属性 | 信息 |
 |---|---|
@@ -1158,7 +990,7 @@ Java gRPC 实现。基于 HTTP/2 的 RPC
 
 ---
 
-### 1142. dgraph-io/badger
+### 1136. dgraph-io/badger
 
 | 属性 | 信息 |
 |---|---|
@@ -1186,7 +1018,7 @@ Go 中的快速键值数据库。
 
 ---
 
-### 1143. firebase/functions-samples
+### 1137. firebase/functions-samples
 
 | 属性 | 信息 |
 |---|---|
@@ -1214,7 +1046,7 @@ Collection of sample apps showcasing popular use cases using Cloud Functions for
 
 ---
 
-### 1144. hrydgard/ppsspp
+### 1138. hrydgard/ppsspp
 
 | 属性 | 信息 |
 |---|---|
@@ -1242,7 +1074,7 @@ A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to
 
 ---
 
-### 1145. oauth2-proxy/oauth2-proxy
+### 1139. oauth2-proxy/oauth2-proxy
 
 | 属性 | 信息 |
 |---|---|
@@ -1270,7 +1102,7 @@ A reverse proxy that provides authentication with Google, Azure, OpenID Connect 
 
 ---
 
-### 1146. free-nodes/clashfree
+### 1140. free-nodes/clashfree
 
 | 属性 | 信息 |
 |---|---|
@@ -1297,7 +1129,7 @@ clash节点、免费clash节点、免费节点、免费梯子、clash科学上�
 
 ---
 
-### 1147. gcc-mirror/gcc
+### 1141. gcc-mirror/gcc
 
 | 属性 | 信息 |
 |---|---|
@@ -1323,7 +1155,7 @@ clash节点、免费clash节点、免费节点、免费梯子、clash科学上�
 
 ---
 
-### 1148. apache/answer
+### 1142. apache/answer
 
 | 属性 | 信息 |
 |---|---|
@@ -1351,7 +1183,7 @@ A Q&A platform software for teams at any scales. Whether it's a community forum,
 
 ---
 
-### 1149. thunderbird/thunderbird-android
+### 1143. thunderbird/thunderbird-android
 
 | 属性 | 信息 |
 |---|---|
@@ -1379,7 +1211,7 @@ Thunderbird for Android – 适用于 Android 的开源电子邮件应用程序 
 
 ---
 
-### 1150. rook/rook
+### 1144. rook/rook
 
 | 属性 | 信息 |
 |---|---|
@@ -1407,7 +1239,7 @@ Kubernetes 的存储编排
 
 ---
 
-### 1151. git-lfs/git-lfs
+### 1145. git-lfs/git-lfs
 
 | 属性 | 信息 |
 |---|---|
@@ -1435,7 +1267,7 @@ Git extension for versioning large files
 
 ---
 
-### 1152. rui314/mold
+### 1146. rui314/mold
 
 | 属性 | 信息 |
 |---|---|
@@ -1463,7 +1295,7 @@ mold: A Modern Linker 🦠
 
 ---
 
-### 1153. adobe/react-spectrum
+### 1147. adobe/react-spectrum
 
 | 属性 | 信息 |
 |---|---|
@@ -1491,7 +1323,7 @@ A collection of libraries and tools that help you build adaptive, accessible, an
 
 ---
 
-### 1154. goreleaser/goreleaser
+### 1148. goreleaser/goreleaser
 
 | 属性 | 信息 |
 |---|---|
@@ -1519,7 +1351,7 @@ Release engineering, simplified
 
 ---
 
-### 1155. tigerbeetle/tigerbeetle
+### 1149. tigerbeetle/tigerbeetle
 
 | 属性 | 信息 |
 |---|---|
@@ -1547,7 +1379,7 @@ The financial transactions database designed for mission critical safety and per
 
 ---
 
-### 1156. novnc/noVNC
+### 1150. novnc/noVNC
 
 | 属性 | 信息 |
 |---|---|
@@ -1575,7 +1407,7 @@ VNC 客户端 Web 应用程序
 
 ---
 
-### 1157. VSCodeVim/Vim
+### 1151. VSCodeVim/Vim
 
 | 属性 | 信息 |
 |---|---|
@@ -1603,7 +1435,7 @@ VNC 客户端 Web 应用程序
 
 ---
 
-### 1158. isl-org/Open3D
+### 1152. isl-org/Open3D
 
 | 属性 | 信息 |
 |---|---|
@@ -1631,7 +1463,7 @@ Open3D：用于 3D 数据处理的现代库
 
 ---
 
-### 1159. winsiderss/systeminformer
+### 1153. winsiderss/systeminformer
 
 | 属性 | 信息 |
 |---|---|
@@ -1660,7 +1492,7 @@ A free, powerful, multi-purpose tool that helps you monitor system resources, de
 
 ---
 
-### 1160. projectdiscovery/nuclei-templates
+### 1154. projectdiscovery/nuclei-templates
 
 | 属性 | 信息 |
 |---|---|
@@ -1688,7 +1520,7 @@ Community curated list of templates for the nuclei engine to find security vulne
 
 ---
 
-### 1161. Anionex/banana-slides
+### 1155. Anionex/banana-slides
 
 | 属性 | 信息 |
 |---|---|
@@ -1715,7 +1547,7 @@ Community curated list of templates for the nuclei engine to find security vulne
 
 ---
 
-### 1162. chopratejas/headroom
+### 1156. chopratejas/headroom
 
 | 属性 | 信息 |
 |---|---|
@@ -1744,7 +1576,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ---
 
-### 1163. NVIDIA/TensorRT-LLM
+### 1157. NVIDIA/TensorRT-LLM
 
 | 属性 | 信息 |
 |---|---|
@@ -1772,7 +1604,7 @@ TensorRT LLM 为用户提供了易于使用的 Python API 来定义大型语言�
 
 ---
 
-### 1164. redis/redis-py
+### 1158. redis/redis-py
 
 | 属性 | 信息 |
 |---|---|
@@ -1800,7 +1632,7 @@ Redis Python 客户端
 
 ---
 
-### 1165. moodle/moodle
+### 1159. moodle/moodle
 
 | 属性 | 信息 |
 |---|---|
@@ -1828,7 +1660,7 @@ Moodle——世界开源学习平台
 
 ---
 
-### 1166. zauberzeug/nicegui
+### 1160. zauberzeug/nicegui
 
 | 属性 | 信息 |
 |---|---|
@@ -1857,7 +1689,7 @@ Create web-based user interfaces with Python. The nice way.
 
 ---
 
-### 1167. OpenNHP/opennhp
+### 1161. OpenNHP/opennhp
 
 | 属性 | 信息 |
 |---|---|
@@ -1886,7 +1718,7 @@ A lightweight, cryptography-powered, open-source toolkit built to enforce Zero T
 
 ---
 
-### 1168. adambard/learnxinyminutes-docs
+### 1162. adambard/learnxinyminutes-docs
 
 | 属性 | 信息 |
 |---|---|
@@ -1914,7 +1746,7 @@ Code documentation written as code! How novel and totally my idea!
 
 ---
 
-### 1169. avwo/whistle
+### 1163. avwo/whistle
 
 | 属性 | 信息 |
 |---|---|
@@ -1942,7 +1774,7 @@ HTTP、HTTP2、HTTPS、Websocket 调试代理
 
 ---
 
-### 1170. Snapchat/Valdi
+### 1164. Snapchat/Valdi
 
 | 属性 | 信息 |
 |---|---|
@@ -1970,7 +1802,7 @@ Valdi 是一个跨平台 UI 框架，可在不牺牲开发人员速度的情况�
 
 ---
 
-### 1171. dagger/dagger
+### 1165. dagger/dagger
 
 | 属性 | 信息 |
 |---|---|
@@ -1999,7 +1831,7 @@ Automation engine to build, test and ship any codebase. Runs locally, in CI, or 
 
 ---
 
-### 1172. coturn/coturn
+### 1166. coturn/coturn
 
 | 属性 | 信息 |
 |---|---|
@@ -2027,7 +1859,7 @@ coturn TURN 服务器项目
 
 ---
 
-### 1173. PyO3/pyo3
+### 1167. PyO3/pyo3
 
 | 属性 | 信息 |
 |---|---|
@@ -2055,7 +1887,7 @@ Python 解释器的 Rust 绑定
 
 ---
 
-### 1174. amir1376/ab-download-manager
+### 1168. amir1376/ab-download-manager
 
 | 属性 | 信息 |
 |---|---|
@@ -2083,7 +1915,7 @@ A Download Manager that speeds up your downloads
 
 ---
 
-### 1175. vectorize-io/hindsight
+### 1169. vectorize-io/hindsight
 
 | 属性 | 信息 |
 |---|---|
@@ -2111,7 +1943,7 @@ Hindsight: Agent Memory That  Learns
 
 ---
 
-### 1176. davatorium/rofi
+### 1170. davatorium/rofi
 
 | 属性 | 信息 |
 |---|---|
@@ -2140,7 +1972,7 @@ Rofi：窗口切换器、应用程序启动器和 dmenu 替代品
 
 ---
 
-### 1177. flet-dev/flet
+### 1171. flet-dev/flet
 
 | 属性 | 信息 |
 |---|---|
@@ -2168,7 +2000,7 @@ Build realtime web, mobile and desktop apps in Python only. No frontend experien
 
 ---
 
-### 1178. electron-userland/electron-builder
+### 1172. electron-userland/electron-builder
 
 | 属性 | 信息 |
 |---|---|
@@ -2196,7 +2028,7 @@ A complete solution to package and build a ready for distribution Electron app w
 
 ---
 
-### 1179. rubocop/rubocop
+### 1173. rubocop/rubocop
 
 | 属性 | 信息 |
 |---|---|
@@ -2224,7 +2056,7 @@ Ruby 静态代码分析器和格式化程序，基于社区 Ruby 风格指南。
 
 ---
 
-### 1180. open-metadata/OpenMetadata
+### 1174. open-metadata/OpenMetadata
 
 | 属性 | 信息 |
 |---|---|
@@ -2252,7 +2084,7 @@ The Open Context Layer for Data and AI ,  OpenMetadata is the open platform for 
 
 ---
 
-### 1181. cert-manager/cert-manager
+### 1175. cert-manager/cert-manager
 
 | 属性 | 信息 |
 |---|---|
@@ -2280,7 +2112,7 @@ Automatically provision and manage TLS certificates in Kubernetes
 
 ---
 
-### 1182. GoogleCloudPlatform/python-docs-samples
+### 1176. GoogleCloudPlatform/python-docs-samples
 
 | 属性 | 信息 |
 |---|---|
@@ -2308,7 +2140,7 @@ cloud.google.com 上使用的代码示例
 
 ---
 
-### 1183. codecentric/spring-boot-admin
+### 1177. codecentric/spring-boot-admin
 
 | 属性 | 信息 |
 |---|---|
@@ -2336,7 +2168,7 @@ Admin UI for administration of spring boot applications
 
 ---
 
-### 1184. metersphere/metersphere
+### 1178. metersphere/metersphere
 
 | 属性 | 信息 |
 |---|---|
@@ -2363,7 +2195,7 @@ MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软�
 
 ---
 
-### 1185. frappe/frappe
+### 1179. frappe/frappe
 
 | 属性 | 信息 |
 |---|---|
@@ -2391,7 +2223,7 @@ Low code web framework for real world applications, in Python and Javascript
 
 ---
 
-### 1186. PaperMC/Paper
+### 1180. PaperMC/Paper
 
 | 属性 | 信息 |
 |---|---|
@@ -2419,7 +2251,7 @@ The most widely used, high performance Minecraft server that aims to fix gamepla
 
 ---
 
-### 1187. triggerdotdev/trigger.dev
+### 1181. triggerdotdev/trigger.dev
 
 | 属性 | 信息 |
 |---|---|
@@ -2447,7 +2279,7 @@ Trigger.dev – 构建和部署完全托管的人工智能代理和工作流程
 
 ---
 
-### 1188. cryptomator/cryptomator
+### 1182. cryptomator/cryptomator
 
 | 属性 | 信息 |
 |---|---|
@@ -2475,7 +2307,7 @@ Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for you
 
 ---
 
-### 1189. apexcharts/apexcharts.js
+### 1183. apexcharts/apexcharts.js
 
 | 属性 | 信息 |
 |---|---|
@@ -2503,7 +2335,7 @@ Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for you
 
 ---
 
-### 1190. rowboatlabs/rowboat
+### 1184. rowboatlabs/rowboat
 
 | 属性 | 信息 |
 |---|---|
@@ -2532,7 +2364,7 @@ Open-source AI coworker, with memory
 
 ---
 
-### 1191. element-hq/element-web
+### 1185. element-hq/element-web
 
 | 属性 | 信息 |
 |---|---|
@@ -2560,7 +2392,7 @@ A glossy Matrix collaboration client for the web.
 
 ---
 
-### 1192. redis/ioredis
+### 1186. redis/ioredis
 
 | 属性 | 信息 |
 |---|---|
@@ -2588,7 +2420,7 @@ A glossy Matrix collaboration client for the web.
 
 ---
 
-### 1193. TanStack/router
+### 1187. TanStack/router
 
 | 属性 | 信息 |
 |---|---|
@@ -2616,7 +2448,7 @@ A glossy Matrix collaboration client for the web.
 
 ---
 
-### 1194. python-pillow/Pillow
+### 1188. python-pillow/Pillow
 
 | 属性 | 信息 |
 |---|---|
@@ -2644,7 +2476,7 @@ Python 图像库（fork）
 
 ---
 
-### 1195. documenso/documenso
+### 1189. documenso/documenso
 
 | 属性 | 信息 |
 |---|---|
@@ -2672,7 +2504,7 @@ The Open Source DocuSign Alternative.
 
 ---
 
-### 1196. FreshRSS/FreshRSS
+### 1190. FreshRSS/FreshRSS
 
 | 属性 | 信息 |
 |---|---|
@@ -2700,7 +2532,7 @@ A free, self-hostable news aggregator…
 
 ---
 
-### 1197. bol-van/zapret
+### 1191. bol-van/zapret
 
 | 属性 | 信息 |
 |---|---|
@@ -2728,7 +2560,7 @@ DPI绕过多平台
 
 ---
 
-### 1198. prowler-cloud/prowler
+### 1192. prowler-cloud/prowler
 
 | 属性 | 信息 |
 |---|---|
@@ -2757,7 +2589,7 @@ Prowler 是世界上使用最广泛的开源云安全平台，可在任何云环
 
 ---
 
-### 1199. go-task/task
+### 1193. go-task/task
 
 | 属性 | 信息 |
 |---|---|
@@ -2785,7 +2617,7 @@ A fast, cross-platform build tool inspired by Make, designed for modern workflow
 
 ---
 
-### 1200. faker-js/faker
+### 1194. faker-js/faker
 
 | 属性 | 信息 |
 |---|---|
@@ -2808,6 +2640,172 @@ Generate massive amounts of fake data in the browser and node.js
 
 
 **Topics**：browser, data, fake, faker, javascript, nodejs, typescript
+
+
+
+---
+
+### 1195. a2ui-project/a2ui
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) |
+| ⭐ Stars | 15193 |
+| 🍴 Forks | 1182 |
+| 👀 Watchers | 15193 |
+| 📝 Open Issues | 308 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2025-09-24 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1196. datahub-project/datahub
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/datahub-project/datahub](https://github.com/datahub-project/datahub) |
+| ⭐ Stars | 12044 |
+| 🍴 Forks | 3506 |
+| 👀 Watchers | 12044 |
+| 📝 Open Issues | 918 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2015-11-18 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+The Context Platform for your Data and AI Stack
+
+**中文简介**：
+适用于您的数据和 AI 堆栈的上下文平台
+
+
+**Topics**：agent-platform, context-management, data-catalog, data-discovery, data-governance, data-observability, datahub, metadata
+
+
+
+---
+
+### 1197. mfornos/awesome-microservices
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) |
+| ⭐ Stars | 14318 |
+| 🍴 Forks | 1844 |
+| 👀 Watchers | 14318 |
+| 📝 Open Issues | 20 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2015-05-03 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | CC0-1.0 |
+
+**简介**：
+A curated list of Microservice Architecture related principles and technologies.
+
+**中文简介**：
+微服务架构相关原则和技术的精选列表。
+
+
+**Topics**：awesome, cloud-computing, cloud-native, microservices, microservices-architecture
+
+
+
+---
+
+### 1198. opensearch-project/OpenSearch
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) |
+| ⭐ Stars | 13083 |
+| 🍴 Forks | 2603 |
+| 👀 Watchers | 13083 |
+| 📝 Open Issues | 2854 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2021-01-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+🔎 Open source distributed and RESTful search engine.
+
+**中文简介**：
+🔎 开源分布式 RESTful 搜索引擎。
+
+
+**Topics**：analytics, apache2, foss, java, search, search-engine
+
+
+
+---
+
+### 1199. debezium/debezium
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/debezium/debezium](https://github.com/debezium/debezium) |
+| ⭐ Stars | 12798 |
+| 🍴 Forks | 2951 |
+| 👀 Watchers | 12798 |
+| 📝 Open Issues | 157 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2016-01-22 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
+
+**中文简介**：
+更改各种数据库的数据捕获。请在 https://github.com/debezium/dbz/issues 记录问题。
+
+
+**Topics**：apache-kafka, cdc, change-data-capture, data-pipeline, database, debezium, event-streaming, hacktoberfest, kafka, kafka-connect, kafka-producer
+
+
+
+---
+
+### 1200. openlayers/openlayers
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/openlayers/openlayers](https://github.com/openlayers/openlayers) |
+| ⭐ Stars | 12456 |
+| 🍴 Forks | 3169 |
+| 👀 Watchers | 12456 |
+| 📝 Open Issues | 870 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2012-06-20 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-2-Clause |
+
+**简介**：
+OpenLayers
+
+**中文简介**：
+开放层
+
+
+**Topics**：javascript, maps, openlayers
 
 
 
