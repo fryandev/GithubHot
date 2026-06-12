@@ -1,9 +1,9 @@
 # 📆 最近90天活跃 - 第 2 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-06-12 00:35
+> 最后更新：2026-06-12 18:19
 
-共收录 **1656** 个项目
+共收录 **1692** 个项目
 （第 2/17 页）
 
 ## 项目列表
@@ -679,7 +679,36 @@ CHATGPT、CLAUDE、GEMINI、GROK、PERPLEXITY、CURSOR、LOVABLE、REPLIT 等 AI
 
 ---
 
-### 125. datawhalechina/pumpkin-book
+### 125. squidfunk/mkdocs-material
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) |
+| ⭐ Stars | 26876 |
+| 🍴 Forks | 4091 |
+| 👀 Watchers | 26876 |
+| 📝 Open Issues | 1 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2016-01-28 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Documentation that simply works
+
+**中文简介**：
+简单好用的文档构建工具
+
+
+**Topics**：documentation, framework, material-design, mkdocs, plugins, theme
+
+**中文Topics**：["documentation", "framework", "material-design", "mkdocs", "plugins", "theme"]
+
+
+---
+
+### 126. datawhalechina/pumpkin-book
 
 | 属性 | 信息 |
 |---|---|
@@ -706,7 +735,7 @@ CHATGPT、CLAUDE、GEMINI、GROK、PERPLEXITY、CURSOR、LOVABLE、REPLIT 等 AI
 
 ---
 
-### 126. airbnb/lottie-ios
+### 127. airbnb/lottie-ios
 
 | 属性 | 信息 |
 |---|---|
@@ -735,7 +764,36 @@ An iOS library to natively render After Effects vector animations
 
 ---
 
-### 127. dandavison/delta
+### 128. slymnoyann/hey-1
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/slymnoyann/hey-1](https://github.com/slymnoyann/hey-1) |
+| ⭐ Stars | 29399 |
+| 🍴 Forks | 1807 |
+| 👀 Watchers | 29399 |
+| 📝 Open Issues | 8 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2022-03-19 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿
+
+**中文简介**：
+Hey 是一款使用 Lens Protocol 构建的去中心化、无需许可的社交媒体应用程序🌿
+
+
+**Topics**：blockchain, crypto, dapp, graphql, hacktoberfest, lens-protocol, nextjs, react, social-media, tailwindcss, turborepo, typescript, vitest, wagmi, web3
+
+**中文Topics**：blockchain, 加密货币, 去中心化应用程序, graphql, 黑客啤酒节, 镜头协议, nextjs, react, 社交媒体, 顺风CSS, 涡轮雷波, typescript, 齿轮, 瓦格米, web3
+
+
+---
+
+### 129. dandavison/delta
 
 | 属性 | 信息 |
 |---|---|
@@ -763,7 +821,7 @@ A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 
 ---
 
-### 128. elunez/eladmin
+### 130. elunez/eladmin
 
 | 属性 | 信息 |
 |---|---|
@@ -790,7 +848,7 @@ eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security�
 
 ---
 
-### 129. heartcombo/devise
+### 131. heartcombo/devise
 
 | 属性 | 信息 |
 |---|---|
@@ -818,7 +876,7 @@ Flexible authentication solution for Rails with Warden.
 
 ---
 
-### 130. NvChad/NvChad
+### 132. NvChad/NvChad
 
 | 属性 | 信息 |
 |---|---|
@@ -846,7 +904,7 @@ Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhan
 
 ---
 
-### 131. kubernetes/ingress-nginx
+### 133. kubernetes/ingress-nginx
 
 | 属性 | 信息 |
 |---|---|
@@ -874,7 +932,7 @@ Kubernetes 的入口 NGINX 控制器
 
 ---
 
-### 132. eyaltoledano/claude-task-master
+### 134. eyaltoledano/claude-task-master
 
 | 属性 | 信息 |
 |---|---|
@@ -902,7 +960,7 @@ An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf
 
 ---
 
-### 133. BloopAI/vibe-kanban
+### 135. BloopAI/vibe-kanban
 
 | 属性 | 信息 |
 |---|---|
@@ -931,7 +989,7 @@ Get 10X more out of Claude Code, Codex or any coding agent
 
 ---
 
-### 134. matteocrippa/awesome-swift
+### 136. matteocrippa/awesome-swift
 
 | 属性 | 信息 |
 |---|---|
@@ -959,7 +1017,7 @@ A collaborative list of awesome Swift libraries and resources. Feel free to cont
 
 ---
 
-### 135. tailwindlabs/headlessui
+### 137. tailwindlabs/headlessui
 
 | 属性 | 信息 |
 |---|---|
@@ -987,7 +1045,7 @@ Completely unstyled, fully accessible UI components, designed to integrate beaut
 
 ---
 
-### 136. ReactiveX/RxSwift
+### 138. ReactiveX/RxSwift
 
 | 属性 | 信息 |
 |---|---|
@@ -1015,7 +1073,7 @@ Swift 中的响应式编程
 
 ---
 
-### 137. NickeManarin/ScreenToGif
+### 139. NickeManarin/ScreenToGif
 
 | 属性 | 信息 |
 |---|---|
@@ -1044,7 +1102,7 @@ Swift 中的响应式编程
 
 ---
 
-### 138. google/python-fire
+### 140. google/python-fire
 
 | 属性 | 信息 |
 |---|---|
@@ -1072,7 +1130,7 @@ Python Fire 是一个用于从任何 Python 对象自动生成命令行界面 (C
 
 ---
 
-### 139. robertdavidgraham/masscan
+### 141. robertdavidgraham/masscan
 
 | 属性 | 信息 |
 |---|---|
@@ -1100,7 +1158,7 @@ TCP 端口扫描器，异步发出 SYN 数据包，在 5 分钟内扫描整个�
 
 ---
 
-### 140. sindresorhus/awesome-electron
+### 142. sindresorhus/awesome-electron
 
 | 属性 | 信息 |
 |---|---|
@@ -1128,7 +1186,7 @@ Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PA
 
 ---
 
-### 141. Molunerfinn/PicGo
+### 143. Molunerfinn/PicGo
 
 | 属性 | 信息 |
 |---|---|
@@ -1157,7 +1215,7 @@ Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PA
 
 ---
 
-### 142. electron-react-boilerplate/electron-react-boilerplate
+### 144. electron-react-boilerplate/electron-react-boilerplate
 
 | 属性 | 信息 |
 |---|---|
@@ -1185,7 +1243,7 @@ A Foundation for Scalable Cross-Platform Apps
 
 ---
 
-### 143. rethinkdb/rethinkdb
+### 145. rethinkdb/rethinkdb
 
 | 属性 | 信息 |
 |---|---|
@@ -1214,7 +1272,7 @@ The open-source database for the realtime web.
 
 ---
 
-### 144. huggingface/open-r1
+### 146. huggingface/open-r1
 
 | 属性 | 信息 |
 |---|---|
@@ -1242,7 +1300,7 @@ DeepSeek-R1全开放复刻
 
 ---
 
-### 145. tayllan/awesome-algorithms
+### 147. tayllan/awesome-algorithms
 
 | 属性 | 信息 |
 |---|---|
@@ -1270,7 +1328,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ---
 
-### 146. Vonng/ddia
+### 148. Vonng/ddia
 
 | 属性 | 信息 |
 |---|---|
@@ -1298,7 +1356,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ---
 
-### 147. zhaoolee/ChromeAppHeroes
+### 149. zhaoolee/ChromeAppHeroes
 
 | 属性 | 信息 |
 |---|---|
@@ -1326,7 +1384,7 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ---
 
-### 148. johnpapa/angular-styleguide
+### 150. johnpapa/angular-styleguide
 
 | 属性 | 信息 |
 |---|---|
@@ -1354,7 +1412,7 @@ Angular 风格指南：Angular 开发团队通过良好实践提供一致性的�
 
 ---
 
-### 149. ChinaSiro/claude-code-sourcemap
+### 151. ChinaSiro/claude-code-sourcemap
 
 | 属性 | 信息 |
 |---|---|
@@ -1380,7 +1438,7 @@ Angular 风格指南：Angular 开发团队通过良好实践提供一致性的�
 
 ---
 
-### 150. sharkdp/hyperfine
+### 152. sharkdp/hyperfine
 
 | 属性 | 信息 |
 |---|---|
@@ -1408,7 +1466,7 @@ A command-line benchmarking tool
 
 ---
 
-### 151. mdbootstrap/mdb-ui-kit
+### 153. mdbootstrap/mdb-ui-kit
 
 | 属性 | 信息 |
 |---|---|
@@ -1436,7 +1494,7 @@ Bootstrap 5 和 Material Design UI 套件
 
 ---
 
-### 152. openfaas/faas
+### 154. openfaas/faas
 
 | 属性 | 信息 |
 |---|---|
@@ -1465,7 +1523,7 @@ OpenFaaS —— 让无服务器函数变得简单
 
 ---
 
-### 153. sirupsen/logrus
+### 155. sirupsen/logrus
 
 | 属性 | 信息 |
 |---|---|
@@ -1493,7 +1551,7 @@ Go 的结构化、可插入日志记录。
 
 ---
 
-### 154. onlook-dev/onlook
+### 156. onlook-dev/onlook
 
 | 属性 | 信息 |
 |---|---|
@@ -1521,7 +1579,35 @@ The Cursor for Designers • An Open-Source AI-First Design tool • Visually bu
 
 ---
 
-### 155. greensock/GSAP
+### 157. ethereumbook/ethereumbook
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) |
+| ⭐ Stars | 21520 |
+| 🍴 Forks | 5198 |
+| 👀 Watchers | 21520 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2016-08-10 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | 未知 |
+
+**简介**：
+Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
+
+**中文简介**：
+掌握以太坊：第二版，作者：Andreas M. Antonopoulos、Gavin Wood、Carlo Parisi、Alessandro Mazza、Niccolò Pozzolini
+
+
+**Topics**：blockchain, book, dapp, devp2p, embark, ethereum, oreilly, smart-contracts, solidity, token, truffle-framework, web3js
+
+
+
+---
+
+### 158. greensock/GSAP
 
 | 属性 | 信息 |
 |---|---|
@@ -1549,7 +1635,7 @@ GSAP（GreenSock 动画平台），现代 Web 的 JavaScript 动画库
 
 ---
 
-### 156. kdeldycke/awesome-falsehood
+### 159. kdeldycke/awesome-falsehood
 
 | 属性 | 信息 |
 |---|---|
@@ -1577,7 +1663,7 @@ GSAP（GreenSock 动画平台），现代 Web 的 JavaScript 动画库
 
 ---
 
-### 157. vapor/vapor
+### 160. vapor/vapor
 
 | 属性 | 信息 |
 |---|---|
@@ -1606,7 +1692,7 @@ GSAP（GreenSock 动画平台），现代 Web 的 JavaScript 动画库
 
 ---
 
-### 158. monicahq/monica
+### 161. monicahq/monica
 
 | 属性 | 信息 |
 |---|---|
@@ -1634,7 +1720,7 @@ Personal CRM. Remember everything about your friends, family and business relati
 
 ---
 
-### 159. cookiecutter/cookiecutter
+### 162. cookiecutter/cookiecutter
 
 | 属性 | 信息 |
 |---|---|
@@ -1662,7 +1748,7 @@ A cross-platform command-line utility that creates projects from cookiecutters (
 
 ---
 
-### 160. luong-komorebi/Awesome-Linux-Software
+### 163. luong-komorebi/Awesome-Linux-Software
 
 | 属性 | 信息 |
 |---|---|
@@ -1690,7 +1776,7 @@ A cross-platform command-line utility that creates projects from cookiecutters (
 
 ---
 
-### 161. SwiftGGTeam/the-swift-programming-language-in-chinese
+### 164. SwiftGGTeam/the-swift-programming-language-in-chinese
 
 | 属性 | 信息 |
 |---|---|
@@ -1717,7 +1803,7 @@ A cross-platform command-line utility that creates projects from cookiecutters (
 
 ---
 
-### 162. subframe7536/maple-font
+### 165. subframe7536/maple-font
 
 | 属性 | 信息 |
 |---|---|
@@ -1746,7 +1832,7 @@ Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Fon
 
 ---
 
-### 163. microsoft/OmniParser
+### 166. microsoft/OmniParser
 
 | 属性 | 信息 |
 |---|---|
@@ -1774,7 +1860,7 @@ A simple screen parsing tool towards pure vision based GUI agent
 
 ---
 
-### 164. quii/learn-go-with-tests
+### 167. quii/learn-go-with-tests
 
 | 属性 | 信息 |
 |---|---|
@@ -1802,7 +1888,7 @@ Learn Go with test-driven development
 
 ---
 
-### 165. Nyr/openvpn-install
+### 168. Nyr/openvpn-install
 
 | 属性 | 信息 |
 |---|---|
@@ -1830,7 +1916,7 @@ OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentO
 
 ---
 
-### 166. eip-work/kuboard-press
+### 169. eip-work/kuboard-press
 
 | 属性 | 信息 |
 |---|---|
@@ -1857,7 +1943,7 @@ Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 
 
 ---
 
-### 167. vulhub/vulhub
+### 170. vulhub/vulhub
 
 | 属性 | 信息 |
 |---|---|
@@ -1885,7 +1971,7 @@ Pre-Built Vulnerable Environments Based on Docker-Compose
 
 ---
 
-### 168. gentilkiwi/mimikatz
+### 171. gentilkiwi/mimikatz
 
 | 属性 | 信息 |
 |---|---|
@@ -1913,7 +1999,7 @@ A little tool to play with Windows security
 
 ---
 
-### 169. alexpate/awesome-design-systems
+### 172. alexpate/awesome-design-systems
 
 | 属性 | 信息 |
 |---|---|
@@ -1941,7 +2027,7 @@ A little tool to play with Windows security
 
 ---
 
-### 170. validatorjs/validator.js
+### 173. validatorjs/validator.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1969,7 +2055,7 @@ String validation
 
 ---
 
-### 171. GopeedLab/gopeed
+### 174. GopeedLab/gopeed
 
 | 属性 | 信息 |
 |---|---|
@@ -1997,7 +2083,7 @@ String validation
 
 ---
 
-### 172. mxgmn/WaveFunctionCollapse
+### 175. mxgmn/WaveFunctionCollapse
 
 | 属性 | 信息 |
 |---|---|
@@ -2025,7 +2111,7 @@ Bitmap & tilemap generation from a single example with the help of ideas from qu
 
 ---
 
-### 173. responsively-org/responsively-app
+### 176. responsively-org/responsively-app
 
 | 属性 | 信息 |
 |---|---|
@@ -2053,7 +2139,7 @@ A modified web browser that helps in responsive web development. A web developer
 
 ---
 
-### 174. osquery/osquery
+### 177. osquery/osquery
 
 | 属性 | 信息 |
 |---|---|
@@ -2081,7 +2167,7 @@ SQL 支持的操作系统检测、监控和分析。
 
 ---
 
-### 175. Gar-b-age/CookLikeHOC
+### 178. Gar-b-age/CookLikeHOC
 
 | 属性 | 信息 |
 |---|---|
@@ -2107,7 +2193,7 @@ SQL 支持的操作系统检测、监控和分析。
 
 ---
 
-### 176. Schniz/fnm
+### 179. Schniz/fnm
 
 | 属性 | 信息 |
 |---|---|
@@ -2135,7 +2221,7 @@ SQL 支持的操作系统检测、监控和分析。
 
 ---
 
-### 177. Tencent/wepy
+### 180. Tencent/wepy
 
 | 属性 | 信息 |
 |---|---|
@@ -2162,7 +2248,7 @@ SQL 支持的操作系统检测、监控和分析。
 
 ---
 
-### 178. charmbracelet/glow
+### 181. charmbracelet/glow
 
 | 属性 | 信息 |
 |---|---|
@@ -2190,7 +2276,7 @@ Render markdown on the CLI, with pizzazz! 💅🏻
 
 ---
 
-### 179. uber-go/zap
+### 182. uber-go/zap
 
 | 属性 | 信息 |
 |---|---|
@@ -2218,7 +2304,7 @@ Go 中的快速、结构化、分级日志记录。
 
 ---
 
-### 180. facebook/prophet
+### 183. facebook/prophet
 
 | 属性 | 信息 |
 |---|---|
@@ -2246,7 +2332,7 @@ Tool for producing high quality forecasts for time series data that has multiple
 
 ---
 
-### 181. ScoopInstaller/Scoop
+### 184. ScoopInstaller/Scoop
 
 | 属性 | 信息 |
 |---|---|
@@ -2274,7 +2360,7 @@ A command-line installer for Windows.
 
 ---
 
-### 182. n0shake/Public-APIs
+### 185. n0shake/Public-APIs
 
 | 属性 | 信息 |
 |---|---|
@@ -2302,7 +2388,7 @@ A command-line installer for Windows.
 
 ---
 
-### 183. Wilfred/difftastic
+### 186. Wilfred/difftastic
 
 | 属性 | 信息 |
 |---|---|
@@ -2330,7 +2416,7 @@ a structural diff that understands syntax 🟥🟩
 
 ---
 
-### 184. react-grid-layout/react-grid-layout
+### 187. react-grid-layout/react-grid-layout
 
 | 属性 | 信息 |
 |---|---|
@@ -2358,7 +2444,7 @@ A draggable and resizable grid layout with responsive breakpoints, for React.
 
 ---
 
-### 185. SuperClaude-Org/SuperClaude_Framework
+### 188. SuperClaude-Org/SuperClaude_Framework
 
 | 属性 | 信息 |
 |---|---|
@@ -2386,7 +2472,7 @@ A configuration framework that enhances Claude Code with specialized commands, c
 
 ---
 
-### 186. vuejs/vue-router
+### 189. vuejs/vue-router
 
 | 属性 | 信息 |
 |---|---|
@@ -2414,7 +2500,7 @@ A configuration framework that enhances Claude Code with specialized commands, c
 
 ---
 
-### 187. mlc-ai/mlc-llm
+### 190. mlc-ai/mlc-llm
 
 | 属性 | 信息 |
 |---|---|
@@ -2442,7 +2528,7 @@ Universal LLM Deployment Engine with ML Compilation
 
 ---
 
-### 188. AiHubCN/Awesome-Chinese-LLM
+### 191. AiHubCN/Awesome-Chinese-LLM
 
 | 属性 | 信息 |
 |---|---|
@@ -2469,7 +2555,7 @@ Universal LLM Deployment Engine with ML Compilation
 
 ---
 
-### 189. tailwindlabs/heroicons
+### 192. tailwindlabs/heroicons
 
 | 属性 | 信息 |
 |---|---|
@@ -2497,7 +2583,7 @@ A set of free MIT-licensed high-quality SVG icons for UI development.
 
 ---
 
-### 190. quozd/awesome-dotnet
+### 193. quozd/awesome-dotnet
 
 | 属性 | 信息 |
 |---|---|
@@ -2525,7 +2611,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ---
 
-### 191. coze-dev/coze-studio
+### 194. coze-dev/coze-studio
 
 | 属性 | 信息 |
 |---|---|
@@ -2553,7 +2639,7 @@ An AI agent development platform with all-in-one visual tools, simplifying agent
 
 ---
 
-### 192. terrastruct/d2
+### 195. terrastruct/d2
 
 | 属性 | 信息 |
 |---|---|
@@ -2581,7 +2667,7 @@ D2 是一种现代图表脚本语言，可将文本转换为图表。
 
 ---
 
-### 193. AccumulateMore/CV
+### 196. AccumulateMore/CV
 
 | 属性 | 信息 |
 |---|---|
@@ -2608,7 +2694,7 @@ D2 是一种现代图表脚本语言，可将文本转换为图表。
 
 ---
 
-### 194. microsoft/AirSim
+### 197. microsoft/AirSim
 
 | 属性 | 信息 |
 |---|---|
@@ -2636,7 +2722,7 @@ Open source simulator for autonomous vehicles built on Unreal Engine / Unity, fr
 
 ---
 
-### 195. Polymer/polymer
+### 198. Polymer/polymer
 
 | 属性 | 信息 |
 |---|---|
@@ -2664,7 +2750,7 @@ Our original Web Component library.
 
 ---
 
-### 196. charmbracelet/gum
+### 199. charmbracelet/gum
 
 | 属性 | 信息 |
 |---|---|
@@ -2692,7 +2778,7 @@ A tool for glamorous shell scripts 🎀
 
 ---
 
-### 197. openai/swarm
+### 200. openai/swarm
 
 | 属性 | 信息 |
 |---|---|
@@ -2715,90 +2801,6 @@ Educational framework exploring ergonomic, lightweight multi-agent orchestration
 
 
 **Topics**：-
-
-
-
----
-
-### 198. williamfiset/algorithms
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/williamfiset/algorithms](https://github.com/williamfiset/algorithms) |
-| ⭐ Stars | 18627 |
-| 🍴 Forks | 4514 |
-| 👀 Watchers | 18627 |
-| 📝 Open Issues | 50 |
-| 💻 主语言 | Java |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-03-18 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-A collection of algorithms and data structures
-
-**中文简介**：
-算法和数据结构的集合
-
-
-**Topics**：adjacency, adjacency-matrix, algorithm, algorithms, dijkstra, dynamic-programming, edmonds-karp-algorithm, geometry, graph-theory, linear-algebra, mathematics, matrix-multiplication, maxflow, nlog, search-algorithm, search-algorithms, sorting-algorithms, strings, traveling-salesman, tree-algorithms
-
-
-
----
-
-### 199. shadowsocks/shadowsocks-libev
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) |
-| ⭐ Stars | 16174 |
-| 🍴 Forks | 6261 |
-| 👀 Watchers | 16174 |
-| 📝 Open Issues | 140 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2012-12-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
-
-**中文简介**：
-Shadowsocks 的仅错误修复 libev 端口。未来的开发转向shadowsocks-rust
-
-
-**Topics**：c, shadowsocks
-
-
-
----
-
-### 200. spicetify/cli
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/spicetify/cli](https://github.com/spicetify/cli) |
-| ⭐ Stars | 23335 |
-| 🍴 Forks | 883 |
-| 👀 Watchers | 23335 |
-| 📝 Open Issues | 18 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2018-12-01 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | LGPL-2.1 |
-
-**简介**：
-Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
-
-**中文简介**：
-用于自定义 Spotify 客户端的命令行工具。支持 Windows、macOS 和 Linux。
-
-
-**Topics**：command-line, command-line-tool, customization, golang, hacktoberfest, linux, macos, spicetify-cli, spicetify-extensions, spotify, windows
 
 
 
