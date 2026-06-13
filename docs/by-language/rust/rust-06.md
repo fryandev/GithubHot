@@ -1,7 +1,7 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-06-12 18:19
+> 最后更新：2026-06-13 13:52
 
 共收录 **529** 个项目
 （第 6/6 页）
@@ -799,18 +799,18 @@ Rust SDK for building Astrid capsules
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) |
-| ⭐ Stars | 38114 |
-| 🍴 Forks | 3276 |
-| 👀 Watchers | 38114 |
-| 📝 Open Issues | 502 |
+| ⭐ Stars | 38174 |
+| 🍴 Forks | 3282 |
+| 👀 Watchers | 38174 |
+| 📝 Open Issues | 423 |
 | 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2026-01-19 |
-| 🔄 最后更新 | 2026-06-12 |
+| 🔄 最后更新 | 2026-06-13 |
 | 📜 License | MIT |
 
 **简介**：
-DeepSeek + MiMo coding agent in terminal
+Open-source, community-driven agent harness
 
 **中文简介**：
 终端中的 DeepSeek + MiMo 编程助手

@@ -1,9 +1,9 @@
 # 📅 最近30天活跃
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-06-12 18:19
+> 最后更新：2026-06-13 13:52
 
-共收录 **4336** 个项目，分成 **44** 页
+共收录 **6411** 个项目，分成 **65** 页
 
 ## 分页索引
 
@@ -50,7 +50,28 @@
 | [第 41 页](weekly/weekly-41.md) | 4001 - 4100 |
 | [第 42 页](weekly/weekly-42.md) | 4101 - 4200 |
 | [第 43 页](weekly/weekly-43.md) | 4201 - 4300 |
-| [第 44 页](weekly/weekly-44.md) | 4301 - 4336 |
+| [第 44 页](weekly/weekly-44.md) | 4301 - 4400 |
+| [第 45 页](weekly/weekly-45.md) | 4401 - 4500 |
+| [第 46 页](weekly/weekly-46.md) | 4501 - 4600 |
+| [第 47 页](weekly/weekly-47.md) | 4601 - 4700 |
+| [第 48 页](weekly/weekly-48.md) | 4701 - 4800 |
+| [第 49 页](weekly/weekly-49.md) | 4801 - 4900 |
+| [第 50 页](weekly/weekly-50.md) | 4901 - 5000 |
+| [第 51 页](weekly/weekly-51.md) | 5001 - 5100 |
+| [第 52 页](weekly/weekly-52.md) | 5101 - 5200 |
+| [第 53 页](weekly/weekly-53.md) | 5201 - 5300 |
+| [第 54 页](weekly/weekly-54.md) | 5301 - 5400 |
+| [第 55 页](weekly/weekly-55.md) | 5401 - 5500 |
+| [第 56 页](weekly/weekly-56.md) | 5501 - 5600 |
+| [第 57 页](weekly/weekly-57.md) | 5601 - 5700 |
+| [第 58 页](weekly/weekly-58.md) | 5701 - 5800 |
+| [第 59 页](weekly/weekly-59.md) | 5801 - 5900 |
+| [第 60 页](weekly/weekly-60.md) | 5901 - 6000 |
+| [第 61 页](weekly/weekly-61.md) | 6001 - 6100 |
+| [第 62 页](weekly/weekly-62.md) | 6101 - 6200 |
+| [第 63 页](weekly/weekly-63.md) | 6201 - 6300 |
+| [第 64 页](weekly/weekly-64.md) | 6301 - 6400 |
+| [第 65 页](weekly/weekly-65.md) | 6401 - 6411 |
 
 
 ---

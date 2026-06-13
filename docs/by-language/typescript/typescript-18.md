@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-06-12 18:19
+> 最后更新：2026-06-13 13:52
 
-共收录 **1723** 个项目
+共收录 **1724** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -630,14 +630,14 @@ Blinker node.js library for hardware. Works with Raspberry Pi, Banana Pi, linux,
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| ⭐ Stars | 59062 |
-| 🍴 Forks | 6797 |
-| 👀 Watchers | 59062 |
-| 📝 Open Issues | 646 |
+| ⭐ Stars | 59195 |
+| 🍴 Forks | 6830 |
+| 👀 Watchers | 59195 |
+| 📝 Open Issues | 638 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-06-02 |
-| 🔄 最后更新 | 2026-06-12 |
+| 🔄 最后更新 | 2026-06-13 |
 | 📜 License | MIT |
 
 **简介**：
@@ -650,6 +650,32 @@ Blinker node.js library for hardware. Works with Raspberry Pi, Banana Pi, linux,
 **Topics**：agentic-ai, agentic-framework, agentic-rag, agentic-workflow, agents, ai-agents, ai-assistant, ai-coding, ai-skills, autonomous-agents, claude-code, codex, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript
 
 **中文Topics**：agentic-ai, agentic-framework, agentic-rag, agentic-workflow, agents, ai-agents, ai助手, ai编程, ai技能, 自主智能体, claude-code, codex, mcp-server, 多智能体, 多智能体系统, npm, 技能, 集群, 集群智能, typescript
+
+
+---
+
+### 1724. XiaomiMiMo/MiMo-Code
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) |
+| ⭐ Stars | 7159 |
+| 🍴 Forks | 568 |
+| 👀 Watchers | 7159 |
+| 📝 Open Issues | 439 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-10 |
+| 🔄 最后更新 | 2026-06-13 |
+| 📜 License | MIT |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
 
 
 ---

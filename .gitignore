@@ -1,6 +1,7 @@
 # AI 工具缓存
 .claude/
 .kimi/
+.codebuddy/
 
 # Python
 __pycache__/

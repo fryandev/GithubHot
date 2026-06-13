@@ -1,9 +1,9 @@
 # 游戏开发 - 第 3 页
 
 > 游戏开发 相关的热门开源项目
-> 最后更新：2026-06-12 18:19
+> 最后更新：2026-06-13 13:52
 
-共收录 **215** 个项目
+共收录 **216** 个项目
 （第 3/3 页）
 
 ## 项目列表
@@ -425,6 +425,35 @@ Universal Unreal Engine VR Mod (4.8 - 5.4)
 
 **Topics**：cmkr, cpp, modding, pcvr, unreal, unreal-engine, virtual-reality, vr
 
+
+
+---
+
+### 216. Hmbown/CodeWhale
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) |
+| ⭐ Stars | 38174 |
+| 🍴 Forks | 3282 |
+| 👀 Watchers | 38174 |
+| 📝 Open Issues | 423 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-01-19 |
+| 🔄 最后更新 | 2026-06-13 |
+| 📜 License | MIT |
+
+**简介**：
+Open-source, community-driven agent harness
+
+**中文简介**：
+终端中的 DeepSeek + MiMo 编程助手
+
+
+**Topics**：cli, deepseek, llm, rust, terminal, tui
+
+**中文Topics**：cli, deepseek, llm, rust, terminal, tui
 
 
 ---
