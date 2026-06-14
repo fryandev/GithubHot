@@ -1,15 +1,71 @@
 # 📅 最近30天活跃 - 第 24 页
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-06-13 13:52
+> 最后更新：2026-06-14 18:57
 
-共收录 **6411** 个项目
+共收录 **6437** 个项目
 （第 24/65 页）
 
 ## 项目列表
 
 
-### 2301. google/guice
+### 2301. facebook/watchman
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/facebook/watchman](https://github.com/facebook/watchman) |
+| ⭐ Stars | 13597 |
+| 🍴 Forks | 1059 |
+| 👀 Watchers | 13597 |
+| 📝 Open Issues | 248 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2012-11-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Watches files and records, or triggers actions, when they change. 
+
+**中文简介**：
+监视文件和记录，或在文件和记录发生更改时触发操作。
+
+
+**Topics**：-
+
+
+
+---
+
+### 2302. M2Team/NanaZip
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/M2Team/NanaZip](https://github.com/M2Team/NanaZip) |
+| ⭐ Stars | 14490 |
+| 🍴 Forks | 367 |
+| 👀 Watchers | 14490 |
+| 📝 Open Issues | 345 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2021-08-30 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+The 7-Zip derivative intended for the modern Windows experience
+
+**中文简介**：
+7-Zip 衍生产品旨在提供现代 Windows 体验
+
+
+**Topics**：cpp, file-compression, file-manager, windows-10, windows-11, windows-desktop, xaml-islands, xaml-winrt
+
+
+
+---
+
+### 2303. google/guice
 
 | 属性 | 信息 |
 |---|---|
@@ -37,7 +93,7 @@ Guice（发音为“juice”）是由 Google 为您提供的 Java 11 及更高�
 
 ---
 
-### 2302. LawnchairLauncher/lawnchair
+### 2304. LawnchairLauncher/lawnchair
 
 | 属性 | 信息 |
 |---|---|
@@ -65,7 +121,7 @@ No clever tagline needed.
 
 ---
 
-### 2303. web-infra-dev/midscene
+### 2305. web-infra-dev/midscene
 
 | 属性 | 信息 |
 |---|---|
@@ -93,7 +149,7 @@ AI-powered, vision-driven UI automation for every platform.
 
 ---
 
-### 2304. nasa/openmct
+### 2306. nasa/openmct
 
 | 属性 | 信息 |
 |---|---|
@@ -121,7 +177,7 @@ A web based mission control framework.
 
 ---
 
-### 2305. ankidroid/Anki-Android
+### 2307. ankidroid/Anki-Android
 
 | 属性 | 信息 |
 |---|---|
@@ -149,7 +205,7 @@ AnkiDroid：Android 上的 Anki 抽认卡。您实现超人信息保留的秘密
 
 ---
 
-### 2306. Azure-Samples/azure-search-openai-demo
+### 2308. Azure-Samples/azure-search-openai-demo
 
 | 属性 | 信息 |
 |---|---|
@@ -177,7 +233,7 @@ A sample app for the Retrieval-Augmented Generation pattern running in Azure, us
 
 ---
 
-### 2307. apache/beam
+### 2309. apache/beam
 
 | 属性 | 信息 |
 |---|---|
@@ -205,7 +261,7 @@ Apache Beam 是用于批处理和流数据处理的统一编程模型。
 
 ---
 
-### 2308. hicccc77/WeFlow
+### 2310. hicccc77/WeFlow
 
 | 属性 | 信息 |
 |---|---|
@@ -232,7 +288,7 @@ WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 
 ---
 
-### 2309. apache/cassandra
+### 2311. apache/cassandra
 
 | 属性 | 信息 |
 |---|---|
@@ -260,7 +316,7 @@ Open source transactional distributed database. Linear scalability and proven fa
 
 ---
 
-### 2310. IBM/sarama
+### 2312. IBM/sarama
 
 | 属性 | 信息 |
 |---|---|
@@ -288,7 +344,7 @@ Sarama 是 Apache Kafka 的 Go 库。
 
 ---
 
-### 2311. SaschaWillems/Vulkan
+### 2313. SaschaWillems/Vulkan
 
 | 属性 | 信息 |
 |---|---|
@@ -316,7 +372,7 @@ Vulkan 图形 API 的 C++ 示例
 
 ---
 
-### 2312. brianc/node-postgres
+### 2314. brianc/node-postgres
 
 | 属性 | 信息 |
 |---|---|
@@ -345,7 +401,7 @@ Node.js 的 PostgreSQL 客户端。
 
 ---
 
-### 2313. nikopueringer/CorridorKey
+### 2315. nikopueringer/CorridorKey
 
 | 属性 | 信息 |
 |---|---|
@@ -373,7 +429,7 @@ Perfect Green Screen Keys
 
 ---
 
-### 2314. YerongAI/Office-Tool
+### 2316. YerongAI/Office-Tool
 
 | 属性 | 信息 |
 |---|---|
@@ -401,7 +457,7 @@ Office Tool Plus 本地化项目。
 
 ---
 
-### 2315. cfug/dio
+### 2317. cfug/dio
 
 | 属性 | 信息 |
 |---|---|
@@ -429,7 +485,7 @@ A powerful HTTP client for Dart and Flutter, which supports global settings, Int
 
 ---
 
-### 2316. django-cms/django-cms
+### 2318. django-cms/django-cms
 
 | 属性 | 信息 |
 |---|---|
@@ -457,7 +513,7 @@ The easy-to-use and developer-friendly enterprise CMS powered by Django
 
 ---
 
-### 2317. xpipe-io/xpipe
+### 2319. xpipe-io/xpipe
 
 | 属性 | 信息 |
 |---|---|
@@ -485,7 +541,35 @@ Access your entire server infrastructure from your local desktop
 
 ---
 
-### 2318. ast-grep/ast-grep
+### 2320. meshery/meshery
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/meshery/meshery](https://github.com/meshery/meshery) |
+| ⭐ Stars | 10267 |
+| 🍴 Forks | 3393 |
+| 👀 Watchers | 10267 |
+| 📝 Open Issues | 1473 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2018-11-14 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Meshery, the cloud native manager
+
+**中文简介**：
+Meshery，云原生管理器
+
+
+**Topics**：cloud-native, cncf, control-plane, docker, gitops, golang, gsoc, hacktoberfest, infrastructure-as-code, internal-developer-platform, kanvas, kubernetes, kubernetes-operator, management-plane, meshery, opa, platform-engineering, reactjs, visualization, webassembly
+
+
+
+---
+
+### 2321. ast-grep/ast-grep
 
 | 属性 | 信息 |
 |---|---|
@@ -513,7 +597,7 @@ Access your entire server infrastructure from your local desktop
 
 ---
 
-### 2319. slimphp/Slim
+### 2322. slimphp/Slim
 
 | 属性 | 信息 |
 |---|---|
@@ -541,7 +625,7 @@ Slim 是一个 PHP 微型框架，可帮助您快速编写简单但功能强大�
 
 ---
 
-### 2320. dottxt-ai/outlines
+### 2323. dottxt-ai/outlines
 
 | 属性 | 信息 |
 |---|---|
@@ -569,7 +653,7 @@ Structured Outputs
 
 ---
 
-### 2321. googleapis/google-api-nodejs-client
+### 2324. googleapis/google-api-nodejs-client
 
 | 属性 | 信息 |
 |---|---|
@@ -597,7 +681,7 @@ Google 官方支持用于访问 Google API 的 Node.js 客户端库。包括对 
 
 ---
 
-### 2322. opencart/opencart
+### 2325. opencart/opencart
 
 | 属性 | 信息 |
 |---|---|
@@ -625,7 +709,7 @@ A free shopping cart system. OpenCart is an open source PHP-based online e-comme
 
 ---
 
-### 2323. seleniumbase/SeleniumBase
+### 2326. seleniumbase/SeleniumBase
 
 | 属性 | 信息 |
 |---|---|
@@ -654,7 +738,7 @@ A free shopping cart system. OpenCart is an open source PHP-based online e-comme
 
 ---
 
-### 2324. PrismJS/prism
+### 2327. PrismJS/prism
 
 | 属性 | 信息 |
 |---|---|
@@ -682,7 +766,7 @@ Lightweight, robust, elegant syntax highlighting.
 
 ---
 
-### 2325. satnaing/shadcn-admin
+### 2328. satnaing/shadcn-admin
 
 | 属性 | 信息 |
 |---|---|
@@ -710,7 +794,7 @@ Admin Dashboard UI built with Shadcn and Vite.
 
 ---
 
-### 2326. srwi/EverythingToolbar
+### 2329. srwi/EverythingToolbar
 
 | 属性 | 信息 |
 |---|---|
@@ -738,7 +822,7 @@ Windows 任务栏的一切集成。
 
 ---
 
-### 2327. DNSCrypt/dnscrypt-proxy
+### 2330. DNSCrypt/dnscrypt-proxy
 
 | 属性 | 信息 |
 |---|---|
@@ -766,7 +850,7 @@ dnscrypt-proxy 2 - 灵活的 DNS 代理，支持加密的 DNS 协议。
 
 ---
 
-### 2328. JustArchiNET/ArchiSteamFarm
+### 2331. JustArchiNET/ArchiSteamFarm
 
 | 属性 | 信息 |
 |---|---|
@@ -794,7 +878,7 @@ C# 应用程序的主要目的是同时从多个帐户刷 Steam 卡。
 
 ---
 
-### 2329. larksuite/cli
+### 2332. larksuite/cli
 
 | 属性 | 信息 |
 |---|---|
@@ -822,7 +906,7 @@ Lark/飞书官方 CLI 工具，由 Larksuite 团队维护，专为人类和 AI �
 
 ---
 
-### 2330. tamagui/tamagui
+### 2333. tamagui/tamagui
 
 | 属性 | 信息 |
 |---|---|
@@ -850,7 +934,7 @@ Style React fast with 100% parity on React Native, an optional UI kit, and optim
 
 ---
 
-### 2331. YOURLS/YOURLS
+### 2334. YOURLS/YOURLS
 
 | 属性 | 信息 |
 |---|---|
@@ -878,35 +962,7 @@ Style React fast with 100% parity on React Native, an optional UI kit, and optim
 
 ---
 
-### 2332. ComposioHQ/awesome-codex-skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) |
-| ⭐ Stars | 13059 |
-| 🍴 Forks | 1266 |
-| 👀 Watchers | 13059 |
-| 📝 Open Issues | 63 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-01-12 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-
-**中文简介**：
-用于跨 Codex CLI 和 API 实现工作流程自动化的实用 Codex 技能精选列表。
-
-
-**Topics**：awesome, awesome-lists, awesome-resources, codex, codex-cli, codex-skills, coding-agent-skills, coding-agents, gpt-5-1-codex, gpt-5-codex, llm, skills
-
-
-
----
-
-### 2333. bin456789/reinstall
+### 2335. bin456789/reinstall
 
 | 属性 | 信息 |
 |---|---|
@@ -934,7 +990,7 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 ---
 
-### 2334. antvis/G2
+### 2336. antvis/G2
 
 | 属性 | 信息 |
 |---|---|
@@ -962,7 +1018,7 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 ---
 
-### 2335. darkroomengineering/lenis
+### 2337. darkroomengineering/lenis
 
 | 属性 | 信息 |
 |---|---|
@@ -990,7 +1046,7 @@ Smooth scroll as it should be
 
 ---
 
-### 2336. lipis/flag-icons
+### 2338. lipis/flag-icons
 
 | 属性 | 信息 |
 |---|---|
@@ -1018,7 +1074,7 @@ Smooth scroll as it should be
 
 ---
 
-### 2337. LuckyPennySoftware/MediatR
+### 2339. LuckyPennySoftware/MediatR
 
 | 属性 | 信息 |
 |---|---|
@@ -1046,7 +1102,7 @@ Simple, unambitious mediator implementation in .NET
 
 ---
 
-### 2338. kubernetes/autoscaler
+### 2340. kubernetes/autoscaler
 
 | 属性 | 信息 |
 |---|---|
@@ -1074,7 +1130,7 @@ Kubernetes 的自动缩放组件
 
 ---
 
-### 2339. freshframework/fresh
+### 2341. freshframework/fresh
 
 | 属性 | 信息 |
 |---|---|
@@ -1102,7 +1158,7 @@ The framework so simple, you already know it.
 
 ---
 
-### 2340. Arindam200/awesome-ai-apps
+### 2342. Arindam200/awesome-ai-apps
 
 | 属性 | 信息 |
 |---|---|
@@ -1130,7 +1186,7 @@ A collection of projects showcasing RAG, agents, workflows, and other AI use cas
 
 ---
 
-### 2341. OpenRefine/OpenRefine
+### 2343. OpenRefine/OpenRefine
 
 | 属性 | 信息 |
 |---|---|
@@ -1158,7 +1214,7 @@ OpenRefine 是一个免费的开源强大工具，用于处理混乱的数据并
 
 ---
 
-### 2342. wanghongenpin/proxypin
+### 2344. wanghongenpin/proxypin
 
 | 属性 | 信息 |
 |---|---|
@@ -1186,7 +1242,7 @@ Open source free capture HTTP(S) traffic  software ProxyPin, supporting full pla
 
 ---
 
-### 2343. dream-num/univer
+### 2345. dream-num/univer
 
 | 属性 | 信息 |
 |---|---|
@@ -1214,7 +1270,7 @@ Univer 是一个全栈框架，用于在 Web 和服务器上创建和编辑电�
 
 ---
 
-### 2344. k2-fsa/sherpa-onnx
+### 2346. k2-fsa/sherpa-onnx
 
 | 属性 | 信息 |
 |---|---|
@@ -1242,7 +1298,7 @@ Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source 
 
 ---
 
-### 2345. Usagi-org/ai-goofish-monitor
+### 2347. Usagi-org/ai-goofish-monitor
 
 | 属性 | 信息 |
 |---|---|
@@ -1269,7 +1325,7 @@ Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source 
 
 ---
 
-### 2346. rolldown/rolldown
+### 2348. rolldown/rolldown
 
 | 属性 | 信息 |
 |---|---|
@@ -1297,7 +1353,7 @@ Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 
 ---
 
-### 2347. thephpleague/flysystem
+### 2349. thephpleague/flysystem
 
 | 属性 | 信息 |
 |---|---|
@@ -1325,7 +1381,7 @@ Abstraction for local and remote filesystems
 
 ---
 
-### 2348. SubtitleEdit/subtitleedit
+### 2350. SubtitleEdit/subtitleedit
 
 | 属性 | 信息 |
 |---|---|
@@ -1353,7 +1409,7 @@ the subtitle editor :)
 
 ---
 
-### 2349. plantuml/plantuml
+### 2351. plantuml/plantuml
 
 | 属性 | 信息 |
 |---|---|
@@ -1381,7 +1437,7 @@ Generate diagrams from textual description
 
 ---
 
-### 2350. openvinotoolkit/openvino
+### 2352. openvinotoolkit/openvino
 
 | 属性 | 信息 |
 |---|---|
@@ -1409,7 +1465,7 @@ OpenVINO™ 是一个用于优化和部署 AI 推理的开源工具包
 
 ---
 
-### 2351. Unleash/unleash
+### 2353. Unleash/unleash
 
 | 属性 | 信息 |
 |---|---|
@@ -1437,7 +1493,7 @@ Open-source feature management platform
 
 ---
 
-### 2352. BuilderIO/mitosis
+### 2354. BuilderIO/mitosis
 
 | 属性 | 信息 |
 |---|---|
@@ -1465,35 +1521,7 @@ Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angu
 
 ---
 
-### 2353. swaggo/swag
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/swaggo/swag](https://github.com/swaggo/swag) |
-| ⭐ Stars | 12832 |
-| 🍴 Forks | 1372 |
-| 👀 Watchers | 12832 |
-| 📝 Open Issues | 439 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-06-10 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-
-**中文简介**：
-使用 Swagger 2.0 for Go 自动生成 RESTful API 文档。
-
-
-**Topics**：annotations, golang, openapi, swagger, swagger2
-
-
-
----
-
-### 2354. firebase/flutterfire
+### 2355. firebase/flutterfire
 
 | 属性 | 信息 |
 |---|---|
@@ -1521,7 +1549,7 @@ Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 
 ---
 
-### 2355. JeffreySu/WeiXinMPSDK
+### 2356. JeffreySu/WeiXinMPSDK
 
 | 属性 | 信息 |
 |---|---|
@@ -1548,7 +1576,7 @@ Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 
 ---
 
-### 2356. MyCATApache/Mycat-Server
+### 2357. MyCATApache/Mycat-Server
 
 | 属性 | 信息 |
 |---|---|
@@ -1574,7 +1602,7 @@ Automatically generate RESTful API documentation with Swagger 2.0 for Go.
 
 ---
 
-### 2357. primer/css
+### 2358. primer/css
 
 | 属性 | 信息 |
 |---|---|
@@ -1602,7 +1630,7 @@ Primer 是 GitHub 的设计系统。这是CSS的实现
 
 ---
 
-### 2358. AlexxIT/go2rtc
+### 2359. AlexxIT/go2rtc
 
 | 属性 | 信息 |
 |---|---|
@@ -1630,7 +1658,7 @@ Ultimate camera streaming application
 
 ---
 
-### 2359. pypa/pip
+### 2360. pypa/pip
 
 | 属性 | 信息 |
 |---|---|
@@ -1658,7 +1686,7 @@ Python 包安装程序
 
 ---
 
-### 2360. browserless/browserless
+### 2361. browserless/browserless
 
 | 属性 | 信息 |
 |---|---|
@@ -1686,7 +1714,7 @@ Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for
 
 ---
 
-### 2361. antirez/ds4
+### 2362. antirez/ds4
 
 | 属性 | 信息 |
 |---|---|
@@ -1714,7 +1742,7 @@ DeepSeek 4 Flash local inference engine for Metal and CUDA
 
 ---
 
-### 2362. heroiclabs/nakama
+### 2363. heroiclabs/nakama
 
 | 属性 | 信息 |
 |---|---|
@@ -1742,7 +1770,7 @@ Scalable open-source game backend server: multiplayer, matchmaking, leaderboards
 
 ---
 
-### 2363. crowdsecurity/crowdsec
+### 2364. crowdsecurity/crowdsec
 
 | 属性 | 信息 |
 |---|---|
@@ -1770,7 +1798,7 @@ CrowdSec - 开源和参与式安全解决方案，提供针对恶意 IP 的众�
 
 ---
 
-### 2364. NG-ZORRO/ng-zorro-antd
+### 2365. NG-ZORRO/ng-zorro-antd
 
 | 属性 | 信息 |
 |---|---|
@@ -1798,7 +1826,7 @@ Angular UI Component Library based on Ant Design
 
 ---
 
-### 2365. facebookresearch/dinov2
+### 2366. facebookresearch/dinov2
 
 | 属性 | 信息 |
 |---|---|
@@ -1826,7 +1854,7 @@ DINOv2 自监督学习方法的 PyTorch 代码和模型。
 
 ---
 
-### 2366. hibiken/asynq
+### 2367. hibiken/asynq
 
 | 属性 | 信息 |
 |---|---|
@@ -1854,7 +1882,7 @@ Go中简单、可靠、高效的分布式任务队列
 
 ---
 
-### 2367. colmap/colmap
+### 2368. colmap/colmap
 
 | 属性 | 信息 |
 |---|---|
@@ -1882,7 +1910,7 @@ COLMAP - 运动结构和多视图立体
 
 ---
 
-### 2368. vnotex/vnote
+### 2369. vnotex/vnote
 
 | 属性 | 信息 |
 |---|---|
@@ -1910,7 +1938,7 @@ A pleasant note-taking platform in native C++.
 
 ---
 
-### 2369. lsdefine/GenericAgent
+### 2370. lsdefine/GenericAgent
 
 | 属性 | 信息 |
 |---|---|
@@ -1935,34 +1963,6 @@ Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system
 **Topics**：ai-agent, automation, autonomous-agent, browser-automation, claude, computer-control, desktop-automation, gemini, lightweight, llm-agent, memory-system, python, self-evolving, skill-tree, task-automation
 
 **中文Topics**：人工智能代理, 自动化, 自主代理, 浏览器自动化, claude, 计算机控制, 桌面自动化, gemini, 轻的, llm-代理, 记忆系统, python, 自我进化, 技能树, 任务自动化
-
-
----
-
-### 2370. browserslist/browserslist
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/browserslist/browserslist](https://github.com/browserslist/browserslist) |
-| ⭐ Stars | 13544 |
-| 🍴 Forks | 765 |
-| 👀 Watchers | 13544 |
-| 📝 Open Issues | 45 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2014-12-13 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | MIT |
-
-**简介**：
-🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
-
-**中文简介**：
-🦔 在不同的前端工具之间共享目标浏览器，例如 Autoprefixer、Stylelint 和 babel-preset-env
-
-
-**Topics**：-
-
 
 
 ---
@@ -2023,35 +2023,7 @@ An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL
 
 ---
 
-### 2373. systemjs/systemjs
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/systemjs/systemjs](https://github.com/systemjs/systemjs) |
-| ⭐ Stars | 13093 |
-| 🍴 Forks | 1096 |
-| 👀 Watchers | 13093 |
-| 📝 Open Issues | 78 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2013-05-14 |
-| 🔄 最后更新 | 2026-05-29 |
-| 📜 License | MIT |
-
-**简介**：
-Dynamic ES module loader
-
-**中文简介**：
-动态ES模块加载器
-
-
-**Topics**：-
-
-
-
----
-
-### 2374. borgbackup/borg
+### 2373. borgbackup/borg
 
 | 属性 | 信息 |
 |---|---|
@@ -2079,7 +2051,7 @@ Deduplicating archiver with compression and authenticated encryption.
 
 ---
 
-### 2375. Z3Prover/z3
+### 2374. Z3Prover/z3
 
 | 属性 | 信息 |
 |---|---|
@@ -2107,7 +2079,7 @@ Z3 定理证明者
 
 ---
 
-### 2376. 567-labs/instructor
+### 2375. 567-labs/instructor
 
 | 属性 | 信息 |
 |---|---|
@@ -2135,7 +2107,7 @@ LLMS 的结构化输出
 
 ---
 
-### 2377. googleapis/google-api-php-client
+### 2376. googleapis/google-api-php-client
 
 | 属性 | 信息 |
 |---|---|
@@ -2163,7 +2135,7 @@ A PHP client library for accessing Google APIs
 
 ---
 
-### 2378. advplyr/audiobookshelf
+### 2377. advplyr/audiobookshelf
 
 | 属性 | 信息 |
 |---|---|
@@ -2191,7 +2163,7 @@ Self-hosted audiobook and podcast server
 
 ---
 
-### 2379. openresty/lua-nginx-module
+### 2378. openresty/lua-nginx-module
 
 | 属性 | 信息 |
 |---|---|
@@ -2219,7 +2191,7 @@ Embed the Power of Lua into NGINX HTTP servers
 
 ---
 
-### 2380. wanglin2/mind-map
+### 2379. wanglin2/mind-map
 
 | 属性 | 信息 |
 |---|---|
@@ -2247,7 +2219,7 @@ SimpleMindMap（思绪思维导图）：一个强大的思维导图。强大的�
 
 ---
 
-### 2381. nestjs/awesome-nestjs
+### 2380. nestjs/awesome-nestjs
 
 | 属性 | 信息 |
 |---|---|
@@ -2275,7 +2247,7 @@ A curated list of awesome things related to NestJS 😎
 
 ---
 
-### 2382. espanso/espanso
+### 2381. espanso/espanso
 
 | 属性 | 信息 |
 |---|---|
@@ -2303,7 +2275,7 @@ A Privacy-first, Cross-platform Text Expander written in Rust
 
 ---
 
-### 2383. wix/Detox
+### 2382. wix/Detox
 
 | 属性 | 信息 |
 |---|---|
@@ -2331,7 +2303,7 @@ Gray box end-to-end testing and automation framework for mobile apps
 
 ---
 
-### 2384. pennersr/django-allauth
+### 2383. pennersr/django-allauth
 
 | 属性 | 信息 |
 |---|---|
@@ -2359,7 +2331,7 @@ Integrated set of Django applications addressing authentication, registration, a
 
 ---
 
-### 2385. checkstyle/checkstyle
+### 2384. checkstyle/checkstyle
 
 | 属性 | 信息 |
 |---|---|
@@ -2387,7 +2359,7 @@ Checkstyle 是一种开发工具，可帮助程序员编写符合编码标准的
 
 ---
 
-### 2386. eclipse-mosquitto/mosquitto
+### 2385. eclipse-mosquitto/mosquitto
 
 | 属性 | 信息 |
 |---|---|
@@ -2415,7 +2387,7 @@ Eclipse Mosquitto - 开源 MQTT 代理
 
 ---
 
-### 2387. ed-donner/llm_engineering
+### 2386. ed-donner/llm_engineering
 
 | 属性 | 信息 |
 |---|---|
@@ -2443,7 +2415,7 @@ Repo 伴随我掌握 LLM 工程课程
 
 ---
 
-### 2388. cheat/cheat
+### 2387. cheat/cheat
 
 | 属性 | 信息 |
 |---|---|
@@ -2471,7 +2443,7 @@ cheat 允许您在命令行上创建和查看交互式备忘单。它旨在帮�
 
 ---
 
-### 2389. kysely-org/kysely
+### 2388. kysely-org/kysely
 
 | 属性 | 信息 |
 |---|---|
@@ -2499,7 +2471,7 @@ A type-safe TypeScript SQL query builder
 
 ---
 
-### 2390. capnproto/capnproto
+### 2389. capnproto/capnproto
 
 | 属性 | 信息 |
 |---|---|
@@ -2527,7 +2499,7 @@ Cap'n Proto 序列化/RPC 系统 - 核心工具和 C++ 库
 
 ---
 
-### 2391. keplergl/kepler.gl
+### 2390. keplergl/kepler.gl
 
 | 属性 | 信息 |
 |---|---|
@@ -2555,7 +2527,7 @@ Kepler.gl 是一个强大的开源地理空间分析工具，适用于大规模�
 
 ---
 
-### 2392. Chainlit/chainlit
+### 2391. Chainlit/chainlit
 
 | 属性 | 信息 |
 |---|---|
@@ -2583,7 +2555,7 @@ Build Conversational AI in minutes ⚡️
 
 ---
 
-### 2393. tmuxinator/tmuxinator
+### 2392. tmuxinator/tmuxinator
 
 | 属性 | 信息 |
 |---|---|
@@ -2611,7 +2583,7 @@ Manage complex tmux sessions easily
 
 ---
 
-### 2394. microsoft/Windows-driver-samples
+### 2393. microsoft/Windows-driver-samples
 
 | 属性 | 信息 |
 |---|---|
@@ -2639,7 +2611,7 @@ This repo contains driver samples prepared for use with Microsoft Visual Studio 
 
 ---
 
-### 2395. hackstoic/golang-open-source-projects
+### 2394. hackstoic/golang-open-source-projects
 
 | 属性 | 信息 |
 |---|---|
@@ -2666,7 +2638,7 @@ This repo contains driver samples prepared for use with Microsoft Visual Studio 
 
 ---
 
-### 2396. BretFisher/udemy-docker-mastery
+### 2395. BretFisher/udemy-docker-mastery
 
 | 属性 | 信息 |
 |---|---|
@@ -2694,7 +2666,7 @@ Docker Mastery Udemy 课程，用于构建、组合、部署和管理容器（�
 
 ---
 
-### 2397. SFML/SFML
+### 2396. SFML/SFML
 
 | 属性 | 信息 |
 |---|---|
@@ -2722,7 +2694,7 @@ Simple and Fast Multimedia Library
 
 ---
 
-### 2398. DustinBrett/daedalOS
+### 2397. DustinBrett/daedalOS
 
 | 属性 | 信息 |
 |---|---|
@@ -2750,7 +2722,7 @@ Desktop environment in the browser
 
 ---
 
-### 2399. sshuttle/sshuttle
+### 2398. sshuttle/sshuttle
 
 | 属性 | 信息 |
 |---|---|
@@ -2778,7 +2750,7 @@ Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Do
 
 ---
 
-### 2400. alicevision/Meshroom
+### 2399. alicevision/Meshroom
 
 | 属性 | 信息 |
 |---|---|
@@ -2801,6 +2773,34 @@ Node-based Visual Programming Toolbox
 
 
 **Topics**：3d-reconstruction, alicevision, camera-tracking, computer-vision, hdr-imaging, image-stitching, meshroom, multi-view-stereo, nocode, nodal-interface, photogrammetry, structure-from-motion, texturing, workflow-automation
+
+
+
+---
+
+### 2400. nextapps-de/flexsearch
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) |
+| ⭐ Stars | 13718 |
+| 🍴 Forks | 526 |
+| 👀 Watchers | 13718 |
+| 📝 Open Issues | 34 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2018-02-25 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Next-generation full-text search library for Browser and Node.js
+
+**中文简介**：
+适用于 Browser 和 Node.js 的下一代全文搜索库
+
+
+**Topics**：elasticsearch, full-text-search, fulltext-search, fuzzy, fuzzy-search, javascript, javascript-library, nodejs, open-source, search, search-algorithm, search-engine, search-in-text, searching, searching-algorithms, web, web-worker
 
 
 

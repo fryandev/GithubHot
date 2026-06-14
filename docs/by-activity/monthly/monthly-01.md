@@ -1,9 +1,9 @@
 # 📆 最近90天活跃 - 第 1 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-06-13 13:52
+> 最后更新：2026-06-14 18:57
 
-共收录 **1720** 个项目
+共收录 **1761** 个项目
 （第 1/18 页）
 
 ## 项目列表
@@ -208,7 +208,36 @@ DigitalPlat FreeDomain：人人免费域名。
 
 ---
 
-### 8. yangshun/tech-interview-handbook
+### 8. ChatGPTNextWeb/NextChat
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) |
+| ⭐ Stars | 88184 |
+| 🍴 Forks | 59647 |
+| 👀 Watchers | 88184 |
+| 📝 Open Issues | 836 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2023-03-10 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+**中文简介**：
+✨ 轻量快速的 AI 助手。支持：Web | iOS | MacOS | Android | Linux | Windows
+
+
+**Topics**：calclaude, chatgpt, claude, cross-platform, desktop, fe, gemini, gemini-pro, gemini-server, gemini-ultra, gpt-4o, groq, nextjs, ollama, react, tauri, tauri-app, vercel, webui
+
+**中文Topics**：calclaude, chatgpt, claude, cross-platform, desktop, fe, gemini, gemini-pro, gemini-server, gemini-ultra, gpt-4o, groq, nextjs, ollama, react, tauri, tauri-app, vercel, webui
+
+
+---
+
+### 9. yangshun/tech-interview-handbook
 
 | 属性 | 信息 |
 |---|---|
@@ -237,7 +266,7 @@ Curated coding interview preparation materials for busy software engineers
 
 ---
 
-### 9. krahets/hello-algo
+### 10. krahets/hello-algo
 
 | 属性 | 信息 |
 |---|---|
@@ -266,7 +295,7 @@ Curated coding interview preparation materials for busy software engineers
 
 ---
 
-### 10. Hack-with-Github/Awesome-Hacking
+### 11. Hack-with-Github/Awesome-Hacking
 
 | 属性 | 信息 |
 |---|---|
@@ -295,7 +324,7 @@ A collection of various awesome lists for hackers, pentesters and security resea
 
 ---
 
-### 11. macrozheng/mall
+### 12. macrozheng/mall
 
 | 属性 | 信息 |
 |---|---|
@@ -322,7 +351,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ---
 
-### 12. openai/whisper
+### 13. openai/whisper
 
 | 属性 | 信息 |
 |---|---|
@@ -350,7 +379,7 @@ Robust Speech Recognition via Large-Scale Weak Supervision
 
 ---
 
-### 13. doocs/advanced-java
+### 14. doocs/advanced-java
 
 | 属性 | 信息 |
 |---|---|
@@ -379,7 +408,7 @@ Robust Speech Recognition via Large-Scale Weak Supervision
 
 ---
 
-### 14. karpathy/autoresearch
+### 15. karpathy/autoresearch
 
 | 属性 | 信息 |
 |---|---|
@@ -407,7 +436,7 @@ AI agents running research on single-GPU nanochat training automatically
 
 ---
 
-### 15. nextlevelbuilder/ui-ux-pro-max-skill
+### 16. nextlevelbuilder/ui-ux-pro-max-skill
 
 | 属性 | 信息 |
 |---|---|
@@ -436,7 +465,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 ---
 
-### 16. 3b1b/manim
+### 17. 3b1b/manim
 
 | 属性 | 信息 |
 |---|---|
@@ -465,7 +494,7 @@ Animation engine for explanatory math videos
 
 ---
 
-### 17. MunGell/awesome-for-beginners
+### 18. MunGell/awesome-for-beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -494,7 +523,7 @@ A list of awesome beginners-friendly projects.
 
 ---
 
-### 18. nvim-lua/kickstart.nvim
+### 19. nvim-lua/kickstart.nvim
 
 | 属性 | 信息 |
 |---|---|
@@ -518,35 +547,6 @@ A launch point for your personal nvim configuration
 
 **Topics**：-
 
-
-
----
-
-### 19. Z4nzu/hackingtool
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) |
-| ⭐ Stars | 77157 |
-| 🍴 Forks | 8745 |
-| 👀 Watchers | 77157 |
-| 📝 Open Issues | 108 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2020-04-11 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-ALL IN ONE Hacking Tool For Hackers
-
-**中文简介**：
-面向黑客的一站式黑客工具。
-
-
-**Topics**：allinonehackingtool, besthackingtool, ctf-tools, ddos-attack-tool, hacker, hacking, linux, password-attack, steganography, web-attack, wireless-attack, xss-attacks, xss-detection
-
-**中文Topics**：allinonehackingtool, besthackingtool, ctf-tools, ddos-attack-tool, hacker, hacking, linux, password-attack, steganography, web-attack, wireless-attack, xss-attacks, xss-detection
 
 
 ---
@@ -1925,7 +1925,36 @@ An awesome README template to jumpstart your projects!
 
 ---
 
-### 68. Ebazhanov/linkedin-skill-assessments-quizzes
+### 68. aria2/aria2
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/aria2/aria2](https://github.com/aria2/aria2) |
+| ⭐ Stars | 41120 |
+| 🍴 Forks | 3861 |
+| 👀 Watchers | 41120 |
+| 📝 Open Issues | 1146 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2010-11-27 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | GPL-2.0 |
+
+**简介**：
+aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+**中文简介**：
+aria2是一款轻量级多协议、多来源、跨平台命令行下载工具，支持HTTP/HTTPS、FTP、SFTP、BitTorrent和Metalink
+
+
+**Topics**：bittorrent, cpp11, download, ftp, http, metalink, rpc, sftp
+
+**中文Topics**：bittorrent, cpp11, 下载, ftp, http, metalink, rpc, sftp
+
+
+---
+
+### 69. Ebazhanov/linkedin-skill-assessments-quizzes
 
 | 属性 | 信息 |
 |---|---|
@@ -1953,7 +1982,7 @@ LinkedIn 技能评估答案 2024 的完整参考（aws-lambda、rest-api、javas
 
 ---
 
-### 69. lm-sys/FastChat
+### 70. lm-sys/FastChat
 
 | 属性 | 信息 |
 |---|---|
@@ -1981,7 +2010,7 @@ An open platform for training, serving, and evaluating large language models. Re
 
 ---
 
-### 70. xuxueli/xxl-job
+### 71. xuxueli/xxl-job
 
 | 属性 | 信息 |
 |---|---|
@@ -2009,7 +2038,7 @@ A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 
 ---
 
-### 71. imputnet/cobalt
+### 72. imputnet/cobalt
 
 | 属性 | 信息 |
 |---|---|
@@ -2038,7 +2067,7 @@ best way to save what you love
 
 ---
 
-### 72. go-gorm/gorm
+### 73. go-gorm/gorm
 
 | 属性 | 信息 |
 |---|---|
@@ -2067,7 +2096,7 @@ Golang出色的ORM库，以开发者友好为目标
 
 ---
 
-### 73. yarnpkg/yarn
+### 74. yarnpkg/yarn
 
 | 属性 | 信息 |
 |---|---|
@@ -2096,7 +2125,7 @@ The 1.x line is frozen - features and bugfixes now happen on https://github.com/
 
 ---
 
-### 74. Dogfalo/materialize
+### 75. Dogfalo/materialize
 
 | 属性 | 信息 |
 |---|---|
@@ -2125,7 +2154,7 @@ Materialize，一款基于Material Design的CSS框架
 
 ---
 
-### 75. 2noise/ChatTTS
+### 76. 2noise/ChatTTS
 
 | 属性 | 信息 |
 |---|---|
@@ -2154,7 +2183,7 @@ A generative speech model for daily dialogue.
 
 ---
 
-### 76. FuelLabs/fuels-rs
+### 77. FuelLabs/fuels-rs
 
 | 属性 | 信息 |
 |---|---|
@@ -2182,7 +2211,7 @@ Fuel Network Rust SDK
 
 ---
 
-### 77. FuelLabs/fuels-ts
+### 78. FuelLabs/fuels-ts
 
 | 属性 | 信息 |
 |---|---|
@@ -2211,7 +2240,7 @@ Fuel Network TypeScript SDK
 
 ---
 
-### 78. alvarotrigo/fullPage.js
+### 79. alvarotrigo/fullPage.js
 
 | 属性 | 信息 |
 |---|---|
@@ -2240,7 +2269,7 @@ fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 
 ---
 
-### 79. nothings/stb
+### 80. nothings/stb
 
 | 属性 | 信息 |
 |---|---|
@@ -2268,7 +2297,7 @@ stb 单文件公共领域 C/C++ 库
 
 ---
 
-### 80. XX-net/XX-Net
+### 81. XX-net/XX-Net
 
 | 属性 | 信息 |
 |---|---|
@@ -2297,7 +2326,7 @@ A proxy tool to bypass GFW.
 
 ---
 
-### 81. mdn/learning-area
+### 82. mdn/learning-area
 
 | 属性 | 信息 |
 |---|---|
@@ -2325,7 +2354,7 @@ MDN 学习区的 GitHub 存储库。
 
 ---
 
-### 82. huiyadanli/RevokeMsgPatcher
+### 83. huiyadanli/RevokeMsgPatcher
 
 | 属性 | 信息 |
 |---|---|
@@ -2354,7 +2383,7 @@ MDN 学习区的 GitHub 存储库。
 
 ---
 
-### 83. evanw/esbuild
+### 84. evanw/esbuild
 
 | 属性 | 信息 |
 |---|---|
@@ -2383,7 +2412,7 @@ An extremely fast bundler for the web
 
 ---
 
-### 84. blueimp/jQuery-File-Upload
+### 85. blueimp/jQuery-File-Upload
 
 | 属性 | 信息 |
 |---|---|
@@ -2411,7 +2440,7 @@ File Upload widget with multiple file selection, drag&drop support, progress bar
 
 ---
 
-### 85. sorrycc/awesome-javascript
+### 86. sorrycc/awesome-javascript
 
 | 属性 | 信息 |
 |---|---|
@@ -2439,7 +2468,7 @@ File Upload widget with multiple file selection, drag&drop support, progress bar
 
 ---
 
-### 86. ItzCrazyKns/Vane
+### 87. ItzCrazyKns/Vane
 
 | 属性 | 信息 |
 |---|---|
@@ -2468,7 +2497,7 @@ Vane 是一个 AI 驱动的问答引擎
 
 ---
 
-### 87. ApolloAuto/apollo
+### 88. ApolloAuto/apollo
 
 | 属性 | 信息 |
 |---|---|
@@ -2497,7 +2526,7 @@ An open autonomous driving platform
 
 ---
 
-### 88. spacedriveapp/spacedrive
+### 89. spacedriveapp/spacedrive
 
 | 属性 | 信息 |
 |---|---|
@@ -2526,7 +2555,7 @@ Spacedrive 是一款开源的跨平台文件资源管理器，由 Rust 编写的
 
 ---
 
-### 89. beego/beego
+### 90. beego/beego
 
 | 属性 | 信息 |
 |---|---|
@@ -2555,7 +2584,7 @@ beego 是一个开源的高性能 Go 语言 Web 框架。
 
 ---
 
-### 90. alibaba/druid
+### 91. alibaba/druid
 
 | 属性 | 信息 |
 |---|---|
@@ -2583,7 +2612,36 @@ beego 是一个开源的高性能 Go 语言 Web 框架。
 
 ---
 
-### 91. ziadoz/awesome-php
+### 92. alan2207/bulletproof-react
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) |
+| ⭐ Stars | 35262 |
+| 🍴 Forks | 3203 |
+| 👀 Watchers | 35262 |
+| 📝 Open Issues | 41 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2021-05-30 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. 
+
+**中文简介**：
+🛡️ ⚛️ 一个简单、可扩展且强大的架构，用于构建生产级的 React 应用
+
+
+**Topics**：react, react-applications, react-architecture-patterns, react-best-practice, react-guidelines, react-project-structure, react-typescript
+
+**中文Topics**：react, react-applications, react-architecture-patterns, react最佳实践, react-guidelines, react-project-structure, react-typescript
+
+
+---
+
+### 93. ziadoz/awesome-php
 
 | 属性 | 信息 |
 |---|---|
@@ -2612,7 +2670,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ---
 
-### 92. openai/CLIP
+### 94. openai/CLIP
 
 | 属性 | 信息 |
 |---|---|
@@ -2641,7 +2699,7 @@ CLIP（对比语言-图像预训练），预测与图像最相关的文本片段
 
 ---
 
-### 93. google/material-design-lite
+### 95. google/material-design-lite
 
 | 属性 | 信息 |
 |---|---|
@@ -2670,7 +2728,7 @@ Material Design Components in HTML/CSS/JS
 
 ---
 
-### 94. zhiwehu/Python-programming-exercises
+### 96. zhiwehu/Python-programming-exercises
 
 | 属性 | 信息 |
 |---|---|
@@ -2698,7 +2756,7 @@ Material Design Components in HTML/CSS/JS
 
 ---
 
-### 95. MichaelCade/90DaysOfDevOps
+### 97. MichaelCade/90DaysOfDevOps
 
 | 属性 | 信息 |
 |---|---|
@@ -2727,7 +2785,7 @@ This repository started out as a learning in public project for myself and has n
 
 ---
 
-### 96. Pythagora-io/gpt-pilot
+### 98. Pythagora-io/gpt-pilot
 
 | 属性 | 信息 |
 |---|---|
@@ -2756,7 +2814,7 @@ The first real AI developer
 
 ---
 
-### 97. sanbuphy/learn-coding-agent
+### 99. sanbuphy/learn-coding-agent
 
 | 属性 | 信息 |
 |---|---|
@@ -2784,7 +2842,7 @@ Research on Coding Agents
 
 ---
 
-### 98. khoj-ai/khoj
+### 100. khoj-ai/khoj
 
 | 属性 | 信息 |
 |---|---|
@@ -2809,62 +2867,6 @@ Your AI second brain. Self-hostable. Get answers from the web or your docs. Buil
 **Topics**：agent, ai, assistant, chat, chatgpt, emacs, image-generation, llama3, llamacpp, llm, obsidian, obsidian-md, offline-llm, productivity, rag, research, self-hosted, semantic-search, stt, whatsapp-ai
 
 **中文Topics**：agent, ai, 助手, chat, chatgpt, emacs, 图像生成, llama3, llamacpp, llm, obsidian, obsidian-md, offline-llm, 生产力, rag, 研究, self-hosted, 语义搜索, stt, whatsapp-ai
-
-
----
-
-### 99. sudheerj/javascript-interview-questions
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) |
-| ⭐ Stars | 27454 |
-| 🍴 Forks | 7651 |
-| 👀 Watchers | 27454 |
-| 📝 Open Issues | 21 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2017-10-29 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-List of 1000 JavaScript Interview Questions
-
-**中文简介**：
-1000 个 JavaScript 面试问题列表
-
-
-**Topics**：angular, core-javascript, javascript, javascript-applications, javascript-interview-questions, react, vanilla-javascript, vuejs
-
-
-
----
-
-### 100. inkonchain/node
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/inkonchain/node](https://github.com/inkonchain/node) |
-| ⭐ Stars | 36582 |
-| 🍴 Forks | 635 |
-| 👀 Watchers | 36582 |
-| 📝 Open Issues | 23 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2024-05-13 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-How to run an Ink Node
-
-**中文简介**：
-如何运行 Ink 节点。
-
-
-**Topics**：-
-
 
 
 ---

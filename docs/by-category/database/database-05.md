@@ -1,7 +1,7 @@
 # 数据库 - 第 5 页
 
 > 数据库 相关的热门开源项目
-> 最后更新：2026-06-13 13:52
+> 最后更新：2026-06-14 18:57
 
 共收录 **478** 个项目
 （第 5/5 页）
@@ -2167,18 +2167,18 @@ A user friendly TUI for SQL databases. Written in python. Supports SQL server, M
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
-| ⭐ Stars | 28083 |
-| 🍴 Forks | 2890 |
-| 👀 Watchers | 28083 |
+| ⭐ Stars | 28169 |
+| 🍴 Forks | 2897 |
+| 👀 Watchers | 28169 |
 | 📝 Open Issues | 29 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-10-19 |
-| 🔄 最后更新 | 2026-06-13 |
+| 🔄 最后更新 | 2026-06-14 |
 | 📜 License | MIT |
 
 **简介**：
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.
+Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
 
 **中文简介**：
 将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 160,000 多名科学家使用。 140 种即用型技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Antigravity 和开放代理技能标准兼容。

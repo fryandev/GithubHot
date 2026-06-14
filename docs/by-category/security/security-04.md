@@ -1,9 +1,9 @@
 # 安全 - 第 4 页
 
 > 安全 相关的热门开源项目
-> 最后更新：2026-06-13 13:52
+> 最后更新：2026-06-14 18:57
 
-共收录 **333** 个项目
+共收录 **334** 个项目
 （第 4/4 页）
 
 ## 项目列表
@@ -926,6 +926,34 @@ Golang 和 React 中以隐私和安全为重点的细分市场替代方案
 
 
 **Topics**：bigquery, cdp, customer-data, customer-data-lake, customer-data-pipeline, customer-data-platform, data-engineering, data-integration, data-pipeline, data-synchronization, data-warehouse, elt, etl, event-streaming, privacy, redshift, segment-alternative, snowflake, warehouse-management, warehouse-native
+
+
+
+---
+
+### 334. NVIDIA/SkillSpector
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
+| ⭐ Stars | 4783 |
+| 🍴 Forks | 368 |
+| 👀 Watchers | 4783 |
+| 📝 Open Issues | 37 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-21 |
+| 🔄 最后更新 | 2026-06-14 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+
+**中文简介**：
+AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。
+
+
+**Topics**：-
 
 
 
