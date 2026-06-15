@@ -1,6 +1,6 @@
 # 🔥 GitHub 热门项目精选
 
-> 最后更新：2026-06-14 18:57
+> 最后更新：2026-06-15 23:38
 
 ## 📊 数据概览
 
@@ -61,8 +61,8 @@
 ### 按活跃
 
 - [🔥 最近7天活跃](by-activity/daily.md) (6)
-- [📅 最近30天活跃](by-activity/weekly.md) (6437)
-- [📆 最近90天活跃](by-activity/monthly.md) (1761)
+- [📅 最近30天活跃](by-activity/weekly.md) (6390)
+- [📆 最近90天活跃](by-activity/monthly.md) (1788)
 
 
 ### 按趋势

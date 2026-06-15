@@ -1,7 +1,7 @@
 # 🔥 最近7天活跃
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-06-14 18:57
+> 最后更新：2026-06-15 23:38
 
 共收录 **6** 个项目
 
@@ -14,14 +14,14 @@
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| ⭐ Stars | 59367 |
-| 🍴 Forks | 6863 |
-| 👀 Watchers | 59367 |
-| 📝 Open Issues | 647 |
+| ⭐ Stars | 59576 |
+| 🍴 Forks | 6892 |
+| 👀 Watchers | 59576 |
+| 📝 Open Issues | 646 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-06-02 |
-| 🔄 最后更新 | 2026-06-14 |
+| 🔄 最后更新 | 2026-06-15 |
 | 📜 License | MIT |
 
 **简介**：
@@ -43,14 +43,14 @@
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) |
-| ⭐ Stars | 38279 |
-| 🍴 Forks | 3291 |
-| 👀 Watchers | 38279 |
-| 📝 Open Issues | 423 |
+| ⭐ Stars | 38380 |
+| 🍴 Forks | 3302 |
+| 👀 Watchers | 38380 |
+| 📝 Open Issues | 333 |
 | 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2026-01-19 |
-| 🔄 最后更新 | 2026-06-14 |
+| 🔄 最后更新 | 2026-06-15 |
 | 📜 License | MIT |
 
 **简介**：
@@ -72,14 +72,14 @@ Open-source, community-driven agent harness
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
-| ⭐ Stars | 28169 |
-| 🍴 Forks | 2897 |
-| 👀 Watchers | 28169 |
+| ⭐ Stars | 28272 |
+| 🍴 Forks | 2905 |
+| 👀 Watchers | 28272 |
 | 📝 Open Issues | 29 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-10-19 |
-| 🔄 最后更新 | 2026-06-14 |
+| 🔄 最后更新 | 2026-06-15 |
 | 📜 License | MIT |
 
 **简介**：
