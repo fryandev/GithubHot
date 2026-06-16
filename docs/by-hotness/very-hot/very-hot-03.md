@@ -1,7 +1,7 @@
 # ⭐⭐ 非常热门 - 第 3 页
 
 > ⭐⭐ 非常热门 项目列表
-> 最后更新：2026-06-15 23:38
+> 最后更新：2026-06-17 00:00
 
 共收录 **2006** 个项目
 （第 3/21 页）
@@ -88,7 +88,7 @@ Ultralytics YOLO 🚀
 
 **Topics**：cli, computer-vision, deep-learning, hub, image-classification, instance-segmentation, machine-learning, object-detection, pose-estimation, python, pytorch, rotated-object-detection, segment-anything, tracking, ultralytics, yolo, yolo-world, yolo11, yolo26, yolov8
 
-**中文Topics**：cli, 计算机视觉, 深度学习, 中心节点, 图像分类, 实例分割, 机器学习, 目标检测, 姿态估计, python, pytorch, 旋转物体检测, 任意物体分割, 跟踪, ultralytics, yolo, YOLO-World, yolo11, yolo26, yolov8
+**中文Topics**：cli, 计算机视觉, 深度学习, 中心节点, 图像分类, 实例分割, 机器学习, 目标检测, 姿态估计, python, pytorch, 旋转物体检测, 任意对象分割, 跟踪, ultralytics, yolo, YOLO-World, yolo11, yolo26, yolov8
 
 
 ---

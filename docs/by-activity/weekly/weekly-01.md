@@ -1,9 +1,9 @@
 # 📅 最近30天活跃 - 第 1 页
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-06-15 23:38
+> 最后更新：2026-06-17 00:00
 
-共收录 **6390** 个项目
+共收录 **6346** 个项目
 （第 1/64 页）
 
 ## 项目列表
@@ -2694,36 +2694,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ---
 
-### 94. papers-we-love/papers-we-love
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) |
-| ⭐ Stars | 106827 |
-| 🍴 Forks | 6368 |
-| 👀 Watchers | 106827 |
-| 📝 Open Issues | 2 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | legendary |
-| 📅 创建时间 | 2013-12-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-Papers from the computer science community to read and discuss.
-
-**中文简介**：
-计算机科学社区中值得阅读和讨论的论文。
-
-
-**Topics**：awesome, computer-science, meetup, papers, programming, read-papers, theory
-
-**中文Topics**：精选, 计算机科学, 聚会, 论文, 编程, 读论文, 理论
-
-
----
-
-### 95. denoland/deno
+### 94. denoland/deno
 
 | 属性 | 信息 |
 |---|---|
@@ -2752,7 +2723,7 @@ JavaScript 和 TypeScript 的现代运行时。
 
 ---
 
-### 96. Anduin2017/HowToCook
+### 95. Anduin2017/HowToCook
 
 | 属性 | 信息 |
 |---|---|
@@ -2781,7 +2752,7 @@ Programmer's guide about how to cook at home.
 
 ---
 
-### 97. microsoft/ML-For-Beginners
+### 96. microsoft/ML-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -2810,7 +2781,7 @@ Programmer's guide about how to cook at home.
 
 ---
 
-### 98. tauri-apps/tauri
+### 97. tauri-apps/tauri
 
 | 属性 | 信息 |
 |---|---|
@@ -2839,7 +2810,7 @@ Build smaller, faster, and more secure desktop and mobile applications with a we
 
 ---
 
-### 99. browser-use/browser-use
+### 98. browser-use/browser-use
 
 | 属性 | 信息 |
 |---|---|
@@ -2868,7 +2839,7 @@ Build smaller, faster, and more secure desktop and mobile applications with a we
 
 ---
 
-### 100. elastic/elasticsearch
+### 99. elastic/elasticsearch
 
 | 属性 | 信息 |
 |---|---|
@@ -2893,6 +2864,35 @@ Free and Open Source, Distributed, RESTful Search Engine
 **Topics**：elasticsearch, java, search-engine
 
 **中文Topics**：elasticsearch, java, search-engine
+
+
+---
+
+### 100. hacksider/Deep-Live-Cam
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) |
+| ⭐ Stars | 93644 |
+| 🍴 Forks | 13662 |
+| 👀 Watchers | 93644 |
+| 📝 Open Issues | 123 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2023-09-24 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+real time face swap and one-click video deepfake with only a single image
+
+**中文简介**：
+仅需单张图片即可实现实时换脸和一键视频深度伪造。
+
+
+**Topics**：ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence, deep-fake, deepfake, deepfake-webcam, faceswap, fake-webcam, gan, real-time-deepfake, realtime, realtime-deepfake, realtime-face-changer, video-deepfake, webcam, webcamera
+
+**中文Topics**：ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence, deep-fake, deepfake, deepfake-webcam, faceswap, fake-webcam, gan, real-time-deepfake, realtime, realtime-deepfake, realtime-face-changer, video-deepfake, webcam, webcamera
 
 
 ---

@@ -1,13 +1,13 @@
 # 🔥 GitHub 热门项目精选
 
-> 最后更新：2026-06-15 23:38
+> 最后更新：2026-06-17 00:00
 
 ## 📊 数据概览
 
 | 指标 | 数值 |
 |---|---|
-| 收录项目总数 | 14407 |
-| 热门项目数 | 14407 |
+| 收录项目总数 | 14408 |
+| 热门项目数 | 14408 |
 | 涵盖语言 | 151 种 |
 | 涵盖领域 | 12 个 |
 
@@ -16,7 +16,7 @@
 ### 按语言
 
 - [Python](by-language/python.md) (2479)
-- [JavaScript](by-language/javascript.md) (1809)
+- [JavaScript](by-language/javascript.md) (1810)
 - [TypeScript](by-language/typescript.md) (1724)
 - [Go](by-language/go.md) (1106)
 - [Java](by-language/java.md) (797)
@@ -60,9 +60,9 @@
 
 ### 按活跃
 
-- [🔥 最近7天活跃](by-activity/daily.md) (6)
-- [📅 最近30天活跃](by-activity/weekly.md) (6390)
-- [📆 最近90天活跃](by-activity/monthly.md) (1788)
+- [🔥 最近7天活跃](by-activity/daily.md) (7)
+- [📅 最近30天活跃](by-activity/weekly.md) (6346)
+- [📆 最近90天活跃](by-activity/monthly.md) (1811)
 
 
 ### 按趋势

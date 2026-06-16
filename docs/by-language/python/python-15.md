@@ -1,7 +1,7 @@
 # 💻 Python 热门项目 - 第 15 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-06-15 23:38
+> 最后更新：2026-06-17 00:00
 
 共收录 **2479** 个项目
 （第 15/25 页）
@@ -503,7 +503,7 @@ Your self hosted YouTube media server
 
 **Topics**：algorithm-engineering, deep-learning, interview-questions, machine-learning, recommendation-algorithms, recommender-system, tensorflow, tianchi-competition
 
-**中文Topics**：算法工程, 深度学习, 面试题, 机器学习, 推荐算法, 推荐系统, tensorflow, 天池竞赛
+**中文Topics**：算法工程, 深度学习, 面试问题, 机器学习, 推荐算法, 推荐系统, tensorflow, 天池竞赛
 
 
 ---

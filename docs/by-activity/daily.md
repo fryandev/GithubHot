@@ -1,9 +1,9 @@
 # 🔥 最近7天活跃
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-06-15 23:38
+> 最后更新：2026-06-17 00:00
 
-共收录 **6** 个项目
+共收录 **7** 个项目
 
 
 ## 项目列表
@@ -14,14 +14,14 @@
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| ⭐ Stars | 59576 |
-| 🍴 Forks | 6892 |
-| 👀 Watchers | 59576 |
-| 📝 Open Issues | 646 |
+| ⭐ Stars | 59781 |
+| 🍴 Forks | 6923 |
+| 👀 Watchers | 59781 |
+| 📝 Open Issues | 654 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-06-02 |
-| 🔄 最后更新 | 2026-06-15 |
+| 🔄 最后更新 | 2026-06-16 |
 | 📜 License | MIT |
 
 **简介**：
@@ -43,14 +43,14 @@
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) |
-| ⭐ Stars | 38380 |
-| 🍴 Forks | 3302 |
-| 👀 Watchers | 38380 |
-| 📝 Open Issues | 333 |
+| ⭐ Stars | 38478 |
+| 🍴 Forks | 3311 |
+| 👀 Watchers | 38478 |
+| 📝 Open Issues | 294 |
 | 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2026-01-19 |
-| 🔄 最后更新 | 2026-06-15 |
+| 🔄 最后更新 | 2026-06-16 |
 | 📜 License | MIT |
 
 **简介**：
@@ -72,14 +72,14 @@ Open-source, community-driven agent harness
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
-| ⭐ Stars | 28272 |
-| 🍴 Forks | 2905 |
-| 👀 Watchers | 28272 |
-| 📝 Open Issues | 29 |
+| ⭐ Stars | 28383 |
+| 🍴 Forks | 2909 |
+| 👀 Watchers | 28383 |
+| 📝 Open Issues | 31 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-10-19 |
-| 🔄 最后更新 | 2026-06-15 |
+| 🔄 最后更新 | 2026-06-16 |
 | 📜 License | MIT |
 
 **简介**：
@@ -173,6 +173,35 @@ Use your most capable model to audit your codebase and write plans for cheaper m
 
 **Topics**：-
 
+
+
+---
+
+### 7. DietrichGebert/ponytail
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
+| ⭐ Stars | 22294 |
+| 🍴 Forks | 968 |
+| 👀 Watchers | 22294 |
+| 📝 Open Issues | 28 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-06-16 |
+| 📜 License | MIT |
+
+**简介**：
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+**中文简介**：
+让你的AI智能体表现得像房间里最懒的资深开发人员。最好的代码，就是你从未写过的代码。
+
+
+**Topics**：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+
+**中文Topics**：智能体技能, AI智能体, claude, Claude-Code, Claude-Code插件, Cursor规则, 开发者工具, llm, 提示词工程, yagni
 
 
 ---

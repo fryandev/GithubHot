@@ -1,7 +1,7 @@
 # 💻 Jupyter Notebook 热门项目 - 第 1 页
 
 > 使用 Jupyter Notebook 开发的热门开源项目
-> 最后更新：2026-06-15 23:38
+> 最后更新：2026-06-17 00:00
 
 共收录 **342** 个项目
 （第 1/4 页）
@@ -2302,7 +2302,7 @@ Jupyter 交互式笔记本
 
 **Topics**：bert, chatgpt, cnn, deep-learning, diffusion, gan, leedl-tutorial, machine-learning, network-compression, pruning, reinforcement-learning, rnn, self-attention, transfer-learning, transformer, tutorial
 
-**中文Topics**：bert, chatgpt, cnn, 深度学习, 扩散模型, gan, LEEDL教程, 机器学习, 网络压缩, 修剪技术, 强化学习, rnn, 自注意力机制, 迁移学习, transformer, 教程
+**中文Topics**：bert, chatgpt, cnn, 深度学习, 扩散模型, gan, LEEDL教程, 机器学习, 网络压缩, 剪枝, 强化学习, rnn, 自注意力机制, 迁移学习, transformer, 教程
 
 
 ---

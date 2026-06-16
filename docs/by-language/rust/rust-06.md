@@ -1,7 +1,7 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-06-15 23:38
+> 最后更新：2026-06-17 00:00
 
 共收录 **529** 个项目
 （第 6/6 页）
@@ -799,14 +799,14 @@ Rust SDK for building Astrid capsules
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) |
-| ⭐ Stars | 38380 |
-| 🍴 Forks | 3302 |
-| 👀 Watchers | 38380 |
-| 📝 Open Issues | 333 |
+| ⭐ Stars | 38478 |
+| 🍴 Forks | 3311 |
+| 👀 Watchers | 38478 |
+| 📝 Open Issues | 294 |
 | 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2026-01-19 |
-| 🔄 最后更新 | 2026-06-15 |
+| 🔄 最后更新 | 2026-06-16 |
 | 📜 License | MIT |
 
 **简介**：

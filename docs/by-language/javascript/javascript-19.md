@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-06-15 23:38
+> 最后更新：2026-06-17 00:00
 
-共收录 **1809** 个项目
+共收录 **1810** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -257,6 +257,35 @@ sync gas code to github
 
 **Topics**：chrome-extension, diff-dialog, gas, gas-editor, github, github-api, github-enterprise, google-apps-script
 
+
+
+---
+
+### 1810. DietrichGebert/ponytail
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
+| ⭐ Stars | 22294 |
+| 🍴 Forks | 968 |
+| 👀 Watchers | 22294 |
+| 📝 Open Issues | 28 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-06-16 |
+| 📜 License | MIT |
+
+**简介**：
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+**中文简介**：
+让你的AI智能体表现得像房间里最懒的资深开发人员。最好的代码，就是你从未写过的代码。
+
+
+**Topics**：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+
+**中文Topics**：智能体技能, AI智能体, claude, Claude-Code, Claude-Code插件, Cursor规则, 开发者工具, llm, 提示词工程, yagni
 
 
 ---
