@@ -1,7 +1,7 @@
 # 游戏开发 - 第 3 页
 
 > 游戏开发 相关的热门开源项目
-> 最后更新：2026-06-17 00:00
+> 最后更新：2026-06-18 23:04
 
 共收录 **216** 个项目
 （第 3/3 页）
@@ -434,14 +434,14 @@ Universal Unreal Engine VR Mod (4.8 - 5.4)
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) |
-| ⭐ Stars | 38478 |
-| 🍴 Forks | 3311 |
-| 👀 Watchers | 38478 |
-| 📝 Open Issues | 294 |
+| ⭐ Stars | 38640 |
+| 🍴 Forks | 3321 |
+| 👀 Watchers | 38640 |
+| 📝 Open Issues | 283 |
 | 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2026-01-19 |
-| 🔄 最后更新 | 2026-06-16 |
+| 🔄 最后更新 | 2026-06-18 |
 | 📜 License | MIT |
 
 **简介**：

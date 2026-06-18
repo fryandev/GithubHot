@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-06-17 00:00
+> 最后更新：2026-06-18 23:04
 
 共收录 **10** 个项目
 
@@ -67,63 +67,7 @@ Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60
 
 ---
 
-### 3. Panniantong/Agent-Reach
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
-| ⭐ Stars | 22007 |
-| 🍴 Forks | 1886 |
-| 👀 Watchers | 22007 |
-| 📝 Open Issues | 52 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-24 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-**中文简介**：
-让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。
-
-
-**Topics**：agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
-
-
-
----
-
-### 4. NVIDIA/SkillSpector
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
-| ⭐ Stars | 4783 |
-| 🍴 Forks | 368 |
-| 👀 Watchers | 4783 |
-| 📝 Open Issues | 37 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-21 |
-| 🔄 最后更新 | 2026-06-14 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
-
-**中文简介**：
-AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。
-
-
-**Topics**：-
-
-
-
----
-
-### 5. Lum1104/Understand-Anything
+### 3. Lum1104/Understand-Anything
 
 | 属性 | 信息 |
 |---|---|
@@ -152,54 +96,83 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ---
 
-### 6. shadcn/improve
+### 4. Panniantong/Agent-Reach
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/shadcn/improve](https://github.com/shadcn/improve) |
-| ⭐ Stars | 3838 |
-| 🍴 Forks | 134 |
-| 👀 Watchers | 3838 |
-| 📝 Open Issues | 6 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-10 |
-| 🔄 最后更新 | 2026-06-14 |
-| 📜 License | MIT |
-
-**简介**：
-Use your most capable model to audit your codebase and write plans for cheaper models to execute.
-
-**中文简介**：
-使用最有能力的模型来审核您的代码库并编写更便宜的模型执行计划。
-
-
-**Topics**：-
-
-
-
----
-
-### 7. pewdiepie-archdaemon/odysseus
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) |
-| ⭐ Stars | 57333 |
-| 🍴 Forks | 6881 |
-| 👀 Watchers | 57333 |
-| 📝 Open Issues | 930 |
+| 链接 | [https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
+| ⭐ Stars | 22007 |
+| 🍴 Forks | 1886 |
+| 👀 Watchers | 22007 |
+| 📝 Open Issues | 52 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-05-31 |
+| 📅 创建时间 | 2026-02-24 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Self-hosted AI workspace. 
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
 **中文简介**：
-自托管 AI 工作空间。
+让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。
+
+
+**Topics**：agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
+
+
+
+---
+
+### 5. addyosmani/agent-skills
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
+| ⭐ Stars | 48558 |
+| 🍴 Forks | 5394 |
+| 👀 Watchers | 48558 |
+| 📝 Open Issues | 97 |
+| 💻 主语言 | Shell |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-02-15 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Production-grade engineering skills for AI coding agents.
+
+**中文简介**：
+面向AI编码代理的生产级工程技能。
+
+
+**Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
+
+**中文Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, 技能
+
+
+---
+
+### 6. google-research/timesfm
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/google-research/timesfm](https://github.com/google-research/timesfm) |
+| ⭐ Stars | 20521 |
+| 🍴 Forks | 1995 |
+| 👀 Watchers | 20521 |
+| 📝 Open Issues | 213 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-04-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+
+**中文简介**：
+TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。
 
 
 **Topics**：-
@@ -208,7 +181,7 @@ Self-hosted AI workspace.
 
 ---
 
-### 8. Leonxlnx/taste-skill
+### 7. Leonxlnx/taste-skill
 
 | 属性 | 信息 |
 |---|---|
@@ -237,57 +210,88 @@ Taste-Skill - 让你的 AI 拥有好品味。阻止 AI 生成无聊、千篇一�
 
 ---
 
-### 9. apple/container
+### 8. colbymchenry/codegraph
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/apple/container](https://github.com/apple/container) |
-| ⭐ Stars | 26811 |
-| 🍴 Forks | 774 |
-| 👀 Watchers | 26811 |
-| 📝 Open Issues | 283 |
-| 💻 主语言 | Swift |
+| 链接 | [https://github.com/colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) |
+| ⭐ Stars | 42846 |
+| 🍴 Forks | 2633 |
+| 👀 Watchers | 42846 |
+| 📝 Open Issues | 219 |
+| 💻 主语言 | TypeScript |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-05-30 |
+| 📅 创建时间 | 2026-01-18 |
 | 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
+| 📜 License | MIT |
 
 **简介**：
-A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 
 **中文简介**：
-在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。使用 Swift 编写，针对 Apple 芯片优化。
+为 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 预构建的代码知识图谱——更少的 token 消耗，更少的工具调用，100% 本地运行。
 
 
 **Topics**：-
 
-**中文Topics**：[]
 
 
 ---
 
-### 10. XiaomiMiMo/MiMo-Code
+### 9. omnigent-ai/omnigent
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) |
-| ⭐ Stars | 7159 |
-| 🍴 Forks | 568 |
-| 👀 Watchers | 7159 |
-| 📝 Open Issues | 439 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) |
+| ⭐ Stars | 3724 |
+| 🍴 Forks | 415 |
+| 👀 Watchers | 3724 |
+| 📝 Open Issues | 191 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-10 |
-| 🔄 最后更新 | 2026-06-13 |
+| 📅 创建时间 | 2026-06-11 |
+| 🔄 最后更新 | 2026-06-18 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+
+**中文简介**：
+Omnigent是一个开源的AI智能体框架及元调度工具：可协调Claude Code、Codex、Cursor、Pi以及自定义智能体——无需重写代码即可更换调度方案，实施策略管控与沙箱隔离，并支持从任何设备进行实时协作。
+
+
+**Topics**：agent-framework, agent-governance, agent-orchestration, agents, ai, ai-agent, ai-agents, claude-code, codex, coding-agents, developer-tools, llm, ml, multi-agent, python, sandbox
+
+**中文Topics**：代理框架, 代理治理, 代理编排, 代理程序, ai, AI代理, 多个AI代理, Claude代码, codex, 编码代理, 开发者工具, llm, ml, 多代理系统, python, 沙箱环境
+
+
+---
+
+### 10. harry0703/MoneyPrinterTurbo
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) |
+| ⭐ Stars | 80250 |
+| 🍴 Forks | 11432 |
+| 👀 Watchers | 80250 |
+| 📝 Open Issues | 21 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-03-11 |
+| 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-暂无描述
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+**中文简介**：
+利用 AI 大模型，一键生成高清短视频。
 
 
+**Topics**：ai, automation, chatgpt, moviepy, python, shortvideo, tiktok
 
-**Topics**：-
-
+**中文Topics**：ai, automation, chatgpt, moviepy, python, shortvideo, tiktok
 
 
 ---

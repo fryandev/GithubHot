@@ -1,7 +1,7 @@
 # 数据库 - 第 5 页
 
 > 数据库 相关的热门开源项目
-> 最后更新：2026-06-17 00:00
+> 最后更新：2026-06-18 23:04
 
 共收录 **478** 个项目
 （第 5/5 页）
@@ -2167,14 +2167,14 @@ A user friendly TUI for SQL databases. Written in python. Supports SQL server, M
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
-| ⭐ Stars | 28383 |
-| 🍴 Forks | 2909 |
-| 👀 Watchers | 28383 |
-| 📝 Open Issues | 31 |
+| ⭐ Stars | 28654 |
+| 🍴 Forks | 2926 |
+| 👀 Watchers | 28654 |
+| 📝 Open Issues | 32 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-10-19 |
-| 🔄 最后更新 | 2026-06-16 |
+| 🔄 最后更新 | 2026-06-18 |
 | 📜 License | MIT |
 
 **简介**：

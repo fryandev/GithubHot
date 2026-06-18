@@ -1,10 +1,10 @@
 # 📅 最近30天活跃 - 第 2 页
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-06-17 00:00
+> 最后更新：2026-06-18 23:04
 
-共收录 **6346** 个项目
-（第 2/64 页）
+共收录 **6192** 个项目
+（第 2/62 页）
 
 ## 项目列表
 
@@ -2172,36 +2172,7 @@ Build AI Agents, Visually
 
 ---
 
-### 176. tonsky/FiraCode
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode) |
-| ⭐ Stars | 81700 |
-| 🍴 Forks | 3187 |
-| 👀 Watchers | 81700 |
-| 📝 Open Issues | 428 |
-| 💻 主语言 | Clojure |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2014-11-11 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | OFL-1.1 |
-
-**简介**：
-Free monospaced font with programming ligatures
-
-**中文简介**：
-免费的支持编程连字的等宽字体。
-
-
-**Topics**：font, ligatures, programming-ligatures
-
-**中文Topics**：字体, ligatures, programming-ligatures
-
-
----
-
-### 177. obsproject/obs-studio
+### 176. obsproject/obs-studio
 
 | 属性 | 信息 |
 |---|---|
@@ -2230,7 +2201,7 @@ OBS Studio - 免费开源的直播和录屏软件
 
 ---
 
-### 178. strapi/strapi
+### 177. strapi/strapi
 
 | 属性 | 信息 |
 |---|---|
@@ -2259,7 +2230,7 @@ OBS Studio - 免费开源的直播和录屏软件
 
 ---
 
-### 179. wesbos/JavaScript30
+### 178. wesbos/JavaScript30
 
 | 属性 | 信息 |
 |---|---|
@@ -2287,7 +2258,7 @@ OBS Studio - 免费开源的直播和录屏软件
 
 ---
 
-### 180. swiftlang/swift
+### 179. swiftlang/swift
 
 | 属性 | 信息 |
 |---|---|
@@ -2315,7 +2286,7 @@ Swift 编程语言。
 
 ---
 
-### 181. abi/screenshot-to-code
+### 180. abi/screenshot-to-code
 
 | 属性 | 信息 |
 |---|---|
@@ -2343,7 +2314,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ---
 
-### 182. junegunn/fzf
+### 181. junegunn/fzf
 
 | 属性 | 信息 |
 |---|---|
@@ -2372,7 +2343,7 @@ Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 ---
 
-### 183. xtekky/gpt4free
+### 182. xtekky/gpt4free
 
 | 属性 | 信息 |
 |---|---|
@@ -2401,7 +2372,7 @@ gpt4free 官方仓库 | 各类强大语言模型合集 | opus 4.6 gpt 5.3 kimi 2
 
 ---
 
-### 184. topjohnwu/Magisk
+### 183. topjohnwu/Magisk
 
 | 属性 | 信息 |
 |---|---|
@@ -2429,7 +2400,7 @@ Android 的魔法面具。
 
 ---
 
-### 185. ruvnet/RuView
+### 184. ruvnet/RuView
 
 | 属性 | 信息 |
 |---|---|
@@ -2458,7 +2429,7 @@ Android 的魔法面具。
 
 ---
 
-### 186. hiyouga/LlamaFactory
+### 185. hiyouga/LlamaFactory
 
 | 属性 | 信息 |
 |---|---|
@@ -2487,7 +2458,7 @@ Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 
 ---
 
-### 187. enaqx/awesome-react
+### 186. enaqx/awesome-react
 
 | 属性 | 信息 |
 |---|---|
@@ -2516,7 +2487,7 @@ A collection of awesome things regarding React ecosystem
 
 ---
 
-### 188. bytedance/deer-flow
+### 187. bytedance/deer-flow
 
 | 属性 | 信息 |
 |---|---|
@@ -2545,7 +2516,7 @@ An open-source long-horizon SuperAgent harness that researches, codes, and creat
 
 ---
 
-### 189. chartjs/Chart.js
+### 188. chartjs/Chart.js
 
 | 属性 | 信息 |
 |---|---|
@@ -2574,7 +2545,7 @@ Simple HTML5 Charts using the <canvas> tag
 
 ---
 
-### 190. jesseduffield/lazygit
+### 189. jesseduffield/lazygit
 
 | 属性 | 信息 |
 |---|---|
@@ -2603,7 +2574,7 @@ git 命令的简洁终端界面。
 
 ---
 
-### 191. fffaraz/awesome-cpp
+### 190. fffaraz/awesome-cpp
 
 | 属性 | 信息 |
 |---|---|
@@ -2632,7 +2603,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ---
 
-### 192. apache/spark
+### 191. apache/spark
 
 | 属性 | 信息 |
 |---|---|
@@ -2661,7 +2632,7 @@ Apache Spark —— 用于大规模数据处理的统一分析引擎。
 
 ---
 
-### 193. bradtraversy/design-resources-for-developers
+### 192. bradtraversy/design-resources-for-developers
 
 | 属性 | 信息 |
 |---|---|
@@ -2689,7 +2660,7 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 
 ---
 
-### 194. thedaviddias/Front-End-Checklist
+### 193. thedaviddias/Front-End-Checklist
 
 | 属性 | 信息 |
 |---|---|
@@ -2718,7 +2689,7 @@ Curated list of design and UI resources from stock photos, web templates, CSS fr
 
 ---
 
-### 195. reduxjs/redux
+### 194. reduxjs/redux
 
 | 属性 | 信息 |
 |---|---|
@@ -2747,7 +2718,7 @@ A JS library for predictable global state management
 
 ---
 
-### 196. ultralytics/yolov5
+### 195. ultralytics/yolov5
 
 | 属性 | 信息 |
 |---|---|
@@ -2776,7 +2747,7 @@ YOLOv5 🚀 PyTorch → ONNX → CoreML → TFLite
 
 ---
 
-### 197. ethereum/go-ethereum
+### 196. ethereum/go-ethereum
 
 | 属性 | 信息 |
 |---|---|
@@ -2805,7 +2776,7 @@ Go implementation of the Ethereum protocol
 
 ---
 
-### 198. daytonaio/daytona
+### 197. daytonaio/daytona
 
 | 属性 | 信息 |
 |---|---|
@@ -2834,7 +2805,7 @@ Daytona 是一个用于运行 AI 生成代码的安全弹性基础设施
 
 ---
 
-### 199. caddyserver/caddy
+### 198. caddyserver/caddy
 
 | 属性 | 信息 |
 |---|---|
@@ -2863,7 +2834,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ---
 
-### 200. NationalSecurityAgency/ghidra
+### 199. NationalSecurityAgency/ghidra
 
 | 属性 | 信息 |
 |---|---|
@@ -2888,6 +2859,35 @@ Ghidra 是一款软件逆向工程（SRE）框架
 **Topics**：disassembler, reverse-engineering, software-analysis
 
 **中文Topics**：disassembler, 逆向工程, software-analysis
+
+
+---
+
+### 200. FFmpeg/FFmpeg
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) |
+| ⭐ Stars | 60809 |
+| 🍴 Forks | 13881 |
+| 👀 Watchers | 60809 |
+| 📝 Open Issues | 3 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2011-04-14 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Mirror of https://git.ffmpeg.org/ffmpeg.git
+
+**中文简介**：
+https://git.ffmpeg.org/ffmpeg.git 的镜像
+
+
+**Topics**：audio, c, ffmpeg, fft, hevc, hls, matroska, mp4, mpeg, multimedia, rtmp, rtsp, streaming, video, webm
+
+**中文Topics**：音频, c, ffmpeg, fft, hevc, hls, matroska, mp4, mpeg, 多媒体, rtmp, rtsp, 流媒体, 视频, webm
 
 
 ---
