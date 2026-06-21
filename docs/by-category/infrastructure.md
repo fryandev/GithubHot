@@ -1,9 +1,9 @@
 # 基础设施
 
 > 基础设施 相关的热门开源项目
-> 最后更新：2026-06-18 23:04
+> 最后更新：2026-06-22 00:46
 
-共收录 **1087** 个项目，分成 **11** 页
+共收录 **1088** 个项目，分成 **11** 页
 
 ## 分页索引
 
@@ -17,7 +17,7 @@
 | [第 8 页](infrastructure/infrastructure-08.md) | 701 - 800 |
 | [第 9 页](infrastructure/infrastructure-09.md) | 801 - 900 |
 | [第 10 页](infrastructure/infrastructure-10.md) | 901 - 1000 |
-| [第 11 页](infrastructure/infrastructure-11.md) | 1001 - 1087 |
+| [第 11 页](infrastructure/infrastructure-11.md) | 1001 - 1088 |
 
 
 ---

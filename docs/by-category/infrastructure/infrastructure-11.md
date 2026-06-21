@@ -1,9 +1,9 @@
 # 基础设施 - 第 11 页
 
 > 基础设施 相关的热门开源项目
-> 最后更新：2026-06-18 23:04
+> 最后更新：2026-06-22 00:46
 
-共收录 **1087** 个项目
+共收录 **1088** 个项目
 （第 11/11 页）
 
 ## 项目列表
@@ -2435,6 +2435,35 @@ A user friendly TUI for SQL databases. Written in python. Supports SQL server, M
 
 **Topics**：cockroachdb, command-line-tool, duckdb, mariadb, mysql, oracle, postgresql, python, sql, sqlite, ssh, tui, turso
 
+
+
+---
+
+### 1088. DeusData/codebase-memory-mcp
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
+| ⭐ Stars | 10015 |
+| 🍴 Forks | 758 |
+| 👀 Watchers | 10015 |
+| 📝 Open Issues | 136 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-06-21 |
+| 📜 License | MIT |
+
+**简介**：
+High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+
+**中文简介**：
+高性能代码智能MCP服务器。可将代码库索引到持久化的知识图谱中——平均处理时间仅为几毫秒。支持158种语言，查询响应时间在亚毫秒级，所需token数量减少99%。单个静态二进制文件，无任何依赖项。
+
+
+**Topics**：aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf
+
+**中文Topics**：辅助工具, AST解析器, Claude代码编辑器, 代码分析工具, 代码智能分析工具, codex, cursor, 密码加密工具, 开发者工具集, Gemini命令行工具, 图形可视化工具, Kilocode工具, 知识图谱, mcp, MCP服务器, 模型上下文协议, OpenCode工具, SQLite数据库, Tree-Sitter解析器, Windsurf工具
 
 
 ---

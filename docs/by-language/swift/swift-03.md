@@ -1,9 +1,9 @@
 # 💻 Swift 热门项目 - 第 3 页
 
 > 使用 Swift 开发的热门开源项目
-> 最后更新：2026-06-18 23:04
+> 最后更新：2026-06-22 00:46
 
-共收录 **264** 个项目
+共收录 **265** 个项目
 （第 3/3 页）
 
 ## 项目列表
@@ -1798,6 +1798,35 @@ Web 版 SwiftUI 的演示实现
 
 **Topics**：swift-library, swift5, swiftui, swiftui-example, swiftwebui
 
+
+
+---
+
+### 265. palmier-io/palmier-pro
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) |
+| ⭐ Stars | 4567 |
+| 🍴 Forks | 355 |
+| 👀 Watchers | 4567 |
+| 📝 Open Issues | 40 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-07 |
+| 🔄 最后更新 | 2026-06-21 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+macOS video editor built for AI
+
+**中文简介**：
+专为人工智能打造的macOS视频编辑器
+
+
+**Topics**：ai-video, claude, macos, mcp, seedance2, swift, video-editor
+
+**中文Topics**：AI视频, claude, macos, mcp, seedance2, swift, 视频编辑器
 
 
 ---
