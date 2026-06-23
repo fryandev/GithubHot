@@ -1,7 +1,7 @@
 # 📊 周飙升榜
 
 > 📊 周飙升榜 项目列表
-> 最后更新：2026-06-22 00:46
+> 最后更新：2026-06-23 23:45
 
 共收录 **20** 个项目
 
@@ -9,208 +9,36 @@
 ## 项目列表
 
 
-### 1. pewdiepie-archdaemon/odysseus
+### 1. DietrichGebert/ponytail
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) |
-| ⭐ Stars | 57333 |
-| 🍴 Forks | 6881 |
-| 👀 Watchers | 57333 |
-| 📝 Open Issues | 930 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-05-31 |
-| 🔄 最后更新 | 2026-06-06 |
+| 链接 | [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
+| ⭐ Stars | 22294 |
+| 🍴 Forks | 968 |
+| 👀 Watchers | 22294 |
+| 📝 Open Issues | 28 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-06-16 |
 | 📜 License | MIT |
 
 **简介**：
-Self-hosted AI workspace. 
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
 **中文简介**：
-自托管 AI 工作空间。
+让你的AI智能体表现得像房间里最懒的资深开发人员。最好的代码，就是你从未写过的代码。
 
 
-**Topics**：-
+**Topics**：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
 
+**中文Topics**：智能体技能, AI智能体, claude, Claude-Code, Claude-Code插件, Cursor规则, 开发者工具, llm, 提示词工程, yagni
 
 
 ---
 
-### 2. chopratejas/headroom
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/chopratejas/headroom](https://github.com/chopratejas/headroom) |
-| ⭐ Stars | 15326 |
-| 🍴 Forks | 972 |
-| 👀 Watchers | 15326 |
-| 📝 Open Issues | 240 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-01-07 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-
-**中文简介**：
-在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。
-
-
-**Topics**：agent, ai, anthropic, claude-code, compression, context-engineering, context-window, cursor, fastapi, langchain, llm, mcp, openai, prompt-engineering, proxy, python, rag, token-optimization, tokens, typescript
-
-**中文Topics**：代理人, ai, anthropic, 克劳德代码, 压缩, 情境工程, 上下文窗口, cursor, 快速API, 朗查恩, llm, mcp, openai, 即时工程, 代理人, python, rag, 代币优化, 代币, typescript
-
-
----
-
-### 3. addyosmani/agent-skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
-| ⭐ Stars | 48558 |
-| 🍴 Forks | 5394 |
-| 👀 Watchers | 48558 |
-| 📝 Open Issues | 97 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Production-grade engineering skills for AI coding agents.
-
-**中文简介**：
-面向AI编码代理的生产级工程技能。
-
-
-**Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
-
-**中文Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, 技能
-
-
----
-
-### 4. mvanhorn/last30days-skill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
-| ⭐ Stars | 28480 |
-| 🍴 Forks | 2411 |
-| 👀 Watchers | 28480 |
-| 📝 Open Issues | 99 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-01-23 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-
-**中文简介**：
-AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要
-
-
-**Topics**：ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube
-
-
-
----
-
-### 5. farion1231/cc-switch
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/farion1231/cc-switch](https://github.com/farion1231/cc-switch) |
-| ⭐ Stars | 93193 |
-| 🍴 Forks | 6086 |
-| 👀 Watchers | 93193 |
-| 📝 Open Issues | 1293 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-08-04 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
-
-**中文简介**：
-Claude Code、Codex、OpenCode、OpenClaw、Gemini CLI 和 Hermes Agent 的跨平台桌面一体化助手。唯一官网：ccswitch.io
-
-
-**Topics**：ai-tools, claude-code, codex, desktop-app, hermes, hermes-agent, mcp, minimax, omo, open-source, openclaw, openclaw-ui, opencode, provider-management, rust, skills, skills-management, tauri, typescript, wsl-support
-
-**中文Topics**：ai-tools, claude-code, codex, desktop-app, hermes, hermes-agent, mcp, minimax, omo, open-source, openclaw, openclaw-ui, opencode, provider-management, rust, skills, skills-management, tauri, typescript, wsl-support
-
-
----
-
-### 6. apple/container
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/apple/container](https://github.com/apple/container) |
-| ⭐ Stars | 26811 |
-| 🍴 Forks | 774 |
-| 👀 Watchers | 26811 |
-| 📝 Open Issues | 283 |
-| 💻 主语言 | Swift |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-05-30 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-
-**中文简介**：
-在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。使用 Swift 编写，针对 Apple 芯片优化。
-
-
-**Topics**：-
-
-**中文Topics**：[]
-
-
----
-
-### 7. harry0703/MoneyPrinterTurbo
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) |
-| ⭐ Stars | 80250 |
-| 🍴 Forks | 11432 |
-| 👀 Watchers | 80250 |
-| 📝 Open Issues | 21 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2024-03-11 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-**中文简介**：
-利用 AI 大模型，一键生成高清短视频。
-
-
-**Topics**：ai, automation, chatgpt, moviepy, python, shortvideo, tiktok
-
-**中文Topics**：ai, automation, chatgpt, moviepy, python, shortvideo, tiktok
-
-
----
-
-### 8. Panniantong/Agent-Reach
+### 2. Panniantong/Agent-Reach
 
 | 属性 | 信息 |
 |---|---|
@@ -238,7 +66,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ---
 
-### 9. Lum1104/Understand-Anything
+### 3. Lum1104/Understand-Anything
 
 | 属性 | 信息 |
 |---|---|
@@ -267,92 +95,150 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ---
 
-### 10. phuryn/pm-skills
+### 4. Leonxlnx/taste-skill
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/phuryn/pm-skills](https://github.com/phuryn/pm-skills) |
-| ⭐ Stars | 12109 |
-| 🍴 Forks | 1443 |
-| 👀 Watchers | 12109 |
-| 📝 Open Issues | 14 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-01 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-
-**中文简介**：
-PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。
-
-
-**Topics**：agent-skill-repository, agent-skills, agentic-skills, claude-code-marketplace, claude-code-plugins, claude-cowork-plugin, product-management
-
-
-
----
-
-### 11. RyanCodrai/turbovec
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) |
-| ⭐ Stars | 4746 |
-| 🍴 Forks | 454 |
-| 👀 Watchers | 4746 |
-| 📝 Open Issues | 5 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-26 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-A vector index built on TurboQuant, written in Rust with Python bindings
-
-**中文简介**：
-基于 TurboQuant 构建的向量索引，使用 Rust 编写并结合 Python 绑定
-
-
-**Topics**：ann, avx512, embedding, embeddings, faiss, nearest-neighbor, neon, python, quant, quantization, rag, rust, simd, turboquant, vector-search
-
-
-
----
-
-### 12. santifer/career-ops
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/santifer/career-ops](https://github.com/santifer/career-ops) |
-| ⭐ Stars | 49000 |
-| 🍴 Forks | 10174 |
-| 👀 Watchers | 49000 |
-| 📝 Open Issues | 146 |
-| 💻 主语言 | JavaScript |
+| 链接 | [https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
+| ⭐ Stars | 34800 |
+| 🍴 Forks | 2558 |
+| 👀 Watchers | 34800 |
+| 📝 Open Issues | 26 |
+| 💻 主语言 | Shell |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-04-04 |
+| 📅 创建时间 | 2026-02-19 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
 **中文简介**：
-基于Claude Code的AI驱动求职系统。14种技能模式、Go仪表板、PDF生成、批处理。
+Taste-Skill - 让你的 AI 拥有好品味。阻止 AI 生成无聊、千篇一律的内容
 
 
-**Topics**：ai-agent, anthropic, automation, career, careerops, claude, claude-code, cli, golang, interview-prep, job-search, open-source, resume
+**Topics**：agent, ai, claude, claude-code, codex, coding, design, frontend, lowcode, nocode, skill, skills, vibecoding
 
-**中文Topics**：ai-agent, anthropic, 自动化, 职业, careerops, claude, claude-code, cli, golang, 面试准备, 求职, 开源, 简历
+**中文Topics**：agent, ai, claude, claude-code, codex, coding, 设计, 前端, lowcode, nocode, skill, skills, vibecoding
 
 
 ---
 
-### 13. colbymchenry/codegraph
+### 5. addyosmani/agent-skills
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
+| ⭐ Stars | 48558 |
+| 🍴 Forks | 5394 |
+| 👀 Watchers | 48558 |
+| 📝 Open Issues | 97 |
+| 💻 主语言 | Shell |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-02-15 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Production-grade engineering skills for AI coding agents.
+
+**中文简介**：
+面向AI编码代理的生产级工程技能。
+
+
+**Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
+
+**中文Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, 技能
+
+
+---
+
+### 6. NVIDIA/SkillSpector
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
+| ⭐ Stars | 4783 |
+| 🍴 Forks | 368 |
+| 👀 Watchers | 4783 |
+| 📝 Open Issues | 37 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-21 |
+| 🔄 最后更新 | 2026-06-14 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
+
+**中文简介**：
+AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。
+
+
+**Topics**：-
+
+
+
+---
+
+### 7. DeusData/codebase-memory-mcp
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
+| ⭐ Stars | 10015 |
+| 🍴 Forks | 758 |
+| 👀 Watchers | 10015 |
+| 📝 Open Issues | 136 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-06-21 |
+| 📜 License | MIT |
+
+**简介**：
+High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+
+**中文简介**：
+高性能代码智能MCP服务器。可将代码库索引到持久化的知识图谱中——平均处理时间仅为几毫秒。支持158种语言，查询响应时间在亚毫秒级，所需token数量减少99%。单个静态二进制文件，无任何依赖项。
+
+
+**Topics**：aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf
+
+**中文Topics**：辅助工具, AST解析器, Claude代码编辑器, 代码分析工具, 代码智能分析工具, codex, cursor, 密码加密工具, 开发者工具集, Gemini命令行工具, 图形可视化工具, Kilocode工具, 知识图谱, mcp, MCP服务器, 模型上下文协议, OpenCode工具, SQLite数据库, Tree-Sitter解析器, Windsurf工具
+
+
+---
+
+### 8. google-research/timesfm
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/google-research/timesfm](https://github.com/google-research/timesfm) |
+| ⭐ Stars | 20521 |
+| 🍴 Forks | 1995 |
+| 👀 Watchers | 20521 |
+| 📝 Open Issues | 213 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-04-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+
+**中文简介**：
+TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。
+
+
+**Topics**：-
+
+
+
+---
+
+### 9. colbymchenry/codegraph
 
 | 属性 | 信息 |
 |---|---|
@@ -380,7 +266,178 @@ Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCod
 
 ---
 
-### 14. lfnovo/open-notebook
+### 10. apple/container
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/apple/container](https://github.com/apple/container) |
+| ⭐ Stars | 26811 |
+| 🍴 Forks | 774 |
+| 👀 Watchers | 26811 |
+| 📝 Open Issues | 283 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2025-05-30 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+
+**中文简介**：
+在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。使用 Swift 编写，针对 Apple 芯片优化。
+
+
+**Topics**：-
+
+**中文Topics**：[]
+
+
+---
+
+### 11. shadcn/improve
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/shadcn/improve](https://github.com/shadcn/improve) |
+| ⭐ Stars | 3838 |
+| 🍴 Forks | 134 |
+| 👀 Watchers | 3838 |
+| 📝 Open Issues | 6 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-10 |
+| 🔄 最后更新 | 2026-06-14 |
+| 📜 License | MIT |
+
+**简介**：
+Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+**中文简介**：
+使用最有能力的模型来审核您的代码库并编写更便宜的模型执行计划。
+
+
+**Topics**：-
+
+
+
+---
+
+### 12. mvanhorn/last30days-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) |
+| ⭐ Stars | 28480 |
+| 🍴 Forks | 2411 |
+| 👀 Watchers | 28480 |
+| 📝 Open Issues | 99 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-01-23 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+
+**中文简介**：
+AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要
+
+
+**Topics**：ai-prompts, ai-skill, bluesky, claude, claude-code, clawhub, deep-research, hackernews, instagram, openclaw, polymarket, recency, reddit, research, social-media, tiktok, trends, twitter, web-search, youtube
+
+
+
+---
+
+### 13. harry0703/MoneyPrinterTurbo
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) |
+| ⭐ Stars | 80250 |
+| 🍴 Forks | 11432 |
+| 👀 Watchers | 80250 |
+| 📝 Open Issues | 21 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-03-11 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+
+**中文简介**：
+利用 AI 大模型，一键生成高清短视频。
+
+
+**Topics**：ai, automation, chatgpt, moviepy, python, shortvideo, tiktok
+
+**中文Topics**：ai, automation, chatgpt, moviepy, python, shortvideo, tiktok
+
+
+---
+
+### 14. phuryn/pm-skills
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/phuryn/pm-skills](https://github.com/phuryn/pm-skills) |
+| ⭐ Stars | 12109 |
+| 🍴 Forks | 1443 |
+| 👀 Watchers | 12109 |
+| 📝 Open Issues | 14 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-01 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+
+**中文简介**：
+PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略、执行、启动和增长。
+
+
+**Topics**：agent-skill-repository, agent-skills, agentic-skills, claude-code-marketplace, claude-code-plugins, claude-cowork-plugin, product-management
+
+
+
+---
+
+### 15. rtk-ai/rtk
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/rtk-ai/rtk](https://github.com/rtk-ai/rtk) |
+| ⭐ Stars | 59364 |
+| 🍴 Forks | 3654 |
+| 👀 Watchers | 59364 |
+| 📝 Open Issues | 1108 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-01-22 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+
+**中文简介**：
+CLI 代理，可将常见开发命令的 LLM token 消耗降低 60-90%。单个 Rust 二进制文件，零依赖。
+
+
+**Topics**：agentic-coding, ai-coding, anthropic, claude-code, cli, command-line-tool, cost-reduction, developer-tools, llm, open-source, productivity, rust, token-optimization
+
+**中文Topics**：agentic-coding, ai-coding, anthropic, claude-code, cli, 命令行工具, 成本降低, 开发者工具, llm, 开源, 生产力, rust, token优化
+
+
+---
+
+### 16. lfnovo/open-notebook
 
 | 属性 | 信息 |
 |---|---|
@@ -409,33 +466,7 @@ An Open Source implementation of Notebook LM with more flexibility and features
 
 ---
 
-### 15. XiaomiMiMo/MiMo-Code
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) |
-| ⭐ Stars | 7159 |
-| 🍴 Forks | 568 |
-| 👀 Watchers | 7159 |
-| 📝 Open Issues | 439 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-10 |
-| 🔄 最后更新 | 2026-06-13 |
-| 📜 License | MIT |
-
-**简介**：
-暂无描述
-
-
-
-**Topics**：-
-
-
-
----
-
-### 16. pbakaus/impeccable
+### 17. pbakaus/impeccable
 
 | 属性 | 信息 |
 |---|---|
@@ -463,115 +494,87 @@ The design language that makes your AI harness better at design.
 
 ---
 
-### 17. refactoringhq/tolaria
+### 18. alibaba/zvec
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) |
-| ⭐ Stars | 12385 |
-| 🍴 Forks | 884 |
-| 👀 Watchers | 12385 |
-| 📝 Open Issues | 21 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/alibaba/zvec](https://github.com/alibaba/zvec) |
+| ⭐ Stars | 9757 |
+| 🍴 Forks | 560 |
+| 👀 Watchers | 9757 |
+| 📝 Open Issues | 49 |
+| 💻 主语言 | C++ |
 | 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-02-14 |
+| 📅 创建时间 | 2025-12-05 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A lightweight, lightning-fast, in-process vector database
+
+**中文简介**：
+轻量级、快如闪电的进程内矢量数据库
+
+
+**Topics**：agent-skills, db, embedded, faiss, hnsw, llm-memory, local, rag, search-engine, semantic-search, similarity-search, vector-database, vector-db
+
+
+
+---
+
+### 19. calesthio/OpenMontage
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) |
+| ⭐ Stars | 4435 |
+| 🍴 Forks | 903 |
+| 👀 Watchers | 4435 |
+| 📝 Open Issues | 54 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-29 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | AGPL-3.0 |
 
 **简介**：
-Desktop app to manage markdown knowledge bases
+World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 
 **中文简介**：
-用于管理 Markdown 知识库的桌面应用程序
+世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。
 
 
-**Topics**：-
+**Topics**：agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production
 
 
 
 ---
 
-### 18. rohitg00/ai-engineering-from-scratch
+### 20. ZhuLinsen/daily_stock_analysis
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) |
-| ⭐ Stars | 29194 |
-| 🍴 Forks | 4767 |
-| 👀 Watchers | 29194 |
-| 📝 Open Issues | 57 |
+| 链接 | [https://github.com/ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) |
+| ⭐ Stars | 41035 |
+| 🍴 Forks | 39204 |
+| 👀 Watchers | 41035 |
+| 📝 Open Issues | 26 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-03-18 |
+| 📅 创建时间 | 2026-01-10 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Learn it. Build it. Ship it for others.
+LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 
 **中文简介**：
-学习它。建造它。寄给别人。
+LLM驱动的A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖
 
 
-**Topics**：agents, ai, ai-agents, ai-engineering, computer-vision, course, deep-learning, from-scratch, generative-ai, llm, machine-learning, mcp, nlp, python, reinforcement-learning, rust, swarm-intelligence, transformers, tutorial, typescript
+**Topics**：a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading
 
-
-
----
-
-### 19. Imbad0202/academic-research-skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) |
-| ⭐ Stars | 27914 |
-| 🍴 Forks | 2302 |
-| 👀 Watchers | 27914 |
-| 📝 Open Issues | 18 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-26 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Academic Research Skills for Claude Code: research → write → review → revise → finalize
-
-**中文简介**：
-克劳德·代码的学术研究技巧：研究→写作→审阅→修改→定稿
-
-
-**Topics**：academic-pipeline, academic-writing, ai-research, claude, claude-code, literature-review, peer-review, prompt-engineering
-
-
-
----
-
-### 20. ruvnet/RuView
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ruvnet/RuView](https://github.com/ruvnet/RuView) |
-| ⭐ Stars | 71209 |
-| 🍴 Forks | 9502 |
-| 👀 Watchers | 71209 |
-| 📝 Open Issues | 186 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-06-07 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-
-**中文简介**：
-π RuView 将普通 WiFi 信号转化为实时空间智能、生命体征监测和存在检测——完全不需要任何视频像素。
-
-
-**Topics**：awesome, claude, densepose, esp32, firmware, home-assistant, home-automation, iot, monitoring, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security
-
-**中文Topics**：awesome, claude, densepose, esp32, 固件, home-assistant, 家庭自动化, iot, 监控, networking, npm, pose-estimation, react, rf, self-learning, skills, spatial-intelligence, typescript, wifi, wifi-security
+**中文Topics**：a股, ai-agent, aigc, llm, 量化, 量化金融, 量化交易
 
 
 ---

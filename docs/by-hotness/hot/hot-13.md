@@ -1,7 +1,7 @@
 # ⭐ 热门 - 第 13 页
 
 > ⭐ 热门 项目列表
-> 最后更新：2026-06-22 00:46
+> 最后更新：2026-06-23 23:45
 
 共收录 **12283** 个项目
 （第 13/123 页）
@@ -505,7 +505,7 @@ A format specification for describing a visual identity to coding agents. DESIGN
 
 **Topics**：a3c, ddpg, deep-reinforcement-learning, double-dqn, dqn, dueling-dqn, easy-rl, imitation-learning, policy-gradient, ppo, q-learning, reinforcement-learning, sarsa, td3
 
-**中文Topics**：a3c, ddpg, 深度强化学习, 双DQN, dqn, 对战DQN, 简易强化学习, 模仿学习, 策略梯度法, ppo, Q学习, 强化学习, sarsa, td3
+**中文Topics**：a3c, ddpg, 深度强化学习, 双DQN, dqn, 对战DQN, 简易强化学习, 模仿学习, 策略梯度, ppo, Q学习, 强化学习, sarsa, td3
 
 
 ---

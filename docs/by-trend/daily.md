@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-06-22 00:46
+> 最后更新：2026-06-23 23:45
 
 共收录 **10** 个项目
 
@@ -38,7 +38,64 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ---
 
-### 2. palmier-io/palmier-pro
+### 2. chopratejas/headroom
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/chopratejas/headroom](https://github.com/chopratejas/headroom) |
+| ⭐ Stars | 15326 |
+| 🍴 Forks | 972 |
+| 👀 Watchers | 15326 |
+| 📝 Open Issues | 240 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-01-07 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+
+**中文简介**：
+在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。
+
+
+**Topics**：agent, ai, anthropic, claude-code, compression, context-engineering, context-window, cursor, fastapi, langchain, llm, mcp, openai, prompt-engineering, proxy, python, rag, token-optimization, tokens, typescript
+
+**中文Topics**：代理人, ai, anthropic, 克劳德代码, 压缩, 情境工程, 上下文窗口, cursor, 快速API, 朗查恩, llm, mcp, openai, 即时工程, 代理人, python, rag, 代币优化, 代币, typescript
+
+
+---
+
+### 3. calesthio/OpenMontage
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) |
+| ⭐ Stars | 4435 |
+| 🍴 Forks | 903 |
+| 👀 Watchers | 4435 |
+| 📝 Open Issues | 54 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+
+**中文简介**：
+世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。
+
+
+**Topics**：agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production
+
+
+
+---
+
+### 4. palmier-io/palmier-pro
 
 | 属性 | 信息 |
 |---|---|
@@ -67,7 +124,7 @@ macOS video editor built for AI
 
 ---
 
-### 3. DeusData/codebase-memory-mcp
+### 5. DeusData/codebase-memory-mcp
 
 | 属性 | 信息 |
 |---|---|
@@ -96,35 +153,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ---
 
-### 4. calesthio/OpenMontage
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) |
-| ⭐ Stars | 4435 |
-| 🍴 Forks | 903 |
-| 👀 Watchers | 4435 |
-| 📝 Open Issues | 54 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-29 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | AGPL-3.0 |
-
-**简介**：
-World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-
-**中文简介**：
-世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。
-
-
-**Topics**：agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production
-
-
-
----
-
-### 5. Panniantong/Agent-Reach
+### 6. Panniantong/Agent-Reach
 
 | 属性 | 信息 |
 |---|---|
@@ -152,94 +181,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ---
 
-### 6. addyosmani/agent-skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
-| ⭐ Stars | 48558 |
-| 🍴 Forks | 5394 |
-| 👀 Watchers | 48558 |
-| 📝 Open Issues | 97 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Production-grade engineering skills for AI coding agents.
-
-**中文简介**：
-面向AI编码代理的生产级工程技能。
-
-
-**Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
-
-**中文Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, 技能
-
-
----
-
-### 7. penpot/penpot
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/penpot/penpot](https://github.com/penpot/penpot) |
-| ⭐ Stars | 49173 |
-| 🍴 Forks | 3143 |
-| 👀 Watchers | 49173 |
-| 📝 Open Issues | 644 |
-| 💻 主语言 | Clojure |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2015-12-29 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MPL-2.0 |
-
-**简介**：
-Penpot: The open-source design tool for design and code collaboration
-
-**中文简介**：
-Penpot：用于设计与代码协作的开源设计工具。
-
-
-**Topics**：clojure, clojurescript, design, prototyping, ui, ux-design, ux-experience
-
-**中文Topics**：clojure, clojurescript, 设计, 原型设计, ui, 用户体验设计, 用户体验
-
-
----
-
-### 8. Leonxlnx/taste-skill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
-| ⭐ Stars | 34800 |
-| 🍴 Forks | 2558 |
-| 👀 Watchers | 34800 |
-| 📝 Open Issues | 26 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-19 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-
-**中文简介**：
-Taste-Skill - 让你的 AI 拥有好品味。阻止 AI 生成无聊、千篇一律的内容
-
-
-**Topics**：agent, ai, claude, claude-code, codex, coding, design, frontend, lowcode, nocode, skill, skills, vibecoding
-
-**中文Topics**：agent, ai, claude, claude-code, codex, coding, 设计, 前端, lowcode, nocode, skill, skills, vibecoding
-
-
----
-
-### 9. Lum1104/Understand-Anything
+### 7. Lum1104/Understand-Anything
 
 | 属性 | 信息 |
 |---|---|
@@ -268,31 +210,88 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ---
 
-### 10. koala73/worldmonitor
+### 8. penpot/penpot
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/koala73/worldmonitor](https://github.com/koala73/worldmonitor) |
-| ⭐ Stars | 55905 |
-| 🍴 Forks | 8968 |
-| 👀 Watchers | 55905 |
-| 📝 Open Issues | 185 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/penpot/penpot](https://github.com/penpot/penpot) |
+| ⭐ Stars | 49173 |
+| 🍴 Forks | 3143 |
+| 👀 Watchers | 49173 |
+| 📝 Open Issues | 644 |
+| 💻 主语言 | Clojure |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-01-08 |
+| 📅 创建时间 | 2015-12-29 |
 | 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
+| 📜 License | MPL-2.0 |
 
 **简介**：
-Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+Penpot: The open-source design tool for design and code collaboration
 
 **中文简介**：
-实时全球情报仪表盘。AI 驱动的新闻聚合、地缘政治监控和基础设施追踪，统一态势感知界面。
+Penpot：用于设计与代码协作的开源设计工具。
 
 
-**Topics**：ai, dashboard, geopolitics, monitoring, news, opensource, osint, palantir, situation
+**Topics**：clojure, clojurescript, design, prototyping, ui, ux-design, ux-experience
 
-**中文Topics**：ai, 仪表盘, 地缘政治, 监控, 新闻, 开源, osint, palantir, 态势
+**中文Topics**：clojure, clojurescript, 设计, 原型设计, ui, 用户体验设计, 用户体验
+
+
+---
+
+### 9. mukul975/Anthropic-Cybersecurity-Skills
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
+| ⭐ Stars | 14518 |
+| 🍴 Forks | 1706 |
+| 👀 Watchers | 14518 |
+| 📝 Open Issues | 16 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-02-25 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+
+**中文简介**：
+AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0
+
+
+**Topics**：ai-agents, claude-code, cloud-security, cybersecurity, devsecops, ethical-hacking, incident-response, infosec, llm, malware-analysis, mcp, mitre-attack, nist-csf, osint, penetration-testing, red-team, security, security-automation, threat-hunting, threat-intelligence
+
+
+
+---
+
+### 10. ZhuLinsen/daily_stock_analysis
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) |
+| ⭐ Stars | 41035 |
+| 🍴 Forks | 39204 |
+| 👀 Watchers | 41035 |
+| 📝 Open Issues | 26 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-01-10 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
+
+**中文简介**：
+LLM驱动的A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖
+
+
+**Topics**：a-stock, ai-agent, aigc, llm, quant, quantitative-finance, quantitative-trading
+
+**中文Topics**：a股, ai-agent, aigc, llm, 量化, 量化金融, 量化交易
 
 
 ---

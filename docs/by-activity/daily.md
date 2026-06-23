@@ -1,9 +1,9 @@
 # 🔥 最近7天活跃
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-06-22 00:46
+> 最后更新：2026-06-23 23:45
 
-共收录 **7** 个项目
+共收录 **6** 个项目
 
 
 ## 项目列表
@@ -14,14 +14,14 @@
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| ⭐ Stars | 60693 |
-| 🍴 Forks | 7050 |
-| 👀 Watchers | 60693 |
-| 📝 Open Issues | 663 |
+| ⭐ Stars | 61047 |
+| 🍴 Forks | 7099 |
+| 👀 Watchers | 61047 |
+| 📝 Open Issues | 669 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-06-02 |
-| 🔄 最后更新 | 2026-06-21 |
+| 🔄 最后更新 | 2026-06-23 |
 | 📜 License | MIT |
 
 **简介**：
@@ -43,14 +43,14 @@
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) |
-| ⭐ Stars | 38782 |
-| 🍴 Forks | 3338 |
-| 👀 Watchers | 38782 |
-| 📝 Open Issues | 310 |
+| ⭐ Stars | 38902 |
+| 🍴 Forks | 3353 |
+| 👀 Watchers | 38902 |
+| 📝 Open Issues | 280 |
 | 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2026-01-19 |
-| 🔄 最后更新 | 2026-06-21 |
+| 🔄 最后更新 | 2026-06-23 |
 | 📜 License | MIT |
 
 **简介**：
@@ -72,14 +72,14 @@ Open-source, community-driven agent harness
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
-| ⭐ Stars | 28944 |
-| 🍴 Forks | 2952 |
-| 👀 Watchers | 28944 |
+| ⭐ Stars | 29138 |
+| 🍴 Forks | 2970 |
+| 👀 Watchers | 29138 |
 | 📝 Open Issues | 34 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-10-19 |
-| 🔄 最后更新 | 2026-06-21 |
+| 🔄 最后更新 | 2026-06-23 |
 | 📜 License | MIT |
 
 **简介**：
@@ -95,36 +95,7 @@ Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,
 
 ---
 
-### 4. DietrichGebert/ponytail
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
-| ⭐ Stars | 22294 |
-| 🍴 Forks | 968 |
-| 👀 Watchers | 22294 |
-| 📝 Open Issues | 28 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-12 |
-| 🔄 最后更新 | 2026-06-16 |
-| 📜 License | MIT |
-
-**简介**：
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-**中文简介**：
-让你的AI智能体表现得像房间里最懒的资深开发人员。最好的代码，就是你从未写过的代码。
-
-
-**Topics**：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
-
-**中文Topics**：智能体技能, AI智能体, claude, Claude-Code, Claude-Code插件, Cursor规则, 开发者工具, llm, 提示词工程, yagni
-
-
----
-
-### 5. omnigent-ai/omnigent
+### 4. omnigent-ai/omnigent
 
 | 属性 | 信息 |
 |---|---|
@@ -153,7 +124,7 @@ Omnigent是一个开源的AI智能体框架及元调度工具：可协调Claude 
 
 ---
 
-### 6. DeusData/codebase-memory-mcp
+### 5. DeusData/codebase-memory-mcp
 
 | 属性 | 信息 |
 |---|---|
@@ -182,7 +153,7 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 
 ---
 
-### 7. palmier-io/palmier-pro
+### 6. palmier-io/palmier-pro
 
 | 属性 | 信息 |
 |---|---|
