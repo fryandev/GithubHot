@@ -1,10 +1,10 @@
 # 📆 最近90天活跃 - 第 1 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-06-23 23:45
+> 最后更新：2026-06-24 23:08
 
-共收录 **2176** 个项目
-（第 1/22 页）
+共收录 **2256** 个项目
+（第 1/23 页）
 
 ## 项目列表
 
@@ -466,35 +466,7 @@ Papers from the computer science community to read and discuss.
 
 ---
 
-### 17. karpathy/autoresearch
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/karpathy/autoresearch](https://github.com/karpathy/autoresearch) |
-| ⭐ Stars | 85352 |
-| 🍴 Forks | 12368 |
-| 👀 Watchers | 85352 |
-| 📝 Open Issues | 184 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-03-06 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-AI agents running research on single-GPU nanochat training automatically
-
-**中文简介**：
-在单 GPU nanochat 训练上自动运行研究的 AI 智能体。
-
-
-**Topics**：-
-
-
-
----
-
-### 18. nextlevelbuilder/ui-ux-pro-max-skill
+### 17. nextlevelbuilder/ui-ux-pro-max-skill
 
 | 属性 | 信息 |
 |---|---|
@@ -523,7 +495,7 @@ An AI SKILL that provide design intelligence for building professional UI/UX mul
 
 ---
 
-### 19. 3b1b/manim
+### 18. 3b1b/manim
 
 | 属性 | 信息 |
 |---|---|
@@ -552,7 +524,7 @@ Animation engine for explanatory math videos
 
 ---
 
-### 20. MunGell/awesome-for-beginners
+### 19. MunGell/awesome-for-beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -577,6 +549,35 @@ A list of awesome beginners-friendly projects.
 **Topics**：awesome, awesome-list, beginner-project, beginners-friendly, list
 
 **中文Topics**：awesome, awesome-list, beginner-project, beginners-friendly, list
+
+
+---
+
+### 20. microsoft/ai-agents-for-beginners
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) |
+| ⭐ Stars | 66568 |
+| 🍴 Forks | 21969 |
+| 👀 Watchers | 66568 |
+| 📝 Open Issues | 19 |
+| 💻 主语言 | Jupyter Notebook |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-11-28 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+12 Lessons to Get Started Building AI Agents
+
+**中文简介**：
+12 节课，助你入门构建 AI 智能体
+
+
+**Topics**：agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, generative-ai, semantic-kernel
+
+**中文Topics**：agentic-ai, agentic-framework, agentic-rag, ai-agents, ai-agents-framework, autogen, 生成式 AI, semantic-kernel
 
 
 ---
@@ -894,7 +895,36 @@ ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你
 
 ---
 
-### 32. Eugeny/tabby
+### 32. rust-lang/rustlings
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings) |
+| ⭐ Stars | 63098 |
+| 🍴 Forks | 11197 |
+| 👀 Watchers | 63098 |
+| 📝 Open Issues | 38 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2015-09-15 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+:crab: Small exercises to get you used to reading and writing Rust code!
+
+**中文简介**：
+🦀 让你习惯阅读和编写 Rust 代码的小练习！
+
+
+**Topics**：beginner-friendly, exercises, rust, rustlings
+
+**中文Topics**：beginner-friendly, exercises, rust, rustlings
+
+
+---
+
+### 33. Eugeny/tabby
 
 | 属性 | 信息 |
 |---|---|
@@ -923,7 +953,7 @@ A terminal for a more modern age
 
 ---
 
-### 33. juliangarnier/anime
+### 34. juliangarnier/anime
 
 | 属性 | 信息 |
 |---|---|
@@ -952,7 +982,7 @@ JavaScript 动画引擎
 
 ---
 
-### 34. JuliusBrussee/caveman
+### 35. JuliusBrussee/caveman
 
 | 属性 | 信息 |
 |---|---|
@@ -981,7 +1011,7 @@ JavaScript 动画引擎
 
 ---
 
-### 35. sindresorhus/awesome-nodejs
+### 36. sindresorhus/awesome-nodejs
 
 | 属性 | 信息 |
 |---|---|
@@ -1010,7 +1040,7 @@ JavaScript 动画引擎
 
 ---
 
-### 36. h5bp/html5-boilerplate
+### 37. h5bp/html5-boilerplate
 
 | 属性 | 信息 |
 |---|---|
@@ -1039,7 +1069,7 @@ A professional front-end template for building fast, robust, and adaptable web a
 
 ---
 
-### 37. ComposioHQ/awesome-claude-skills
+### 38. ComposioHQ/awesome-claude-skills
 
 | 属性 | 信息 |
 |---|---|
@@ -1068,7 +1098,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 ---
 
-### 38. minio/minio
+### 39. minio/minio
 
 | 属性 | 信息 |
 |---|---|
@@ -1097,7 +1127,7 @@ MinIO 是一个高性能、S3 兼容的对象存储，在 GNU AGPLv3 许可证�
 
 ---
 
-### 39. lodash/lodash
+### 40. lodash/lodash
 
 | 属性 | 信息 |
 |---|---|
@@ -1126,7 +1156,7 @@ A modern JavaScript utility library delivering modularity, performance, & extras
 
 ---
 
-### 40. microsoft/autogen
+### 41. microsoft/autogen
 
 | 属性 | 信息 |
 |---|---|
@@ -1155,7 +1185,7 @@ A programming framework for agentic AI
 
 ---
 
-### 41. soimort/you-get
+### 42. soimort/you-get
 
 | 属性 | 信息 |
 |---|---|
@@ -1183,7 +1213,7 @@ A programming framework for agentic AI
 
 ---
 
-### 42. Solido/awesome-flutter
+### 43. Solido/awesome-flutter
 
 | 属性 | 信息 |
 |---|---|
@@ -1212,7 +1242,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ---
 
-### 43. RVC-Boss/GPT-SoVITS
+### 44. RVC-Boss/GPT-SoVITS
 
 | 属性 | 信息 |
 |---|---|
@@ -1241,7 +1271,7 @@ An awesome list that curates the best Flutter libraries, tools, tutorials, artic
 
 ---
 
-### 44. chinese-poetry/chinese-poetry
+### 45. chinese-poetry/chinese-poetry
 
 | 属性 | 信息 |
 |---|---|
@@ -1270,7 +1300,7 @@ The most comprehensive database of Chinese poetry 🧶最全中华古诗词数�
 
 ---
 
-### 45. jekyll/jekyll
+### 46. jekyll/jekyll
 
 | 属性 | 信息 |
 |---|---|
@@ -1299,7 +1329,7 @@ The most comprehensive database of Chinese poetry 🧶最全中华古诗词数�
 
 ---
 
-### 46. karpathy/nanochat
+### 47. karpathy/nanochat
 
 | 属性 | 信息 |
 |---|---|
@@ -1327,7 +1357,7 @@ The best ChatGPT that $100 can buy.
 
 ---
 
-### 47. golang-standards/project-layout
+### 48. golang-standards/project-layout
 
 | 属性 | 信息 |
 |---|---|
@@ -1356,7 +1386,7 @@ Standard Go Project Layout
 
 ---
 
-### 48. vsouza/awesome-ios
+### 49. vsouza/awesome-ios
 
 | 属性 | 信息 |
 |---|---|
@@ -1385,7 +1415,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 ---
 
-### 49. microsoft/AI-For-Beginners
+### 50. microsoft/AI-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -1414,7 +1444,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 ---
 
-### 50. Textualize/rich
+### 51. Textualize/rich
 
 | 属性 | 信息 |
 |---|---|
@@ -1443,7 +1473,7 @@ Rich 是一个 Python 库，用于在终端中实现富文本和精美排版。
 
 ---
 
-### 51. v2ray/v2ray-core
+### 52. v2ray/v2ray-core
 
 | 属性 | 信息 |
 |---|---|
@@ -1472,7 +1502,7 @@ A platform for building proxies to bypass network restrictions.
 
 ---
 
-### 52. sudheerj/reactjs-interview-questions
+### 53. sudheerj/reactjs-interview-questions
 
 | 属性 | 信息 |
 |---|---|
@@ -1501,7 +1531,7 @@ List of top 500 ReactJS Interview Questions & Answers....Coding exercise questio
 
 ---
 
-### 53. akullpp/awesome-java
+### 54. akullpp/awesome-java
 
 | 属性 | 信息 |
 |---|---|
@@ -1530,7 +1560,7 @@ Java编程语言的awesome框架、库和软件精选列表。
 
 ---
 
-### 54. type-challenges/type-challenges
+### 55. type-challenges/type-challenges
 
 | 属性 | 信息 |
 |---|---|
@@ -1559,7 +1589,7 @@ Collection of TypeScript type challenges with online judge
 
 ---
 
-### 55. vnpy/vnpy
+### 56. vnpy/vnpy
 
 | 属性 | 信息 |
 |---|---|
@@ -1586,7 +1616,7 @@ Collection of TypeScript type challenges with online judge
 
 ---
 
-### 56. microsoft/VibeVoice
+### 57. microsoft/VibeVoice
 
 | 属性 | 信息 |
 |---|---|
@@ -1614,7 +1644,7 @@ Open-Source Frontier Voice AI
 
 ---
 
-### 57. Light-City/CPlusPlusThings
+### 58. Light-City/CPlusPlusThings
 
 | 属性 | 信息 |
 |---|---|
@@ -1641,7 +1671,7 @@ C++那些事
 
 ---
 
-### 58. LeCoupa/awesome-cheatsheets
+### 59. LeCoupa/awesome-cheatsheets
 
 | 属性 | 信息 |
 |---|---|
@@ -1670,7 +1700,7 @@ C++那些事
 
 ---
 
-### 59. jesseduffield/lazydocker
+### 60. jesseduffield/lazydocker
 
 | 属性 | 信息 |
 |---|---|
@@ -1698,7 +1728,7 @@ The lazier way to manage everything docker
 
 ---
 
-### 60. microsoft/qlib
+### 61. microsoft/qlib
 
 | 属性 | 信息 |
 |---|---|
@@ -1727,7 +1757,7 @@ Qlib 是一个面向 AI 的量化投资平台，旨在利用 AI 技术赋能量�
 
 ---
 
-### 61. DataTalksClub/data-engineering-zoomcamp
+### 62. DataTalksClub/data-engineering-zoomcamp
 
 | 属性 | 信息 |
 |---|---|
@@ -1756,7 +1786,36 @@ Data Engineering Zoomcamp is a free 9-week course on building production-ready d
 
 ---
 
-### 62. isocpp/CppCoreGuidelines
+### 63. Alamofire/Alamofire
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) |
+| ⭐ Stars | 42392 |
+| 🍴 Forks | 7665 |
+| 👀 Watchers | 42392 |
+| 📝 Open Issues | 43 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2014-07-31 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Elegant HTTP Networking in Swift
+
+**中文简介**：
+Swift 中优雅的 HTTP 网络库。
+
+
+**Topics**：alamofire, carthage, certificate-pinning, cocoapods, httpurlresponse, networking, parameter-encoding, public-key-pinning, request, response, swift, swift-package-manager, urlrequest, urlsession, xcode
+
+**中文Topics**：alamofire, carthage, certificate-pinning, cocoapods, httpurlresponse, 网络, parameter-encoding, public-key-pinning, request, response, swift, swift-package-manager, urlrequest, urlsession, xcode
+
+
+---
+
+### 64. isocpp/CppCoreGuidelines
 
 | 属性 | 信息 |
 |---|---|
@@ -1784,7 +1843,7 @@ C++ 核心准则是一套经过实践检验的 C++ 编码指南、规则与最�
 
 ---
 
-### 63. lukasz-madon/awesome-remote-job
+### 65. lukasz-madon/awesome-remote-job
 
 | 属性 | 信息 |
 |---|---|
@@ -1813,7 +1872,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ---
 
-### 64. serhii-londar/open-source-mac-os-apps
+### 66. serhii-londar/open-source-mac-os-apps
 
 | 属性 | 信息 |
 |---|---|
@@ -1842,7 +1901,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ---
 
-### 65. DataExpert-io/data-engineer-handbook
+### 67. DataExpert-io/data-engineer-handbook
 
 | 属性 | 信息 |
 |---|---|
@@ -1871,7 +1930,7 @@ This is a repo with links to everything you'd ever want to learn about data engi
 
 ---
 
-### 66. Aider-AI/aider
+### 68. Aider-AI/aider
 
 | 属性 | 信息 |
 |---|---|
@@ -1900,7 +1959,7 @@ aider 是运行在终端中的 AI 结对编程工具。
 
 ---
 
-### 67. shadowsocks/shadowsocks-android
+### 69. shadowsocks/shadowsocks-android
 
 | 属性 | 信息 |
 |---|---|
@@ -1929,7 +1988,7 @@ Android 版 shadowsocks 客户端
 
 ---
 
-### 68. coreybutler/nvm-windows
+### 70. coreybutler/nvm-windows
 
 | 属性 | 信息 |
 |---|---|
@@ -1958,7 +2017,7 @@ Windows 平台的 Node.js 版本管理工具。颇具讽刺意味的是，它使
 
 ---
 
-### 69. chenglou/pretext
+### 71. chenglou/pretext
 
 | 属性 | 信息 |
 |---|---|
@@ -1986,7 +2045,7 @@ Fast, accurate & comprehensive text measurement & layout
 
 ---
 
-### 70. karanpratapsingh/system-design
+### 72. karanpratapsingh/system-design
 
 | 属性 | 信息 |
 |---|---|
@@ -2015,7 +2074,7 @@ Learn how to design systems at scale and prepare for system design interviews
 
 ---
 
-### 71. 666ghj/BettaFish
+### 73. 666ghj/BettaFish
 
 | 属性 | 信息 |
 |---|---|
@@ -2044,7 +2103,7 @@ Learn how to design systems at scale and prepare for system design interviews
 
 ---
 
-### 72. hesreallyhim/awesome-claude-code
+### 74. hesreallyhim/awesome-claude-code
 
 | 属性 | 信息 |
 |---|---|
@@ -2073,7 +2132,7 @@ Anthropic 推出的 Claude Code 的精选技能、钩子、斜杠命令、智能
 
 ---
 
-### 73. NaiboWang/EasySpider
+### 75. NaiboWang/EasySpider
 
 | 属性 | 信息 |
 |---|---|
@@ -2100,7 +2159,7 @@ A visual no-code/code-free web crawler/spider易采集：一个可视化浏览�
 
 ---
 
-### 74. mmistakes/minimal-mistakes
+### 76. mmistakes/minimal-mistakes
 
 | 属性 | 信息 |
 |---|---|
@@ -2128,7 +2187,7 @@ A visual no-code/code-free web crawler/spider易采集：一个可视化浏览�
 
 ---
 
-### 75. zhongyang219/TrafficMonitor
+### 77. zhongyang219/TrafficMonitor
 
 | 属性 | 信息 |
 |---|---|
@@ -2154,7 +2213,7 @@ A visual no-code/code-free web crawler/spider易采集：一个可视化浏览�
 
 ---
 
-### 76. upscayl/upscayl
+### 78. upscayl/upscayl
 
 | 属性 | 信息 |
 |---|---|
@@ -2183,7 +2242,7 @@ A visual no-code/code-free web crawler/spider易采集：一个可视化浏览�
 
 ---
 
-### 77. openai/gym
+### 79. openai/gym
 
 | 属性 | 信息 |
 |---|---|
@@ -2211,7 +2270,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 
 ---
 
-### 78. AykutSarac/jsoncrack.com
+### 80. AykutSarac/jsoncrack.com
 
 | 属性 | 信息 |
 |---|---|
@@ -2240,7 +2299,7 @@ A toolkit for developing and comparing reinforcement learning algorithms.
 
 ---
 
-### 79. spf13/cobra
+### 81. spf13/cobra
 
 | 属性 | 信息 |
 |---|---|
@@ -2269,7 +2328,7 @@ A Commander for modern Go CLI interactions
 
 ---
 
-### 80. ageron/handson-ml2
+### 82. ageron/handson-ml2
 
 | 属性 | 信息 |
 |---|---|
@@ -2297,7 +2356,36 @@ A Commander for modern Go CLI interactions
 
 ---
 
-### 81. tastejs/todomvc
+### 83. hpcaitech/ColossalAI
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) |
+| ⭐ Stars | 41386 |
+| 🍴 Forks | 4507 |
+| 👀 Watchers | 41386 |
+| 📝 Open Issues | 500 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2021-10-28 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Making large AI models cheaper, faster and more accessible
+
+**中文简介**：
+让大型AI模型更便宜、更快速、更易获取
+
+
+**Topics**：ai, big-model, data-parallelism, deep-learning, distributed-computing, foundation-models, heterogeneous-training, hpc, inference, large-scale, model-parallelism, pipeline-parallelism
+
+**中文Topics**：ai, 大模型, 数据并行, 深度学习, 分布式计算, 基础模型, 异构训练, 高性能计算, 推理, 大规模, 模型并行, 流水线并行
+
+
+---
+
+### 84. tastejs/todomvc
 
 | 属性 | 信息 |
 |---|---|
@@ -2325,7 +2413,7 @@ Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue
 
 ---
 
-### 82. google/zx
+### 85. google/zx
 
 | 属性 | 信息 |
 |---|---|
@@ -2354,7 +2442,7 @@ A tool for writing better scripts
 
 ---
 
-### 83. othneildrew/Best-README-Template
+### 86. othneildrew/Best-README-Template
 
 | 属性 | 信息 |
 |---|---|
@@ -2382,7 +2470,7 @@ An awesome README template to jumpstart your projects!
 
 ---
 
-### 84. zbezj/HEU_KMS_Activator
+### 87. zbezj/HEU_KMS_Activator
 
 | 属性 | 信息 |
 |---|---|
@@ -2408,7 +2496,7 @@ An awesome README template to jumpstart your projects!
 
 ---
 
-### 85. Unitech/pm2
+### 88. Unitech/pm2
 
 | 属性 | 信息 |
 |---|---|
@@ -2437,7 +2525,7 @@ Node.js Production Process Manager with a built-in Load Balancer.
 
 ---
 
-### 86. aria2/aria2
+### 89. aria2/aria2
 
 | 属性 | 信息 |
 |---|---|
@@ -2466,7 +2554,7 @@ aria2是一款轻量级多协议、多来源、跨平台命令行下载工具，
 
 ---
 
-### 87. Ebazhanov/linkedin-skill-assessments-quizzes
+### 90. Ebazhanov/linkedin-skill-assessments-quizzes
 
 | 属性 | 信息 |
 |---|---|
@@ -2494,7 +2582,7 @@ LinkedIn 技能评估答案 2024 的完整参考（aws-lambda、rest-api、javas
 
 ---
 
-### 88. lm-sys/FastChat
+### 91. lm-sys/FastChat
 
 | 属性 | 信息 |
 |---|---|
@@ -2522,7 +2610,7 @@ An open platform for training, serving, and evaluating large language models. Re
 
 ---
 
-### 89. xuxueli/xxl-job
+### 92. xuxueli/xxl-job
 
 | 属性 | 信息 |
 |---|---|
@@ -2550,7 +2638,7 @@ A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 
 ---
 
-### 90. imputnet/cobalt
+### 93. imputnet/cobalt
 
 | 属性 | 信息 |
 |---|---|
@@ -2579,7 +2667,7 @@ best way to save what you love
 
 ---
 
-### 91. go-gorm/gorm
+### 94. go-gorm/gorm
 
 | 属性 | 信息 |
 |---|---|
@@ -2608,7 +2696,7 @@ Golang出色的ORM库，以开发者友好为目标
 
 ---
 
-### 92. yarnpkg/yarn
+### 95. yarnpkg/yarn
 
 | 属性 | 信息 |
 |---|---|
@@ -2637,7 +2725,7 @@ The 1.x line is frozen - features and bugfixes now happen on https://github.com/
 
 ---
 
-### 93. Dogfalo/materialize
+### 96. Dogfalo/materialize
 
 | 属性 | 信息 |
 |---|---|
@@ -2666,7 +2754,7 @@ Materialize，一款基于Material Design的CSS框架
 
 ---
 
-### 94. 2noise/ChatTTS
+### 97. 2noise/ChatTTS
 
 | 属性 | 信息 |
 |---|---|
@@ -2695,7 +2783,7 @@ A generative speech model for daily dialogue.
 
 ---
 
-### 95. FuelLabs/fuels-rs
+### 98. FuelLabs/fuels-rs
 
 | 属性 | 信息 |
 |---|---|
@@ -2723,7 +2811,7 @@ Fuel Network Rust SDK
 
 ---
 
-### 96. FuelLabs/fuels-ts
+### 99. FuelLabs/fuels-ts
 
 | 属性 | 信息 |
 |---|---|
@@ -2752,7 +2840,7 @@ Fuel Network TypeScript SDK
 
 ---
 
-### 97. nothings/stb
+### 100. nothings/stb
 
 | 属性 | 信息 |
 |---|---|
@@ -2776,92 +2864,6 @@ stb 单文件公共领域 C/C++ 库
 
 **Topics**：-
 
-
-
----
-
-### 98. XX-net/XX-Net
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/XX-net/XX-Net](https://github.com/XX-net/XX-Net) |
-| ⭐ Stars | 33451 |
-| 🍴 Forks | 7569 |
-| 👀 Watchers | 33451 |
-| 📝 Open Issues | 7931 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2015-01-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-A proxy tool to bypass GFW.
-
-**中文简介**：
-一款用于绕过防火长城的代理工具
-
-
-**Topics**：gfw, goagent, proxy, uncensored, vpn
-
-**中文Topics**：gfw, goagent, proxy, 无审查, vpn
-
-
----
-
-### 99. mdn/learning-area
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/mdn/learning-area](https://github.com/mdn/learning-area) |
-| ⭐ Stars | 7573 |
-| 🍴 Forks | 27301 |
-| 👀 Watchers | 7573 |
-| 📝 Open Issues | 2 |
-| 💻 主语言 | HTML |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2016-03-08 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | CC0-1.0 |
-
-**简介**：
-GitHub repo for the MDN Learning Area. 
-
-**中文简介**：
-MDN 学习区的 GitHub 存储库。
-
-
-**Topics**：learning, learning-js, learning-to-code, mdn-docs
-
-
-
----
-
-### 100. patchy631/ai-engineering-hub
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) |
-| ⭐ Stars | 35571 |
-| 🍴 Forks | 5893 |
-| 👀 Watchers | 35571 |
-| 📝 Open Issues | 114 |
-| 💻 主语言 | Jupyter Notebook |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2024-10-21 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-
-**中文简介**：
-关于 LLM、RAG 和真实世界 AI 智能体应用的深入教程
-
-
-**Topics**：agents, ai, llms, machine-learning, mcp, rag
-
-**中文Topics**：agents, ai, llms, 机器学习, mcp, rag
 
 
 ---

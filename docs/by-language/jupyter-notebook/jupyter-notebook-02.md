@@ -1,7 +1,7 @@
 # 💻 Jupyter Notebook 热门项目 - 第 2 页
 
 > 使用 Jupyter Notebook 开发的热门开源项目
-> 最后更新：2026-06-23 23:45
+> 最后更新：2026-06-24 23:08
 
 共收录 **342** 个项目
 （第 2/4 页）
@@ -228,7 +228,7 @@ A multi-voice TTS system trained with an emphasis on quality
 
 **Topics**：a3c, ddpg, deep-reinforcement-learning, double-dqn, dqn, dueling-dqn, easy-rl, imitation-learning, policy-gradient, ppo, q-learning, reinforcement-learning, sarsa, td3
 
-**中文Topics**：a3c, ddpg, 深度强化学习, 双DQN, dqn, 对战DQN, 简易强化学习, 模仿学习, 策略梯度, ppo, Q学习, 强化学习, sarsa, td3
+**中文Topics**：a3c, ddpg, 深度强化学习, 双DQN, dqn, 对战DQN, 简易强化学习, 模仿学习, 策略梯度法, ppo, Q学习, 强化学习, sarsa, td3
 
 
 ---

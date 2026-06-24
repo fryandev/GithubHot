@@ -1,7 +1,7 @@
 # 💻 HTML 热门项目 - 第 3 页
 
 > 使用 HTML 开发的热门开源项目
-> 最后更新：2026-06-23 23:45
+> 最后更新：2026-06-24 23:08
 
 共收录 **325** 个项目
 （第 3/4 页）
@@ -503,7 +503,7 @@ Official OWASP Top 10 Document Repository
 
 **Topics**：bootstrap, docker, favorites, jpa, spring, spring-boot, spring-data-jpa, spring-session, springboot, springdatajpa, springsession, thymeleaf, webjars
 
-**中文Topics**：bootstrap, docker, 收藏夹, jpa, spring, Spring Boot, Spring Data JPA, Spring Session, springboot, springdatajpa, springsession, thymeleaf, webjars
+**中文Topics**：bootstrap, docker, 收藏夹, jpa, spring, spring-boot, spring-data-jpa, spring-session, springboot, springdatajpa, springsession, thymeleaf, webjars
 
 
 ---
