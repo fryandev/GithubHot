@@ -1,7 +1,7 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-06-24 23:08
+> 最后更新：2026-06-30 20:47
 
 共收录 **1724** 个项目
 （第 18/18 页）
@@ -630,18 +630,18 @@ Blinker node.js library for hardware. Works with Raspberry Pi, Banana Pi, linux,
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| ⭐ Stars | 61199 |
-| 🍴 Forks | 7112 |
-| 👀 Watchers | 61199 |
-| 📝 Open Issues | 673 |
+| ⭐ Stars | 62163 |
+| 🍴 Forks | 7284 |
+| 👀 Watchers | 62163 |
+| 📝 Open Issues | 693 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-06-02 |
-| 🔄 最后更新 | 2026-06-24 |
+| 🔄 最后更新 | 2026-06-30 |
 | 📜 License | MIT |
 
 **简介**：
-🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 
 **中文简介**：
 🌊 领先的 Claude 智能体元驾驭框架。部署智能多智能体集群，协调自主工作流，构建对话式 AI 系统。具备自适应记忆、自学习集群智能、RAG 集成，以及原生 Claude Code / Codex 集成。

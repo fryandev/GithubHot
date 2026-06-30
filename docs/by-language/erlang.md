@@ -1,7 +1,7 @@
 # 💻 Erlang 热门项目
 
 > 使用 Erlang 开发的热门开源项目
-> 最后更新：2026-06-24 23:08
+> 最后更新：2026-06-30 20:47
 
 共收录 **6** 个项目
 
@@ -55,6 +55,8 @@ The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehic
 **简介**：
 Erlang/OTP
 
+**中文简介**：
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
 
 
 **Topics**：-

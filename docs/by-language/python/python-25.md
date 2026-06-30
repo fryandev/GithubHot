@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-06-24 23:08
+> 最后更新：2026-06-30 20:47
 
-共收录 **2480** 个项目
+共收录 **2483** 个项目
 （第 25/25 页）
 
 ## 项目列表
@@ -2165,14 +2165,14 @@ Astrid 代理运行时的 RFC
 | 属性 | 信息 |
 |---|---|
 | 链接 | [https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
-| ⭐ Stars | 29222 |
-| 🍴 Forks | 2976 |
-| 👀 Watchers | 29222 |
-| 📝 Open Issues | 35 |
+| ⭐ Stars | 29649 |
+| 🍴 Forks | 3023 |
+| 👀 Watchers | 29649 |
+| 📝 Open Issues | 33 |
 | 💻 主语言 | Python |
 | 🔥 热度等级 | - |
 | 📅 创建时间 | 2025-10-19 |
-| 🔄 最后更新 | 2026-06-24 |
+| 🔄 最后更新 | 2026-06-30 |
 | 📜 License | MIT |
 
 **简介**：
@@ -2241,6 +2241,91 @@ Omnigent是一个开源的AI智能体框架及元调度工具：可协调Claude 
 **Topics**：agent-framework, agent-governance, agent-orchestration, agents, ai, ai-agent, ai-agents, claude-code, codex, coding-agents, developer-tools, llm, ml, multi-agent, python, sandbox
 
 **中文Topics**：代理框架, 代理治理, 代理编排, 代理程序, ai, AI代理, 多个AI代理, Claude代码, codex, 编码代理, 开发者工具, llm, ml, 多代理系统, python, 沙箱环境
+
+
+---
+
+### 2481. baidu/Unlimited-OCR
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) |
+| ⭐ Stars | 12326 |
+| 🍴 Forks | 968 |
+| 👀 Watchers | 12326 |
+| 📝 Open Issues | 44 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-18 |
+| 🔄 最后更新 | 2026-06-30 |
+| 📜 License | MIT |
+
+**简介**：
+Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+
+**中文简介**：
+无限OCR功能：迎接一次性长文本解析时代。
+
+
+**Topics**：-
+
+
+
+---
+
+### 2482. xbtlin/ai-berkshire
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) |
+| ⭐ Stars | 7289 |
+| 🍴 Forks | 933 |
+| 👀 Watchers | 7289 |
+| 📝 Open Issues | 26 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-07 |
+| 🔄 最后更新 | 2026-06-30 |
+| 📜 License | MIT |
+
+**简介**：
+AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+
+**中文简介**：
+AI时代的伯克希尔：基于Claude Code/Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师的方法论 + 多智能体并行研究。| AI时代的伯克希尔：专为Claude Code/Codex设计的价值投资研究框架。四位大师的方法论 + 多智能体对抗式分析。
+
+
+**Topics**：ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett
+
+**中文Topics**：ai, 人工智能代理, anthropic, 巴克希尔·哈撒韦, 查理·芒格, 中国股市, claude, 克劳德代码, 财务分析, 金融科技, 基本面分析, 投资, 投资研究, llm, mcp, 投资组合管理, 股票分析, 股市, 价值投资, 沃伦·巴菲特
+
+
+---
+
+### 2483. deepseek-ai/DeepSpec
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) |
+| ⭐ Stars | 4790 |
+| 🍴 Forks | 393 |
+| 👀 Watchers | 4790 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-26 |
+| 🔄 最后更新 | 2026-06-30 |
+| 📜 License | MIT |
+
+**简介**：
+DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+**中文简介**：
+DeepSpec：用于训练和评估推测解码算法的端到端代码库
+
+
+**Topics**：-
+
 
 
 ---

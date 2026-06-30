@@ -1,9 +1,9 @@
 # Web 开发 - 第 13 页
 
 > Web 开发 相关的热门开源项目
-> 最后更新：2026-06-24 23:08
+> 最后更新：2026-06-30 20:47
 
-共收录 **1208** 个项目
+共收录 **1209** 个项目
 （第 13/13 页）
 
 ## 项目列表
@@ -228,6 +228,34 @@ sqlite3 在你的 indexeddb 中（希望很快会有更好的后端）
 
 
 **Topics**：appwrite, baas, javascript, react-native, typescript
+
+
+
+---
+
+### 1209. deepseek-ai/DeepSpec
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) |
+| ⭐ Stars | 4790 |
+| 🍴 Forks | 393 |
+| 👀 Watchers | 4790 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-26 |
+| 🔄 最后更新 | 2026-06-30 |
+| 📜 License | MIT |
+
+**简介**：
+DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+
+**中文简介**：
+DeepSpec：用于训练和评估推测解码算法的端到端代码库
+
+
+**Topics**：-
 
 
 

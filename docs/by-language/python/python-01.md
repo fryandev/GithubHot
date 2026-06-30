@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 1 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-06-24 23:08
+> 最后更新：2026-06-30 20:47
 
-共收录 **2480** 个项目
+共收录 **2483** 个项目
 （第 1/25 页）
 
 ## 项目列表
@@ -2217,7 +2217,7 @@ Ultralytics YOLO 🚀
 
 **Topics**：cli, computer-vision, deep-learning, hub, image-classification, instance-segmentation, machine-learning, object-detection, pose-estimation, python, pytorch, rotated-object-detection, segment-anything, tracking, ultralytics, yolo, yolo-world, yolo11, yolo26, yolov8
 
-**中文Topics**：cli, 计算机视觉, 深度学习, 中心节点, 图像分类, 实例分割, 机器学习, 目标检测, 姿态估计, python, pytorch, 旋转物体检测, 任意物体分割, 跟踪, ultralytics, yolo, YOLO-World, yolo11, yolo26, yolov8
+**中文Topics**：cli, 计算机视觉, 深度学习, 中心节点, 图像分类, 实例分割, 机器学习, 目标检测, 姿态估计, python, pytorch, 旋转物体检测, 任意对象分割, 跟踪, ultralytics, yolo, YOLO-World, yolo11, yolo26, yolov8
 
 
 ---
