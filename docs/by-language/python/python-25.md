@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-06-30 20:47
+> 最后更新：2026-07-11 23:37
 
-共收录 **2483** 个项目
+共收录 **2484** 个项目
 （第 25/25 页）
 
 ## 项目列表
@@ -2322,6 +2322,32 @@ DeepSpec: a full-stack codebase for training and evaluating speculative decoding
 
 **中文简介**：
 DeepSpec：用于训练和评估推测解码算法的端到端代码库
+
+
+**Topics**：-
+
+
+
+---
+
+### 2484. x4gKing/X4G
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/x4gKing/X4G](https://github.com/x4gKing/X4G) |
+| ⭐ Stars | 4347 |
+| 🍴 Forks | 8236 |
+| 👀 Watchers | 4347 |
+| 📝 Open Issues | 12 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-04 |
+| 🔄 最后更新 | 2026-07-11 |
+| 📜 License | 未知 |
+
+**简介**：
+暂无描述
+
 
 
 **Topics**：-

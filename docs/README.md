@@ -1,13 +1,13 @@
 # 🔥 GitHub 热门项目精选
 
-> 最后更新：2026-06-30 20:47
+> 最后更新：2026-07-11 23:37
 
 ## 📊 数据概览
 
 | 指标 | 数值 |
 |---|---|
-| 收录项目总数 | 14414 |
-| 热门项目数 | 14414 |
+| 收录项目总数 | 14418 |
+| 热门项目数 | 14418 |
 | 涵盖语言 | 151 种 |
 | 涵盖领域 | 12 个 |
 
@@ -15,9 +15,9 @@
 
 ### 按语言
 
-- [Python](by-language/python.md) (2483)
+- [Python](by-language/python.md) (2484)
 - [JavaScript](by-language/javascript.md) (1810)
-- [TypeScript](by-language/typescript.md) (1724)
+- [TypeScript](by-language/typescript.md) (1726)
 - [Go](by-language/go.md) (1106)
 - [Java](by-language/java.md) (797)
 - [C++](by-language/cplusplus.md) (719)
@@ -26,7 +26,7 @@
 - [C#](by-language/csharp.md) (366)
 - [Jupyter Notebook](by-language/jupyter-notebook.md) (342)
 - [Shell](by-language/shell.md) (337)
-- [HTML](by-language/html.md) (325)
+- [HTML](by-language/html.md) (326)
 - [PHP](by-language/php.md) (322)
 - [Swift](by-language/swift.md) (265)
 - [Kotlin](by-language/kotlin.md) (188)
@@ -60,9 +60,9 @@
 
 ### 按活跃
 
-- [🔥 最近7天活跃](by-activity/daily.md) (6)
-- [📅 最近30天活跃](by-activity/weekly.md) (4998)
-- [📆 最近90天活跃](by-activity/monthly.md) (2853)
+- [🔥 最近7天活跃](by-activity/daily.md) (4)
+- [📅 最近30天活跃](by-activity/weekly.md) (12)
+- [📆 最近90天活跃](by-activity/monthly.md) (7585)
 
 
 ### 按趋势

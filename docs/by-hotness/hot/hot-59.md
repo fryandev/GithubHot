@@ -1,7 +1,7 @@
 # ⭐ 热门 - 第 59 页
 
 > ⭐ 热门 项目列表
-> 最后更新：2026-06-30 20:47
+> 最后更新：2026-07-11 23:37
 
 共收录 **12283** 个项目
 （第 59/123 页）
@@ -2675,7 +2675,7 @@ jOOQ 是用 Java 编写 SQL 的最佳方式
 
 **Topics**：algorithm-engineering, deep-learning, interview-questions, machine-learning, recommendation-algorithms, recommender-system, tensorflow, tianchi-competition
 
-**中文Topics**：算法工程, 深度学习, 面试问题, 机器学习, 推荐算法, 推荐系统, tensorflow, 天池竞赛
+**中文Topics**：算法工程, 深度学习, 面试问题, 机器学习, 推荐算法, 推荐系统, tensorflow, 天池比赛
 
 
 ---

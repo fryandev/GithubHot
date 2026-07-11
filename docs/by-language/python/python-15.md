@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 15 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-06-30 20:47
+> 最后更新：2026-07-11 23:37
 
-共收录 **2483** 个项目
+共收录 **2484** 个项目
 （第 15/25 页）
 
 ## 项目列表
@@ -503,7 +503,7 @@ Your self hosted YouTube media server
 
 **Topics**：algorithm-engineering, deep-learning, interview-questions, machine-learning, recommendation-algorithms, recommender-system, tensorflow, tianchi-competition
 
-**中文Topics**：算法工程, 深度学习, 面试问题, 机器学习, 推荐算法, 推荐系统, tensorflow, 天池竞赛
+**中文Topics**：算法工程, 深度学习, 面试问题, 机器学习, 推荐算法, 推荐系统, tensorflow, 天池比赛
 
 
 ---
@@ -864,7 +864,7 @@ yolo3+ocr
 
 **Topics**：chinese-ocr, chinese-text-detect, darknet-text-detect, idcard, ocr, opencv-dnn, trainticket, yolo3
 
-**中文Topics**：中文OCR, 中文文本检测, 暗网文本检测, 身份证识别, ocr, OpenCV DNN, 训练数据集, yolo3
+**中文Topics**：中文OCR, 中文文本检测, 暗网文本检测, 身份证, ocr, OpenCV-DNN, 火车票, yolo3
 
 
 ---

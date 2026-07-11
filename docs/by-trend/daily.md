@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-06-30 20:47
+> 最后更新：2026-07-11 23:37
 
 共收录 **10** 个项目
 
@@ -9,7 +9,64 @@
 ## 项目列表
 
 
-### 1. DietrichGebert/ponytail
+### 1. MadsLorentzen/ai-job-search
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) |
+| ⭐ Stars | 20949 |
+| 🍴 Forks | 6102 |
+| 👀 Watchers | 20949 |
+| 📝 Open Issues | 4 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-18 |
+| 🔄 最后更新 | 2026-07-11 |
+| 📜 License | MIT |
+
+**简介**：
+The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+
+**中文简介**：
+在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。
+
+
+**Topics**：ai, ai-agents, career, claude-code, cover-letter, cv, interview-preparation, job-application, job-hunting, job-search, latex, resume
+
+**中文Topics**：ai, 人工智能代理, 职业生涯, 克劳德·代码, 求职信, cv, 面试准备, 工作申请, 找工作, 求职, 乳胶, 恢复
+
+
+---
+
+### 2. iOfficeAI/OfficeCLI
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) |
+| ⭐ Stars | 6262 |
+| 🍴 Forks | 494 |
+| 👀 Watchers | 6262 |
+| 📝 Open Issues | 17 |
+| 💻 主语言 | C# |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-15 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+
+**中文简介**：
+OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。
+
+
+**Topics**：agent, ai, cli, office, openclaw, skills
+
+
+
+---
+
+### 3. DietrichGebert/ponytail
 
 | 属性 | 信息 |
 |---|---|
@@ -38,93 +95,147 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ---
 
-### 2. DeusData/codebase-memory-mcp
+### 4. addyosmani/agent-skills
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
-| ⭐ Stars | 10015 |
-| 🍴 Forks | 758 |
-| 👀 Watchers | 10015 |
-| 📝 Open Issues | 136 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-02-24 |
-| 🔄 最后更新 | 2026-06-21 |
-| 📜 License | MIT |
-
-**简介**：
-High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-
-**中文简介**：
-高性能代码智能MCP服务器。可将代码库索引到持久化的知识图谱中——平均处理时间仅为几毫秒。支持158种语言，查询响应时间在亚毫秒级，所需token数量减少99%。单个静态二进制文件，无任何依赖项。
-
-
-**Topics**：aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf
-
-**中文Topics**：辅助工具, AST解析器, Claude代码编辑器, 代码分析工具, 代码智能分析工具, codex, cursor, 密码加密工具, 开发者工具集, Gemini命令行工具, 图形可视化工具, Kilocode工具, 知识图谱, mcp, MCP服务器, 模型上下文协议, OpenCode工具, SQLite数据库, Tree-Sitter解析器, Windsurf工具
-
-
----
-
-### 3. calesthio/OpenMontage
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) |
-| ⭐ Stars | 4435 |
-| 🍴 Forks | 903 |
-| 👀 Watchers | 4435 |
-| 📝 Open Issues | 54 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-29 |
+| 链接 | [https://github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
+| ⭐ Stars | 48558 |
+| 🍴 Forks | 5394 |
+| 👀 Watchers | 48558 |
+| 📝 Open Issues | 97 |
+| 💻 主语言 | Shell |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-02-15 |
 | 🔄 最后更新 | 2026-06-06 |
-| 📜 License | AGPL-3.0 |
-
-**简介**：
-World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-
-**中文简介**：
-世界上第一个开源的代理视频制作系统。 12条管道、52种工具、500+座席技能。将您的人工智能编码助手变成一个完整的视频制作工作室。
-
-
-**Topics**：agent, agentic-ai, ai, claude, copilot, cursor, elevenlabs, ffmpeg, flux, image-generation, open-source, openai, python, remotion, stable-diffusion, text-to-speech, text-to-video, video-generation, video-production
-
-
-
----
-
-### 4. xbtlin/ai-berkshire
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) |
-| ⭐ Stars | 7289 |
-| 🍴 Forks | 933 |
-| 👀 Watchers | 7289 |
-| 📝 Open Issues | 26 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-07 |
-| 🔄 最后更新 | 2026-06-30 |
 | 📜 License | MIT |
 
 **简介**：
-AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
+Production-grade engineering skills for AI coding agents.
 
 **中文简介**：
-AI时代的伯克希尔：基于Claude Code/Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师的方法论 + 多智能体并行研究。| AI时代的伯克希尔：专为Claude Code/Codex设计的价值投资研究框架。四位大师的方法论 + 多智能体对抗式分析。
+面向AI编码代理的生产级工程技能。
 
 
-**Topics**：ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett
+**Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
 
-**中文Topics**：ai, 人工智能代理, anthropic, 巴克希尔·哈撒韦, 查理·芒格, 中国股市, claude, 克劳德代码, 财务分析, 金融科技, 基本面分析, 投资, 投资研究, llm, mcp, 投资组合管理, 股票分析, 股市, 价值投资, 沃伦·巴菲特
+**中文Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, 技能
 
 
 ---
 
-### 5. Panniantong/Agent-Reach
+### 5. stablyai/orca
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/stablyai/orca](https://github.com/stablyai/orca) |
+| ⭐ Stars | 4290 |
+| 🍴 Forks | 280 |
+| 👀 Watchers | 4290 |
+| 📝 Open Issues | 290 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-17 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+
+**中文简介**：
+Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
+
+
+**Topics**：ade, claude-code, cli, codex, cursor-agent, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees
+
+
+
+---
+
+### 6. diegosouzapw/OmniRoute
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) |
+| ⭐ Stars | 5795 |
+| 🍴 Forks | 1001 |
+| 👀 Watchers | 5795 |
+| 📝 Open Issues | 35 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-02-13 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+
+**中文简介**：
+永远不要停止编码。免费 AI 网关：一个端点，160 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。
+
+
+**Topics**：a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver
+
+
+
+---
+
+### 7. safishamsi/graphify
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/safishamsi/graphify](https://github.com/safishamsi/graphify) |
+| ⭐ Stars | 60257 |
+| 🍴 Forks | 6254 |
+| 👀 Watchers | 60257 |
+| 📝 Open Issues | 295 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-04-03 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+
+**中文简介**：
+AI 编程助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任意代码文件夹、SQL 模式、R 脚本、shell 脚本、文档、论文、图像或视频转换为可查询的知识图谱。应用代码 + 数据库模式 + 基础设施，一张图谱全搞定。
+
+
+**Topics**：antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter
+
+**中文Topics**：antigravity, claude-code, codex, gemini, graphrag, 知识图谱, leiden, openclaw, rag, 技能, tree-sitter
+
+
+---
+
+### 8. x4gKing/X4G
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/x4gKing/X4G](https://github.com/x4gKing/X4G) |
+| ⭐ Stars | 4347 |
+| 🍴 Forks | 8236 |
+| 👀 Watchers | 4347 |
+| 📝 Open Issues | 12 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-04 |
+| 🔄 最后更新 | 2026-07-11 |
+| 📜 License | 未知 |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 9. Panniantong/Agent-Reach
 
 | 属性 | 信息 |
 |---|---|
@@ -152,143 +263,30 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ---
 
-### 6. deepseek-ai/DeepSpec
+### 10. wonderwhy-er/DesktopCommanderMCP
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) |
-| ⭐ Stars | 4790 |
-| 🍴 Forks | 393 |
-| 👀 Watchers | 4790 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-26 |
-| 🔄 最后更新 | 2026-06-30 |
-| 📜 License | MIT |
-
-**简介**：
-DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
-
-**中文简介**：
-DeepSpec：用于训练和评估推测解码算法的端到端代码库
-
-
-**Topics**：-
-
-
-
----
-
-### 7. JCodesMore/ai-website-cloner-template
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) |
-| ⭐ Stars | 16425 |
-| 🍴 Forks | 2516 |
-| 👀 Watchers | 16425 |
-| 📝 Open Issues | 10 |
+| 链接 | [https://github.com/wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
+| ⭐ Stars | 6115 |
+| 🍴 Forks | 725 |
+| 👀 Watchers | 6115 |
+| 📝 Open Issues | 133 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-13 |
+| 📅 创建时间 | 2024-12-04 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Clone any website with one command using AI coding agents
+This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 **中文简介**：
-使用 AI 编码代理通过一个命令克隆任何网站
+这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能
 
 
-**Topics**：ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
+**Topics**：agent, ai, code-analysis, code-generation, gemini-cli-extension, mcp, terminal-ai, terminal-automation, vibe-coding
 
-
-
----
-
-### 8. HKUDS/Vibe-Trading
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) |
-| ⭐ Stars | 10946 |
-| 🍴 Forks | 2141 |
-| 👀 Watchers | 10946 |
-| 📝 Open Issues | 5 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-04-01 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-"Vibe-Trading: Your Personal Trading Agent"
-
-**中文简介**：
-“Vibe-Trading：您的个人交易代理”
-
-
-**Topics**：ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading
-
-
-
----
-
-### 9. hugohe3/ppt-master
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) |
-| ⭐ Stars | 24763 |
-| 🍴 Forks | 2245 |
-| 👀 Watchers | 24763 |
-| 📝 Open Issues | 0 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-12-10 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He
-
-**中文简介**：
-AI 从任何文档生成真实的、可编辑的 PowerPoint — 原生形状和动画、以音频旁白形式表达的演讲者注释，以及遵循您自己的 .pptx 模板而不是幻灯片图像的选项 · 作者：Hugo He
-
-
-**Topics**：ai-agent, aippt, office, powerpoint, powerpoint-generation, ppt, pptx, presentation, slide, slides
-
-
-
----
-
-### 10. opendatalab/MinerU
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/opendatalab/MinerU](https://github.com/opendatalab/MinerU) |
-| ⭐ Stars | 66642 |
-| 🍴 Forks | 5616 |
-| 👀 Watchers | 66642 |
-| 📝 Open Issues | 16 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2024-02-29 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
-
-**中文简介**：
-将 PDF 和 Office 文档等复杂文档转换为适合 LLM 的 markdown/JSON，用于您的智能体工作流。
-
-
-**Topics**：ai4science, document-analysis, docx, extract-data, layout-analysis, ocr, parser, pdf, pdf-converter, pdf-extractor-llm, pdf-extractor-pretrain, pdf-extractor-rag, pdf-parser, pptx, python, xlsx
-
-**中文Topics**：ai4science, 文档分析, docx, 数据提取, 版面分析, ocr, parser, pdf, pdf-converter, pdf-extractor-llm, pdf-extractor-pretrain, pdf-extractor-rag, pdf-parser, pptx, python, xlsx
 
 
 ---

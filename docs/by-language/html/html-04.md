@@ -1,9 +1,9 @@
 # 💻 HTML 热门项目 - 第 4 页
 
 > 使用 HTML 开发的热门开源项目
-> 最后更新：2026-06-30 20:47
+> 最后更新：2026-07-11 23:37
 
-共收录 **325** 个项目
+共收录 **326** 个项目
 （第 4/4 页）
 
 ## 项目列表
@@ -697,6 +697,35 @@ Development and deployment made easy.
 
 **Topics**：-
 
+
+
+---
+
+### 326. hasaneyldrm/exercises-dataset
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) |
+| ⭐ Stars | 11471 |
+| 🍴 Forks | 1315 |
+| 👀 Watchers | 11471 |
+| 📝 Open Issues | 15 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-18 |
+| 🔄 最后更新 | 2026-07-11 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+
+**中文简介**：
+1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。
+
+
+**Topics**：dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout
+
+**中文Topics**：数据集, 练习数据库, 练习, 健身, 健身应用程序, 健身房, json, 日志新闻, 反应本机, 锻炼
 
 
 ---
