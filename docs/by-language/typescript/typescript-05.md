@@ -1,7 +1,7 @@
 # 💻 TypeScript 热门项目 - 第 5 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-07-11 23:37
+> 最后更新：2026-07-17 10:22
 
 共收录 **1726** 个项目
 （第 5/18 页）
@@ -1125,7 +1125,7 @@ RedwoodGraphQL
 
 **Topics**：apollo, graphql, jamstack, prisma, react
 
-**中文Topics**：阿波罗, graphql, 果酱堆, 棱镜, react
+**中文Topics**：apollo, graphql, jamstack, prisma, react
 
 
 ---

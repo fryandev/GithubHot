@@ -1,7 +1,7 @@
 # ⭐ 热门 - 第 43 页
 
 > ⭐ 热门 项目列表
-> 最后更新：2026-07-11 23:37
+> 最后更新：2026-07-17 10:22
 
 共收录 **12283** 个项目
 （第 43/123 页）
@@ -560,7 +560,7 @@ EDK II
 
 **Topics**：c, firmware, python, uefi
 
-**中文Topics**：c, 固件, python, 乌夫
+**中文Topics**：c, firmware, python, uefi
 
 
 ---

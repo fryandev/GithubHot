@@ -1,9 +1,9 @@
 # AI / 机器学习 - 第 11 页
 
 > AI / 机器学习 相关的热门开源项目
-> 最后更新：2026-07-11 23:37
+> 最后更新：2026-07-17 10:22
 
-共收录 **1048** 个项目
+共收录 **1049** 个项目
 （第 11/11 页）
 
 ## 项目列表
@@ -1341,6 +1341,32 @@ Numbers every LLM developer should know
 
 **中文简介**：
 每个 LLM 开发人员都应该知道的数字
+
+
+**Topics**：-
+
+
+
+---
+
+### 1049. Nutlope/hallmark
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
+| ⭐ Stars | 10969 |
+| 🍴 Forks | 543 |
+| 👀 Watchers | 10969 |
+| 📝 Open Issues | 20 |
+| 💻 主语言 | CSS |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-27 |
+| 🔄 最后更新 | 2026-07-17 |
+| 📜 License | MIT |
+
+**简介**：
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+
 
 
 **Topics**：-

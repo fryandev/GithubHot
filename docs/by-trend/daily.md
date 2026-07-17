@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-07-11 23:37
+> 最后更新：2026-07-17 10:22
 
 共收录 **10** 个项目
 
@@ -9,178 +9,62 @@
 ## 项目列表
 
 
-### 1. MadsLorentzen/ai-job-search
+### 1. OpenCut-app/OpenCut
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) |
-| ⭐ Stars | 20949 |
-| 🍴 Forks | 6102 |
-| 👀 Watchers | 20949 |
-| 📝 Open Issues | 4 |
+| 链接 | [https://github.com/OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) |
+| ⭐ Stars | 54383 |
+| 🍴 Forks | 5931 |
+| 👀 Watchers | 54383 |
+| 📝 Open Issues | 318 |
 | 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-18 |
-| 🔄 最后更新 | 2026-07-11 |
-| 📜 License | MIT |
-
-**简介**：
-The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-
-**中文简介**：
-在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。
-
-
-**Topics**：ai, ai-agents, career, claude-code, cover-letter, cv, interview-preparation, job-application, job-hunting, job-search, latex, resume
-
-**中文Topics**：ai, 人工智能代理, 职业生涯, 克劳德·代码, 求职信, cv, 面试准备, 工作申请, 找工作, 求职, 乳胶, 恢复
-
-
----
-
-### 2. iOfficeAI/OfficeCLI
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) |
-| ⭐ Stars | 6262 |
-| 🍴 Forks | 494 |
-| 👀 Watchers | 6262 |
-| 📝 Open Issues | 17 |
-| 💻 主语言 | C# |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
-
-**中文简介**：
-OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。
-
-
-**Topics**：agent, ai, cli, office, openclaw, skills
-
-
-
----
-
-### 3. DietrichGebert/ponytail
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
-| ⭐ Stars | 22294 |
-| 🍴 Forks | 968 |
-| 👀 Watchers | 22294 |
-| 📝 Open Issues | 28 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-12 |
-| 🔄 最后更新 | 2026-06-16 |
-| 📜 License | MIT |
-
-**简介**：
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-**中文简介**：
-让你的AI智能体表现得像房间里最懒的资深开发人员。最好的代码，就是你从未写过的代码。
-
-
-**Topics**：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
-
-**中文Topics**：智能体技能, AI智能体, claude, Claude-Code, Claude-Code插件, Cursor规则, 开发者工具, llm, 提示词工程, yagni
-
-
----
-
-### 4. addyosmani/agent-skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
-| ⭐ Stars | 48558 |
-| 🍴 Forks | 5394 |
-| 👀 Watchers | 48558 |
-| 📝 Open Issues | 97 |
-| 💻 主语言 | Shell |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-15 |
+| 📅 创建时间 | 2025-06-22 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Production-grade engineering skills for AI coding agents.
+The open-source CapCut alternative
 
 **中文简介**：
-面向AI编码代理的生产级工程技能。
+开源 CapCut 替代品
 
 
-**Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
+**Topics**：editor, oss, videoeditor
 
-**中文Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, 技能
+**中文Topics**：编辑器, 开源软件, 视频编辑器
 
 
 ---
 
-### 5. stablyai/orca
+### 2. Nutlope/hallmark
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/stablyai/orca](https://github.com/stablyai/orca) |
-| ⭐ Stars | 4290 |
-| 🍴 Forks | 280 |
-| 👀 Watchers | 4290 |
-| 📝 Open Issues | 290 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-17 |
-| 🔄 最后更新 | 2026-06-06 |
+| 链接 | [https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
+| ⭐ Stars | 10969 |
+| 🍴 Forks | 543 |
+| 👀 Watchers | 10969 |
+| 📝 Open Issues | 20 |
+| 💻 主语言 | CSS |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-27 |
+| 🔄 最后更新 | 2026-07-17 |
 | 📜 License | MIT |
 
 **简介**：
-Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-
-**中文简介**：
-Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 
-**Topics**：ade, claude-code, cli, codex, cursor-agent, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees
+
+**Topics**：-
 
 
 
 ---
 
-### 6. diegosouzapw/OmniRoute
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) |
-| ⭐ Stars | 5795 |
-| 🍴 Forks | 1001 |
-| 👀 Watchers | 5795 |
-| 📝 Open Issues | 35 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-02-13 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-
-**中文简介**：
-永远不要停止编码。免费 AI 网关：一个端点，160 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。
-
-
-**Topics**：a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver
-
-
-
----
-
-### 7. safishamsi/graphify
+### 3. safishamsi/graphify
 
 | 属性 | 信息 |
 |---|---|
@@ -209,83 +93,200 @@ AI 编程助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等
 
 ---
 
-### 8. x4gKing/X4G
+### 4. iOfficeAI/OfficeCLI
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/x4gKing/X4G](https://github.com/x4gKing/X4G) |
-| ⭐ Stars | 4347 |
-| 🍴 Forks | 8236 |
-| 👀 Watchers | 4347 |
-| 📝 Open Issues | 12 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-04 |
-| 🔄 最后更新 | 2026-07-11 |
-| 📜 License | 未知 |
+| 链接 | [https://github.com/iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) |
+| ⭐ Stars | 6262 |
+| 🍴 Forks | 494 |
+| 👀 Watchers | 6262 |
+| 📝 Open Issues | 17 |
+| 💻 主语言 | C# |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-15 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-暂无描述
+OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+
+**中文简介**：
+OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。
 
 
-
-**Topics**：-
+**Topics**：agent, ai, cli, office, openclaw, skills
 
 
 
 ---
 
-### 9. Panniantong/Agent-Reach
+### 5. hasaneyldrm/exercises-dataset
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
-| ⭐ Stars | 22007 |
-| 🍴 Forks | 1886 |
-| 👀 Watchers | 22007 |
-| 📝 Open Issues | 52 |
+| 链接 | [https://github.com/hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) |
+| ⭐ Stars | 11471 |
+| 🍴 Forks | 1315 |
+| 👀 Watchers | 11471 |
+| 📝 Open Issues | 15 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-18 |
+| 🔄 最后更新 | 2026-07-11 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+
+**中文简介**：
+1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。
+
+
+**Topics**：dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout
+
+**中文Topics**：数据集, 练习数据库, 练习, 健身, 健身应用程序, 健身房, json, 日志新闻, 反应本机, 锻炼
+
+
+---
+
+### 6. DietrichGebert/ponytail
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
+| ⭐ Stars | 22294 |
+| 🍴 Forks | 968 |
+| 👀 Watchers | 22294 |
+| 📝 Open Issues | 28 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-06-16 |
+| 📜 License | MIT |
+
+**简介**：
+Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+**中文简介**：
+让你的AI智能体表现得像房间里最懒的资深开发人员。最好的代码，就是你从未写过的代码。
+
+
+**Topics**：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
+
+**中文Topics**：智能体技能, AI智能体, claude, Claude-Code, Claude-Code插件, Cursor规则, 开发者工具, llm, 提示词工程, yagni
+
+
+---
+
+### 7. HKUDS/Vibe-Trading
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) |
+| ⭐ Stars | 10946 |
+| 🍴 Forks | 2141 |
+| 👀 Watchers | 10946 |
+| 📝 Open Issues | 5 |
 | 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-24 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-04-01 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+"Vibe-Trading: Your Personal Trading Agent"
 
 **中文简介**：
-让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。
+“Vibe-Trading：您的个人交易代理”
 
 
-**Topics**：agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
+**Topics**：ai-agent, algorithmic-trading, backtesting, fintech, llm, mcp, multi-agent, python, quantitative-finance, trading
 
 
 
 ---
 
-### 10. wonderwhy-er/DesktopCommanderMCP
+### 8. stablyai/orca
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
-| ⭐ Stars | 6115 |
-| 🍴 Forks | 725 |
-| 👀 Watchers | 6115 |
-| 📝 Open Issues | 133 |
+| 链接 | [https://github.com/stablyai/orca](https://github.com/stablyai/orca) |
+| ⭐ Stars | 4290 |
+| 🍴 Forks | 280 |
+| 👀 Watchers | 4290 |
+| 📝 Open Issues | 290 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | hot |
-| 📅 创建时间 | 2024-12-04 |
+| 📅 创建时间 | 2026-03-17 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 
 **中文简介**：
-这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能
+Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
 
 
-**Topics**：agent, ai, code-analysis, code-generation, gemini-cli-extension, mcp, terminal-ai, terminal-automation, vibe-coding
+**Topics**：ade, claude-code, cli, codex, cursor-agent, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees
+
+
+
+---
+
+### 9. Raphire/Win11Debloat
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) |
+| ⭐ Stars | 47207 |
+| 🍴 Forks | 1902 |
+| 👀 Watchers | 47207 |
+| 📝 Open Issues | 36 |
+| 💻 主语言 | PowerShell |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2020-10-27 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+
+**中文简介**：
+一个简单轻量的PowerShell脚本，可移除预装应用、禁用遥测，并执行其他各种更改来简化和定制你的Windows体验。Win11Debloat适用于Windows 10和Windows 11。
+
+
+**Topics**：automated, bloatware, bloatware-removal, cleanup, cli, debloat, debloater, interactive, optimize, powershell, powershell-script, privacy, ps1, registry-tweaks, tweaks, windows, windows-10, windows-11, windows10, windows11
+
+**中文Topics**：自动化, 臃肿软件, 臃肿软件移除, 清理, cli, 精简, 精简工具, 交互式, 优化, powershell, powershell脚本, 隐私, ps1, 注册表调整, 调整, windows, windows-10, windows-11, windows10, windows11
+
+
+---
+
+### 10. HenryNdubuaku/maths-cs-ai-compendium
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) |
+| ⭐ Stars | 4448 |
+| 🍴 Forks | 619 |
+| 👀 Watchers | 4448 |
+| 📝 Open Issues | 7 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-02-03 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Become a cracked AI/ML Research Engineer
+
+**中文简介**：
+成为一名出色的 AI/ML 研究工程师
+
+
+**Topics**：ai-textbook, algorithms, artificial-intelligence, computer-science, computer-vision, deep-learning, jax, linear-algebra, machine-learning, machine-learning-algorithms, math, mathematics, multimodal-learning, nlp, probability, python, reinforcement-learning, speech-processing, statistics
 
 
 

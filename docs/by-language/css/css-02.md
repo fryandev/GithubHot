@@ -1,9 +1,9 @@
 # 💻 CSS 热门项目 - 第 2 页
 
 > 使用 CSS 开发的热门开源项目
-> 最后更新：2026-07-11 23:37
+> 最后更新：2026-07-17 10:22
 
-共收录 **116** 个项目
+共收录 **117** 个项目
 （第 2/2 页）
 
 ## 项目列表
@@ -452,6 +452,32 @@ Get the rocks out of your socks! Assemble makes you fast at web development! Use
 
 
 **Topics**：assemble, blog-engine, build, css, docs, documentation, generator, grunt, gulp, html, html-templates, javascript, markdown, md, nodejs, pwa, scaffold, static-site, static-site-generator, templates
+
+
+
+---
+
+### 117. Nutlope/hallmark
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
+| ⭐ Stars | 10969 |
+| 🍴 Forks | 543 |
+| 👀 Watchers | 10969 |
+| 📝 Open Issues | 20 |
+| 💻 主语言 | CSS |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-27 |
+| 🔄 最后更新 | 2026-07-17 |
+| 📜 License | MIT |
+
+**简介**：
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+
+
+
+**Topics**：-
 
 
 

@@ -1,7 +1,7 @@
 # ⭐ 热门 - 第 78 页
 
 > ⭐ 热门 项目列表
-> 最后更新：2026-07-11 23:37
+> 最后更新：2026-07-17 10:22
 
 共收录 **12283** 个项目
 （第 78/123 页）
@@ -643,7 +643,7 @@ SpringBoot2.0+从入门到实战！
 
 **Topics**：asynchronous, dubbo, mybatis, rabbitmq, spring-data-jpa, springboot
 
-**中文Topics**：异步, 达博, mybatis, rabbitmq, 弹簧数据jpa, 弹簧靴
+**中文Topics**：asynchronous, dubbo, mybatis, rabbitmq, spring-data-jpa, springboot
 
 
 ---

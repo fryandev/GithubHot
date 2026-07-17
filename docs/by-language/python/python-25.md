@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-07-11 23:37
+> 最后更新：2026-07-17 10:22
 
-共收录 **2484** 个项目
+共收录 **2485** 个项目
 （第 25/25 页）
 
 ## 项目列表
@@ -2347,6 +2347,32 @@ DeepSpec：用于训练和评估推测解码算法的端到端代码库
 
 **简介**：
 暂无描述
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 2485. bradautomates/claude-video
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bradautomates/claude-video](https://github.com/bradautomates/claude-video) |
+| ⭐ Stars | 8826 |
+| 🍴 Forks | 955 |
+| 👀 Watchers | 8826 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-24 |
+| 🔄 最后更新 | 2026-07-17 |
+| 📜 License | MIT |
+
+**简介**：
+Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 
 
 

@@ -1,7 +1,7 @@
 # ⭐ 热门 - 第 40 页
 
 > ⭐ 热门 项目列表
-> 最后更新：2026-07-11 23:37
+> 最后更新：2026-07-17 10:22
 
 共收录 **12283** 个项目
 （第 40/123 页）
@@ -2289,7 +2289,7 @@ Angular + Firebase = ❤️
 
 **Topics**：angular, angularfire, cloud-firestore, cloud-functions, firebase, ngrx, notifications, offline-data, realtime, realtime-database, rxjs
 
-**中文Topics**：angular, 角火, 云火存储, 云功能, 火力基地, ngrx, 通知, 离线数据, 实时, 实时数据库, RXJ
+**中文Topics**：angular, angularfire, cloud-firestore, cloud-functions, firebase, ngrx, notifications, offline-data, realtime, realtime-database, rxjs
 
 
 ---
