@@ -1,9 +1,9 @@
 # Web 开发 - 第 13 页
 
 > Web 开发 相关的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
-共收录 **1209** 个项目
+共收录 **1210** 个项目
 （第 13/13 页）
 
 ## 项目列表
@@ -253,6 +253,34 @@ DeepSpec: a full-stack codebase for training and evaluating speculative decoding
 
 **中文简介**：
 DeepSpec：用于训练和评估推测解码算法的端到端代码库
+
+
+**Topics**：-
+
+
+
+---
+
+### 1210. xai-org/grok-build
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/xai-org/grok-build](https://github.com/xai-org/grok-build) |
+| ⭐ Stars | 19647 |
+| 🍴 Forks | 3519 |
+| 👀 Watchers | 19647 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-14 |
+| 🔄 最后更新 | 2026-07-19 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+**中文简介**：
+SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
 
 
 **Topics**：-

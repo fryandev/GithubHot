@@ -1,7 +1,7 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
 共收录 **2485** 个项目
 （第 25/25 页）
@@ -2374,6 +2374,8 @@ DeepSpec：用于训练和评估推测解码算法的端到端代码库
 **简介**：
 Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 
+**中文简介**：
+让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。
 
 
 **Topics**：-

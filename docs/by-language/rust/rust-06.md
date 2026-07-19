@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
-共收录 **529** 个项目
+共收录 **530** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -819,6 +819,34 @@ Open-source, community-driven agent harness
 **Topics**：cli, deepseek, llm, rust, terminal, tui
 
 **中文Topics**：cli, deepseek, llm, rust, terminal, tui
+
+
+---
+
+### 530. xai-org/grok-build
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/xai-org/grok-build](https://github.com/xai-org/grok-build) |
+| ⭐ Stars | 19647 |
+| 🍴 Forks | 3519 |
+| 👀 Watchers | 19647 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-14 |
+| 🔄 最后更新 | 2026-07-19 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
+**中文简介**：
+SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
+
+
+**Topics**：-
+
 
 
 ---

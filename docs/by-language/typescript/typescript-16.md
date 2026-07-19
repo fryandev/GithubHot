@@ -1,7 +1,7 @@
 # 💻 TypeScript 热门项目 - 第 16 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
 共收录 **1726** 个项目
 （第 16/18 页）
@@ -1233,7 +1233,7 @@ LM Studio CLI
 
 **Topics**：llm, lmstudio, nodejs, typescript
 
-**中文Topics**：llm, lmstudio, nodejs, typescript
+**中文Topics**：llm, 工作室, nodejs, typescript
 
 
 ---

@@ -1,13 +1,13 @@
 # 🔥 GitHub 热门项目精选
 
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
 ## 📊 数据概览
 
 | 指标 | 数值 |
 |---|---|
-| 收录项目总数 | 14420 |
-| 热门项目数 | 14420 |
+| 收录项目总数 | 14424 |
+| 热门项目数 | 14424 |
 | 涵盖语言 | 151 种 |
 | 涵盖领域 | 12 个 |
 
@@ -16,16 +16,16 @@
 ### 按语言
 
 - [Python](by-language/python.md) (2485)
-- [JavaScript](by-language/javascript.md) (1810)
+- [JavaScript](by-language/javascript.md) (1811)
 - [TypeScript](by-language/typescript.md) (1726)
 - [Go](by-language/go.md) (1106)
 - [Java](by-language/java.md) (797)
 - [C++](by-language/cplusplus.md) (719)
-- [Rust](by-language/rust.md) (529)
+- [Rust](by-language/rust.md) (530)
 - [C](by-language/c.md) (510)
-- [C#](by-language/csharp.md) (366)
+- [C#](by-language/csharp.md) (367)
 - [Jupyter Notebook](by-language/jupyter-notebook.md) (342)
-- [Shell](by-language/shell.md) (337)
+- [Shell](by-language/shell.md) (338)
 - [HTML](by-language/html.md) (326)
 - [PHP](by-language/php.md) (322)
 - [Swift](by-language/swift.md) (265)
@@ -36,8 +36,8 @@
 
 ### 按领域
 
-- [🛠️ 工具](by-category/tools.md) (2140)
-- [🌐 Web 开发](by-category/web-dev.md) (1224)
+- [🛠️ 工具](by-category/tools.md) (2142)
+- [🌐 Web 开发](by-category/web-dev.md) (1225)
 - [📱 移动端](by-category/mobile.md) (1134)
 - [🏗️ 基础设施](by-category/infrastructure.md) (1107)
 - [🤖 AI / 机器学习](by-category/ai-ml.md) (1058)
@@ -60,9 +60,9 @@
 
 ### 按活跃
 
-- [🔥 最近7天活跃](by-activity/daily.md) (2)
-- [📅 最近30天活跃](by-activity/weekly.md) (13)
-- [📆 最近90天活跃](by-activity/monthly.md) (7432)
+- [🔥 最近7天活跃](by-activity/daily.md) (3)
+- [📅 最近30天活跃](by-activity/weekly.md) (15)
+- [📆 最近90天活跃](by-activity/monthly.md) (7361)
 
 
 ### 按趋势

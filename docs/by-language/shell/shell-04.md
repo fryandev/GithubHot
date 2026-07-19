@@ -1,9 +1,9 @@
 # 💻 Shell 热门项目 - 第 4 页
 
 > 使用 Shell 开发的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
-共收录 **337** 个项目
+共收录 **338** 个项目
 （第 4/4 页）
 
 ## 项目列表
@@ -1041,6 +1041,35 @@ Bash 行编辑器——用纯 Bash 编写的行编辑器，具有用于 Bash 交
 
 **Topics**：antigen, awesome, clipboard, command-line-tool, keybinding, like, oh-my-zsh, productivity, shell, shell-scripts, surround, terminal, vi-keybinds, vim, zgen, zinit, zplug, zsh, zsh-plugin, zsh-plugins
 
+
+
+---
+
+### 338. 0xNyk/council-of-high-intelligence
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) |
+| ⭐ Stars | 3649 |
+| 🍴 Forks | 5 |
+| 👀 Watchers | 3649 |
+| 📝 Open Issues | 19 |
+| 💻 主语言 | Shell |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-02 |
+| 🔄 最后更新 | 2026-07-19 |
+| 📜 License | MIT |
+
+**简介**：
+Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
+
+**中文简介**：
+为艰难决策进行结构化的多角度审议。就 Claude Code、Codex、Gemini CLI 和 OpenCode 举办完整的委员会、重点三合会或双人辩论。
+
+
+**Topics**：agent-skill, ai-agents, claude-code, codex, decision-making, deliberation, gemini-cli, llm-routing, multi-agent-systems, multi-llm, open-source, opencode, prompt-engineering, structured-debate
+
+**中文Topics**：代理技能, 人工智能代理, 克劳德·代码, codex, 决策, 商议, Gemini-cli, llm 路由, 多代理系统, 多LLM, 开源, 开放代码, 即时工程, 结构化辩论
 
 
 ---

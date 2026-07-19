@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
-共收录 **1810** 个项目
+共收录 **1811** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -286,6 +286,34 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 **Topics**：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
 
 **中文Topics**：智能体技能, AI智能体, claude, Claude-Code, Claude-Code插件, Cursor规则, 开发者工具, llm, 提示词工程, yagni
+
+
+---
+
+### 1811. Fei-Away/Codex-Dream-Skin
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) |
+| ⭐ Stars | 10068 |
+| 🍴 Forks | 1047 |
+| 👀 Watchers | 10068 |
+| 📝 Open Issues | 101 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-15 |
+| 🔄 最后更新 | 2026-07-19 |
+| 📜 License | 未知 |
+
+**简介**：
+Codex Dream Skin
+
+**中文简介**：
+法典梦想皮肤
+
+
+**Topics**：-
+
 
 
 ---

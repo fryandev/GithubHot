@@ -1,7 +1,7 @@
 # 📊 周飙升榜
 
 > 📊 周飙升榜 项目列表
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
 共收录 **20** 个项目
 
@@ -484,6 +484,8 @@ An open source design system that's fully customizable and agent ready
 **简介**：
 Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 
+**中文简介**：
+让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。
 
 
 **Topics**：-

@@ -1,7 +1,7 @@
 # 💻 CSS 热门项目 - 第 2 页
 
 > 使用 CSS 开发的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
 共收录 **117** 个项目
 （第 2/2 页）
@@ -475,6 +475,8 @@ Get the rocks out of your socks! Assemble makes you fast at web development! Use
 **简介**：
 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
+**中文简介**：
+Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 
 **Topics**：-

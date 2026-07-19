@@ -1,7 +1,7 @@
 # 💻 TypeScript 热门项目 - 第 9 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
 共收录 **1726** 个项目
 （第 9/18 页）
@@ -142,7 +142,7 @@ Angular + Firebase = ❤️
 
 **Topics**：angular, angularfire, cloud-firestore, cloud-functions, firebase, ngrx, notifications, offline-data, realtime, realtime-database, rxjs
 
-**中文Topics**：angular, angularfire, cloud-firestore, cloud-functions, firebase, ngrx, notifications, offline-data, realtime, realtime-database, rxjs
+**中文Topics**：angular, 角火, 云火存储, 云功能, 火力基地, ngrx, 通知, 离线数据, 实时, 实时数据库, RXJ
 
 
 ---

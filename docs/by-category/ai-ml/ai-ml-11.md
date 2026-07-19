@@ -1,7 +1,7 @@
 # AI / 机器学习 - 第 11 页
 
 > AI / 机器学习 相关的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
 共收录 **1049** 个项目
 （第 11/11 页）
@@ -1367,6 +1367,8 @@ Numbers every LLM developer should know
 **简介**：
 Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
+**中文简介**：
+Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 
 **Topics**：-

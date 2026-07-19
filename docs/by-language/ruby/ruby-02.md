@@ -1,7 +1,7 @@
 # 💻 Ruby 热门项目 - 第 2 页
 
 > 使用 Ruby 开发的热门开源项目
-> 最后更新：2026-07-17 10:22
+> 最后更新：2026-07-19 19:03
 
 共收录 **174** 个项目
 （第 2/2 页）
@@ -1571,7 +1571,7 @@ Ruby ♥︎ JavaScript
 
 **Topics**：browser, compiler, javascript, js, nodejs, opal, ruby
 
-**中文Topics**：browser, compiler, javascript, js, nodejs, opal, ruby
+**中文Topics**：浏览器, 编译器, javascript, js, nodejs, 蛋白石, ruby
 
 
 ---
