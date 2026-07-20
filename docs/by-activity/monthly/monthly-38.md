@@ -1,182 +1,15 @@
 # 📆 最近90天活跃 - 第 38 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
-共收录 **7361** 个项目
+共收录 **7343** 个项目
 （第 38/74 页）
 
 ## 项目列表
 
 
-### 3701. RyanFitzgerald/devportfolio
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) |
-| ⭐ Stars | 4906 |
-| 🍴 Forks | 4138 |
-| 👀 Watchers | 4906 |
-| 📝 Open Issues | 16 |
-| 💻 主语言 | Astro |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-03-11 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | MIT |
-
-**简介**：
-A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
-
-**中文简介**：
-使用 Astro 和 Tailwind CSS 构建的现代简约作品集模板。非常适合希望以简洁、专业的方式展示其技能、经验和项目的开发人员。
-
-
-**Topics**：javascript, portfolio, portfolio-template, portfolio-website, sass, skills, template, timeline
-
-
-
----
-
-### 3702. react-page/react-page
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/react-page/react-page](https://github.com/react-page/react-page) |
-| ⭐ Stars | 9550 |
-| 🍴 Forks | 652 |
-| 👀 Watchers | 9550 |
-| 📝 Open Issues | 9 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2015-05-29 |
-| 🔄 最后更新 | 2026-06-03 |
-| 📜 License | MIT |
-
-**简介**：
-Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
-
-**中文简介**：
-下一代、高度可定制的浏览器内容编辑器 - 基于 React 并用 TypeScript 编写。所见即所得的类固醇。
-
-
-**Topics**：editor, react, sites, wysiwyg-editor
-
-
-
----
-
-### 3703. prometheus-operator/kube-prometheus
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) |
-| ⭐ Stars | 7668 |
-| 🍴 Forks | 2051 |
-| 👀 Watchers | 7668 |
-| 📝 Open Issues | 200 |
-| 💻 主语言 | Jsonnet |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2016-10-24 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Use Prometheus to monitor Kubernetes and applications running on Kubernetes
-
-**中文简介**：
-使用Prometheus监控Kubernetes以及Kubernetes上运行的应用程序
-
-
-**Topics**：alerts, cluster-monitoring, dashboards, hacktoberfest, kubernetes, operator, prometheus, prometheus-operator
-
-
-
----
-
-### 3704. ThreeDotsLabs/watermill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) |
-| ⭐ Stars | 9748 |
-| 🍴 Forks | 497 |
-| 👀 Watchers | 9748 |
-| 📝 Open Issues | 78 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2018-11-08 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | MIT |
-
-**简介**：
-Building event-driven applications the easy way in Go.
-
-**中文简介**：
-在 Go 中轻松构建事件驱动的应用程序。
-
-
-**Topics**：cqrs, event-driven, event-sourcing, events, go, golang, kafka, nats, rabbitmq, reactive, sagas, stream-processing, watermill
-
-**中文Topics**：cqrs, 事件驱动, 事件溯源, 活动, go, 戈兰, kafka, nats, rabbitmq, 反应性, 传奇, 流处理, 水磨坊
-
-
----
-
-### 3705. Unity-Technologies/EntityComponentSystemSamples
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Unity-Technologies/EntityComponentSystemSamples](https://github.com/Unity-Technologies/EntityComponentSystemSamples) |
-| ⭐ Stars | 8120 |
-| 🍴 Forks | 1718 |
-| 👀 Watchers | 8120 |
-| 📝 Open Issues | 66 |
-| 💻 主语言 | C# |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2018-03-17 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-暂无描述
-
-
-
-**Topics**：auto-vectorisation, auto-vectorization, burst, component, containers, csharp, documentation, ecs, entity, high, jobs, multicore, multicore-processors, multicore-programming, native, performance, simd, system, tutorials, unity3d
-
-
-
----
-
-### 3706. BlinkDL/ChatRWKV
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) |
-| ⭐ Stars | 9492 |
-| 🍴 Forks | 687 |
-| 👀 Watchers | 9492 |
-| 📝 Open Issues | 59 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2023-01-13 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-
-**中文简介**：
-ChatRWKV 类似于 ChatGPT，但由 RWKV（100% RNN）语言模型提供支持，并且是开源的。
-
-
-**Topics**：chatbot, chatgpt, language-model, pytorch, rnn, rwkv
-
-
-
----
-
-### 3707. khuedoan/homelab
+### 3701. khuedoan/homelab
 
 | 属性 | 信息 |
 |---|---|
@@ -204,7 +37,7 @@ Fully automated homelab from empty disk to running services with a single comman
 
 ---
 
-### 3708. timarney/react-app-rewired
+### 3702. timarney/react-app-rewired
 
 | 属性 | 信息 |
 |---|---|
@@ -232,7 +65,7 @@ Override create-react-app webpack configs without ejecting
 
 ---
 
-### 3709. bottlerocket-os/bottlerocket
+### 3703. bottlerocket-os/bottlerocket
 
 | 属性 | 信息 |
 |---|---|
@@ -261,7 +94,7 @@ An operating system designed for hosting containers
 
 ---
 
-### 3710. majd/ipatool
+### 3704. majd/ipatool
 
 | 属性 | 信息 |
 |---|---|
@@ -289,7 +122,7 @@ Command-line tool that allows searching and downloading app packages (known as i
 
 ---
 
-### 3711. Azure/azure-powershell
+### 3705. Azure/azure-powershell
 
 | 属性 | 信息 |
 |---|---|
@@ -317,7 +150,7 @@ Microsoft Azure PowerShell
 
 ---
 
-### 3712. HariSekhon/DevOps-Bash-tools
+### 3706. HariSekhon/DevOps-Bash-tools
 
 | 属性 | 信息 |
 |---|---|
@@ -345,7 +178,7 @@ Microsoft Azure PowerShell
 
 ---
 
-### 3713. falcosecurity/falco
+### 3707. falcosecurity/falco
 
 | 属性 | 信息 |
 |---|---|
@@ -373,7 +206,7 @@ Cloud Native Runtime Security
 
 ---
 
-### 3714. Atarity/deploy-your-own-saas
+### 3708. Atarity/deploy-your-own-saas
 
 | 属性 | 信息 |
 |---|---|
@@ -401,7 +234,7 @@ List of "only yours" cloud services for everyday needs :black_flag:
 
 ---
 
-### 3715. shellphish/how2heap
+### 3709. shellphish/how2heap
 
 | 属性 | 信息 |
 |---|---|
@@ -429,7 +262,7 @@ A repository for learning various heap exploitation techniques.
 
 ---
 
-### 3716. h2oai/h2o-3
+### 3710. h2oai/h2o-3
 
 | 属性 | 信息 |
 |---|---|
@@ -457,7 +290,7 @@ H2O 是一个开源、分布式、快速且可扩展的机器学习平台：深�
 
 ---
 
-### 3717. python-visualization/folium
+### 3711. python-visualization/folium
 
 | 属性 | 信息 |
 |---|---|
@@ -485,7 +318,7 @@ Python 数据。 Leaflet.js 地图。
 
 ---
 
-### 3718. facebook/proxygen
+### 3712. facebook/proxygen
 
 | 属性 | 信息 |
 |---|---|
@@ -513,7 +346,7 @@ C++ HTTP 库的集合，包括易于使用的 HTTP 服务器。
 
 ---
 
-### 3719. apache/zeppelin
+### 3713. apache/zeppelin
 
 | 属性 | 信息 |
 |---|---|
@@ -541,7 +374,7 @@ Web-based notebook that enables data-driven, interactive data analytics and coll
 
 ---
 
-### 3720. AnmolSaini16/mapcn
+### 3714. AnmolSaini16/mapcn
 
 | 属性 | 信息 |
 |---|---|
@@ -569,7 +402,7 @@ Beautiful map components. 100% Free, Zero config, one command setup.
 
 ---
 
-### 3721. MassTransit/MassTransit
+### 3715. MassTransit/MassTransit
 
 | 属性 | 信息 |
 |---|---|
@@ -597,7 +430,7 @@ Distributed Application Framework for .NET
 
 ---
 
-### 3722. pyro-ppl/pyro
+### 3716. pyro-ppl/pyro
 
 | 属性 | 信息 |
 |---|---|
@@ -626,7 +459,7 @@ Deep universal probabilistic programming with Python and PyTorch
 
 ---
 
-### 3723. mediaelement/mediaelement
+### 3717. mediaelement/mediaelement
 
 | 属性 | 信息 |
 |---|---|
@@ -654,7 +487,7 @@ HTML5 <audio> 或 <video> 播放器支持 MP4、WebM 和 MP3 以及 HLS、Dash�
 
 ---
 
-### 3724. conda/conda
+### 3718. conda/conda
 
 | 属性 | 信息 |
 |---|---|
@@ -682,7 +515,7 @@ A system-level, binary package and environment manager running on all major oper
 
 ---
 
-### 3725. playcanvas/supersplat
+### 3719. playcanvas/supersplat
 
 | 属性 | 信息 |
 |---|---|
@@ -710,7 +543,7 @@ A system-level, binary package and environment manager running on all major oper
 
 ---
 
-### 3726. all-contributors/allcontributors.org
+### 3720. all-contributors/allcontributors.org
 
 | 属性 | 信息 |
 |---|---|
@@ -738,7 +571,7 @@ A system-level, binary package and environment manager running on all major oper
 
 ---
 
-### 3727. replicate/cog
+### 3721. replicate/cog
 
 | 属性 | 信息 |
 |---|---|
@@ -766,7 +599,7 @@ Containers for machine learning
 
 ---
 
-### 3728. Kozea/WeasyPrint
+### 3722. Kozea/WeasyPrint
 
 | 属性 | 信息 |
 |---|---|
@@ -794,7 +627,7 @@ The awesome document factory
 
 ---
 
-### 3729. MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
+### 3723. MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator
 
 | 属性 | 信息 |
 |---|---|
@@ -822,7 +655,7 @@ AZ-104 Microsoft Azure 管理员
 
 ---
 
-### 3730. Orama-Interactive/Pixelorama
+### 3724. Orama-Interactive/Pixelorama
 
 | 属性 | 信息 |
 |---|---|
@@ -850,7 +683,7 @@ Unleash your creativity with Pixelorama, a powerful and accessible open-source p
 
 ---
 
-### 3731. async-profiler/async-profiler
+### 3725. async-profiler/async-profiler
 
 | 属性 | 信息 |
 |---|---|
@@ -878,7 +711,7 @@ Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_event
 
 ---
 
-### 3732. NapNeko/NapCatQQ
+### 3726. NapNeko/NapCatQQ
 
 | 属性 | 信息 |
 |---|---|
@@ -906,7 +739,7 @@ Modern protocol-side framework based on NTQQ
 
 ---
 
-### 3733. hiddify/Hiddify-Manager
+### 3727. hiddify/Hiddify-Manager
 
 | 属性 | 信息 |
 |---|---|
@@ -934,7 +767,7 @@ Multi-user anti-filtering panel, with an effortless installation and supporting 
 
 ---
 
-### 3734. godotengine/godot-docs
+### 3728. godotengine/godot-docs
 
 | 属性 | 信息 |
 |---|---|
@@ -962,7 +795,7 @@ Godot引擎官方文档
 
 ---
 
-### 3735. tianocore/edk2
+### 3729. tianocore/edk2
 
 | 属性 | 信息 |
 |---|---|
@@ -989,7 +822,7 @@ EDK II
 
 ---
 
-### 3736. oumi-ai/oumi
+### 3730. oumi-ai/oumi
 
 | 属性 | 信息 |
 |---|---|
@@ -1017,7 +850,7 @@ Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSe
 
 ---
 
-### 3737. vimwiki/vimwiki
+### 3731. vimwiki/vimwiki
 
 | 属性 | 信息 |
 |---|---|
@@ -1045,7 +878,7 @@ Vim 个人 Wiki
 
 ---
 
-### 3738. nidhinjs/prompt-master
+### 3732. nidhinjs/prompt-master
 
 | 属性 | 信息 |
 |---|---|
@@ -1073,7 +906,7 @@ A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or 
 
 ---
 
-### 3739. TiddlyWiki/TiddlyWiki5
+### 3733. TiddlyWiki/TiddlyWiki5
 
 | 属性 | 信息 |
 |---|---|
@@ -1101,7 +934,7 @@ A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 
 ---
 
-### 3740. henrypp/memreduct
+### 3734. henrypp/memreduct
 
 | 属性 | 信息 |
 |---|---|
@@ -1129,7 +962,7 @@ Lightweight real-time memory management application to monitor and clean system 
 
 ---
 
-### 3741. Orchestra-Research/AI-Research-SKILLs
+### 3735. Orchestra-Research/AI-Research-SKILLs
 
 | 属性 | 信息 |
 |---|---|
@@ -1157,7 +990,7 @@ Comprehensive open-source library of AI research and engineering skills for any 
 
 ---
 
-### 3742. tilt-dev/tilt
+### 3736. tilt-dev/tilt
 
 | 属性 | 信息 |
 |---|---|
@@ -1185,7 +1018,7 @@ Define your dev environment as code. For microservice apps on Kubernetes.
 
 ---
 
-### 3743. docker-library/official-images
+### 3737. docker-library/official-images
 
 | 属性 | 信息 |
 |---|---|
@@ -1213,7 +1046,7 @@ Docker“官方镜像”计划的主要真相来源
 
 ---
 
-### 3744. Tiiny-AI/PowerInfer
+### 3738. Tiiny-AI/PowerInfer
 
 | 属性 | 信息 |
 |---|---|
@@ -1241,7 +1074,7 @@ High-speed Large Language Model Serving for Local Deployment
 
 ---
 
-### 3745. rgcr/m-cli
+### 3739. rgcr/m-cli
 
 | 属性 | 信息 |
 |---|---|
@@ -1269,7 +1102,7 @@ High-speed Large Language Model Serving for Local Deployment
 
 ---
 
-### 3746. git-bug/git-bug
+### 3740. git-bug/git-bug
 
 | 属性 | 信息 |
 |---|---|
@@ -1297,7 +1130,7 @@ Distributed, offline-first bug tracker embedded in git
 
 ---
 
-### 3747. marcelscruz/public-apis
+### 3741. marcelscruz/public-apis
 
 | 属性 | 信息 |
 |---|---|
@@ -1325,7 +1158,7 @@ A collaborative list of public APIs for developers
 
 ---
 
-### 3748. JetBrains/Exposed
+### 3742. JetBrains/Exposed
 
 | 属性 | 信息 |
 |---|---|
@@ -1353,7 +1186,7 @@ Kotlin SQL 框架
 
 ---
 
-### 3749. CTFd/CTFd
+### 3743. CTFd/CTFd
 
 | 属性 | 信息 |
 |---|---|
@@ -1381,7 +1214,7 @@ CTFs as you need them
 
 ---
 
-### 3750. kickstarter/ios-oss
+### 3744. kickstarter/ios-oss
 
 | 属性 | 信息 |
 |---|---|
@@ -1409,7 +1242,7 @@ iOS 版 Kickstarter。随时随地将新创意带入生活。
 
 ---
 
-### 3751. Project-MONAI/MONAI
+### 3745. Project-MONAI/MONAI
 
 | 属性 | 信息 |
 |---|---|
@@ -1437,7 +1270,7 @@ AI Toolkit for Healthcare Imaging
 
 ---
 
-### 3752. teamhanko/hanko
+### 3746. teamhanko/hanko
 
 | 属性 | 信息 |
 |---|---|
@@ -1465,7 +1298,7 @@ Modern authentication, on your terms. Open source alternative to Auth0, Clerk, W
 
 ---
 
-### 3753. firebase/quickstart-js
+### 3747. firebase/quickstart-js
 
 | 属性 | 信息 |
 |---|---|
@@ -1493,7 +1326,7 @@ Firebase Quickstart Samples for Web
 
 ---
 
-### 3754. ai-collection/ai-collection
+### 3748. ai-collection/ai-collection
 
 | 属性 | 信息 |
 |---|---|
@@ -1521,7 +1354,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ---
 
-### 3755. locomotivemtl/locomotive-scroll
+### 3749. locomotivemtl/locomotive-scroll
 
 | 属性 | 信息 |
 |---|---|
@@ -1549,7 +1382,7 @@ The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ---
 
-### 3756. joomla/joomla-cms
+### 3750. joomla/joomla-cms
 
 | 属性 | 信息 |
 |---|---|
@@ -1577,7 +1410,7 @@ Joomla! 之家！内容管理系统
 
 ---
 
-### 3757. miekg/dns
+### 3751. miekg/dns
 
 | 属性 | 信息 |
 |---|---|
@@ -1605,7 +1438,7 @@ Go 中的 DNS 库
 
 ---
 
-### 3758. greatfrontend/top-javascript-interview-questions
+### 3752. greatfrontend/top-javascript-interview-questions
 
 | 属性 | 信息 |
 |---|---|
@@ -1634,7 +1467,7 @@ Top JavaScript interview questions and answers for Frontend Engineers (updated f
 
 ---
 
-### 3759. bitwarden/android
+### 3753. bitwarden/android
 
 | 属性 | 信息 |
 |---|---|
@@ -1663,7 +1496,7 @@ Bitwarden mobile apps (Password Manager and Authenticator) for Android.
 
 ---
 
-### 3760. node-fetch/node-fetch
+### 3754. node-fetch/node-fetch
 
 | 属性 | 信息 |
 |---|---|
@@ -1691,7 +1524,7 @@ A light-weight module that brings the Fetch API to Node.js
 
 ---
 
-### 3761. wang-xinyu/tensorrtx
+### 3755. wang-xinyu/tensorrtx
 
 | 属性 | 信息 |
 |---|---|
@@ -1719,7 +1552,7 @@ Implementation of popular deep learning networks with TensorRT network definitio
 
 ---
 
-### 3762. smogon/pokemon-showdown
+### 3756. smogon/pokemon-showdown
 
 | 属性 | 信息 |
 |---|---|
@@ -1747,7 +1580,7 @@ Pokémon battle simulator.
 
 ---
 
-### 3763. microsoft/UFO
+### 3757. microsoft/UFO
 
 | 属性 | 信息 |
 |---|---|
@@ -1775,7 +1608,7 @@ UFO³：编织数字特工银河
 
 ---
 
-### 3764. anchore/syft
+### 3758. anchore/syft
 
 | 属性 | 信息 |
 |---|---|
@@ -1803,7 +1636,7 @@ CLI tool and library for generating a Software Bill of Materials from container 
 
 ---
 
-### 3765. gorhom/react-native-bottom-sheet
+### 3759. gorhom/react-native-bottom-sheet
 
 | 属性 | 信息 |
 |---|---|
@@ -1831,7 +1664,7 @@ A performant interactive bottom sheet with fully configurable options 🚀
 
 ---
 
-### 3766. PyGithub/PyGithub
+### 3760. PyGithub/PyGithub
 
 | 属性 | 信息 |
 |---|---|
@@ -1859,7 +1692,7 @@ Typed interactions with the GitHub API v3
 
 ---
 
-### 3767. flutter/packages
+### 3761. flutter/packages
 
 | 属性 | 信息 |
 |---|---|
@@ -1887,7 +1720,7 @@ Flutter 团队维护的有用包的集合
 
 ---
 
-### 3768. microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
+### 3762. microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
 
 | 属性 | 信息 |
 |---|---|
@@ -1915,7 +1748,7 @@ A multi-module course teaching everything you need to know about using GitHub Co
 
 ---
 
-### 3769. vercel/ncc
+### 3763. vercel/ncc
 
 | 属性 | 信息 |
 |---|---|
@@ -1943,7 +1776,7 @@ Compile a Node.js project into a single file. Supports TypeScript, binary addons
 
 ---
 
-### 3770. bobthecow/psysh
+### 3764. bobthecow/psysh
 
 | 属性 | 信息 |
 |---|---|
@@ -1971,7 +1804,7 @@ PHP 的 REPL
 
 ---
 
-### 3771. BuilderIO/builder
+### 3765. BuilderIO/builder
 
 | 属性 | 信息 |
 |---|---|
@@ -1999,7 +1832,7 @@ React、Vue、Svelte、Qwik 等的可视化开发
 
 ---
 
-### 3772. nhivp/Awesome-Embedded
+### 3766. nhivp/Awesome-Embedded
 
 | 属性 | 信息 |
 |---|---|
@@ -2028,7 +1861,7 @@ A curated list of awesome embedded programming.
 
 ---
 
-### 3773. ChristianLempa/boilerplates
+### 3767. ChristianLempa/boilerplates
 
 | 属性 | 信息 |
 |---|---|
@@ -2056,7 +1889,7 @@ Create reusable templates and turn them into configurable workloads for homelabs
 
 ---
 
-### 3774. swyxio/spark-joy
+### 3768. swyxio/spark-joy
 
 | 属性 | 信息 |
 |---|---|
@@ -2084,7 +1917,7 @@ Create reusable templates and turn them into configurable workloads for homelabs
 
 ---
 
-### 3775. dropwizard/metrics
+### 3769. dropwizard/metrics
 
 | 属性 | 信息 |
 |---|---|
@@ -2112,7 +1945,7 @@ Create reusable templates and turn them into configurable workloads for homelabs
 
 ---
 
-### 3776. modelscope/modelscope
+### 3770. modelscope/modelscope
 
 | 属性 | 信息 |
 |---|---|
@@ -2140,7 +1973,7 @@ ModelScope：将模型即服务的概念变为现实。
 
 ---
 
-### 3777. unopim/unopim
+### 3771. unopim/unopim
 
 | 属性 | 信息 |
 |---|---|
@@ -2168,7 +2001,7 @@ Unopim 是一个基于 Laravel 的免费开源产品信息管理 (PIM) 系统，
 
 ---
 
-### 3778. openatx/uiautomator2
+### 3772. openatx/uiautomator2
 
 | 属性 | 信息 |
 |---|---|
@@ -2196,7 +2029,7 @@ Android Uiautomator2 Python 包装器
 
 ---
 
-### 3779. btcpayserver/btcpayserver
+### 3773. btcpayserver/btcpayserver
 
 | 属性 | 信息 |
 |---|---|
@@ -2224,7 +2057,7 @@ Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment proces
 
 ---
 
-### 3780. johnkerl/miller
+### 3774. johnkerl/miller
 
 | 属性 | 信息 |
 |---|---|
@@ -2252,7 +2085,7 @@ Miller 就像 awk、sed、剪切、连接和排序名称索引数据（例如 CS
 
 ---
 
-### 3781. OpenBMB/MiniCPM
+### 3775. OpenBMB/MiniCPM
 
 | 属性 | 信息 |
 |---|---|
@@ -2280,7 +2113,7 @@ MiniCPM5-1B：SOTA 1B 设备上LLM，小巧但功能强大。
 
 ---
 
-### 3782. sockjs/sockjs-client
+### 3776. sockjs/sockjs-client
 
 | 属性 | 信息 |
 |---|---|
@@ -2308,7 +2141,7 @@ WebSocket 模拟 - Javascript 客户端
 
 ---
 
-### 3783. canonical/multipass
+### 3777. canonical/multipass
 
 | 属性 | 信息 |
 |---|---|
@@ -2336,7 +2169,7 @@ Multipass 编排虚拟 Ubuntu 实例
 
 ---
 
-### 3784. microsoft/inshellisense
+### 3778. microsoft/inshellisense
 
 | 属性 | 信息 |
 |---|---|
@@ -2364,7 +2197,7 @@ IDE 风格的命令行自动完成
 
 ---
 
-### 3785. realworld-apps/angular-realworld-example-app
+### 3779. realworld-apps/angular-realworld-example-app
 
 | 属性 | 信息 |
 |---|---|
@@ -2392,7 +2225,7 @@ Exemplary real world application built with Angular
 
 ---
 
-### 3786. kangvcar/InfoSpider
+### 3780. kangvcar/InfoSpider
 
 | 属性 | 信息 |
 |---|---|
@@ -2419,7 +2252,7 @@ INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在�
 
 ---
 
-### 3787. mindfold-ai/Trellis
+### 3781. mindfold-ai/Trellis
 
 | 属性 | 信息 |
 |---|---|
@@ -2447,7 +2280,7 @@ The best agent harness.
 
 ---
 
-### 3788. WinMerge/winmerge
+### 3782. WinMerge/winmerge
 
 | 属性 | 信息 |
 |---|---|
@@ -2475,7 +2308,7 @@ WinMerge 是一个适用于 Windows 的开源差异和合并工具。 WinMerge �
 
 ---
 
-### 3789. OnsenUI/OnsenUI
+### 3783. OnsenUI/OnsenUI
 
 | 属性 | 信息 |
 |---|---|
@@ -2503,7 +2336,7 @@ Mobile app development framework and SDK using HTML5 and JavaScript. Create beau
 
 ---
 
-### 3790. reactchartjs/react-chartjs-2
+### 3784. reactchartjs/react-chartjs-2
 
 | 属性 | 信息 |
 |---|---|
@@ -2531,7 +2364,7 @@ React components for Chart.js, the most popular charting library
 
 ---
 
-### 3791. Expensify/App
+### 3785. Expensify/App
 
 | 属性 | 信息 |
 |---|---|
@@ -2559,7 +2392,7 @@ Welcome to New Expensify: a complete re-imagination of financial collaboration, 
 
 ---
 
-### 3792. risingwavelabs/risingwave
+### 3786. risingwavelabs/risingwave
 
 | 属性 | 信息 |
 |---|---|
@@ -2587,7 +2420,7 @@ Event streaming platform for agentic AI. Continuously ingest, transform, and ser
 
 ---
 
-### 3793. x-extends/vxe-table
+### 3787. x-extends/vxe-table
 
 | 属性 | 信息 |
 |---|---|
@@ -2616,7 +2449,7 @@ vxe table 支持 vue2、vue3 的表格解决方案
 
 ---
 
-### 3794. frankbria/ralph-claude-code
+### 3788. frankbria/ralph-claude-code
 
 | 属性 | 信息 |
 |---|---|
@@ -2644,7 +2477,7 @@ Autonomous AI development loop for Claude Code with intelligent exit detection
 
 ---
 
-### 3795. nexmoe/VidBee
+### 3789. nexmoe/VidBee
 
 | 属性 | 信息 |
 |---|---|
@@ -2672,7 +2505,7 @@ Download videos from almost any website worldwide
 
 ---
 
-### 3796. AntennaPod/AntennaPod
+### 3790. AntennaPod/AntennaPod
 
 | 属性 | 信息 |
 |---|---|
@@ -2700,7 +2533,7 @@ A podcast manager for Android
 
 ---
 
-### 3797. mandiant/flare-vm
+### 3791. mandiant/flare-vm
 
 | 属性 | 信息 |
 |---|---|
@@ -2728,7 +2561,7 @@ A collection of software installations scripts for Windows systems that allows y
 
 ---
 
-### 3798. farag2/Sophia-Script-for-Windows
+### 3792. farag2/Sophia-Script-for-Windows
 
 | 属性 | 信息 |
 |---|---|
@@ -2756,7 +2589,7 @@ A collection of software installations scripts for Windows systems that allows y
 
 ---
 
-### 3799. goplus/xgo
+### 3793. goplus/xgo
 
 | 属性 | 信息 |
 |---|---|
@@ -2784,7 +2617,7 @@ XGo 是一种读起来像简单英语的编程语言。但它也非常强大—�
 
 ---
 
-### 3800. minbrowser/min
+### 3794. minbrowser/min
 
 | 属性 | 信息 |
 |---|---|
@@ -2807,6 +2640,174 @@ A fast, minimal browser that protects your privacy
 
 
 **Topics**：-
+
+
+
+---
+
+### 3795. lballabio/QuantLib
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/lballabio/QuantLib](https://github.com/lballabio/QuantLib) |
+| ⭐ Stars | 7212 |
+| 🍴 Forks | 2221 |
+| 👀 Watchers | 7212 |
+| 📝 Open Issues | 42 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2015-12-17 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+The QuantLib C++ library
+
+**中文简介**：
+QuantLib C++ 库
+
+
+**Topics**：quantitative-finance
+
+
+
+---
+
+### 3796. symfony/console
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/symfony/console](https://github.com/symfony/console) |
+| ⭐ Stars | 9820 |
+| 🍴 Forks | 266 |
+| 👀 Watchers | 9820 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | PHP |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2011-02-22 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | MIT |
+
+**简介**：
+Eases the creation of beautiful and testable command line interfaces
+
+**中文简介**：
+轻松创建美观且可测试的命令行界面
+
+
+**Topics**：cli, command-line, component, console, php, symfony, symfony-component, terminal
+
+
+
+---
+
+### 3797. imaNNeo/fl_chart
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/imaNNeo/fl_chart](https://github.com/imaNNeo/fl_chart) |
+| ⭐ Stars | 7523 |
+| 🍴 Forks | 1968 |
+| 👀 Watchers | 7523 |
+| 📝 Open Issues | 397 |
+| 💻 主语言 | Dart |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2019-05-12 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart.
+
+**中文简介**：
+FL Chart 是一个高度可定制的 Flutter 图表库，支持折线图、条形图、饼图、散点图、雷达图和烛台图。
+
+
+**Topics**：barchart, candlestick, candlestick-chart, candlesticks, chart, charts, datasets, fl-chart, flutter, flutter-widget, graph, hacktoberfest, linechart, piechart, radar-chart, radar-graphs, scatter-chart, scatter-plot
+
+
+
+---
+
+### 3798. bitnami-labs/sealed-secrets
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) |
+| ⭐ Stars | 9134 |
+| 🍴 Forks | 775 |
+| 👀 Watchers | 9134 |
+| 📝 Open Issues | 76 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2017-05-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A Kubernetes controller and tool for one-way encrypted Secrets
+
+**中文简介**：
+一种用于单向加密 Secret 的 Kubernetes 控制器和工具
+
+
+**Topics**：devops-workflow, encrypt-secrets, gitops, kubernetes, kubernetes-secrets
+
+
+
+---
+
+### 3799. ClassicOldSong/Apollo
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ClassicOldSong/Apollo](https://github.com/ClassicOldSong/Apollo) |
+| ⭐ Stars | 9707 |
+| 🍴 Forks | 325 |
+| 👀 Watchers | 9707 |
+| 📝 Open Issues | 305 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2024-07-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Sunshine fork - The easiest way to stream with the native resolution of your client device
+
+**中文简介**：
+Sunshine fork - 以客户端设备的本机分辨率进行流传输的最简单方法
+
+
+**Topics**：gaming, remote-control, remote-desktop, streaming
+
+
+
+---
+
+### 3800. ghostfolio/ghostfolio
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) |
+| ⭐ Stars | 8597 |
+| 🍴 Forks | 1162 |
+| 👀 Watchers | 8597 |
+| 📝 Open Issues | 272 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2021-04-13 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+
+**中文简介**：
+开源财富管理软件。 Angular + NestJS + Prisma + Nx + TypeScript 🤍
+
+
+**Topics**：angular, etf, finance, fintech, ghostfolio, hacktoberfest, investing, nestjs, oss, personal-finance, portfolio, prisma, software, stock, tracker, trading, typescript, wealth-management, web
 
 
 

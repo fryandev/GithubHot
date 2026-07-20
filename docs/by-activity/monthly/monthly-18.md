@@ -1,43 +1,15 @@
 # 📆 最近90天活跃 - 第 18 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
-共收录 **7361** 个项目
+共收录 **7343** 个项目
 （第 18/74 页）
 
 ## 项目列表
 
 
-### 1701. TecharoHQ/anubis
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) |
-| ⭐ Stars | 19790 |
-| 🍴 Forks | 617 |
-| 👀 Watchers | 19790 |
-| 📝 Open Issues | 302 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2025-03-17 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Weighs the soul of incoming HTTP requests to stop AI crawlers
-
-**中文简介**：
-权衡传入 HTTP 请求的灵魂以阻止 AI 爬虫
-
-
-**Topics**：defense, security
-
-
-
----
-
-### 1702. kubesphere/kubesphere
+### 1701. kubesphere/kubesphere
 
 | 属性 | 信息 |
 |---|---|
@@ -65,7 +37,7 @@ The container platform tailored for Kubernetes multi-cloud, datacenter, and edge
 
 ---
 
-### 1703. keploy/keploy
+### 1702. keploy/keploy
 
 | 属性 | 信息 |
 |---|---|
@@ -93,7 +65,7 @@ Open-source platform for creating safe, isolated production sandboxes for API, i
 
 ---
 
-### 1704. audacity/audacity
+### 1703. audacity/audacity
 
 | 属性 | 信息 |
 |---|---|
@@ -121,7 +93,7 @@ Audio Editor
 
 ---
 
-### 1705. apache/doris
+### 1704. apache/doris
 
 | 属性 | 信息 |
 |---|---|
@@ -149,7 +121,7 @@ Apache Doris 是一个易于使用、高性能和统一的分析数据库。
 
 ---
 
-### 1706. ethereum-lists/chains
+### 1705. ethereum-lists/chains
 
 | 属性 | 信息 |
 |---|---|
@@ -177,7 +149,7 @@ provides metadata for chains
 
 ---
 
-### 1707. radix-ui/primitives
+### 1706. radix-ui/primitives
 
 | 属性 | 信息 |
 |---|---|
@@ -205,7 +177,7 @@ Radix Primitives 是一个开源 UI 组件库，用于构建高质量、可访�
 
 ---
 
-### 1708. apache/apisix
+### 1707. apache/apisix
 
 | 属性 | 信息 |
 |---|---|
@@ -233,7 +205,7 @@ The Cloud-Native API Gateway and AI Gateway
 
 ---
 
-### 1709. CesiumGS/cesium
+### 1708. CesiumGS/cesium
 
 | 属性 | 信息 |
 |---|---|
@@ -261,7 +233,7 @@ An open-source JavaScript library for world-class 3D globes and maps :earth_amer
 
 ---
 
-### 1710. pydantic/pydantic-ai
+### 1709. pydantic/pydantic-ai
 
 | 属性 | 信息 |
 |---|---|
@@ -289,7 +261,7 @@ AI 代理框架，Pydantic 方式
 
 ---
 
-### 1711. Rem0o/FanControl.Releases
+### 1710. Rem0o/FanControl.Releases
 
 | 属性 | 信息 |
 |---|---|
@@ -317,7 +289,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ---
 
-### 1712. alirezarezvani/claude-skills
+### 1711. alirezarezvani/claude-skills
 
 | 属性 | 信息 |
 |---|---|
@@ -345,7 +317,7 @@ This is the release repository for Fan Control, a highly customizable fan contro
 
 ---
 
-### 1713. microsoft/winget-pkgs
+### 1712. microsoft/winget-pkgs
 
 | 属性 | 信息 |
 |---|---|
@@ -373,7 +345,7 @@ Microsoft 社区 Windows 包管理器清单存储库
 
 ---
 
-### 1714. bytecodealliance/wasmtime
+### 1713. bytecodealliance/wasmtime
 
 | 属性 | 信息 |
 |---|---|
@@ -401,7 +373,7 @@ A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
 ---
 
-### 1715. home-assistant/home-assistant.io
+### 1714. home-assistant/home-assistant.io
 
 | 属性 | 信息 |
 |---|---|
@@ -429,7 +401,7 @@ A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
 ---
 
-### 1716. sorin-ionescu/prezto
+### 1715. sorin-ionescu/prezto
 
 | 属性 | 信息 |
 |---|---|
@@ -457,7 +429,7 @@ Zsh的配置框架
 
 ---
 
-### 1717. vercel/vercel
+### 1716. vercel/vercel
 
 | 属性 | 信息 |
 |---|---|
@@ -485,7 +457,7 @@ Develop. Preview. Ship.
 
 ---
 
-### 1718. tursodatabase/turso
+### 1717. tursodatabase/turso
 
 | 属性 | 信息 |
 |---|---|
@@ -513,7 +485,7 @@ Turso 是一个进程内 SQL 数据库，与 SQLite 兼容。
 
 ---
 
-### 1719. github-linguist/linguist
+### 1718. github-linguist/linguist
 
 | 属性 | 信息 |
 |---|---|
@@ -541,7 +513,7 @@ Language Savant. If your repository's language is being reported incorrectly, se
 
 ---
 
-### 1720. 11ty/eleventy
+### 1719. 11ty/eleventy
 
 | 属性 | 信息 |
 |---|---|
@@ -569,7 +541,7 @@ A simpler site generator. Transforms a directory of templates (of varying types)
 
 ---
 
-### 1721. charmbracelet/vhs
+### 1720. charmbracelet/vhs
 
 | 属性 | 信息 |
 |---|---|
@@ -597,7 +569,7 @@ Your CLI home video recorder 📼
 
 ---
 
-### 1722. reactos/reactos
+### 1721. reactos/reactos
 
 | 属性 | 信息 |
 |---|---|
@@ -625,7 +597,7 @@ A free Windows-compatible Operating System
 
 ---
 
-### 1723. overleaf/overleaf
+### 1722. overleaf/overleaf
 
 | 属性 | 信息 |
 |---|---|
@@ -653,7 +625,7 @@ A web-based collaborative LaTeX editor
 
 ---
 
-### 1724. signalapp/Signal-Desktop
+### 1723. signalapp/Signal-Desktop
 
 | 属性 | 信息 |
 |---|---|
@@ -681,7 +653,7 @@ A private messenger for Windows, macOS, and Linux.
 
 ---
 
-### 1725. openai/tiktoken
+### 1724. openai/tiktoken
 
 | 属性 | 信息 |
 |---|---|
@@ -709,7 +681,7 @@ tiktoken 是一种快速 BPE 标记器，可与 OpenAI 模型一起使用。
 
 ---
 
-### 1726. rothgar/awesome-tuis
+### 1725. rothgar/awesome-tuis
 
 | 属性 | 信息 |
 |---|---|
@@ -737,7 +709,7 @@ List of projects that provide terminal user interfaces
 
 ---
 
-### 1727. ansible/awx
+### 1726. ansible/awx
 
 | 属性 | 信息 |
 |---|---|
@@ -765,7 +737,7 @@ AWX 提供基于 Web 的用户界面、REST API 和构建在 Ansible 之上的�
 
 ---
 
-### 1728. video-dev/hls.js
+### 1727. video-dev/hls.js
 
 | 属性 | 信息 |
 |---|---|
@@ -793,7 +765,7 @@ HLS.js 是一个 JavaScript 库，可在支持 MSE 的浏览器中播放 HLS。
 
 ---
 
-### 1729. ampproject/amphtml
+### 1728. ampproject/amphtml
 
 | 属性 | 信息 |
 |---|---|
@@ -821,7 +793,7 @@ AMP Web 组件框架。
 
 ---
 
-### 1730. mikf/gallery-dl
+### 1729. mikf/gallery-dl
 
 | 属性 | 信息 |
 |---|---|
@@ -849,7 +821,7 @@ Command-line program to download image galleries and collections from several im
 
 ---
 
-### 1731. angristan/openvpn-install
+### 1730. angristan/openvpn-install
 
 | 属性 | 信息 |
 |---|---|
@@ -877,7 +849,7 @@ Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and
 
 ---
 
-### 1732. wasp-lang/wasp
+### 1731. wasp-lang/wasp
 
 | 属性 | 信息 |
 |---|---|
@@ -905,7 +877,7 @@ AI时代含电池全栈框架。使用声明性代码开发 JS/TS Web 应用程�
 
 ---
 
-### 1733. alibaba/page-agent
+### 1732. alibaba/page-agent
 
 | 属性 | 信息 |
 |---|---|
@@ -933,7 +905,7 @@ JavaScript 页内 GUI 代理。使用自然语言控制 Web 界面。
 
 ---
 
-### 1734. apache/pulsar
+### 1733. apache/pulsar
 
 | 属性 | 信息 |
 |---|---|
@@ -961,7 +933,7 @@ Apache Pulsar - 分布式发布-订阅消息系统
 
 ---
 
-### 1735. macrozheng/mall-swarm
+### 1734. macrozheng/mall-swarm
 
 | 属性 | 信息 |
 |---|---|
@@ -988,7 +960,7 @@ mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spri
 
 ---
 
-### 1736. esengine/DeepSeek-Reasonix
+### 1735. esengine/DeepSeek-Reasonix
 
 | 属性 | 信息 |
 |---|---|
@@ -1016,7 +988,7 @@ DeepSeek-适用于您终端的原生 AI 编码代理。围绕前缀缓存稳定�
 
 ---
 
-### 1737. iCHAIT/awesome-macOS
+### 1736. iCHAIT/awesome-macOS
 
 | 属性 | 信息 |
 |---|---|
@@ -1044,7 +1016,7 @@ DeepSeek-适用于您终端的原生 AI 编码代理。围绕前缀缓存稳定�
 
 ---
 
-### 1738. openobserve/openobserve
+### 1737. openobserve/openobserve
 
 | 属性 | 信息 |
 |---|---|
@@ -1072,7 +1044,7 @@ Open source observability platform for logs, metrics, traces, frontend monitorin
 
 ---
 
-### 1739. zhisheng17/flink-learning
+### 1738. zhisheng17/flink-learning
 
 | 属性 | 信息 |
 |---|---|
@@ -1099,7 +1071,7 @@ flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、
 
 ---
 
-### 1740. openimsdk/open-im-server
+### 1739. openimsdk/open-im-server
 
 | 属性 | 信息 |
 |---|---|
@@ -1127,7 +1099,7 @@ IM Chat OpenClaw
 
 ---
 
-### 1741. aws/amazon-sagemaker-examples
+### 1740. aws/amazon-sagemaker-examples
 
 | 属性 | 信息 |
 |---|---|
@@ -1155,7 +1127,7 @@ Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy 
 
 ---
 
-### 1742. mouredev/hello-git
+### 1741. mouredev/hello-git
 
 | 属性 | 信息 |
 |---|---|
@@ -1183,7 +1155,7 @@ Curso para aprender a trabajar con el sistema de control de versiones Git y la p
 
 ---
 
-### 1743. alyssaxuu/screenity
+### 1742. alyssaxuu/screenity
 
 | 属性 | 信息 |
 |---|---|
@@ -1211,7 +1183,7 @@ The free and privacy-friendly screen recorder with no limits 🎥
 
 ---
 
-### 1744. skywind3000/kcp
+### 1743. skywind3000/kcp
 
 | 属性 | 信息 |
 |---|---|
@@ -1239,7 +1211,7 @@ The free and privacy-friendly screen recorder with no limits 🎥
 
 ---
 
-### 1745. sweetalert2/sweetalert2
+### 1744. sweetalert2/sweetalert2
 
 | 属性 | 信息 |
 |---|---|
@@ -1267,7 +1239,7 @@ The free and privacy-friendly screen recorder with no limits 🎥
 
 ---
 
-### 1746. madrobby/zepto
+### 1745. madrobby/zepto
 
 | 属性 | 信息 |
 |---|---|
@@ -1295,7 +1267,7 @@ Zepto.js 是一个适用于现代浏览器的简约 JavaScript 库，具有兼�
 
 ---
 
-### 1747. carla-simulator/carla
+### 1746. carla-simulator/carla
 
 | 属性 | 信息 |
 |---|---|
@@ -1323,7 +1295,7 @@ Open-source simulator for autonomous driving research.
 
 ---
 
-### 1748. MoonTechLab/LunaTV
+### 1747. MoonTechLab/LunaTV
 
 | 属性 | 信息 |
 |---|---|
@@ -1349,7 +1321,7 @@ Open-source simulator for autonomous driving research.
 
 ---
 
-### 1749. nim-lang/Nim
+### 1748. nim-lang/Nim
 
 | 属性 | 信息 |
 |---|---|
@@ -1377,7 +1349,7 @@ Nim 是一种静态类型编译系统编程语言。它结合了 Python、Ada �
 
 ---
 
-### 1750. raspberrypi/linux
+### 1749. raspberrypi/linux
 
 | 属性 | 信息 |
 |---|---|
@@ -1405,7 +1377,7 @@ Raspberry Pi 提供的内核构建的内核源代码树。与 Linux 内核无关
 
 ---
 
-### 1751. topoteretes/cognee
+### 1750. topoteretes/cognee
 
 | 属性 | 信息 |
 |---|---|
@@ -1433,7 +1405,7 @@ Memory platform for AI Agents in 6 lines of code
 
 ---
 
-### 1752. ageron/handson-ml3
+### 1751. ageron/handson-ml3
 
 | 属性 | 信息 |
 |---|---|
@@ -1461,7 +1433,7 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 
 ---
 
-### 1753. typescript-eslint/typescript-eslint
+### 1752. typescript-eslint/typescript-eslint
 
 | 属性 | 信息 |
 |---|---|
@@ -1489,7 +1461,7 @@ A series of Jupyter notebooks that walk you through the fundamentals of Machine 
 
 ---
 
-### 1754. neo4j/neo4j
+### 1753. neo4j/neo4j
 
 | 属性 | 信息 |
 |---|---|
@@ -1517,7 +1489,7 @@ Graphs for Everyone
 
 ---
 
-### 1755. quarkusio/quarkus
+### 1754. quarkusio/quarkus
 
 | 属性 | 信息 |
 |---|---|
@@ -1545,7 +1517,7 @@ Quarkus：超音速亚原子 Java。
 
 ---
 
-### 1756. redis/node-redis
+### 1755. redis/node-redis
 
 | 属性 | 信息 |
 |---|---|
@@ -1573,7 +1545,7 @@ Redis Node.js 客户端
 
 ---
 
-### 1757. hashicorp/packer
+### 1756. hashicorp/packer
 
 | 属性 | 信息 |
 |---|---|
@@ -1601,7 +1573,7 @@ Packer 是一种从单一源配置为多个平台创建相同机器映像的工�
 
 ---
 
-### 1758. emcie-co/parlant
+### 1757. emcie-co/parlant
 
 | 属性 | 信息 |
 |---|---|
@@ -1629,7 +1601,7 @@ Build reliable customer-facing AI agents with Parlant: an interaction control ha
 
 ---
 
-### 1759. Kuberwastaken/claurst
+### 1758. Kuberwastaken/claurst
 
 | 属性 | 信息 |
 |---|---|
@@ -1657,7 +1629,7 @@ Agentic Coding for Builders who Ship
 
 ---
 
-### 1760. yhirose/cpp-httplib
+### 1759. yhirose/cpp-httplib
 
 | 属性 | 信息 |
 |---|---|
@@ -1685,7 +1657,7 @@ A C++ header-only HTTP/HTTPS server and client library
 
 ---
 
-### 1761. pluja/awesome-privacy
+### 1760. pluja/awesome-privacy
 
 | 属性 | 信息 |
 |---|---|
@@ -1713,7 +1685,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ---
 
-### 1762. unocss/unocss
+### 1761. unocss/unocss
 
 | 属性 | 信息 |
 |---|---|
@@ -1741,7 +1713,7 @@ The instant on-demand atomic CSS engine.
 
 ---
 
-### 1763. tc39/proposals
+### 1762. tc39/proposals
 
 | 属性 | 信息 |
 |---|---|
@@ -1769,7 +1741,7 @@ Tracking ECMAScript Proposals
 
 ---
 
-### 1764. diem/diem
+### 1763. diem/diem
 
 | 属性 | 信息 |
 |---|---|
@@ -1797,7 +1769,7 @@ Diem 的使命是建立一个值得信赖的创新金融网络，为世界各地
 
 ---
 
-### 1765. microsoft/Windows-universal-samples
+### 1764. microsoft/Windows-universal-samples
 
 | 属性 | 信息 |
 |---|---|
@@ -1825,7 +1797,7 @@ API samples for the Universal Windows Platform.
 
 ---
 
-### 1766. hect0x7/JMComic-Crawler-Python
+### 1765. hect0x7/JMComic-Crawler-Python
 
 | 属性 | 信息 |
 |---|---|
@@ -1852,7 +1824,7 @@ Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页
 
 ---
 
-### 1767. itwanger/toBeBetterJavaer
+### 1766. itwanger/toBeBetterJavaer
 
 | 属性 | 信息 |
 |---|---|
@@ -1879,7 +1851,7 @@ Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页
 
 ---
 
-### 1768. kyleneideck/BackgroundMusic
+### 1767. kyleneideck/BackgroundMusic
 
 | 属性 | 信息 |
 |---|---|
@@ -1908,7 +1880,7 @@ Background Music, a macOS audio utility: automatically pause your music, set ind
 
 ---
 
-### 1769. xming521/WeClone
+### 1768. xming521/WeClone
 
 | 属性 | 信息 |
 |---|---|
@@ -1936,7 +1908,7 @@ Background Music, a macOS audio utility: automatically pause your music, set ind
 
 ---
 
-### 1770. kubernetes/community
+### 1769. kubernetes/community
 
 | 属性 | 信息 |
 |---|---|
@@ -1964,7 +1936,7 @@ Kubernetes 社区内容
 
 ---
 
-### 1771. vitalysim/Awesome-Hacking-Resources
+### 1770. vitalysim/Awesome-Hacking-Resources
 
 | 属性 | 信息 |
 |---|---|
@@ -1992,7 +1964,7 @@ A collection of hacking / penetration testing resources to make you better!
 
 ---
 
-### 1772. decolua/9router
+### 1771. decolua/9router
 
 | 属性 | 信息 |
 |---|---|
@@ -2021,7 +1993,7 @@ Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An
 
 ---
 
-### 1773. Orange-OpenSource/hurl
+### 1772. Orange-OpenSource/hurl
 
 | 属性 | 信息 |
 |---|---|
@@ -2050,7 +2022,7 @@ Hurl, run and test HTTP requests with plain text.
 
 ---
 
-### 1774. koel/koel
+### 1773. koel/koel
 
 | 属性 | 信息 |
 |---|---|
@@ -2078,7 +2050,7 @@ Music streaming solution that works.
 
 ---
 
-### 1775. ben-manes/caffeine
+### 1774. ben-manes/caffeine
 
 | 属性 | 信息 |
 |---|---|
@@ -2106,7 +2078,7 @@ Java 的高性能缓存库
 
 ---
 
-### 1776. bkaradzic/bgfx
+### 1775. bkaradzic/bgfx
 
 | 属性 | 信息 |
 |---|---|
@@ -2134,7 +2106,7 @@ Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style r
 
 ---
 
-### 1777. Free-TV/IPTV
+### 1776. Free-TV/IPTV
 
 | 属性 | 信息 |
 |---|---|
@@ -2162,7 +2134,7 @@ M3U Playlist for free TV channels
 
 ---
 
-### 1778. fail2ban/fail2ban
+### 1777. fail2ban/fail2ban
 
 | 属性 | 信息 |
 |---|---|
@@ -2190,7 +2162,7 @@ Daemon to ban hosts that cause multiple authentication errors
 
 ---
 
-### 1779. reduxjs/reselect
+### 1778. reduxjs/reselect
 
 | 属性 | 信息 |
 |---|---|
@@ -2219,7 +2191,7 @@ Redux 选择器库
 
 ---
 
-### 1780. ruffle-rs/ruffle
+### 1779. ruffle-rs/ruffle
 
 | 属性 | 信息 |
 |---|---|
@@ -2247,7 +2219,7 @@ A Flash Player emulator written in Rust
 
 ---
 
-### 1781. ikatyang/emoji-cheat-sheet
+### 1780. ikatyang/emoji-cheat-sheet
 
 | 属性 | 信息 |
 |---|---|
@@ -2275,7 +2247,7 @@ Markdown 版本的表情符号备忘单
 
 ---
 
-### 1782. mlc-ai/web-llm
+### 1781. mlc-ai/web-llm
 
 | 属性 | 信息 |
 |---|---|
@@ -2303,7 +2275,7 @@ High-performance In-browser LLM Inference Engine
 
 ---
 
-### 1783. pot-app/pot-desktop
+### 1782. pot-app/pot-desktop
 
 | 属性 | 信息 |
 |---|---|
@@ -2331,7 +2303,7 @@ High-performance In-browser LLM Inference Engine
 
 ---
 
-### 1784. hackiftekhar/IQKeyboardManager
+### 1783. hackiftekhar/IQKeyboardManager
 
 | 属性 | 信息 |
 |---|---|
@@ -2360,7 +2332,7 @@ Codeless drop-in universal library allows to prevent issues of keyboard sliding 
 
 ---
 
-### 1785. auth0/node-jsonwebtoken
+### 1784. auth0/node-jsonwebtoken
 
 | 属性 | 信息 |
 |---|---|
@@ -2388,7 +2360,7 @@ Node.js 的 JsonWebToken 实现 http://self-issued.info/docs/draft-ietf-oauth-js
 
 ---
 
-### 1786. NixOS/nix
+### 1785. NixOS/nix
 
 | 属性 | 信息 |
 |---|---|
@@ -2416,7 +2388,7 @@ Nix，纯功能包管理器
 
 ---
 
-### 1787. pallets/click
+### 1786. pallets/click
 
 | 属性 | 信息 |
 |---|---|
@@ -2444,7 +2416,7 @@ Python 可组合命令行界面工具包
 
 ---
 
-### 1788. conventional-changelog/commitlint
+### 1787. conventional-changelog/commitlint
 
 | 属性 | 信息 |
 |---|---|
@@ -2472,7 +2444,7 @@ Python 可组合命令行界面工具包
 
 ---
 
-### 1789. AI4Finance-Foundation/FinRL
+### 1788. AI4Finance-Foundation/FinRL
 
 | 属性 | 信息 |
 |---|---|
@@ -2500,7 +2472,7 @@ FinRL®：金融强化学习。 🔥
 
 ---
 
-### 1790. tikv/tikv
+### 1789. tikv/tikv
 
 | 属性 | 信息 |
 |---|---|
@@ -2528,7 +2500,7 @@ Distributed transactional key-value database, originally created to complement T
 
 ---
 
-### 1791. adonisjs/core
+### 1790. adonisjs/core
 
 | 属性 | 信息 |
 |---|---|
@@ -2557,7 +2529,7 @@ AdonisJS 是一个 TypeScript 优先的 Web 框架，用于构建 Web 应用程�
 
 ---
 
-### 1792. janeczku/calibre-web
+### 1791. janeczku/calibre-web
 
 | 属性 | 信息 |
 |---|---|
@@ -2585,7 +2557,7 @@ AdonisJS 是一个 TypeScript 优先的 Web 框架，用于构建 Web 应用程�
 
 ---
 
-### 1793. HabitRPG/habitica
+### 1792. HabitRPG/habitica
 
 | 属性 | 信息 |
 |---|---|
@@ -2613,7 +2585,7 @@ A habit tracker app which treats your goals like a Role Playing Game.
 
 ---
 
-### 1794. Activiti/Activiti
+### 1793. Activiti/Activiti
 
 | 属性 | 信息 |
 |---|---|
@@ -2641,7 +2613,7 @@ Activiti 是一个轻量级工作流程和业务流程管理 (BPM) 平台，面�
 
 ---
 
-### 1795. JCodesMore/ai-website-cloner-template
+### 1794. JCodesMore/ai-website-cloner-template
 
 | 属性 | 信息 |
 |---|---|
@@ -2669,7 +2641,7 @@ Clone any website with one command using AI coding agents
 
 ---
 
-### 1796. Sjj1024/PakePlus
+### 1795. Sjj1024/PakePlus
 
 | 属性 | 信息 |
 |---|---|
@@ -2697,7 +2669,7 @@ Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M w
 
 ---
 
-### 1797. eooce/node-ws
+### 1796. eooce/node-ws
 
 | 属性 | 信息 |
 |---|---|
@@ -2725,7 +2697,7 @@ Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M w
 
 ---
 
-### 1798. cloudwu/skynet
+### 1797. cloudwu/skynet
 
 | 属性 | 信息 |
 |---|---|
@@ -2753,7 +2725,7 @@ A lightweight online game framework
 
 ---
 
-### 1799. brunodev85/winlator
+### 1798. brunodev85/winlator
 
 | 属性 | 信息 |
 |---|---|
@@ -2781,7 +2753,7 @@ Android application for running Windows applications with Wine and Box86/Box64
 
 ---
 
-### 1800. catppuccin/catppuccin
+### 1799. catppuccin/catppuccin
 
 | 属性 | 信息 |
 |---|---|
@@ -2804,6 +2776,34 @@ Android application for running Windows applications with Wine and Box86/Box64
 
 
 **Topics**：catppuccin, color-palette, color-scheme, customization, dark-theme, eye-candy, fancy, hacktoberfest, meta, pastel, soothing-dark-theme, soothing-pastel-theme, theme
+
+
+
+---
+
+### 1800. mountain-loop/yaak
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/mountain-loop/yaak](https://github.com/mountain-loop/yaak) |
+| ⭐ Stars | 18726 |
+| 🍴 Forks | 763 |
+| 👀 Watchers | 18726 |
+| 📝 Open Issues | 24 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2023-02-16 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+
+**中文简介**：
+最直观的桌面 API 客户端。组织和执行 REST、GraphQL、WebSockets、服务器发送事件和 gRPC 🦬
+
+
+**Topics**：bruno-alternative, graphql, grpc, http, http-client, insomnia-alternative, postman-alternative, sse, tauri, websocket
 
 
 

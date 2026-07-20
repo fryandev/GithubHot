@@ -1,7 +1,7 @@
 # 💻 Java 热门项目 - 第 6 页
 
 > 使用 Java 开发的热门开源项目
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
 共收录 **797** 个项目
 （第 6/8 页）
@@ -2173,7 +2173,7 @@ SpringBoot2.0+从入门到实战！
 
 **Topics**：asynchronous, dubbo, mybatis, rabbitmq, spring-data-jpa, springboot
 
-**中文Topics**：asynchronous, dubbo, mybatis, rabbitmq, spring-data-jpa, springboot
+**中文Topics**：异步, 达博, mybatis, rabbitmq, 弹簧数据jpa, 弹簧靴
 
 
 ---

@@ -1,43 +1,15 @@
 # 📆 最近90天活跃 - 第 14 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
-共收录 **7361** 个项目
+共收录 **7343** 个项目
 （第 14/74 页）
 
 ## 项目列表
 
 
-### 1301. swagger-api/swagger-codegen
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) |
-| ⭐ Stars | 17755 |
-| 🍴 Forks | 5990 |
-| 👀 Watchers | 17755 |
-| 📝 Open Issues | 3450 |
-| 💻 主语言 | Mustache |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2011-07-06 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-
-**中文简介**：
-swagger-codegen 包含一个模板驱动引擎，通过解析 OpenAPI / Swagger 定义来生成不同语言的文档、API 客户端和服务器存根。
-
-
-**Topics**：open-source, openapi-specification, openapi3, rest, rest-api, swagger, swagger-codegen, swagger-oss
-
-
-
----
-
-### 1302. micro/go-micro
+### 1301. micro/go-micro
 
 | 属性 | 信息 |
 |---|---|
@@ -65,7 +37,7 @@ A Go microservices framework for AI agents
 
 ---
 
-### 1303. felixrieseberg/windows95
+### 1302. felixrieseberg/windows95
 
 | 属性 | 信息 |
 |---|---|
@@ -93,7 +65,7 @@ A Go microservices framework for AI agents
 
 ---
 
-### 1304. toon-format/toon
+### 1303. toon-format/toon
 
 | 属性 | 信息 |
 |---|---|
@@ -121,7 +93,7 @@ A Go microservices framework for AI agents
 
 ---
 
-### 1305. elizaOS/eliza
+### 1304. elizaOS/eliza
 
 | 属性 | 信息 |
 |---|---|
@@ -149,7 +121,7 @@ Open source agentic operating system
 
 ---
 
-### 1306. renovatebot/renovate
+### 1305. renovatebot/renovate
 
 | 属性 | 信息 |
 |---|---|
@@ -177,7 +149,7 @@ Renovate CLI 主页：Mend.io 的跨平台依赖自动化
 
 ---
 
-### 1307. kubernetes/website
+### 1306. kubernetes/website
 
 | 属性 | 信息 |
 |---|---|
@@ -205,7 +177,7 @@ Kubernetes 网站和文档存储库：
 
 ---
 
-### 1308. livewire/livewire
+### 1307. livewire/livewire
 
 | 属性 | 信息 |
 |---|---|
@@ -233,7 +205,7 @@ Laravel 的全栈框架，可以消除构建动态 UI 的痛苦。
 
 ---
 
-### 1309. SuperClaude-Org/SuperClaude_Framework
+### 1308. SuperClaude-Org/SuperClaude_Framework
 
 | 属性 | 信息 |
 |---|---|
@@ -261,7 +233,7 @@ A configuration framework that enhances Claude Code with specialized commands, c
 
 ---
 
-### 1310. cjpais/Handy
+### 1309. cjpais/Handy
 
 | 属性 | 信息 |
 |---|---|
@@ -289,7 +261,7 @@ A free, open source, and extensible speech-to-text application that works comple
 
 ---
 
-### 1311. valyala/fasthttp
+### 1310. valyala/fasthttp
 
 | 属性 | 信息 |
 |---|---|
@@ -317,7 +289,7 @@ Go 的快速 HTTP 包。专为高性能而调整。热路径中的内存分配�
 
 ---
 
-### 1312. jasontaylordev/CleanArchitecture
+### 1311. jasontaylordev/CleanArchitecture
 
 | 属性 | 信息 |
 |---|---|
@@ -345,7 +317,7 @@ ASP.NET Core 的干净架构解决方案模板
 
 ---
 
-### 1313. darkreader/darkreader
+### 1312. darkreader/darkreader
 
 | 属性 | 信息 |
 |---|---|
@@ -373,7 +345,7 @@ Dark Reader Chrome 和 Firefox 扩展
 
 ---
 
-### 1314. dotnet/runtime
+### 1313. dotnet/runtime
 
 | 属性 | 信息 |
 |---|---|
@@ -401,7 +373,7 @@ Dark Reader Chrome 和 Firefox 扩展
 
 ---
 
-### 1315. PrefectHQ/prefect
+### 1314. PrefectHQ/prefect
 
 | 属性 | 信息 |
 |---|---|
@@ -429,7 +401,7 @@ Prefect 是一个工作流程编排框架，用于在 Python 中构建弹性数�
 
 ---
 
-### 1316. gradle/gradle
+### 1315. gradle/gradle
 
 | 属性 | 信息 |
 |---|---|
@@ -457,7 +429,7 @@ Adaptable, fast automation for all
 
 ---
 
-### 1317. OpenListTeam/OpenList
+### 1316. OpenListTeam/OpenList
 
 | 属性 | 信息 |
 |---|---|
@@ -485,7 +457,7 @@ A new AList Fork to Anti Trust Crisis
 
 ---
 
-### 1318. apify/crawlee
+### 1317. apify/crawlee
 
 | 属性 | 信息 |
 |---|---|
@@ -513,7 +485,7 @@ Crawlee——一个用于 Node.js 的网络抓取和浏览器自动化库，用�
 
 ---
 
-### 1319. AIDC-AI/Pixelle-Video
+### 1318. AIDC-AI/Pixelle-Video
 
 | 属性 | 信息 |
 |---|---|
@@ -541,7 +513,7 @@ Crawlee——一个用于 Node.js 的网络抓取和浏览器自动化库，用�
 
 ---
 
-### 1320. copy/v86
+### 1319. copy/v86
 
 | 属性 | 信息 |
 |---|---|
@@ -569,7 +541,7 @@ x86 PC 模拟器和 x86-to-wasm JIT，在浏览器中运行
 
 ---
 
-### 1321. matomo-org/matomo
+### 1320. matomo-org/matomo
 
 | 属性 | 信息 |
 |---|---|
@@ -597,7 +569,7 @@ Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matom
 
 ---
 
-### 1322. redis/go-redis
+### 1321. redis/go-redis
 
 | 属性 | 信息 |
 |---|---|
@@ -625,7 +597,7 @@ Redis Go 客户端
 
 ---
 
-### 1323. mlc-ai/mlc-llm
+### 1322. mlc-ai/mlc-llm
 
 | 属性 | 信息 |
 |---|---|
@@ -653,7 +625,7 @@ Universal LLM Deployment Engine with ML Compilation
 
 ---
 
-### 1324. simdjson/simdjson
+### 1323. simdjson/simdjson
 
 | 属性 | 信息 |
 |---|---|
@@ -681,7 +653,7 @@ Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js 
 
 ---
 
-### 1325. HandBrake/HandBrake
+### 1324. HandBrake/HandBrake
 
 | 属性 | 信息 |
 |---|---|
@@ -709,7 +681,7 @@ HandBrake 的开发存储库
 
 ---
 
-### 1326. blader/humanizer
+### 1325. blader/humanizer
 
 | 属性 | 信息 |
 |---|---|
@@ -737,7 +709,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 ---
 
-### 1327. 4ian/GDevelop
+### 1326. 4ian/GDevelop
 
 | 属性 | 信息 |
 |---|---|
@@ -765,7 +737,7 @@ Claude Code skill that removes signs of AI-generated writing from text
 
 ---
 
-### 1328. OthmanAdi/planning-with-files
+### 1327. OthmanAdi/planning-with-files
 
 | 属性 | 信息 |
 |---|---|
@@ -793,7 +765,7 @@ Claude Code 技能实现了 Manus 风格的持久降价计划——20 亿美元�
 
 ---
 
-### 1329. eclipse-theia/theia
+### 1328. eclipse-theia/theia
 
 | 属性 | 信息 |
 |---|---|
@@ -821,7 +793,7 @@ Eclipse Theia 是一个用 TypeScript 实现的云和桌面 IDE 框架。
 
 ---
 
-### 1330. AiHubCN/Awesome-Chinese-LLM
+### 1329. AiHubCN/Awesome-Chinese-LLM
 
 | 属性 | 信息 |
 |---|---|
@@ -848,7 +820,7 @@ Eclipse Theia 是一个用 TypeScript 实现的云和桌面 IDE 框架。
 
 ---
 
-### 1331. lxgw/LxgwWenKai
+### 1330. lxgw/LxgwWenKai
 
 | 属性 | 信息 |
 |---|---|
@@ -876,7 +848,7 @@ An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一
 
 ---
 
-### 1332. Unity-Technologies/ml-agents
+### 1331. Unity-Technologies/ml-agents
 
 | 属性 | 信息 |
 |---|---|
@@ -904,7 +876,7 @@ Unity 机器学习代理工具包 (ML-Agents) 是一个开源项目，它使游�
 
 ---
 
-### 1333. balderdashy/sails
+### 1332. balderdashy/sails
 
 | 属性 | 信息 |
 |---|---|
@@ -932,7 +904,7 @@ Node.js 的实时 MVC 框架
 
 ---
 
-### 1334. Devolutions/UniGetUI
+### 1333. Devolutions/UniGetUI
 
 | 属性 | 信息 |
 |---|---|
@@ -960,7 +932,7 @@ UniGetUI：包管理器的图形界面。可以被描述为一个包管理器来
 
 ---
 
-### 1335. YunaiV/yudao-cloud
+### 1334. YunaiV/yudao-cloud
 
 | 属性 | 信息 |
 |---|---|
@@ -987,7 +959,7 @@ ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Clo
 
 ---
 
-### 1336. influxdata/telegraf
+### 1335. influxdata/telegraf
 
 | 属性 | 信息 |
 |---|---|
@@ -1015,7 +987,7 @@ Agent for collecting, processing, aggregating, and writing metrics, logs, and ot
 
 ---
 
-### 1337. QL-Win/QuickLook
+### 1336. QL-Win/QuickLook
 
 | 属性 | 信息 |
 |---|---|
@@ -1043,7 +1015,7 @@ Bring macOS “Quick Look” feature to Windows
 
 ---
 
-### 1338. m-bain/whisperX
+### 1337. m-bain/whisperX
 
 | 属性 | 信息 |
 |---|---|
@@ -1071,7 +1043,7 @@ WhisperX：带有字级时间戳（和二值化）的自动语音识别
 
 ---
 
-### 1339. ahujasid/blender-mcp
+### 1338. ahujasid/blender-mcp
 
 | 属性 | 信息 |
 |---|---|
@@ -1097,7 +1069,7 @@ WhisperX：带有字级时间戳（和二值化）的自动语音识别
 
 ---
 
-### 1340. tailwindlabs/heroicons
+### 1339. tailwindlabs/heroicons
 
 | 属性 | 信息 |
 |---|---|
@@ -1125,7 +1097,7 @@ A set of free MIT-licensed high-quality SVG icons for UI development.
 
 ---
 
-### 1341. xiaojieonly/Ehviewer_CN_SXJ
+### 1340. xiaojieonly/Ehviewer_CN_SXJ
 
 | 属性 | 信息 |
 |---|---|
@@ -1152,7 +1124,7 @@ ehviewer，用爱发电，快乐前行
 
 ---
 
-### 1342. garrytan/gbrain
+### 1341. garrytan/gbrain
 
 | 属性 | 信息 |
 |---|---|
@@ -1180,7 +1152,7 @@ Garry's Opinionated OpenClaw/Hermes Agent Brain
 
 ---
 
-### 1343. js-cookie/js-cookie
+### 1342. js-cookie/js-cookie
 
 | 属性 | 信息 |
 |---|---|
@@ -1208,7 +1180,7 @@ A simple, lightweight JavaScript API for handling cookies, client-side.
 
 ---
 
-### 1344. ceph/ceph
+### 1343. ceph/ceph
 
 | 属性 | 信息 |
 |---|---|
@@ -1236,7 +1208,7 @@ Ceph 是一个分布式对象、块和文件存储平台
 
 ---
 
-### 1345. pure-admin/vue-pure-admin
+### 1344. pure-admin/vue-pure-admin
 
 | 属性 | 信息 |
 |---|---|
@@ -1263,7 +1235,7 @@ Ceph 是一个分布式对象、块和文件存储平台
 
 ---
 
-### 1346. Max-Eee/NeoPass
+### 1345. Max-Eee/NeoPass
 
 | 属性 | 信息 |
 |---|---|
@@ -1291,7 +1263,7 @@ Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as N
 
 ---
 
-### 1347. wandb/openui
+### 1346. wandb/openui
 
 | 属性 | 信息 |
 |---|---|
@@ -1319,7 +1291,7 @@ OpenUI 让您可以发挥想象力来描述 UI，然后查看它的实时渲染�
 
 ---
 
-### 1348. hummingbot/hummingbot
+### 1347. hummingbot/hummingbot
 
 | 属性 | 信息 |
 |---|---|
@@ -1347,7 +1319,7 @@ Open source software that helps you create and deploy high-frequency crypto trad
 
 ---
 
-### 1349. browserbase/stagehand
+### 1348. browserbase/stagehand
 
 | 属性 | 信息 |
 |---|---|
@@ -1375,7 +1347,7 @@ The SDK For Browser Agents
 
 ---
 
-### 1350. Donchitos/Claude-Code-Game-Studios
+### 1349. Donchitos/Claude-Code-Game-Studios
 
 | 属性 | 信息 |
 |---|---|
@@ -1403,7 +1375,7 @@ Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skill
 
 ---
 
-### 1351. beekeeper-studio/beekeeper-studio
+### 1350. beekeeper-studio/beekeeper-studio
 
 | 属性 | 信息 |
 |---|---|
@@ -1431,7 +1403,7 @@ Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and m
 
 ---
 
-### 1352. redux-saga/redux-saga
+### 1351. redux-saga/redux-saga
 
 | 属性 | 信息 |
 |---|---|
@@ -1459,7 +1431,7 @@ Redux 应用程序的替代副作用模型
 
 ---
 
-### 1353. Delgan/loguru
+### 1352. Delgan/loguru
 
 | 属性 | 信息 |
 |---|---|
@@ -1487,7 +1459,7 @@ Python 日志记录变得（愚蠢地）简单
 
 ---
 
-### 1354. vectordotdev/vector
+### 1353. vectordotdev/vector
 
 | 属性 | 信息 |
 |---|---|
@@ -1515,7 +1487,7 @@ A high-performance observability data pipeline.
 
 ---
 
-### 1355. MaaAssistantArknights/MaaAssistantArknights
+### 1354. MaaAssistantArknights/MaaAssistantArknights
 
 | 属性 | 信息 |
 |---|---|
@@ -1543,7 +1515,7 @@ A high-performance observability data pipeline.
 
 ---
 
-### 1356. terrastruct/d2
+### 1355. terrastruct/d2
 
 | 属性 | 信息 |
 |---|---|
@@ -1571,7 +1543,7 @@ D2 是一种现代图表脚本语言，可将文本转换为图表。
 
 ---
 
-### 1357. 1Panel-dev/MaxKB
+### 1356. 1Panel-dev/MaxKB
 
 | 属性 | 信息 |
 |---|---|
@@ -1599,7 +1571,7 @@ D2 是一种现代图表脚本语言，可将文本转换为图表。
 
 ---
 
-### 1358. wekan/wekan
+### 1357. wekan/wekan
 
 | 属性 | 信息 |
 |---|---|
@@ -1627,7 +1599,7 @@ The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS 
 
 ---
 
-### 1359. AccumulateMore/CV
+### 1358. AccumulateMore/CV
 
 | 属性 | 信息 |
 |---|---|
@@ -1654,7 +1626,7 @@ The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS 
 
 ---
 
-### 1360. python/mypy
+### 1359. python/mypy
 
 | 属性 | 信息 |
 |---|---|
@@ -1682,7 +1654,7 @@ Python 的可选静态类型
 
 ---
 
-### 1361. jquense/yup
+### 1360. jquense/yup
 
 | 属性 | 信息 |
 |---|---|
@@ -1710,7 +1682,7 @@ Dead simple Object schema validation
 
 ---
 
-### 1362. palantir/blueprint
+### 1361. palantir/blueprint
 
 | 属性 | 信息 |
 |---|---|
@@ -1738,7 +1710,7 @@ A React-based UI toolkit for the web
 
 ---
 
-### 1363. air-verse/air
+### 1362. air-verse/air
 
 | 属性 | 信息 |
 |---|---|
@@ -1766,7 +1738,7 @@ A React-based UI toolkit for the web
 
 ---
 
-### 1364. netbox-community/netbox
+### 1363. netbox-community/netbox
 
 | 属性 | 信息 |
 |---|---|
@@ -1794,7 +1766,7 @@ The premier source of truth powering network automation. Open source under Apach
 
 ---
 
-### 1365. FunAudioLLM/CosyVoice
+### 1364. FunAudioLLM/CosyVoice
 
 | 属性 | 信息 |
 |---|---|
@@ -1822,7 +1794,7 @@ Multi-lingual large voice generation model, providing inference, training and de
 
 ---
 
-### 1366. lucide-icons/lucide
+### 1365. lucide-icons/lucide
 
 | 属性 | 信息 |
 |---|---|
@@ -1850,7 +1822,7 @@ Beautiful & consistent icon toolkit made by the community. Open-source project a
 
 ---
 
-### 1367. woocommerce/woocommerce
+### 1366. woocommerce/woocommerce
 
 | 属性 | 信息 |
 |---|---|
@@ -1878,7 +1850,7 @@ A customizable, open-source ecommerce platform built on WordPress. Build any com
 
 ---
 
-### 1368. catchorg/Catch2
+### 1367. catchorg/Catch2
 
 | 属性 | 信息 |
 |---|---|
@@ -1906,7 +1878,7 @@ A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, 
 
 ---
 
-### 1369. facebook/flow
+### 1368. facebook/flow
 
 | 属性 | 信息 |
 |---|---|
@@ -1934,7 +1906,7 @@ Adds static typing to JavaScript to improve developer productivity and code qual
 
 ---
 
-### 1370. pubkey/rxdb
+### 1369. pubkey/rxdb
 
 | 属性 | 信息 |
 |---|---|
@@ -1962,7 +1934,7 @@ A fast, local first, reactive Database for JavaScript Applications https://rxdb.
 
 ---
 
-### 1371. magento/magento2
+### 1370. magento/magento2
 
 | 属性 | 信息 |
 |---|---|
@@ -1990,7 +1962,7 @@ Prior to making any Submission(s), you must sign an Adobe Contributor License Ag
 
 ---
 
-### 1372. google/adk-python
+### 1371. google/adk-python
 
 | 属性 | 信息 |
 |---|---|
@@ -2018,7 +1990,7 @@ An open-source, code-first Python toolkit for building, evaluating, and deployin
 
 ---
 
-### 1373. NVIDIA/NemoClaw
+### 1372. NVIDIA/NemoClaw
 
 | 属性 | 信息 |
 |---|---|
@@ -2046,7 +2018,7 @@ Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with m
 
 ---
 
-### 1374. hashicorp/terraform-provider-aws
+### 1373. hashicorp/terraform-provider-aws
 
 | 属性 | 信息 |
 |---|---|
@@ -2074,7 +2046,7 @@ AWS Provider 使 Terraform 能够管理 AWS 资源。
 
 ---
 
-### 1375. krayin/laravel-crm
+### 1374. krayin/laravel-crm
 
 | 属性 | 信息 |
 |---|---|
@@ -2102,7 +2074,7 @@ Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete cus
 
 ---
 
-### 1376. charmbracelet/gum
+### 1375. charmbracelet/gum
 
 | 属性 | 信息 |
 |---|---|
@@ -2130,7 +2102,7 @@ A tool for glamorous shell scripts 🎀
 
 ---
 
-### 1377. apernet/hysteria
+### 1376. apernet/hysteria
 
 | 属性 | 信息 |
 |---|---|
@@ -2158,7 +2130,7 @@ Hysteria 是一个强大、快如闪电且抗审查的代理。
 
 ---
 
-### 1378. AlDanial/cloc
+### 1377. AlDanial/cloc
 
 | 属性 | 信息 |
 |---|---|
@@ -2186,7 +2158,7 @@ cloc 对许多编程语言中的空白行、注释行和源代码的物理行进
 
 ---
 
-### 1379. cloudflare/cloudflare-docs
+### 1378. cloudflare/cloudflare-docs
 
 | 属性 | 信息 |
 |---|---|
@@ -2214,7 +2186,7 @@ Cloudflare 的文档
 
 ---
 
-### 1380. VoltAgent/awesome-claude-code-subagents
+### 1379. VoltAgent/awesome-claude-code-subagents
 
 | 属性 | 信息 |
 |---|---|
@@ -2242,7 +2214,7 @@ A collection of 100+ specialized Claude Code subagents covering a wide range of 
 
 ---
 
-### 1381. GoogleContainerTools/distroless
+### 1380. GoogleContainerTools/distroless
 
 | 属性 | 信息 |
 |---|---|
@@ -2270,7 +2242,7 @@ A collection of 100+ specialized Claude Code subagents covering a wide range of 
 
 ---
 
-### 1382. Skyvern-AI/skyvern
+### 1381. Skyvern-AI/skyvern
 
 | 属性 | 信息 |
 |---|---|
@@ -2298,7 +2270,7 @@ Automate browser based workflows with AI
 
 ---
 
-### 1383. promptfoo/promptfoo
+### 1382. promptfoo/promptfoo
 
 | 属性 | 信息 |
 |---|---|
@@ -2326,7 +2298,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ---
 
-### 1384. kkndmetianya/kkndme_tianya
+### 1383. kkndmetianya/kkndme_tianya
 
 | 属性 | 信息 |
 |---|---|
@@ -2352,7 +2324,7 @@ Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni
 
 ---
 
-### 1385. Panniantong/Agent-Reach
+### 1384. Panniantong/Agent-Reach
 
 | 属性 | 信息 |
 |---|---|
@@ -2380,7 +2352,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ---
 
-### 1386. spicetify/cli
+### 1385. spicetify/cli
 
 | 属性 | 信息 |
 |---|---|
@@ -2408,7 +2380,7 @@ Command-line tool to customize Spotify client. Supports Windows, macOS, and Linu
 
 ---
 
-### 1387. conwnet/github1s
+### 1386. conwnet/github1s
 
 | 属性 | 信息 |
 |---|---|
@@ -2437,7 +2409,7 @@ One second to read GitHub code with VS Code.
 
 ---
 
-### 1388. index-tts/index-tts
+### 1387. index-tts/index-tts
 
 | 属性 | 信息 |
 |---|---|
@@ -2465,7 +2437,7 @@ An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
 
 ---
 
-### 1389. monkeytypegame/monkeytype
+### 1388. monkeytypegame/monkeytype
 
 | 属性 | 信息 |
 |---|---|
@@ -2493,7 +2465,7 @@ The most customizable typing website with a minimalistic design and a ton of fea
 
 ---
 
-### 1390. knadh/listmonk
+### 1389. knadh/listmonk
 
 | 属性 | 信息 |
 |---|---|
@@ -2521,7 +2493,7 @@ High performance, self-hosted, newsletter and mailing list manager with a modern
 
 ---
 
-### 1391. louislam/dockge
+### 1390. louislam/dockge
 
 | 属性 | 信息 |
 |---|---|
@@ -2549,7 +2521,7 @@ A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented
 
 ---
 
-### 1392. peass-ng/PEASS-ng
+### 1391. peass-ng/PEASS-ng
 
 | 属性 | 信息 |
 |---|---|
@@ -2577,7 +2549,7 @@ PEASS - 权限升级很棒的脚本套件（带颜色）
 
 ---
 
-### 1393. akfamily/akshare
+### 1392. akfamily/akshare
 
 | 属性 | 信息 |
 |---|---|
@@ -2605,7 +2577,7 @@ AKShare 是一个优雅而简单的 Python 金融数据接口库，为人类而�
 
 ---
 
-### 1394. slimtoolkit/slim
+### 1393. slimtoolkit/slim
 
 | 属性 | 信息 |
 |---|---|
@@ -2633,7 +2605,7 @@ Slim（工具包）：不要更改容器映像中的任何内容，并将其缩�
 
 ---
 
-### 1395. hagezi/dns-blocklists
+### 1394. hagezi/dns-blocklists
 
 | 属性 | 信息 |
 |---|---|
@@ -2661,7 +2633,7 @@ DNS 阻止列表：为了更好的互联网 - 保持互联网清洁！
 
 ---
 
-### 1396. kortix-ai/suna
+### 1395. kortix-ai/suna
 
 | 属性 | 信息 |
 |---|---|
@@ -2690,7 +2662,7 @@ The Company AI Command Center
 
 ---
 
-### 1397. huggingface/peft
+### 1396. huggingface/peft
 
 | 属性 | 信息 |
 |---|---|
@@ -2718,7 +2690,7 @@ The Company AI Command Center
 
 ---
 
-### 1398. timescale/timescaledb
+### 1397. timescale/timescaledb
 
 | 属性 | 信息 |
 |---|---|
@@ -2746,7 +2718,7 @@ A time-series database for high-performance real-time analytics packaged as a Po
 
 ---
 
-### 1399. dolthub/dolt
+### 1398. dolthub/dolt
 
 | 属性 | 信息 |
 |---|---|
@@ -2774,7 +2746,7 @@ Dolt – 用于数据的 Git
 
 ---
 
-### 1400. prestodb/presto
+### 1399. prestodb/presto
 
 | 属性 | 信息 |
 |---|---|
@@ -2797,6 +2769,34 @@ The official home of the Presto distributed SQL query engine for big data
 
 
 **Topics**：big-data, data, hadoop, hive, java, lakehouse, presto, query, sql
+
+
+
+---
+
+### 1400. AI4Finance-Foundation/FinGPT
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) |
+| ⭐ Stars | 20417 |
+| 🍴 Forks | 2897 |
+| 👀 Watchers | 20417 |
+| 📝 Open Issues | 91 |
+| 💻 主语言 | Jupyter Notebook |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2023-02-11 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
+
+**中文简介**：
+FinGPT：开源金融大语言模型！  革新 🔥 我们在 HuggingFace 上发布了经过训练的模型。
+
+
+**Topics**：chatgpt, finance, fingpt, fintech, large-language-models, machine-learning, nlp, prompt-engineering, pytorch, reinforcement-learning, robo-advisor, sentiment-analysis, technical-analysis
 
 
 

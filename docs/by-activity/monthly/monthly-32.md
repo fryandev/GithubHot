@@ -1,125 +1,15 @@
 # 📆 最近90天活跃 - 第 32 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
-共收录 **7361** 个项目
+共收录 **7343** 个项目
 （第 32/74 页）
 
 ## 项目列表
 
 
-### 3101. mathjax/MathJax
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/mathjax/MathJax](https://github.com/mathjax/MathJax) |
-| ⭐ Stars | 10843 |
-| 🍴 Forks | 1198 |
-| 👀 Watchers | 10843 |
-| 📝 Open Issues | 184 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2010-08-19 |
-| 🔄 最后更新 | 2026-06-04 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Beautiful and accessible math in all browsers
-
-**中文简介**：
-所有浏览器中美观且易于理解的数学
-
-
-**Topics**：accessibility, asciimath-notation, css, html, javascript, latex, mathematics, mathjax, mathml, svg, typography
-
-
-
----
-
-### 3102. wangrongding/wechat-bot
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot) |
-| ⭐ Stars | 10788 |
-| 🍴 Forks | 1232 |
-| 👀 Watchers | 10788 |
-| 📝 Open Issues | 119 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2021-12-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-🤖一个基于 WeChaty 结合 ChatGPT / Claude / Kimi / DeepSeek / Ollama等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者社群分析/好友管理，检测僵尸粉等...
-
-
-
-**Topics**：chatgpt, openai, wechat, wechatbot, wechaty
-
-**中文Topics**：聊天室, openai, 微信, 微信机器人, 微信
-
-
----
-
-### 3103. hs-web/hsweb-framework
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework) |
-| ⭐ Stars | 8399 |
-| 🍴 Forks | 3029 |
-| 👀 Watchers | 8399 |
-| 📝 Open Issues | 8 |
-| 💻 主语言 | Java |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2016-01-18 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。
-
-
-
-**Topics**：hsweb, java, java8, javaweb, mybatis, r2dbc, reactive-streams, reactor, spring-boot, spring-webflux
-
-**中文Topics**：高速网络, java, java8, javaweb, 我的鞋, r2dbc, 反应流, 反应堆, 弹簧靴, spring webflux
-
-
----
-
-### 3104. aws/chalice
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/aws/chalice](https://github.com/aws/chalice) |
-| ⭐ Stars | 11056 |
-| 🍴 Forks | 1005 |
-| 👀 Watchers | 11056 |
-| 📝 Open Issues | 489 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2016-05-27 |
-| 🔄 最后更新 | 2026-06-03 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Python Serverless Microframework for AWS
-
-**中文简介**：
-适用于 AWS 的 Python 无服务器微框架
-
-
-**Topics**：aws, aws-apigateway, aws-lambda, cloud, lambda, python, python27, python3, serverless, serverless-framework
-
-
-
----
-
-### 3105. goldmansachs/gs-quant
+### 3101. goldmansachs/gs-quant
 
 | 属性 | 信息 |
 |---|---|
@@ -147,7 +37,7 @@ Python toolkit for quantitative finance
 
 ---
 
-### 3106. Notsfsssf/pixez-flutter
+### 3102. Notsfsssf/pixez-flutter
 
 | 属性 | 信息 |
 |---|---|
@@ -174,7 +64,7 @@ Python toolkit for quantitative finance
 
 ---
 
-### 3107. wojtekmaj/react-pdf
+### 3103. wojtekmaj/react-pdf
 
 | 属性 | 信息 |
 |---|---|
@@ -202,7 +92,7 @@ Display PDFs in your React app as easily as if they were images.
 
 ---
 
-### 3108. github/codeql
+### 3104. github/codeql
 
 | 属性 | 信息 |
 |---|---|
@@ -230,7 +120,7 @@ CodeQL：为世界各地的安全研究人员提供支持的库和查询，以�
 
 ---
 
-### 3109. apache/seatunnel
+### 3105. apache/seatunnel
 
 | 属性 | 信息 |
 |---|---|
@@ -258,7 +148,7 @@ SeaTunnel是一个多模态、高性能、分布式、海量数据集成工具�
 
 ---
 
-### 3110. 99designs/gqlgen
+### 3106. 99designs/gqlgen
 
 | 属性 | 信息 |
 |---|---|
@@ -286,7 +176,7 @@ go生成基于graphql的服务器库
 
 ---
 
-### 3111. NVIDIA/cutlass
+### 3107. NVIDIA/cutlass
 
 | 属性 | 信息 |
 |---|---|
@@ -314,7 +204,7 @@ CUDA Templates and Python DSLs for High-Performance Linear Algebra
 
 ---
 
-### 3112. jupyter/docker-stacks
+### 3108. jupyter/docker-stacks
 
 | 属性 | 信息 |
 |---|---|
@@ -342,7 +232,7 @@ Ready-to-run Docker images containing Jupyter applications
 
 ---
 
-### 3113. cupy/cupy
+### 3109. cupy/cupy
 
 | 属性 | 信息 |
 |---|---|
@@ -370,7 +260,7 @@ NumPy & SciPy for GPU
 
 ---
 
-### 3114. NVIDIA/cuda-samples
+### 3110. NVIDIA/cuda-samples
 
 | 属性 | 信息 |
 |---|---|
@@ -398,7 +288,7 @@ Samples for CUDA Developers which demonstrates features in CUDA Toolkit
 
 ---
 
-### 3115. snowie2000/mactype
+### 3111. snowie2000/mactype
 
 | 属性 | 信息 |
 |---|---|
@@ -426,7 +316,7 @@ Better font rendering for Windows.
 
 ---
 
-### 3116. giscus/giscus
+### 3112. giscus/giscus
 
 | 属性 | 信息 |
 |---|---|
@@ -454,7 +344,7 @@ A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :g
 
 ---
 
-### 3117. oh-my-fish/oh-my-fish
+### 3113. oh-my-fish/oh-my-fish
 
 | 属性 | 信息 |
 |---|---|
@@ -482,7 +372,7 @@ Fish Shell 框架
 
 ---
 
-### 3118. Heroic-Games-Launcher/HeroicGamesLauncher
+### 3114. Heroic-Games-Launcher/HeroicGamesLauncher
 
 | 属性 | 信息 |
 |---|---|
@@ -510,7 +400,7 @@ A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 
 ---
 
-### 3119. fathah/hermes-desktop
+### 3115. fathah/hermes-desktop
 
 | 属性 | 信息 |
 |---|---|
@@ -538,7 +428,7 @@ Hermes Agent 桌面伴侣
 
 ---
 
-### 3120. libvips/libvips
+### 3116. libvips/libvips
 
 | 属性 | 信息 |
 |---|---|
@@ -566,7 +456,7 @@ A fast image processing library with low memory needs.
 
 ---
 
-### 3121. getumbrel/umbrel
+### 3117. getumbrel/umbrel
 
 | 属性 | 信息 |
 |---|---|
@@ -594,7 +484,7 @@ An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitc
 
 ---
 
-### 3122. pterodactyl/panel
+### 3118. pterodactyl/panel
 
 | 属性 | 信息 |
 |---|---|
@@ -622,7 +512,7 @@ Pterodactyl® 是一个免费的开源游戏服务器管理面板，使用 PHP�
 
 ---
 
-### 3123. TEN-framework/ten-framework
+### 3119. TEN-framework/ten-framework
 
 | 属性 | 信息 |
 |---|---|
@@ -650,7 +540,7 @@ Pterodactyl® 是一个免费的开源游戏服务器管理面板，使用 PHP�
 
 ---
 
-### 3124. OpenFeign/feign
+### 3120. OpenFeign/feign
 
 | 属性 | 信息 |
 |---|---|
@@ -678,7 +568,7 @@ Feign 使编写 java http 客户端变得更容易
 
 ---
 
-### 3125. azat-io/you-dont-know-js-ru
+### 3121. azat-io/you-dont-know-js-ru
 
 | 属性 | 信息 |
 |---|---|
@@ -706,7 +596,7 @@ Feign 使编写 java http 客户端变得更容易
 
 ---
 
-### 3126. spectreconsole/spectre.console
+### 3122. spectreconsole/spectre.console
 
 | 属性 | 信息 |
 |---|---|
@@ -734,7 +624,7 @@ A .NET library that makes it easier to create beautiful console applications.
 
 ---
 
-### 3127. google/skills
+### 3123. google/skills
 
 | 属性 | 信息 |
 |---|---|
@@ -762,7 +652,7 @@ Google 产品和技术的代理技能
 
 ---
 
-### 3128. JingMatrix/Vector
+### 3124. JingMatrix/Vector
 
 | 属性 | 信息 |
 |---|---|
@@ -790,7 +680,7 @@ Modern Xposed Framework
 
 ---
 
-### 3129. apache/hive
+### 3125. apache/hive
 
 | 属性 | 信息 |
 |---|---|
@@ -818,7 +708,7 @@ Apache Hive
 
 ---
 
-### 3130. satellite-image-deep-learning/techniques
+### 3126. satellite-image-deep-learning/techniques
 
 | 属性 | 信息 |
 |---|---|
@@ -846,7 +736,7 @@ Techniques for deep learning with satellite & aerial imagery
 
 ---
 
-### 3131. malwaredllc/byob
+### 3127. malwaredllc/byob
 
 | 属性 | 信息 |
 |---|---|
@@ -874,7 +764,7 @@ An open-source post-exploitation framework for students, researchers and develop
 
 ---
 
-### 3132. dlvhdr/gh-dash
+### 3128. dlvhdr/gh-dash
 
 | 属性 | 信息 |
 |---|---|
@@ -902,7 +792,7 @@ A rich terminal UI for GitHub that doesn't break your flow.
 
 ---
 
-### 3133. nashsu/llm_wiki
+### 3129. nashsu/llm_wiki
 
 | 属性 | 信息 |
 |---|---|
@@ -930,7 +820,7 @@ LLM Wiki 是一个跨平台桌面应用程序，可自动将您的文档转变�
 
 ---
 
-### 3134. sullo/nikto
+### 3130. sullo/nikto
 
 | 属性 | 信息 |
 |---|---|
@@ -958,7 +848,7 @@ Nikto 网络服务器扫描仪
 
 ---
 
-### 3135. microsoft/WSL2-Linux-Kernel
+### 3131. microsoft/WSL2-Linux-Kernel
 
 | 属性 | 信息 |
 |---|---|
@@ -986,7 +876,7 @@ Windows Subsystem for Linux 2 (WSL2) 中使用的 Linux 内核的源代码
 
 ---
 
-### 3136. calesthio/Crucix
+### 3132. calesthio/Crucix
 
 | 属性 | 信息 |
 |---|---|
@@ -1014,7 +904,7 @@ Your personal intelligence agent. Watches the world from multiple data sources a
 
 ---
 
-### 3137. orhun/git-cliff
+### 3133. orhun/git-cliff
 
 | 属性 | 信息 |
 |---|---|
@@ -1042,7 +932,7 @@ A highly customizable Changelog Generator that follows Conventional Commit speci
 
 ---
 
-### 3138. wandb/wandb
+### 3134. wandb/wandb
 
 | 属性 | 信息 |
 |---|---|
@@ -1070,7 +960,7 @@ The AI developer platform. Use Weights & Biases to train and fine-tune models, a
 
 ---
 
-### 3139. privatenumber/tsx
+### 3135. privatenumber/tsx
 
 | 属性 | 信息 |
 |---|---|
@@ -1098,7 +988,7 @@ The AI developer platform. Use Weights & Biases to train and fine-tune models, a
 
 ---
 
-### 3140. stephencelis/SQLite.swift
+### 3136. stephencelis/SQLite.swift
 
 | 属性 | 信息 |
 |---|---|
@@ -1126,7 +1016,7 @@ SQLite3 上的类型安全、Swift 语言层。
 
 ---
 
-### 3141. simonw/datasette
+### 3137. simonw/datasette
 
 | 属性 | 信息 |
 |---|---|
@@ -1154,7 +1044,7 @@ An open source multi-tool for exploring and publishing data
 
 ---
 
-### 3142. Mail-0/Zero
+### 3138. Mail-0/Zero
 
 | 属性 | 信息 |
 |---|---|
@@ -1182,7 +1072,7 @@ Experience email the way you want with Mail0 – the first open source email app
 
 ---
 
-### 3143. InsForge/InsForge
+### 3139. InsForge/InsForge
 
 | 属性 | 信息 |
 |---|---|
@@ -1210,7 +1100,7 @@ The all-in-one, open-source backend platform for agentic coding. InsForge gives 
 
 ---
 
-### 3144. foliojs/pdfkit
+### 3140. foliojs/pdfkit
 
 | 属性 | 信息 |
 |---|---|
@@ -1238,7 +1128,7 @@ A JavaScript PDF generation library for Node and the browser
 
 ---
 
-### 3145. 0xJacky/nginx-ui
+### 3141. 0xJacky/nginx-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -1266,7 +1156,7 @@ Nginx 的另一个 WebUI
 
 ---
 
-### 3146. wireshark/wireshark
+### 3142. wireshark/wireshark
 
 | 属性 | 信息 |
 |---|---|
@@ -1294,7 +1184,7 @@ Wireshark 的 Git 存储库的只读镜像，位于 https://gitlab.com/wireshark
 
 ---
 
-### 3147. chimurai/http-proxy-middleware
+### 3143. chimurai/http-proxy-middleware
 
 | 属性 | 信息 |
 |---|---|
@@ -1322,7 +1212,7 @@ Wireshark 的 Git 存储库的只读镜像，位于 https://gitlab.com/wireshark
 
 ---
 
-### 3148. o2sh/onefetch
+### 3144. o2sh/onefetch
 
 | 属性 | 信息 |
 |---|---|
@@ -1350,7 +1240,7 @@ Command-line Git information tool
 
 ---
 
-### 3149. jetify-com/devbox
+### 3145. jetify-com/devbox
 
 | 属性 | 信息 |
 |---|---|
@@ -1378,7 +1268,7 @@ Instant, easy, and predictable development environments
 
 ---
 
-### 3150. TykTechnologies/tyk
+### 3146. TykTechnologies/tyk
 
 | 属性 | 信息 |
 |---|---|
@@ -1406,7 +1296,7 @@ Tyk 开源 API 网关，用 Go 编写，支持 REST、GraphQL、TCP 和 gRPC 协
 
 ---
 
-### 3151. abetlen/llama-cpp-python
+### 3147. abetlen/llama-cpp-python
 
 | 属性 | 信息 |
 |---|---|
@@ -1434,7 +1324,7 @@ llama.cpp 的 Python 绑定
 
 ---
 
-### 3152. Automattic/node-canvas
+### 3148. Automattic/node-canvas
 
 | 属性 | 信息 |
 |---|---|
@@ -1462,7 +1352,7 @@ Node canvas 是 Cairo 支持的 NodeJS Canvas 实现。
 
 ---
 
-### 3153. huggingface/tokenizers
+### 3149. huggingface/tokenizers
 
 | 属性 | 信息 |
 |---|---|
@@ -1490,7 +1380,7 @@ Node canvas 是 Cairo 支持的 NodeJS Canvas 实现。
 
 ---
 
-### 3154. googleapis/google-api-python-client
+### 3150. googleapis/google-api-python-client
 
 | 属性 | 信息 |
 |---|---|
@@ -1518,7 +1408,7 @@ Node canvas 是 Cairo 支持的 NodeJS Canvas 实现。
 
 ---
 
-### 3155. cloudflare/moltworker
+### 3151. cloudflare/moltworker
 
 | 属性 | 信息 |
 |---|---|
@@ -1546,7 +1436,7 @@ Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 
 ---
 
-### 3156. microsoft/wslg
+### 3152. microsoft/wslg
 
 | 属性 | 信息 |
 |---|---|
@@ -1574,7 +1464,7 @@ Enabling the Windows Subsystem for Linux to include support for Wayland and X se
 
 ---
 
-### 3157. dodyg/practical-aspnetcore
+### 3153. dodyg/practical-aspnetcore
 
 | 属性 | 信息 |
 |---|---|
@@ -1602,7 +1492,7 @@ ASP.NET Core 10、9、8.0、7.0、6.0、5.0、3.1、2.2 和 2.1 的实用示例�
 
 ---
 
-### 3158. pycaret/pycaret
+### 3154. pycaret/pycaret
 
 | 属性 | 信息 |
 |---|---|
@@ -1630,7 +1520,7 @@ Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native en
 
 ---
 
-### 3159. marp-team/marp
+### 3155. marp-team/marp
 
 | 属性 | 信息 |
 |---|---|
@@ -1658,7 +1548,7 @@ Markdown演示生态入口仓库
 
 ---
 
-### 3160. Fechin/reference
+### 3156. Fechin/reference
 
 | 属性 | 信息 |
 |---|---|
@@ -1686,7 +1576,7 @@ Markdown演示生态入口仓库
 
 ---
 
-### 3161. kedro-org/kedro
+### 3157. kedro-org/kedro
 
 | 属性 | 信息 |
 |---|---|
@@ -1714,7 +1604,7 @@ Kedro 是一个用于生产就绪数据科学的工具箱。它使用软件工�
 
 ---
 
-### 3162. maplibre/maplibre-gl-js
+### 3158. maplibre/maplibre-gl-js
 
 | 属性 | 信息 |
 |---|---|
@@ -1742,7 +1632,7 @@ MapLibre GL JS - 浏览器中的交互式矢量平铺地图
 
 ---
 
-### 3163. Milkdown/milkdown
+### 3159. Milkdown/milkdown
 
 | 属性 | 信息 |
 |---|---|
@@ -1770,7 +1660,7 @@ MapLibre GL JS - 浏览器中的交互式矢量平铺地图
 
 ---
 
-### 3164. kubernetes-client/python
+### 3160. kubernetes-client/python
 
 | 属性 | 信息 |
 |---|---|
@@ -1798,7 +1688,7 @@ kubernetes 的官方 Python 客户端库
 
 ---
 
-### 3165. RetroPie/RetroPie-Setup
+### 3161. RetroPie/RetroPie-Setup
 
 | 属性 | 信息 |
 |---|---|
@@ -1826,7 +1716,7 @@ Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and vari
 
 ---
 
-### 3166. kanboard/kanboard
+### 3162. kanboard/kanboard
 
 | 属性 | 信息 |
 |---|---|
@@ -1854,7 +1744,7 @@ Kanban project management software
 
 ---
 
-### 3167. Cysharp/UniTask
+### 3163. Cysharp/UniTask
 
 | 属性 | 信息 |
 |---|---|
@@ -1882,7 +1772,7 @@ Provides an efficient allocation free async/await integration for Unity.
 
 ---
 
-### 3168. realpython/materials
+### 3164. realpython/materials
 
 | 属性 | 信息 |
 |---|---|
@@ -1910,7 +1800,7 @@ Bonus materials, exercises, and example projects for our Python tutorials
 
 ---
 
-### 3169. imsnif/bandwhich
+### 3165. imsnif/bandwhich
 
 | 属性 | 信息 |
 |---|---|
@@ -1938,7 +1828,7 @@ Terminal bandwidth utilization tool
 
 ---
 
-### 3170. ReactNativeNews/React-Native-Apps
+### 3166. ReactNativeNews/React-Native-Apps
 
 | 属性 | 信息 |
 |---|---|
@@ -1966,7 +1856,7 @@ Curated List of Open Source React Native Apps.  Curation curtesy of
 
 ---
 
-### 3171. IBM/plex
+### 3167. IBM/plex
 
 | 属性 | 信息 |
 |---|---|
@@ -1994,7 +1884,7 @@ IBM 字体 IBM Plex 的封装。
 
 ---
 
-### 3172. isaac-sim/IsaacLab
+### 3168. isaac-sim/IsaacLab
 
 | 属性 | 信息 |
 |---|---|
@@ -2022,7 +1912,7 @@ Unified framework for robot learning built on NVIDIA Isaac Sim
 
 ---
 
-### 3173. tpn/pdfs
+### 3169. tpn/pdfs
 
 | 属性 | 信息 |
 |---|---|
@@ -2050,7 +1940,7 @@ Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc)
 
 ---
 
-### 3174. NorthwoodsSoftware/GoJS
+### 3170. NorthwoodsSoftware/GoJS
 
 | 属性 | 信息 |
 |---|---|
@@ -2078,7 +1968,7 @@ JavaScript diagramming library for interactive flowcharts, org charts, design to
 
 ---
 
-### 3175. nezhahq/nezha
+### 3171. nezhahq/nezha
 
 | 属性 | 信息 |
 |---|---|
@@ -2106,7 +1996,7 @@ JavaScript diagramming library for interactive flowcharts, org charts, design to
 
 ---
 
-### 3176. Uberi/speech_recognition
+### 3172. Uberi/speech_recognition
 
 | 属性 | 信息 |
 |---|---|
@@ -2134,35 +2024,7 @@ Python 语音识别模块，支持在线和离线多种引擎和 API。
 
 ---
 
-### 3177. gcanti/fp-ts
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/gcanti/fp-ts](https://github.com/gcanti/fp-ts) |
-| ⭐ Stars | 11515 |
-| 🍴 Forks | 512 |
-| 👀 Watchers | 11515 |
-| 📝 Open Issues | 191 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-01-25 |
-| 🔄 最后更新 | 2026-06-04 |
-| 📜 License | MIT |
-
-**简介**：
-Functional programming in TypeScript
-
-**中文简介**：
-TypeScript 中的函数式编程
-
-
-**Topics**：algebraic-data-types, functional-programming, typescript
-
-
-
----
-
-### 3178. gitkraken/vscode-gitlens
+### 3173. gitkraken/vscode-gitlens
 
 | 属性 | 信息 |
 |---|---|
@@ -2190,7 +2052,7 @@ Supercharge Git inside VS Code and unlock untapped knowledge within each reposit
 
 ---
 
-### 3179. jlevy/og-equity-compensation
+### 3174. jlevy/og-equity-compensation
 
 | 属性 | 信息 |
 |---|---|
@@ -2218,7 +2080,7 @@ Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
 
 ---
 
-### 3180. swiftlang/swift-package-manager
+### 3175. swiftlang/swift-package-manager
 
 | 属性 | 信息 |
 |---|---|
@@ -2246,7 +2108,7 @@ Swift 编程语言的包管理器
 
 ---
 
-### 3181. facebook/hermes
+### 3176. facebook/hermes
 
 | 属性 | 信息 |
 |---|---|
@@ -2274,7 +2136,7 @@ A JavaScript engine optimized for running React Native.
 
 ---
 
-### 3182. EvanLi/Github-Ranking
+### 3177. EvanLi/Github-Ranking
 
 | 属性 | 信息 |
 |---|---|
@@ -2302,7 +2164,7 @@ A JavaScript engine optimized for running React Native.
 
 ---
 
-### 3183. waydroid/waydroid
+### 3178. waydroid/waydroid
 
 | 属性 | 信息 |
 |---|---|
@@ -2330,7 +2192,7 @@ Waydroid 使用基于容器的方法在 Ubuntu 等常规 GNU/Linux 系统上启�
 
 ---
 
-### 3184. podman-container-tools/skopeo
+### 3179. podman-container-tools/skopeo
 
 | 属性 | 信息 |
 |---|---|
@@ -2358,7 +2220,7 @@ Work with remote images registries - retrieving information, images, signing con
 
 ---
 
-### 3185. kedacore/keda
+### 3180. kedacore/keda
 
 | 属性 | 信息 |
 |---|---|
@@ -2386,7 +2248,7 @@ KEDA 是一个基于 Kubernetes 的事件驱动自动缩放组件。它为 Kuber
 
 ---
 
-### 3186. GitoxideLabs/gitoxide
+### 3181. GitoxideLabs/gitoxide
 
 | 属性 | 信息 |
 |---|---|
@@ -2414,7 +2276,7 @@ Git 的惯用、精简、快速且安全的纯 Rust 实现
 
 ---
 
-### 3187. bellard/quickjs
+### 3182. bellard/quickjs
 
 | 属性 | 信息 |
 |---|---|
@@ -2442,7 +2304,7 @@ QuickJS Javascript 引擎的公共存储库。
 
 ---
 
-### 3188. project-chip/connectedhomeip
+### 3183. project-chip/connectedhomeip
 
 | 属性 | 信息 |
 |---|---|
@@ -2470,7 +2332,7 @@ Matter（以前称为 Project CHIP）在连接标准联盟的指导下，在更�
 
 ---
 
-### 3189. TwiN/gatus
+### 3184. TwiN/gatus
 
 | 属性 | 信息 |
 |---|---|
@@ -2498,7 +2360,7 @@ Automated developer-oriented status page with alerting and incident support
 
 ---
 
-### 3190. google/auto
+### 3185. google/auto
 
 | 属性 | 信息 |
 |---|---|
@@ -2526,7 +2388,7 @@ Java 源代码生成器的集合。
 
 ---
 
-### 3191. pestphp/pest
+### 3186. pestphp/pest
 
 | 属性 | 信息 |
 |---|---|
@@ -2554,7 +2416,7 @@ Pest 是一个优雅的 PHP 测试框架，注重简单性，经过精心设计�
 
 ---
 
-### 3192. rofl0r/proxychains-ng
+### 3187. rofl0r/proxychains-ng
 
 | 属性 | 信息 |
 |---|---|
@@ -2582,7 +2444,7 @@ proxychains ng（新一代） - 一种预加载器，它在动态链接的程序
 
 ---
 
-### 3193. pwndbg/pwndbg
+### 3188. pwndbg/pwndbg
 
 | 属性 | 信息 |
 |---|---|
@@ -2610,7 +2472,7 @@ Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 
 ---
 
-### 3194. We5ter/Scanners-Box
+### 3189. We5ter/Scanners-Box
 
 | 属性 | 信息 |
 |---|---|
@@ -2638,7 +2500,7 @@ A powerful and open-source toolkit for hackers and security automation - 安全�
 
 ---
 
-### 3195. JakeWharton/timber
+### 3190. JakeWharton/timber
 
 | 属性 | 信息 |
 |---|---|
@@ -2666,7 +2528,7 @@ A logger with a small, extensible API which provides utility on top of Android's
 
 ---
 
-### 3196. velero-io/velero
+### 3191. velero-io/velero
 
 | 属性 | 信息 |
 |---|---|
@@ -2694,7 +2556,7 @@ Backup and migrate Kubernetes applications and their persistent volumes
 
 ---
 
-### 3197. carbon-design-system/carbon
+### 3192. carbon-design-system/carbon
 
 | 属性 | 信息 |
 |---|---|
@@ -2722,7 +2584,7 @@ IBM构建的设计系统
 
 ---
 
-### 3198. py-pdf/pypdf
+### 3193. py-pdf/pypdf
 
 | 属性 | 信息 |
 |---|---|
@@ -2750,7 +2612,7 @@ A pure-python PDF library capable of splitting, merging, cropping, and transform
 
 ---
 
-### 3199. jina-ai/reader
+### 3194. jina-ai/reader
 
 | 属性 | 信息 |
 |---|---|
@@ -2778,7 +2640,7 @@ Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 
 ---
 
-### 3200. TelegramMessenger/Telegram-iOS
+### 3195. TelegramMessenger/Telegram-iOS
 
 | 属性 | 信息 |
 |---|---|
@@ -2801,6 +2663,146 @@ Telegram-iOS版
 
 
 **Topics**：-
+
+
+
+---
+
+### 3196. horsicq/Detect-It-Easy
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) |
+| ⭐ Stars | 10896 |
+| 🍴 Forks | 914 |
+| 👀 Watchers | 10896 |
+| 📝 Open Issues | 31 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2014-06-01 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Program for determining types of files for Windows, Linux and MacOS.
+
+**中文简介**：
+用于确定 Windows、Linux 和 MacOS 的文件类型的程序。
+
+
+**Topics**：binary-analysis, debugger, detect, detector, disassembler, elf, entropy, hacktoberfest, hacktoberfest2023, mach-o, macho, malware-analysis, malware-research, packer, pentest, program-analysis, reverse-engineering, scanner, static-analysis, unpacker
+
+
+
+---
+
+### 3197. jason5ng32/MyIP
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) |
+| ⭐ Stars | 10621 |
+| 🍴 Forks | 1121 |
+| 👀 Watchers | 10621 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Vue |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2023-11-22 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.
+
+**中文简介**：
+最好的 IP 工具箱。检查您的 IP 地址和地理位置、测试 IP 的 WebRTC 和 DNS IP 泄漏、运行 IP 质量检查、浏览器指纹检查、网站可用性检查、网络速度测试、全球延迟测试、MTR 测试、Whois 搜索等。
+
+
+**Topics**：awesome, censorship, dns, dnsleak, ip, ipinfo, leaks, myip, network, pingchecker, proxy, security, security-tools, speedtest, webrtc, whatismyip, whatismyipaddress, whois, whois-lookup
+
+
+
+---
+
+### 3198. bpftrace/bpftrace
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bpftrace/bpftrace](https://github.com/bpftrace/bpftrace) |
+| ⭐ Stars | 10146 |
+| 🍴 Forks | 1462 |
+| 👀 Watchers | 10146 |
+| 📝 Open Issues | 241 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2018-08-31 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+High-level tracing language for Linux
+
+**中文简介**：
+Linux 高级跟踪语言
+
+
+**Topics**：bcc, bpf, ebpf, kprobes, tracepoints, tracing, uprobes, usdt
+
+
+
+---
+
+### 3199. paralax/awesome-honeypots
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) |
+| ⭐ Stars | 10327 |
+| 🍴 Forks | 1337 |
+| 👀 Watchers | 10327 |
+| 📝 Open Issues | 8 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2015-06-18 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Artistic-2.0 |
+
+**简介**：
+an awesome list of honeypot resources
+
+**中文简介**：
+很棒的蜜罐资源列表
+
+
+**Topics**：awesome, awesome-list, honeyd, honeypot, list
+
+
+
+---
+
+### 3200. Immediate-Mode-UI/Nuklear
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) |
+| ⭐ Stars | 11182 |
+| 🍴 Forks | 678 |
+| 👀 Watchers | 11182 |
+| 📝 Open Issues | 312 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2019-11-26 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+A single-header ANSI C immediate mode cross-platform GUI library
+
+**中文简介**：
+单头 ANSI C 立即模式跨平台 GUI 库
+
+
+**Topics**：c, c89, gui, header-only, imgui, multiplatform, nuklear, single-header, single-header-lib
 
 
 

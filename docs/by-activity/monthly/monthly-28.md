@@ -1,99 +1,15 @@
 # 📆 最近90天活跃 - 第 28 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
-共收录 **7361** 个项目
+共收录 **7343** 个项目
 （第 28/74 页）
 
 ## 项目列表
 
 
-### 2701. GoogleChrome/workbox
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) |
-| ⭐ Stars | 12954 |
-| 🍴 Forks | 876 |
-| 👀 Watchers | 12954 |
-| 📝 Open Issues | 87 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2016-04-04 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | MIT |
-
-**简介**：
-📦 Workbox: JavaScript libraries for Progressive Web Apps
-
-**中文简介**：
-📦 Workbox：渐进式 Web 应用程序的 JavaScript 库
-
-
-**Topics**：offline-first, progressive-web-app, service-worker, service-workers, sw-precache, sw-toolbox
-
-
-
----
-
-### 2702. nock/nock
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/nock/nock](https://github.com/nock/nock) |
-| ⭐ Stars | 13103 |
-| 🍴 Forks | 760 |
-| 👀 Watchers | 13103 |
-| 📝 Open Issues | 85 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2011-09-22 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | MIT |
-
-**简介**：
-HTTP server mocking and expectations library for Node.js
-
-**中文简介**：
-Node.js 的 HTTP 服务器模拟和期望库
-
-
-**Topics**：http, javascript, mock, nock, node
-
-
-
----
-
-### 2703. just-the-docs/just-the-docs
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) |
-| ⭐ Stars | 9037 |
-| 🍴 Forks | 3799 |
-| 👀 Watchers | 9037 |
-| 📝 Open Issues | 102 |
-| 💻 主语言 | SCSS |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-11-08 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | MIT |
-
-**简介**：
-A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
-
-**中文简介**：
-一个现代、高度可定制、响应灵敏的 Jekyll 主题，用于带有内置搜索的文档。
-
-
-**Topics**：documentation, github-pages, jekyll, jekyll-theme
-
-
-
----
-
-### 2704. Termix-SSH/Termix
+### 2701. Termix-SSH/Termix
 
 | 属性 | 信息 |
 |---|---|
@@ -122,7 +38,7 @@ Self-hosted SSH and remote desktop management.
 
 ---
 
-### 2705. deepseek-ai/FlashMLA
+### 2702. deepseek-ai/FlashMLA
 
 | 属性 | 信息 |
 |---|---|
@@ -150,7 +66,7 @@ FlashMLA：高效的多头潜在注意力内核
 
 ---
 
-### 2706. shirou/gopsutil
+### 2703. shirou/gopsutil
 
 | 属性 | 信息 |
 |---|---|
@@ -178,7 +94,7 @@ psutil for golang
 
 ---
 
-### 2707. mvt-project/mvt
+### 2704. mvt-project/mvt
 
 | 属性 | 信息 |
 |---|---|
@@ -206,7 +122,7 @@ MVT（移动验证工具包）有助于对移动设备进行取证，以发现�
 
 ---
 
-### 2708. octobercms/october
+### 2705. octobercms/october
 
 | 属性 | 信息 |
 |---|---|
@@ -234,7 +150,7 @@ Self-hosted CMS platform based on the Laravel PHP Framework.
 
 ---
 
-### 2709. codecombat/codecombat
+### 2706. codecombat/codecombat
 
 | 属性 | 信息 |
 |---|---|
@@ -262,7 +178,7 @@ Game for learning how to code.
 
 ---
 
-### 2710. microsoft/vscode-docs
+### 2707. microsoft/vscode-docs
 
 | 属性 | 信息 |
 |---|---|
@@ -290,7 +206,7 @@ Visual Studio Code 的公共文档
 
 ---
 
-### 2711. octalmage/robotjs
+### 2708. octalmage/robotjs
 
 | 属性 | 信息 |
 |---|---|
@@ -318,7 +234,7 @@ Node.js 桌面自动化。
 
 ---
 
-### 2712. dotnet/csharplang
+### 2709. dotnet/csharplang
 
 | 属性 | 信息 |
 |---|---|
@@ -346,7 +262,7 @@ C# 编程语言设计的官方存储库
 
 ---
 
-### 2713. libnyanpasu/clash-nyanpasu
+### 2710. libnyanpasu/clash-nyanpasu
 
 | 属性 | 信息 |
 |---|---|
@@ -374,7 +290,7 @@ Clash Nyanpasu～(∠・ω< )⌒☆​
 
 ---
 
-### 2714. SigmaHQ/sigma
+### 2711. SigmaHQ/sigma
 
 | 属性 | 信息 |
 |---|---|
@@ -402,7 +318,7 @@ Main Sigma Rule Repository
 
 ---
 
-### 2715. graphql/dataloader
+### 2712. graphql/dataloader
 
 | 属性 | 信息 |
 |---|---|
@@ -430,7 +346,7 @@ DataLoader 是一个通用实用程序，用作应用程序数据获取层的一
 
 ---
 
-### 2716. JosefNemec/Playnite
+### 2713. JosefNemec/Playnite
 
 | 属性 | 信息 |
 |---|---|
@@ -458,7 +374,7 @@ Video game library manager with support for wide range of 3rd party libraries an
 
 ---
 
-### 2717. Jguer/yay
+### 2714. Jguer/yay
 
 | 属性 | 信息 |
 |---|---|
@@ -486,7 +402,7 @@ Yet another Yogurt - An AUR Helper written in Go
 
 ---
 
-### 2718. qubvel-org/segmentation_models.pytorch
+### 2715. qubvel-org/segmentation_models.pytorch
 
 | 属性 | 信息 |
 |---|---|
@@ -514,7 +430,7 @@ Semantic segmentation models with 500+ pretrained convolutional and transformer-
 
 ---
 
-### 2719. zedeus/nitter
+### 2716. zedeus/nitter
 
 | 属性 | 信息 |
 |---|---|
@@ -542,7 +458,7 @@ Alternative Twitter front-end
 
 ---
 
-### 2720. plasma-umass/scalene
+### 2717. plasma-umass/scalene
 
 | 属性 | 信息 |
 |---|---|
@@ -570,7 +486,7 @@ Scalene：适用于 Python 的高性能、高精度 CPU、GPU 和内存分析器
 
 ---
 
-### 2721. filp/whoops
+### 2718. filp/whoops
 
 | 属性 | 信息 |
 |---|---|
@@ -598,7 +514,7 @@ PHP errors for cool kids
 
 ---
 
-### 2722. beefproject/beef
+### 2719. beefproject/beef
 
 | 属性 | 信息 |
 |---|---|
@@ -626,7 +542,7 @@ The Browser Exploitation Framework Project
 
 ---
 
-### 2723. phuryn/pm-skills
+### 2720. phuryn/pm-skills
 
 | 属性 | 信息 |
 |---|---|
@@ -654,7 +570,7 @@ PM 技能市场：100 多种代理技能、命令和插件 - 从发现到策略�
 
 ---
 
-### 2724. AutoHotkey/AutoHotkey
+### 2721. AutoHotkey/AutoHotkey
 
 | 属性 | 信息 |
 |---|---|
@@ -682,7 +598,7 @@ AutoHotkey - 用于 Windows 的宏创建和面向自动化的脚本实用程序�
 
 ---
 
-### 2725. MarSeventh/CloudFlare-ImgBed
+### 2722. MarSeventh/CloudFlare-ImgBed
 
 | 属性 | 信息 |
 |---|---|
@@ -710,7 +626,7 @@ AutoHotkey - 用于 Windows 的宏创建和面向自动化的脚本实用程序�
 
 ---
 
-### 2726. puckeditor/puck
+### 2723. puckeditor/puck
 
 | 属性 | 信息 |
 |---|---|
@@ -738,7 +654,7 @@ React 的可视化编辑器。
 
 ---
 
-### 2727. drduh/YubiKey-Guide
+### 2724. drduh/YubiKey-Guide
 
 | 属性 | 信息 |
 |---|---|
@@ -766,7 +682,7 @@ Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardwa
 
 ---
 
-### 2728. vega/vega
+### 2725. vega/vega
 
 | 属性 | 信息 |
 |---|---|
@@ -794,7 +710,7 @@ A visualization grammar.
 
 ---
 
-### 2729. vesoft-inc/nebula
+### 2726. vesoft-inc/nebula
 
 | 属性 | 信息 |
 |---|---|
@@ -822,7 +738,7 @@ A visualization grammar.
 
 ---
 
-### 2730. dbcli/pgcli
+### 2727. dbcli/pgcli
 
 | 属性 | 信息 |
 |---|---|
@@ -850,7 +766,7 @@ Postgres CLI with autocompletion and syntax highlighting
 
 ---
 
-### 2731. git-up/GitUp
+### 2728. git-up/GitUp
 
 | 属性 | 信息 |
 |---|---|
@@ -878,7 +794,7 @@ The Git interface you've been missing all your life has finally arrived.
 
 ---
 
-### 2732. vercel/satori
+### 2729. vercel/satori
 
 | 属性 | 信息 |
 |---|---|
@@ -906,7 +822,7 @@ Enlightened library to convert HTML and CSS to SVG
 
 ---
 
-### 2733. libgit2/libgit2
+### 2730. libgit2/libgit2
 
 | 属性 | 信息 |
 |---|---|
@@ -934,7 +850,7 @@ A cross-platform, linkable library implementation of Git that you can use in you
 
 ---
 
-### 2734. wallabag/wallabag
+### 2731. wallabag/wallabag
 
 | 属性 | 信息 |
 |---|---|
@@ -963,7 +879,7 @@ wallabag 是一个用于保存网页的自托管应用程序：保存和分类�
 
 ---
 
-### 2735. open-policy-agent/opa
+### 2732. open-policy-agent/opa
 
 | 属性 | 信息 |
 |---|---|
@@ -991,7 +907,7 @@ Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 
 ---
 
-### 2736. stashapp/stash
+### 2733. stashapp/stash
 
 | 属性 | 信息 |
 |---|---|
@@ -1019,7 +935,7 @@ An organizer for your porn, written in Go.  Documentation:  https://docs.stashap
 
 ---
 
-### 2737. Kludex/starlette
+### 2734. Kludex/starlette
 
 | 属性 | 信息 |
 |---|---|
@@ -1047,7 +963,7 @@ The little ASGI framework that shines. 🌟
 
 ---
 
-### 2738. jquery-validation/jquery-validation
+### 2735. jquery-validation/jquery-validation
 
 | 属性 | 信息 |
 |---|---|
@@ -1075,7 +991,7 @@ jQuery 验证插件库源
 
 ---
 
-### 2739. amir20/dozzle
+### 2736. amir20/dozzle
 
 | 属性 | 信息 |
 |---|---|
@@ -1103,7 +1019,7 @@ Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 
 ---
 
-### 2740. wzdnzd/aggregator
+### 2737. wzdnzd/aggregator
 
 | 属性 | 信息 |
 |---|---|
@@ -1131,7 +1047,7 @@ One-stop Proxies Crawling and Aggregation Platform
 
 ---
 
-### 2741. openspug/spug
+### 2738. openspug/spug
 
 | 属性 | 信息 |
 |---|---|
@@ -1158,7 +1074,7 @@ One-stop Proxies Crawling and Aggregation Platform
 
 ---
 
-### 2742. dataelement/bisheng
+### 2739. dataelement/bisheng
 
 | 属性 | 信息 |
 |---|---|
@@ -1186,7 +1102,7 @@ BISHENG是一个开放的LLM DevOps平台，适用于下一代企业人工智能
 
 ---
 
-### 2743. gopherjs/gopherjs
+### 2740. gopherjs/gopherjs
 
 | 属性 | 信息 |
 |---|---|
@@ -1214,7 +1130,7 @@ A compiler from Go to JavaScript for running Go code in a browser
 
 ---
 
-### 2744. lz4/lz4
+### 2741. lz4/lz4
 
 | 属性 | 信息 |
 |---|---|
@@ -1242,7 +1158,7 @@ Extremely Fast Compression algorithm
 
 ---
 
-### 2745. ajayyy/SponsorBlock
+### 2742. ajayyy/SponsorBlock
 
 | 属性 | 信息 |
 |---|---|
@@ -1270,7 +1186,7 @@ Skip YouTube video sponsors (browser extension)
 
 ---
 
-### 2746. fmhy/FMHY
+### 2743. fmhy/FMHY
 
 | 属性 | 信息 |
 |---|---|
@@ -1297,7 +1213,7 @@ https://fmhy.net/
 
 ---
 
-### 2747. grpc/grpc-rust
+### 2744. grpc/grpc-rust
 
 | 属性 | 信息 |
 |---|---|
@@ -1325,7 +1241,7 @@ A native gRPC client & server implementation with async/await support.
 
 ---
 
-### 2748. alienator88/Pearcleaner
+### 2745. alienator88/Pearcleaner
 
 | 属性 | 信息 |
 |---|---|
@@ -1353,7 +1269,7 @@ A free, source-available and fair-code licensed mac app cleaner
 
 ---
 
-### 2749. great-expectations/great_expectations
+### 2746. great-expectations/great_expectations
 
 | 属性 | 信息 |
 |---|---|
@@ -1381,7 +1297,7 @@ Always know what to expect from your data.
 
 ---
 
-### 2750. mozilla-firefox/firefox
+### 2747. mozilla-firefox/firefox
 
 | 属性 | 信息 |
 |---|---|
@@ -1409,7 +1325,7 @@ Mozilla Firefox Web 浏览器的官方存储库。
 
 ---
 
-### 2751. openframeworks/openFrameworks
+### 2748. openframeworks/openFrameworks
 
 | 属性 | 信息 |
 |---|---|
@@ -1437,7 +1353,7 @@ openFrameworks 是一个社区开发的跨平台工具包，用于 C++ 创意编
 
 ---
 
-### 2752. openedx/openedx-platform
+### 2749. openedx/openedx-platform
 
 | 属性 | 信息 |
 |---|---|
@@ -1465,7 +1381,7 @@ Open edX LMS 和 Studio，为世界各地的教育网站提供支持！
 
 ---
 
-### 2753. illacloud/illa-builder
+### 2750. illacloud/illa-builder
 
 | 属性 | 信息 |
 |---|---|
@@ -1493,7 +1409,7 @@ Low-code platform allows you to build business apps, enables you to quickly crea
 
 ---
 
-### 2754. google/sanitizers
+### 2751. google/sanitizers
 
 | 属性 | 信息 |
 |---|---|
@@ -1521,7 +1437,7 @@ AddressSanitizer, ThreadSanitizer, MemorySanitizer
 
 ---
 
-### 2755. Sjj1024/PakePlus-iOS
+### 2752. Sjj1024/PakePlus-iOS
 
 | 属性 | 信息 |
 |---|---|
@@ -1549,7 +1465,7 @@ Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M w
 
 ---
 
-### 2756. KaringX/karing
+### 2753. KaringX/karing
 
 | 属性 | 信息 |
 |---|---|
@@ -1577,7 +1493,7 @@ Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
 ---
 
-### 2757. kubernetes/client-go
+### 2754. kubernetes/client-go
 
 | 属性 | 信息 |
 |---|---|
@@ -1605,7 +1521,7 @@ Go Kubernetes 客户端。
 
 ---
 
-### 2758. ClementTsang/bottom
+### 2755. ClementTsang/bottom
 
 | 属性 | 信息 |
 |---|---|
@@ -1633,7 +1549,7 @@ Yet another cross-platform graphical process/system monitor.
 
 ---
 
-### 2759. speechbrain/speechbrain
+### 2756. speechbrain/speechbrain
 
 | 属性 | 信息 |
 |---|---|
@@ -1661,7 +1577,7 @@ A PyTorch-based Speech Toolkit
 
 ---
 
-### 2760. taskflow/taskflow
+### 2757. taskflow/taskflow
 
 | 属性 | 信息 |
 |---|---|
@@ -1689,7 +1605,7 @@ A General-purpose Task-parallel Programming System in C++
 
 ---
 
-### 2761. Shopify/liquid
+### 2758. Shopify/liquid
 
 | 属性 | 信息 |
 |---|---|
@@ -1717,7 +1633,7 @@ Liquid markup language. Safe, customer facing template language for flexible web
 
 ---
 
-### 2762. signalapp/Signal-Server
+### 2759. signalapp/Signal-Server
 
 | 属性 | 信息 |
 |---|---|
@@ -1745,7 +1661,7 @@ Server supporting the Signal Private Messenger applications on Android, Desktop,
 
 ---
 
-### 2763. talkgo/night
+### 2760. talkgo/night
 
 | 属性 | 信息 |
 |---|---|
@@ -1772,7 +1688,7 @@ Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播�
 
 ---
 
-### 2764. wechat-article/wechat-article-exporter
+### 2761. wechat-article/wechat-article-exporter
 
 | 属性 | 信息 |
 |---|---|
@@ -1799,7 +1715,7 @@ Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播�
 
 ---
 
-### 2765. rayon-rs/rayon
+### 2762. rayon-rs/rayon
 
 | 属性 | 信息 |
 |---|---|
@@ -1827,7 +1743,7 @@ Rayon：Rust 的数据并行库
 
 ---
 
-### 2766. axolotl-ai-cloud/axolotl
+### 2763. axolotl-ai-cloud/axolotl
 
 | 属性 | 信息 |
 |---|---|
@@ -1855,7 +1771,7 @@ Go ahead and axolotl questions
 
 ---
 
-### 2767. Stremio/stremio-web
+### 2764. Stremio/stremio-web
 
 | 属性 | 信息 |
 |---|---|
@@ -1883,7 +1799,7 @@ Stremio - 自由流媒体
 
 ---
 
-### 2768. T8RIN/ImageToolbox
+### 2765. T8RIN/ImageToolbox
 
 | 属性 | 信息 |
 |---|---|
@@ -1911,7 +1827,7 @@ Stremio - 自由流媒体
 
 ---
 
-### 2769. nightwatchjs/nightwatch
+### 2766. nightwatchjs/nightwatch
 
 | 属性 | 信息 |
 |---|---|
@@ -1939,7 +1855,7 @@ Integrated end-to-end testing framework written in Node.js and using W3C Webdriv
 
 ---
 
-### 2770. langchain-ai/open_deep_research
+### 2767. langchain-ai/open_deep_research
 
 | 属性 | 信息 |
 |---|---|
@@ -1965,7 +1881,7 @@ Integrated end-to-end testing framework written in Node.js and using W3C Webdriv
 
 ---
 
-### 2771. future-architect/vuls
+### 2768. future-architect/vuls
 
 | 属性 | 信息 |
 |---|---|
@@ -1993,7 +1909,7 @@ Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Progr
 
 ---
 
-### 2772. ValveSoftware/source-sdk-2013
+### 2769. ValveSoftware/source-sdk-2013
 
 | 属性 | 信息 |
 |---|---|
@@ -2021,7 +1937,7 @@ The 2013 edition of the Source SDK
 
 ---
 
-### 2773. Farama-Foundation/Gymnasium
+### 2770. Farama-Foundation/Gymnasium
 
 | 属性 | 信息 |
 |---|---|
@@ -2049,7 +1965,7 @@ An API standard for single-agent reinforcement learning environments, with popul
 
 ---
 
-### 2774. coleifer/peewee
+### 2771. coleifer/peewee
 
 | 属性 | 信息 |
 |---|---|
@@ -2077,7 +1993,7 @@ a small, expressive orm -- supports postgresql, mysql, sqlite
 
 ---
 
-### 2775. foundry-rs/foundry
+### 2772. foundry-rs/foundry
 
 | 属性 | 信息 |
 |---|---|
@@ -2105,7 +2021,7 @@ Foundry 是一个使用 Rust 编写的用于以太坊应用程序开发的速度
 
 ---
 
-### 2776. ddgksf2013/ddgksf2013
+### 2773. ddgksf2013/ddgksf2013
 
 | 属性 | 信息 |
 |---|---|
@@ -2132,7 +2048,7 @@ Foundry 是一个使用 Rust 编写的用于以太坊应用程序开发的速度
 
 ---
 
-### 2777. web-infra-dev/rspack
+### 2774. web-infra-dev/rspack
 
 | 属性 | 信息 |
 |---|---|
@@ -2160,7 +2076,7 @@ Fast Rust-based bundler for the web with a modernized webpack API 🦀
 
 ---
 
-### 2778. keephq/keep
+### 2775. keephq/keep
 
 | 属性 | 信息 |
 |---|---|
@@ -2188,7 +2104,7 @@ The open-source AIOps and alert management platform
 
 ---
 
-### 2779. HKUDS/Vibe-Trading
+### 2776. HKUDS/Vibe-Trading
 
 | 属性 | 信息 |
 |---|---|
@@ -2216,7 +2132,7 @@ The open-source AIOps and alert management platform
 
 ---
 
-### 2780. siteboon/claudecodeui
+### 2777. siteboon/claudecodeui
 
 | 属性 | 信息 |
 |---|---|
@@ -2244,7 +2160,7 @@ Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI
 
 ---
 
-### 2781. datawhalechina/all-in-rag
+### 2778. datawhalechina/all-in-rag
 
 | 属性 | 信息 |
 |---|---|
@@ -2273,7 +2189,7 @@ Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI
 
 ---
 
-### 2782. free-nodes/v2rayfree
+### 2779. free-nodes/v2rayfree
 
 | 属性 | 信息 |
 |---|---|
@@ -2302,7 +2218,7 @@ v2ray节点、免费节点、免费v2ray节点、最新公益免费v2ray节点�
 
 ---
 
-### 2783. plankanban/planka
+### 2780. plankanban/planka
 
 | 属性 | 信息 |
 |---|---|
@@ -2330,7 +2246,7 @@ PLANKA 是适合所有人的看板式项目掌握工具
 
 ---
 
-### 2784. WhiskeySockets/Baileys
+### 2781. WhiskeySockets/Baileys
 
 | 属性 | 信息 |
 |---|---|
@@ -2358,7 +2274,7 @@ Socket-based TS/JavaScript API for WhatsApp Web
 
 ---
 
-### 2785. akaunting/akaunting
+### 2782. akaunting/akaunting
 
 | 属性 | 信息 |
 |---|---|
@@ -2386,7 +2302,7 @@ Online Accounting Software
 
 ---
 
-### 2786. graphile/crystal
+### 2783. graphile/crystal
 
 | 属性 | 信息 |
 |---|---|
@@ -2414,7 +2330,7 @@ Online Accounting Software
 
 ---
 
-### 2787. zealdocs/zeal
+### 2784. zealdocs/zeal
 
 | 属性 | 信息 |
 |---|---|
@@ -2442,7 +2358,7 @@ Offline documentation browser. Your personal reference library, searchable in an
 
 ---
 
-### 2788. neuml/txtai
+### 2785. neuml/txtai
 
 | 属性 | 信息 |
 |---|---|
@@ -2470,7 +2386,7 @@ Offline documentation browser. Your personal reference library, searchable in an
 
 ---
 
-### 2789. e2b-dev/E2B
+### 2786. e2b-dev/E2B
 
 | 属性 | 信息 |
 |---|---|
@@ -2498,7 +2414,7 @@ Open-source, secure environment with real-world tools for enterprise-grade agent
 
 ---
 
-### 2790. quic-go/quic-go
+### 2787. quic-go/quic-go
 
 | 属性 | 信息 |
 |---|---|
@@ -2526,7 +2442,7 @@ A production-ready QUIC implementation in pure Go
 
 ---
 
-### 2791. JoeanAmier/XHS-Downloader
+### 2788. JoeanAmier/XHS-Downloader
 
 | 属性 | 信息 |
 |---|---|
@@ -2553,7 +2469,7 @@ A production-ready QUIC implementation in pure Go
 
 ---
 
-### 2792. piskelapp/piskel
+### 2789. piskelapp/piskel
 
 | 属性 | 信息 |
 |---|---|
@@ -2581,7 +2497,7 @@ A simple web-based tool for Spriting and Pixel art.
 
 ---
 
-### 2793. jonataslaw/getx
+### 2790. jonataslaw/getx
 
 | 属性 | 信息 |
 |---|---|
@@ -2609,7 +2525,7 @@ Open screens/snackbars/dialogs/bottomSheets without context, manage states and i
 
 ---
 
-### 2794. abraunegg/onedrive
+### 2791. abraunegg/onedrive
 
 | 属性 | 信息 |
 |---|---|
@@ -2637,7 +2553,7 @@ OneDrive Client for Linux
 
 ---
 
-### 2795. stanfordnlp/CoreNLP
+### 2792. stanfordnlp/CoreNLP
 
 | 属性 | 信息 |
 |---|---|
@@ -2665,7 +2581,7 @@ CoreNLP：一套 Java 核心 NLP 工具，用于标记化、句子分段、NER�
 
 ---
 
-### 2796. tiny-craft/tiny-rdm
+### 2793. tiny-craft/tiny-rdm
 
 | 属性 | 信息 |
 |---|---|
@@ -2693,7 +2609,7 @@ Tiny RDM（Tiny Redis 桌面管理器） - 适用于 Mac、Windows 和 Linux 的
 
 ---
 
-### 2797. kiddin9/Kwrt
+### 2794. kiddin9/Kwrt
 
 | 属性 | 信息 |
 |---|---|
@@ -2720,7 +2636,7 @@ openwrt 软路由固件
 
 ---
 
-### 2798. google/sentencepiece
+### 2795. google/sentencepiece
 
 | 属性 | 信息 |
 |---|---|
@@ -2748,7 +2664,7 @@ Unsupervised text tokenizer for Neural Network-based text generation.
 
 ---
 
-### 2799. react-icons/react-icons
+### 2796. react-icons/react-icons
 
 | 属性 | 信息 |
 |---|---|
@@ -2776,7 +2692,7 @@ svg react icons of popular icon packs
 
 ---
 
-### 2800. PlasmoHQ/plasmo
+### 2797. PlasmoHQ/plasmo
 
 | 属性 | 信息 |
 |---|---|
@@ -2799,6 +2715,88 @@ svg react icons of popular icon packs
 
 
 **Topics**：browser-extension, bundler, chrome-extension, edge-addon, firefox-addon, parcel, reactjs, sdk, typescript
+
+
+
+---
+
+### 2798. dotnet/orleans
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/dotnet/orleans](https://github.com/dotnet/orleans) |
+| ⭐ Stars | 10787 |
+| 🍴 Forks | 2129 |
+| 👀 Watchers | 10787 |
+| 📝 Open Issues | 718 |
+| 💻 主语言 | C# |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2014-12-19 |
+| 🔄 最后更新 | 2026-06-04 |
+| 📜 License | MIT |
+
+**简介**：
+Cloud Native application framework for .NET
+
+**中文简介**：
+.NET 的云原生应用程序框架
+
+
+**Topics**：actor-model, actors, cloud-computing, cloud-native, concurrency, distributed-actors, distributed-systems, dotnet, orleans
+
+
+
+---
+
+### 2799. FULU-Foundation/OrcaSlicer-bambulab
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/FULU-Foundation/OrcaSlicer-bambulab](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) |
+| ⭐ Stars | 6803 |
+| 🍴 Forks | 5151 |
+| 👀 Watchers | 6803 |
+| 📝 Open Issues | 31 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-05-11 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 2800. OpenMOSS/MOSS
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS) |
+| ⭐ Stars | 12130 |
+| 🍴 Forks | 1132 |
+| 👀 Watchers | 12130 |
+| 📝 Open Issues | 241 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2023-04-15 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+An open-source tool-augmented conversational language model from Fudan University
+
+**中文简介**：
+复旦大学开源工具增强会话语言模型
+
+
+**Topics**：chatgpt, deep-learning, dialogue-systems, large-language-models, natural-language-processing, text-generation
 
 
 

@@ -1,43 +1,15 @@
 # 📆 最近90天活跃 - 第 17 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
-共收录 **7361** 个项目
+共收录 **7343** 个项目
 （第 17/74 页）
 
 ## 项目列表
 
 
-### 1601. infinilabs/analysis-ik
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/infinilabs/analysis-ik](https://github.com/infinilabs/analysis-ik) |
-| ⭐ Stars | 17459 |
-| 🍴 Forks | 3280 |
-| 👀 Watchers | 17459 |
-| 📝 Open Issues | 19 |
-| 💻 主语言 | Java |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2011-12-16 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
-
-**中文简介**：
-🚌 IK Analysis 插件将 Lucene IK 分析器集成到 Elasticsearch 和 OpenSearch 中，支持自定义字典。
-
-
-**Topics**：analyzer, easysearch, elasticsearch, ik-analysis, java, opensearch
-
-
-
----
-
-### 1602. ratatui/ratatui
+### 1601. ratatui/ratatui
 
 | 属性 | 信息 |
 |---|---|
@@ -65,7 +37,7 @@ A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 http
 
 ---
 
-### 1603. bluesky-social/social-app
+### 1602. bluesky-social/social-app
 
 | 属性 | 信息 |
 |---|---|
@@ -93,7 +65,7 @@ The Bluesky Social application for Web, iOS, and Android
 
 ---
 
-### 1604. spaceship-prompt/spaceship-prompt
+### 1603. spaceship-prompt/spaceship-prompt
 
 | 属性 | 信息 |
 |---|---|
@@ -121,7 +93,7 @@ The Bluesky Social application for Web, iOS, and Android
 
 ---
 
-### 1605. Atlas-OS/Atlas
+### 1604. Atlas-OS/Atlas
 
 | 属性 | 信息 |
 |---|---|
@@ -149,7 +121,7 @@ The Bluesky Social application for Web, iOS, and Android
 
 ---
 
-### 1606. hubotio/hubot
+### 1605. hubotio/hubot
 
 | 属性 | 信息 |
 |---|---|
@@ -177,7 +149,7 @@ A customizable life embetterment robot.
 
 ---
 
-### 1607. imarvinle/awesome-cs-books
+### 1606. imarvinle/awesome-cs-books
 
 | 属性 | 信息 |
 |---|---|
@@ -204,7 +176,7 @@ A customizable life embetterment robot.
 
 ---
 
-### 1608. lewagon/setup
+### 1607. lewagon/setup
 
 | 属性 | 信息 |
 |---|---|
@@ -232,7 +204,7 @@ Le Wagon 学生人工智能软件开发训练营第一天的设置说明
 
 ---
 
-### 1609. motdotla/dotenv
+### 1608. motdotla/dotenv
 
 | 属性 | 信息 |
 |---|---|
@@ -260,7 +232,7 @@ Loads environment variables from .env for nodejs projects.
 
 ---
 
-### 1610. toml-lang/toml
+### 1609. toml-lang/toml
 
 | 属性 | 信息 |
 |---|---|
@@ -288,7 +260,7 @@ Tom's Obvious, Minimal Language
 
 ---
 
-### 1611. networkx/networkx
+### 1610. networkx/networkx
 
 | 属性 | 信息 |
 |---|---|
@@ -316,7 +288,7 @@ Python 中的网络分析
 
 ---
 
-### 1612. agentskills/agentskills
+### 1611. agentskills/agentskills
 
 | 属性 | 信息 |
 |---|---|
@@ -344,7 +316,7 @@ Specification and documentation for Agent Skills
 
 ---
 
-### 1613. bee-san/RustScan
+### 1612. bee-san/RustScan
 
 | 属性 | 信息 |
 |---|---|
@@ -372,7 +344,7 @@ Specification and documentation for Agent Skills
 
 ---
 
-### 1614. material-components/material-components-android
+### 1613. material-components/material-components-android
 
 | 属性 | 信息 |
 |---|---|
@@ -400,7 +372,7 @@ Specification and documentation for Agent Skills
 
 ---
 
-### 1615. uikit/uikit
+### 1614. uikit/uikit
 
 | 属性 | 信息 |
 |---|---|
@@ -428,7 +400,7 @@ A lightweight and modular front-end framework for developing fast and powerful w
 
 ---
 
-### 1616. ahmetb/kubectx
+### 1615. ahmetb/kubectx
 
 | 属性 | 信息 |
 |---|---|
@@ -457,7 +429,7 @@ Faster way to switch between clusters and namespaces in kubectl
 
 ---
 
-### 1617. titanwings/colleague-skill
+### 1616. titanwings/colleague-skill
 
 | 属性 | 信息 |
 |---|---|
@@ -485,7 +457,7 @@ Faster way to switch between clusters and namespaces in kubectl
 
 ---
 
-### 1618. compiler-explorer/compiler-explorer
+### 1617. compiler-explorer/compiler-explorer
 
 | 属性 | 信息 |
 |---|---|
@@ -513,7 +485,7 @@ Run compilers interactively from your web browser and interact with the assembly
 
 ---
 
-### 1619. bettercap/bettercap
+### 1618. bettercap/bettercap
 
 | 属性 | 信息 |
 |---|---|
@@ -541,7 +513,7 @@ The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks recon
 
 ---
 
-### 1620. unifyai/ivy
+### 1619. unifyai/ivy
 
 | 属性 | 信息 |
 |---|---|
@@ -569,7 +541,7 @@ Convert Machine Learning Code Between Frameworks
 
 ---
 
-### 1621. argoproj/argo-workflows
+### 1620. argoproj/argo-workflows
 
 | 属性 | 信息 |
 |---|---|
@@ -597,7 +569,7 @@ Kubernetes 的工作流引擎
 
 ---
 
-### 1622. CapSoftware/Cap
+### 1621. CapSoftware/Cap
 
 | 属性 | 信息 |
 |---|---|
@@ -625,7 +597,7 @@ Open source Loom alternative. Beautiful, shareable screen recordings.
 
 ---
 
-### 1623. screenpipe/screenpipe
+### 1622. screenpipe/screenpipe
 
 | 属性 | 信息 |
 |---|---|
@@ -653,7 +625,7 @@ YC (S26) |人工智能知道你所看到的、所说的或听到的。 24/7、�
 
 ---
 
-### 1624. agarrharr/awesome-cli-apps
+### 1623. agarrharr/awesome-cli-apps
 
 | 属性 | 信息 |
 |---|---|
@@ -681,7 +653,7 @@ YC (S26) |人工智能知道你所看到的、所说的或听到的。 24/7、�
 
 ---
 
-### 1625. facebook/relay
+### 1624. facebook/relay
 
 | 属性 | 信息 |
 |---|---|
@@ -709,7 +681,7 @@ Relay 是一个用于构建数据驱动的 React 应用程序的 JavaScript 框�
 
 ---
 
-### 1626. vuejs/vitepress
+### 1625. vuejs/vitepress
 
 | 属性 | 信息 |
 |---|---|
@@ -737,7 +709,7 @@ Vite 和 Vue 提供动力的静态站点生成器。
 
 ---
 
-### 1627. basecamp/trix
+### 1626. basecamp/trix
 
 | 属性 | 信息 |
 |---|---|
@@ -765,7 +737,7 @@ A rich text editor for everyday writing
 
 ---
 
-### 1628. chidiwilliams/buzz
+### 1627. chidiwilliams/buzz
 
 | 属性 | 信息 |
 |---|---|
@@ -793,7 +765,7 @@ Buzz 可在您的个人计算机上离线转录和翻译音频。由 OpenAI 的 
 
 ---
 
-### 1629. tiann/KernelSU
+### 1628. tiann/KernelSU
 
 | 属性 | 信息 |
 |---|---|
@@ -821,7 +793,7 @@ A Kernel based root solution for Android
 
 ---
 
-### 1630. comet-ml/opik
+### 1629. comet-ml/opik
 
 | 属性 | 信息 |
 |---|---|
@@ -849,7 +821,7 @@ Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic wor
 
 ---
 
-### 1631. Tencent/APIJSON
+### 1630. Tencent/APIJSON
 
 | 属性 | 信息 |
 |---|---|
@@ -877,7 +849,7 @@ Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic wor
 
 ---
 
-### 1632. eggjs/egg
+### 1631. eggjs/egg
 
 | 属性 | 信息 |
 |---|---|
@@ -906,7 +878,7 @@ Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic wor
 
 ---
 
-### 1633. dockur/macos
+### 1632. dockur/macos
 
 | 属性 | 信息 |
 |---|---|
@@ -934,7 +906,7 @@ Docker 容器内的 MacOS。
 
 ---
 
-### 1634. netchx/netch
+### 1633. netchx/netch
 
 | 属性 | 信息 |
 |---|---|
@@ -962,7 +934,7 @@ A simple proxy client
 
 ---
 
-### 1635. krisk/Fuse
+### 1634. krisk/Fuse
 
 | 属性 | 信息 |
 |---|---|
@@ -990,7 +962,7 @@ JavaScript 中的轻量级模糊搜索
 
 ---
 
-### 1636. handlebars-lang/handlebars.js
+### 1635. handlebars-lang/handlebars.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1018,7 +990,7 @@ Minimal templating on steroids.
 
 ---
 
-### 1637. fruitcake/laravel-debugbar
+### 1636. fruitcake/laravel-debugbar
 
 | 属性 | 信息 |
 |---|---|
@@ -1046,7 +1018,7 @@ Laravel 调试栏（集成 PHP 调试栏）
 
 ---
 
-### 1638. abseil/abseil-cpp
+### 1637. abseil/abseil-cpp
 
 | 属性 | 信息 |
 |---|---|
@@ -1074,7 +1046,7 @@ Abseil 通用库 (C++)
 
 ---
 
-### 1639. Rapptz/discord.py
+### 1638. Rapptz/discord.py
 
 | 属性 | 信息 |
 |---|---|
@@ -1102,7 +1074,7 @@ An API wrapper for Discord written in Python.
 
 ---
 
-### 1640. uNetworking/uWebSockets
+### 1639. uNetworking/uWebSockets
 
 | 属性 | 信息 |
 |---|---|
@@ -1130,7 +1102,7 @@ Simple, secure & standards compliant web server for the most demanding of applic
 
 ---
 
-### 1641. birobirobiro/awesome-shadcn-ui
+### 1640. birobirobiro/awesome-shadcn-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -1158,7 +1130,7 @@ A curated list of awesome things related to shadcn/ui.
 
 ---
 
-### 1642. jupyter/jupyter
+### 1641. jupyter/jupyter
 
 | 属性 | 信息 |
 |---|---|
@@ -1186,7 +1158,7 @@ Jupyter metapackage for installation and documentation
 
 ---
 
-### 1643. ashishps1/awesome-leetcode-resources
+### 1642. ashishps1/awesome-leetcode-resources
 
 | 属性 | 信息 |
 |---|---|
@@ -1214,7 +1186,7 @@ Awesome LeetCode resources to learn Data Structures and Algorithms and prepare f
 
 ---
 
-### 1644. bitwarden/server
+### 1643. bitwarden/server
 
 | 属性 | 信息 |
 |---|---|
@@ -1242,7 +1214,7 @@ Bitwarden 基础设施/后端（API、数据库、Docker 等）。
 
 ---
 
-### 1645. ipfs/kubo
+### 1644. ipfs/kubo
 
 | 属性 | 信息 |
 |---|---|
@@ -1270,7 +1242,7 @@ Go 中的 IPFS 实现
 
 ---
 
-### 1646. DrewThomasson/ebook2audiobook
+### 1645. DrewThomasson/ebook2audiobook
 
 | 属性 | 信息 |
 |---|---|
@@ -1298,7 +1270,7 @@ Generate audiobooks from e-books, voice cloning & 1158+ languages!
 
 ---
 
-### 1647. Caldis/Mos
+### 1646. Caldis/Mos
 
 | 属性 | 信息 |
 |---|---|
@@ -1326,7 +1298,7 @@ Generate audiobooks from e-books, voice cloning & 1158+ languages!
 
 ---
 
-### 1648. antonmedv/fx
+### 1647. antonmedv/fx
 
 | 属性 | 信息 |
 |---|---|
@@ -1354,7 +1326,7 @@ Terminal JSON viewer & processor
 
 ---
 
-### 1649. sandboxie-plus/Sandboxie
+### 1648. sandboxie-plus/Sandboxie
 
 | 属性 | 信息 |
 |---|---|
@@ -1382,7 +1354,7 @@ Sandboxie Plus 和 Classic
 
 ---
 
-### 1650. Tencent/MMKV
+### 1649. Tencent/MMKV
 
 | 属性 | 信息 |
 |---|---|
@@ -1410,7 +1382,7 @@ An efficient, small mobile key-value storage framework developed by WeChat. Work
 
 ---
 
-### 1651. labring/sealos
+### 1650. labring/sealos
 
 | 属性 | 信息 |
 |---|---|
@@ -1438,7 +1410,7 @@ Sealos 是一个基于 Kubernetes 构建的人工智能原生云操作系统，�
 
 ---
 
-### 1652. leaningtech/webvm
+### 1651. leaningtech/webvm
 
 | 属性 | 信息 |
 |---|---|
@@ -1466,7 +1438,7 @@ Web 虚拟机
 
 ---
 
-### 1653. golangci/golangci-lint
+### 1652. golangci/golangci-lint
 
 | 属性 | 信息 |
 |---|---|
@@ -1495,7 +1467,7 @@ Go 的快速 linter 运行程序
 
 ---
 
-### 1654. mdx-js/mdx
+### 1653. mdx-js/mdx
 
 | 属性 | 信息 |
 |---|---|
@@ -1523,7 +1495,7 @@ Markdown for the component era
 
 ---
 
-### 1655. actions/starter-workflows
+### 1654. actions/starter-workflows
 
 | 属性 | 信息 |
 |---|---|
@@ -1551,7 +1523,7 @@ Accelerating new GitHub Actions workflows
 
 ---
 
-### 1656. vxunderground/MalwareSourceCode
+### 1655. vxunderground/MalwareSourceCode
 
 | 属性 | 信息 |
 |---|---|
@@ -1579,7 +1551,7 @@ Collection of malware source code for a variety of platforms in an array of diff
 
 ---
 
-### 1657. hydralauncher/hydra
+### 1656. hydralauncher/hydra
 
 | 属性 | 信息 |
 |---|---|
@@ -1607,7 +1579,7 @@ Hydra Launcher 是一个开源游戏平台，旨在成为您所需的单一工�
 
 ---
 
-### 1658. KlingAIResearch/LivePortrait
+### 1657. KlingAIResearch/LivePortrait
 
 | 属性 | 信息 |
 |---|---|
@@ -1635,7 +1607,7 @@ Bring portraits to life!
 
 ---
 
-### 1659. Atmosphere-NX/Atmosphere
+### 1658. Atmosphere-NX/Atmosphere
 
 | 属性 | 信息 |
 |---|---|
@@ -1663,7 +1635,7 @@ Atmosphère 是一款正在开发中的 Nintendo Switch 定制固件。
 
 ---
 
-### 1660. fortra/impacket
+### 1659. fortra/impacket
 
 | 属性 | 信息 |
 |---|---|
@@ -1691,7 +1663,7 @@ Impacket 是用于处理网络协议的 Python 类的集合。
 
 ---
 
-### 1661. apache/dolphinscheduler
+### 1660. apache/dolphinscheduler
 
 | 属性 | 信息 |
 |---|---|
@@ -1719,7 +1691,7 @@ Apache DolphinScheduler 是现代数据编排平台。以低代码敏捷创建�
 
 ---
 
-### 1662. docker-mailserver/docker-mailserver
+### 1661. docker-mailserver/docker-mailserver
 
 | 属性 | 信息 |
 |---|---|
@@ -1747,7 +1719,7 @@ Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, A
 
 ---
 
-### 1663. pybind/pybind11
+### 1662. pybind/pybind11
 
 | 属性 | 信息 |
 |---|---|
@@ -1775,7 +1747,7 @@ C++11 和 Python 之间的无缝操作
 
 ---
 
-### 1664. JetBrains/compose-multiplatform
+### 1663. JetBrains/compose-multiplatform
 
 | 属性 | 信息 |
 |---|---|
@@ -1803,7 +1775,7 @@ Compose Multiplatform 是 Kotlin 的现代 UI 框架，使构建高性能且美�
 
 ---
 
-### 1665. cvat-ai/cvat
+### 1664. cvat-ai/cvat
 
 | 属性 | 信息 |
 |---|---|
@@ -1832,7 +1804,7 @@ Computer Vision Annotation Tool (CVAT) is a leading platform for building high-q
 
 ---
 
-### 1666. google/libphonenumber
+### 1665. google/libphonenumber
 
 | 属性 | 信息 |
 |---|---|
@@ -1860,7 +1832,7 @@ Google 的通用 Java、C++ 和 JavaScript 库，用于解析、格式化和验�
 
 ---
 
-### 1667. twpayne/chezmoi
+### 1666. twpayne/chezmoi
 
 | 属性 | 信息 |
 |---|---|
@@ -1888,7 +1860,7 @@ Manage your dotfiles across multiple diverse machines, securely.
 
 ---
 
-### 1668. plotly/plotly.js
+### 1667. plotly/plotly.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1916,7 +1888,7 @@ Plotly 和 Dash 背后的开源 JavaScript 图表库
 
 ---
 
-### 1669. youhunwl/TVAPP
+### 1668. youhunwl/TVAPP
 
 | 属性 | 信息 |
 |---|---|
@@ -1945,7 +1917,7 @@ Plotly 和 Dash 背后的开源 JavaScript 图表库
 
 ---
 
-### 1670. google-gemini/cookbook
+### 1669. google-gemini/cookbook
 
 | 属性 | 信息 |
 |---|---|
@@ -1973,7 +1945,7 @@ Examples and guides for using the Gemini API
 
 ---
 
-### 1671. MatrixTM/MHDDoS
+### 1670. MatrixTM/MHDDoS
 
 | 属性 | 信息 |
 |---|---|
@@ -2001,7 +1973,7 @@ Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
 
 ---
 
-### 1672. tusen-ai/naive-ui
+### 1671. tusen-ai/naive-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -2029,7 +2001,7 @@ Vue 3 组件库。相当完整。主题可定制。使用 TypeScript。快速地
 
 ---
 
-### 1673. jupyter/notebook
+### 1672. jupyter/notebook
 
 | 属性 | 信息 |
 |---|---|
@@ -2057,7 +2029,7 @@ Jupyter 交互式笔记本
 
 ---
 
-### 1674. wkentaro/labelme
+### 1673. wkentaro/labelme
 
 | 属性 | 信息 |
 |---|---|
@@ -2085,7 +2057,7 @@ Image annotation with Python. Supports polygon, rectangle, circle, line, point, 
 
 ---
 
-### 1675. MaterialDesignInXAML/MaterialDesignInXamlToolkit
+### 1674. MaterialDesignInXAML/MaterialDesignInXamlToolkit
 
 | 属性 | 信息 |
 |---|---|
@@ -2114,7 +2086,7 @@ XAML 和 WPF 中的 Google Material Design，适用于 C# 和 VB.Net。
 
 ---
 
-### 1676. facebook/yoga
+### 1675. facebook/yoga
 
 | 属性 | 信息 |
 |---|---|
@@ -2142,7 +2114,7 @@ Yoga 是一个针对 Web 标准的嵌入式布局引擎。
 
 ---
 
-### 1677. anthropics/claude-quickstarts
+### 1676. anthropics/claude-quickstarts
 
 | 属性 | 信息 |
 |---|---|
@@ -2170,7 +2142,7 @@ A collection of projects designed to help developers quickly get started with bu
 
 ---
 
-### 1678. nvim-telescope/telescope.nvim
+### 1677. nvim-telescope/telescope.nvim
 
 | 属性 | 信息 |
 |---|---|
@@ -2198,7 +2170,7 @@ Find, Filter, Preview, Pick. All lua, all the time.
 
 ---
 
-### 1679. OpenRA/OpenRA
+### 1678. OpenRA/OpenRA
 
 | 属性 | 信息 |
 |---|---|
@@ -2226,7 +2198,7 @@ Open Source real-time strategy game engine for early Westwood games such as Comm
 
 ---
 
-### 1680. agentscope-ai/QwenPaw
+### 1679. agentscope-ai/QwenPaw
 
 | 属性 | 信息 |
 |---|---|
@@ -2254,7 +2226,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 ---
 
-### 1681. microsoft/IoT-For-Beginners
+### 1680. microsoft/IoT-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -2282,7 +2254,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 ---
 
-### 1682. rizinorg/cutter
+### 1681. rizinorg/cutter
 
 | 属性 | 信息 |
 |---|---|
@@ -2310,7 +2282,7 @@ Free and Open Source Reverse Engineering Platform powered by rizin
 
 ---
 
-### 1683. state-spaces/mamba
+### 1682. state-spaces/mamba
 
 | 属性 | 信息 |
 |---|---|
@@ -2338,7 +2310,7 @@ Mamba SSM architecture
 
 ---
 
-### 1684. RightNow-AI/openfang
+### 1683. RightNow-AI/openfang
 
 | 属性 | 信息 |
 |---|---|
@@ -2366,7 +2338,7 @@ Open-source Agent Operating System
 
 ---
 
-### 1685. sanic-org/sanic
+### 1684. sanic-org/sanic
 
 | 属性 | 信息 |
 |---|---|
@@ -2394,7 +2366,7 @@ Open-source Agent Operating System
 
 ---
 
-### 1686. jianchang512/pyvideotrans
+### 1685. jianchang512/pyvideotrans
 
 | 属性 | 信息 |
 |---|---|
@@ -2422,7 +2394,7 @@ Translate the video from one language to another and embed dubbing & subtitles.
 
 ---
 
-### 1687. fastapi/typer
+### 1686. fastapi/typer
 
 | 属性 | 信息 |
 |---|---|
@@ -2450,7 +2422,7 @@ Typer，构建出色的 CLI。易于编码。基于 Python 类型提示。
 
 ---
 
-### 1688. tirth8205/code-review-graph
+### 1687. tirth8205/code-review-graph
 
 | 属性 | 信息 |
 |---|---|
@@ -2478,7 +2450,7 @@ MCP 和 CLI 的本地优先代码智能图。构建代码库的持久地图，�
 
 ---
 
-### 1689. vxcontrol/pentagi
+### 1688. vxcontrol/pentagi
 
 | 属性 | 信息 |
 |---|---|
@@ -2506,7 +2478,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ---
 
-### 1690. MetaMask/metamask-extension
+### 1689. MetaMask/metamask-extension
 
 | 属性 | 信息 |
 |---|---|
@@ -2534,7 +2506,7 @@ Fully autonomous AI Agents system capable of performing complex penetration test
 
 ---
 
-### 1691. jupyterlab/jupyterlab
+### 1690. jupyterlab/jupyterlab
 
 | 属性 | 信息 |
 |---|---|
@@ -2562,7 +2534,7 @@ JupyterLab 计算环境。
 
 ---
 
-### 1692. resend/react-email
+### 1691. resend/react-email
 
 | 属性 | 信息 |
 |---|---|
@@ -2590,7 +2562,7 @@ JupyterLab 计算环境。
 
 ---
 
-### 1693. google/gvisor
+### 1692. google/gvisor
 
 | 属性 | 信息 |
 |---|---|
@@ -2618,7 +2590,7 @@ Application Kernel for Containers
 
 ---
 
-### 1694. rocksdanister/lively
+### 1693. rocksdanister/lively
 
 | 属性 | 信息 |
 |---|---|
@@ -2646,7 +2618,7 @@ Free and open-source software that allows users to set animated desktop wallpape
 
 ---
 
-### 1695. arc53/DocsGPT
+### 1694. arc53/DocsGPT
 
 | 属性 | 信息 |
 |---|---|
@@ -2674,7 +2646,7 @@ Private AI platform for agents, assistants and enterprise search. Built-in Agent
 
 ---
 
-### 1696. oblador/react-native-vector-icons
+### 1695. oblador/react-native-vector-icons
 
 | 属性 | 信息 |
 |---|---|
@@ -2702,7 +2674,7 @@ React Native 的可定制图标，支持图像源和完整样式。
 
 ---
 
-### 1697. ipader/SwiftGuide
+### 1696. ipader/SwiftGuide
 
 | 属性 | 信息 |
 |---|---|
@@ -2730,7 +2702,7 @@ Swift Featured Projects in brain Mapping
 
 ---
 
-### 1698. tensorflow/tfjs-models
+### 1697. tensorflow/tfjs-models
 
 | 属性 | 信息 |
 |---|---|
@@ -2758,7 +2730,7 @@ TensorFlow.js 的预训练模型
 
 ---
 
-### 1699. pyscript/pyscript
+### 1698. pyscript/pyscript
 
 | 属性 | 信息 |
 |---|---|
@@ -2786,7 +2758,7 @@ An open source platform for Python in the browser. https://pyscript.net Docs: ht
 
 ---
 
-### 1700. MustardChef/WSABuilds
+### 1699. MustardChef/WSABuilds
 
 | 属性 | 信息 |
 |---|---|
@@ -2809,6 +2781,34 @@ Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using pre
 
 
 **Topics**：android, android-emulator, google-apps, kernelsu, magisk, magiskonwsa, magiskonwsalocal, subsystem, windows, windows-10, windows-11, windows-subsystem-android, windows-subsystem-for-android, windows10, windowssubsystemforandroid, wsa, wsa-root, wsa-with-gapps-and-magisk, wsapatch
+
+
+
+---
+
+### 1700. TecharoHQ/anubis
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) |
+| ⭐ Stars | 19790 |
+| 🍴 Forks | 617 |
+| 👀 Watchers | 19790 |
+| 📝 Open Issues | 302 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2025-03-17 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Weighs the soul of incoming HTTP requests to stop AI crawlers
+
+**中文简介**：
+权衡传入 HTTP 请求的灵魂以阻止 AI 爬虫
+
+
+**Topics**：defense, security
 
 
 

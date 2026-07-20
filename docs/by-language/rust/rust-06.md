@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
-共收录 **530** 个项目
+共收录 **531** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -847,6 +847,35 @@ SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
 
 **Topics**：-
 
+
+
+---
+
+### 531. Dicklesworthstone/destructive_command_guard
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) |
+| ⭐ Stars | 5154 |
+| 🍴 Forks | 195 |
+| 👀 Watchers | 5154 |
+| 📝 Open Issues | 2 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-01-07 |
+| 🔄 最后更新 | 2026-07-19 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+
+**中文简介**：
+破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。
+
+
+**Topics**：ai-agents, cli, developer-tools, git, rust, safety
+
+**中文Topics**：人工智能代理, cli, 开发人员工具, git, rust, 安全
 
 
 ---

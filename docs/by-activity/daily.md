@@ -1,9 +1,9 @@
 # 🔥 最近7天活跃
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-07-19 19:03
+> 最后更新：2026-07-20 09:56
 
-共收录 **3** 个项目
+共收录 **4** 个项目
 
 
 ## 项目列表
@@ -90,6 +90,35 @@ Structured multi-perspective deliberation for hard decisions. Run full councils,
 **Topics**：agent-skill, ai-agents, claude-code, codex, decision-making, deliberation, gemini-cli, llm-routing, multi-agent-systems, multi-llm, open-source, opencode, prompt-engineering, structured-debate
 
 **中文Topics**：代理技能, 人工智能代理, 克劳德·代码, codex, 决策, 商议, Gemini-cli, llm 路由, 多代理系统, 多LLM, 开源, 开放代码, 即时工程, 结构化辩论
+
+
+---
+
+### 4. Dicklesworthstone/destructive_command_guard
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) |
+| ⭐ Stars | 5154 |
+| 🍴 Forks | 195 |
+| 👀 Watchers | 5154 |
+| 📝 Open Issues | 2 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-01-07 |
+| 🔄 最后更新 | 2026-07-19 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+
+**中文简介**：
+破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。
+
+
+**Topics**：ai-agents, cli, developer-tools, git, rust, safety
+
+**中文Topics**：人工智能代理, cli, 开发人员工具, git, rust, 安全
 
 
 ---
