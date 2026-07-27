@@ -1,9 +1,9 @@
 # DevOps / 运维 - 第 6 页
 
 > DevOps / 运维 相关的热门开源项目
-> 最后更新：2026-07-20 09:56
+> 最后更新：2026-07-27 20:58
 
-共收录 **506** 个项目
+共收录 **507** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -173,6 +173,35 @@ Per-process network monitoring for your terminal with deep packet inspection. Cr
 
 **Topics**：cli, dpi, ebpf, freebsd, geoip, landlock, linux, macos, netstat-alternative, network-monitoring, packet-capture, process-monitoring, ratatui, rust, seatbelt, tui, windows
 
+
+
+---
+
+### 507. oblien/openship
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/oblien/openship](https://github.com/oblien/openship) |
+| ⭐ Stars | 8826 |
+| 🍴 Forks | 716 |
+| 👀 Watchers | 8826 |
+| 📝 Open Issues | 69 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-05 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Self-hosted deployment platform
+
+**中文简介**：
+自托管部署平台
+
+
+**Topics**：agents, ai, deployments, self-hosted
+
+**中文Topics**：代理, ai, 部署, 自托管
 
 
 ---

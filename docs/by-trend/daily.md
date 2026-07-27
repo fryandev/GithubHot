@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-07-20 09:56
+> 最后更新：2026-07-27 20:58
 
 共收录 **10** 个项目
 
@@ -9,55 +9,26 @@
 ## 项目列表
 
 
-### 1. 0xNyk/council-of-high-intelligence
+### 1. block/buzz
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) |
-| ⭐ Stars | 3649 |
-| 🍴 Forks | 5 |
-| 👀 Watchers | 3649 |
-| 📝 Open Issues | 19 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-02 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | MIT |
-
-**简介**：
-Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
-
-**中文简介**：
-为艰难决策进行结构化的多角度审议。就 Claude Code、Codex、Gemini CLI 和 OpenCode 举办完整的委员会、重点三合会或双人辩论。
-
-
-**Topics**：agent-skill, ai-agents, claude-code, codex, decision-making, deliberation, gemini-cli, llm-routing, multi-agent-systems, multi-llm, open-source, opencode, prompt-engineering, structured-debate
-
-**中文Topics**：代理技能, 人工智能代理, 克劳德·代码, codex, 决策, 商议, Gemini-cli, llm 路由, 多代理系统, 多LLM, 开源, 开放代码, 即时工程, 结构化辩论
-
-
----
-
-### 2. xai-org/grok-build
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/xai-org/grok-build](https://github.com/xai-org/grok-build) |
-| ⭐ Stars | 19647 |
-| 🍴 Forks | 3519 |
-| 👀 Watchers | 19647 |
-| 📝 Open Issues | 0 |
+| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
+| ⭐ Stars | 14197 |
+| 🍴 Forks | 1184 |
+| 👀 Watchers | 14197 |
+| 📝 Open Issues | 756 |
 | 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-14 |
-| 🔄 最后更新 | 2026-07-19 |
+| 📅 创建时间 | 2026-03-06 |
+| 🔄 最后更新 | 2026-07-27 |
 | 📜 License | Apache-2.0 |
 
 **简介**：
-SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+A hive mind communication platform
 
 **中文简介**：
-SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
+蜂巢思维交流平台
 
 
 **Topics**：-
@@ -66,26 +37,24 @@ SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
 
 ---
 
-### 3. Fei-Away/Codex-Dream-Skin
+### 2. andrewyng/openworker
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) |
-| ⭐ Stars | 10068 |
-| 🍴 Forks | 1047 |
-| 👀 Watchers | 10068 |
-| 📝 Open Issues | 101 |
-| 💻 主语言 | JavaScript |
+| 链接 | [https://github.com/andrewyng/openworker](https://github.com/andrewyng/openworker) |
+| ⭐ Stars | 7905 |
+| 🍴 Forks | 1051 |
+| 👀 Watchers | 7905 |
+| 📝 Open Issues | 210 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-15 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | 未知 |
+| 📅 创建时间 | 2026-07-20 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
 
 **简介**：
-Codex Dream Skin
+暂无描述
 
-**中文简介**：
-法典梦想皮肤
 
 
 **Topics**：-
@@ -94,7 +63,147 @@ Codex Dream Skin
 
 ---
 
-### 4. Nutlope/hallmark
+### 3. diegosouzapw/OmniRoute
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) |
+| ⭐ Stars | 5795 |
+| 🍴 Forks | 1001 |
+| 👀 Watchers | 5795 |
+| 📝 Open Issues | 35 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-02-13 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+
+**中文简介**：
+永远不要停止编码。免费 AI 网关：一个端点，160 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。
+
+
+**Topics**：a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver
+
+
+
+---
+
+### 4. citrolabs/ego-lite
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
+| ⭐ Stars | 5315 |
+| 🍴 Forks | 256 |
+| 👀 Watchers | 5315 |
+| 📝 Open Issues | 41 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-16 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+
+**中文简介**：
+AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。
+
+
+**Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
+
+**中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
+
+
+---
+
+### 5. CoreBunch/Instatic
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) |
+| ⭐ Stars | 6060 |
+| 🍴 Forks | 536 |
+| 👀 Watchers | 6060 |
+| 📝 Open Issues | 55 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-30 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
+
+**中文简介**：
+Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一切都在那里。
+
+
+**Topics**：cms, css, css-framework, page-builder, static, website
+
+**中文Topics**：管理系统, css, css 框架, 页面构建器, 静态, 网站
+
+
+---
+
+### 6. stablyai/orca
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/stablyai/orca](https://github.com/stablyai/orca) |
+| ⭐ Stars | 4290 |
+| 🍴 Forks | 280 |
+| 👀 Watchers | 4290 |
+| 📝 Open Issues | 290 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-17 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+
+**中文简介**：
+Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
+
+
+**Topics**：ade, claude-code, cli, codex, cursor-agent, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees
+
+
+
+---
+
+### 7. bojieli/ai-agent-book
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
+| ⭐ Stars | 22271 |
+| 🍴 Forks | 2233 |
+| 👀 Watchers | 22271 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-09-09 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+
+
+**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+
+
+
+---
+
+### 8. Nutlope/hallmark
 
 | 属性 | 信息 |
 |---|---|
@@ -122,35 +231,7 @@ Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 ---
 
-### 5. Robbyant/lingbot-map
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) |
-| ⭐ Stars | 7026 |
-| 🍴 Forks | 695 |
-| 👀 Watchers | 7026 |
-| 📝 Open Issues | 54 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-04-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-A feed-forward 3D foundation model for reconstructing scenes from streaming data
-
-**中文简介**：
-用于从流数据重建场景的前馈 3D 基础模型
-
-
-**Topics**：-
-
-
-
----
-
-### 6. safishamsi/graphify
+### 9. safishamsi/graphify
 
 | 属性 | 信息 |
 |---|---|
@@ -179,116 +260,31 @@ AI 编程助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等
 
 ---
 
-### 7. OpenCut-app/OpenCut
+### 10. ComposioHQ/awesome-claude-skills
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) |
-| ⭐ Stars | 54383 |
-| 🍴 Forks | 5931 |
-| 👀 Watchers | 54383 |
-| 📝 Open Issues | 318 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) |
+| ⭐ Stars | 63438 |
+| 🍴 Forks | 6979 |
+| 👀 Watchers | 63438 |
+| 📝 Open Issues | 758 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-06-22 |
+| 📅 创建时间 | 2025-10-17 |
 | 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
+| 📜 License | 未知 |
 
 **简介**：
-The open-source CapCut alternative
+A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 **中文简介**：
-开源 CapCut 替代品
+精心策划的 Claude Skills、资源和工具列表，用于定制 Claude AI 工作流
 
 
-**Topics**：editor, oss, videoeditor
+**Topics**：agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation
 
-**中文Topics**：编辑器, 开源软件, 视频编辑器
-
-
----
-
-### 8. stablyai/orca
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/stablyai/orca](https://github.com/stablyai/orca) |
-| ⭐ Stars | 4290 |
-| 🍴 Forks | 280 |
-| 👀 Watchers | 4290 |
-| 📝 Open Issues | 290 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-17 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-
-**中文简介**：
-Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
-
-
-**Topics**：ade, claude-code, cli, codex, cursor-agent, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees
-
-
-
----
-
-### 9. jamiepine/voicebox
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/jamiepine/voicebox](https://github.com/jamiepine/voicebox) |
-| ⭐ Stars | 29431 |
-| 🍴 Forks | 3603 |
-| 👀 Watchers | 29431 |
-| 📝 Open Issues | 433 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-01-25 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-The open-source AI voice studio. Clone, dictate, create.
-
-**中文简介**：
-开源人工智能语音工作室。克隆、指令、创造。
-
-
-**Topics**：ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, voice-ai, voice-clone, whisper
-
-**中文Topics**：ai, cuda, mlx, qwen3-tts, qwen3-tts-ui, 语音AI, 语音克隆, 耳语
-
-
----
-
-### 10. moonshine-ai/moonshine
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) |
-| ⭐ Stars | 8371 |
-| 🍴 Forks | 446 |
-| 👀 Watchers | 8371 |
-| 📝 Open Issues | 36 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2024-10-04 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
-
-**中文简介**：
-极低延迟的语音转文本、意图识别和文本转语音，用于构建语音代理和界面
-
-
-**Topics**：intent-recognition, stt, tts, voice, voice-recognition
-
+**中文Topics**：agent-skills, ai-agents, antigravity, 自动化, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation
 
 
 ---

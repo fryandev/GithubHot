@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-07-20 09:56
+> 最后更新：2026-07-27 20:58
 
-共收录 **531** 个项目
+共收录 **532** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -876,6 +876,34 @@ The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm
 **Topics**：ai-agents, cli, developer-tools, git, rust, safety
 
 **中文Topics**：人工智能代理, cli, 开发人员工具, git, rust, 安全
+
+
+---
+
+### 532. block/buzz
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
+| ⭐ Stars | 14197 |
+| 🍴 Forks | 1184 |
+| 👀 Watchers | 14197 |
+| 📝 Open Issues | 756 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-06 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A hive mind communication platform
+
+**中文简介**：
+蜂巢思维交流平台
+
+
+**Topics**：-
+
 
 
 ---

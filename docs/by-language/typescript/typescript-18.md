@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-07-20 09:56
+> 最后更新：2026-07-27 20:58
 
-共收录 **1726** 个项目
+共收录 **1729** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -733,6 +733,91 @@ An open source design system that's fully customizable and agent ready
 
 **Topics**：-
 
+
+
+---
+
+### 1727. oblien/openship
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/oblien/openship](https://github.com/oblien/openship) |
+| ⭐ Stars | 8826 |
+| 🍴 Forks | 716 |
+| 👀 Watchers | 8826 |
+| 📝 Open Issues | 69 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-05 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Self-hosted deployment platform
+
+**中文简介**：
+自托管部署平台
+
+
+**Topics**：agents, ai, deployments, self-hosted
+
+**中文Topics**：代理, ai, 部署, 自托管
+
+
+---
+
+### 1728. every-app/open-seo
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/every-app/open-seo](https://github.com/every-app/open-seo) |
+| ⭐ Stars | 8402 |
+| 🍴 Forks | 915 |
+| 👀 Watchers | 8402 |
+| 📝 Open Issues | 58 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-27 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+Open source alternative to Semrush and Ahrefs
+
+
+
+**Topics**：backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit
+
+**中文Topics**：反向链接分析, 谷歌搜索控制台 mcp, 关键词研究, mcp, 搜索引擎优化, 搜索引擎优化工具, 现场审核
+
+
+---
+
+### 1729. CoreBunch/Instatic
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) |
+| ⭐ Stars | 6060 |
+| 🍴 Forks | 536 |
+| 👀 Watchers | 6060 |
+| 📝 Open Issues | 55 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-30 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
+
+**中文简介**：
+Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一切都在那里。
+
+
+**Topics**：cms, css, css-framework, page-builder, static, website
+
+**中文Topics**：管理系统, css, css 框架, 页面构建器, 静态, 网站
 
 
 ---

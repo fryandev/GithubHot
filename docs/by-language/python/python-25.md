@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-07-20 09:56
+> 最后更新：2026-07-27 20:58
 
-共收录 **2485** 个项目
+共收录 **2488** 个项目
 （第 25/25 页）
 
 ## 项目列表
@@ -2376,6 +2376,87 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 **中文简介**：
 让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。
+
+
+**Topics**：-
+
+
+
+---
+
+### 2486. bojieli/ai-agent-book
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
+| ⭐ Stars | 22271 |
+| 🍴 Forks | 2233 |
+| 👀 Watchers | 22271 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-09-09 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+
+
+**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+
+
+
+---
+
+### 2487. ayghri/i-have-adhd
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) |
+| ⭐ Stars | 11045 |
+| 🍴 Forks | 557 |
+| 👀 Watchers | 11045 |
+| 📝 Open Issues | 9 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-13 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+
+**中文简介**：
+您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。
+
+
+**Topics**：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity
+
+**中文Topics**：多动症, claude-, 克劳德代码插件, 克劳德技能, 开发人员工具, 生产率
+
+
+---
+
+### 2488. andrewyng/openworker
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/andrewyng/openworker](https://github.com/andrewyng/openworker) |
+| ⭐ Stars | 7905 |
+| 🍴 Forks | 1051 |
+| 👀 Watchers | 7905 |
+| 📝 Open Issues | 210 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-20 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+暂无描述
+
 
 
 **Topics**：-

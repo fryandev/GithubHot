@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-07-20 09:56
+> 最后更新：2026-07-27 20:58
 
-共收录 **1811** 个项目
+共收录 **1812** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -314,6 +314,35 @@ Codex Dream Skin
 
 **Topics**：-
 
+
+
+---
+
+### 1812. citrolabs/ego-lite
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
+| ⭐ Stars | 5315 |
+| 🍴 Forks | 256 |
+| 👀 Watchers | 5315 |
+| 📝 Open Issues | 41 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-16 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+
+**中文简介**：
+AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。
+
+
+**Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
+
+**中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
 
 
 ---
