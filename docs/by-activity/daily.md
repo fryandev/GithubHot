@@ -1,9 +1,9 @@
 # 🔥 最近7天活跃
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-07-27 20:58
+> 最后更新：2026-07-30 11:44
 
-共收录 **8** 个项目
+共收录 **9** 个项目
 
 
 ## 项目列表
@@ -139,6 +139,8 @@ Self-hosted deployment platform
 **简介**：
 Open source alternative to Semrush and Ahrefs
 
+**中文简介**：
+Semrush 和 Ahrefs 的开源替代品
 
 
 **Topics**：backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit
@@ -228,6 +230,34 @@ AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理�
 **Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
 
 **中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
+
+
+---
+
+### 9. MoonshotAI/Kimi-K3
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) |
+| ⭐ Stars | 6181 |
+| 🍴 Forks | 435 |
+| 👀 Watchers | 6181 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-27 |
+| 🔄 最后更新 | 2026-07-30 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Open Frontier Intelligence
+
+**中文简介**：
+开放前沿情报
+
+
+**Topics**：-
+
 
 
 ---

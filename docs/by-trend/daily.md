@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-07-27 20:58
+> 最后更新：2026-07-30 11:44
 
 共收录 **10** 个项目
 
@@ -9,7 +9,61 @@
 ## 项目列表
 
 
-### 1. block/buzz
+### 1. MoonshotAI/Kimi-K3
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) |
+| ⭐ Stars | 6181 |
+| 🍴 Forks | 435 |
+| 👀 Watchers | 6181 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-27 |
+| 🔄 最后更新 | 2026-07-30 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Open Frontier Intelligence
+
+**中文简介**：
+开放前沿情报
+
+
+**Topics**：-
+
+
+
+---
+
+### 2. bojieli/ai-agent-book
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
+| ⭐ Stars | 22271 |
+| 🍴 Forks | 2233 |
+| 👀 Watchers | 22271 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-09-09 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+
+
+**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+
+
+
+---
+
+### 3. block/buzz
 
 | 属性 | 信息 |
 |---|---|
@@ -37,24 +91,26 @@ A hive mind communication platform
 
 ---
 
-### 2. andrewyng/openworker
+### 4. virgiliojr94/book-to-skill
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/andrewyng/openworker](https://github.com/andrewyng/openworker) |
-| ⭐ Stars | 7905 |
-| 🍴 Forks | 1051 |
-| 👀 Watchers | 7905 |
-| 📝 Open Issues | 210 |
+| 链接 | [https://github.com/virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
+| ⭐ Stars | 4431 |
+| 🍴 Forks | 553 |
+| 👀 Watchers | 4431 |
+| 📝 Open Issues | 1 |
 | 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-20 |
-| 🔄 最后更新 | 2026-07-27 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-05-01 |
+| 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-暂无描述
+Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
+**中文简介**：
+将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。
 
 
 **Topics**：-
@@ -63,7 +119,7 @@ A hive mind communication platform
 
 ---
 
-### 3. diegosouzapw/OmniRoute
+### 5. diegosouzapw/OmniRoute
 
 | 属性 | 信息 |
 |---|---|
@@ -87,64 +143,6 @@ Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), con
 
 **Topics**：a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver
 
-
-
----
-
-### 4. citrolabs/ego-lite
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
-| ⭐ Stars | 5315 |
-| 🍴 Forks | 256 |
-| 👀 Watchers | 5315 |
-| 📝 Open Issues | 41 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-16 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | MIT |
-
-**简介**：
-The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-
-**中文简介**：
-AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。
-
-
-**Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
-
-**中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
-
-
----
-
-### 5. CoreBunch/Instatic
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) |
-| ⭐ Stars | 6060 |
-| 🍴 Forks | 536 |
-| 👀 Watchers | 6060 |
-| 📝 Open Issues | 55 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-30 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | MIT |
-
-**简介**：
-The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
-
-**中文简介**：
-Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一切都在那里。
-
-
-**Topics**：cms, css, css-framework, page-builder, static, website
-
-**中文Topics**：管理系统, css, css 框架, 页面构建器, 静态, 网站
 
 
 ---
@@ -177,52 +175,26 @@ Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自�
 
 ---
 
-### 7. bojieli/ai-agent-book
+### 7. pascalorg/editor
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
-| ⭐ Stars | 22271 |
-| 🍴 Forks | 2233 |
-| 👀 Watchers | 22271 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2025-09-09 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-
-
-
-**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
-
-
-
----
-
-### 8. Nutlope/hallmark
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
-| ⭐ Stars | 10969 |
-| 🍴 Forks | 543 |
-| 👀 Watchers | 10969 |
-| 📝 Open Issues | 20 |
-| 💻 主语言 | CSS |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-27 |
-| 🔄 最后更新 | 2026-07-17 |
+| 链接 | [https://github.com/pascalorg/editor](https://github.com/pascalorg/editor) |
+| ⭐ Stars | 16415 |
+| 🍴 Forks | 2185 |
+| 👀 Watchers | 16415 |
+| 📝 Open Issues | 46 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2025-10-16 |
+| 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+Create and share 3D architectural projects.
 
 **中文简介**：
-Claude Code、Cursor、Codex 的防 AI 设计技巧。
+创建和共享 3D 建筑项目。
 
 
 **Topics**：-
@@ -231,60 +203,87 @@ Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 ---
 
-### 9. safishamsi/graphify
+### 8. ayghri/i-have-adhd
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/safishamsi/graphify](https://github.com/safishamsi/graphify) |
-| ⭐ Stars | 60257 |
-| 🍴 Forks | 6254 |
-| 👀 Watchers | 60257 |
-| 📝 Open Issues | 295 |
+| 链接 | [https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) |
+| ⭐ Stars | 11045 |
+| 🍴 Forks | 557 |
+| 👀 Watchers | 11045 |
+| 📝 Open Issues | 9 |
 | 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-04-03 |
-| 🔄 最后更新 | 2026-06-06 |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-13 |
+| 🔄 最后更新 | 2026-07-27 |
 | 📜 License | MIT |
 
 **简介**：
-AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 **中文简介**：
-AI 编程助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任意代码文件夹、SQL 模式、R 脚本、shell 脚本、文档、论文、图像或视频转换为可查询的知识图谱。应用代码 + 数据库模式 + 基础设施，一张图谱全搞定。
+您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。
 
 
-**Topics**：antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter
+**Topics**：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity
 
-**中文Topics**：antigravity, claude-code, codex, gemini, graphrag, 知识图谱, leiden, openclaw, rag, 技能, tree-sitter
+**中文Topics**：多动症, claude-, 克劳德代码插件, 克劳德技能, 开发人员工具, 生产率
 
 
 ---
 
-### 10. ComposioHQ/awesome-claude-skills
+### 9. paperswithbacktest/awesome-systematic-trading
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) |
-| ⭐ Stars | 63438 |
-| 🍴 Forks | 6979 |
-| 👀 Watchers | 63438 |
-| 📝 Open Issues | 758 |
+| 链接 | [https://github.com/paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) |
+| ⭐ Stars | 8303 |
+| 🍴 Forks | 1172 |
+| 👀 Watchers | 8303 |
+| 📝 Open Issues | 32 |
 | 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-10-17 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2022-02-05 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | 未知 |
 
 **简介**：
-A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 
 **中文简介**：
-精心策划的 Claude Skills、资源和工具列表，用于定制 Claude AI 工作流
+一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。
 
 
-**Topics**：agent-skills, ai-agents, antigravity, automation, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation
+**Topics**：algorithmic-trading, algotrading, alpha, arbitrage-bot, awesome, awesome-list, book, finance, futures, futures-historical-data, futures-market, futuresmarkets, paper, quant, quantitative-finance, quantitative-trading, trading-algorithms, trading-bot, trading-strategies
 
-**中文Topics**：agent-skills, ai-agents, antigravity, 自动化, claude, claude-code, codex, composio, cursor, developer-tools, gemini-cli, mcp, openai-codex, rube, saas, skill, workflow-automation
+
+
+---
+
+### 10. Panniantong/Agent-Reach
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
+| ⭐ Stars | 22007 |
+| 🍴 Forks | 1886 |
+| 👀 Watchers | 22007 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+**中文简介**：
+让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。
+
+
+**Topics**：agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
+
 
 
 ---

@@ -1,7 +1,7 @@
 # 📊 周飙升榜
 
 > 📊 周飙升榜 项目列表
-> 最后更新：2026-07-27 20:58
+> 最后更新：2026-07-30 11:44
 
 共收录 **20** 个项目
 
@@ -393,6 +393,8 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 **简介**：
 Open source alternative to Semrush and Ahrefs
 
+**中文简介**：
+Semrush 和 Ahrefs 的开源替代品
 
 
 **Topics**：backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit

@@ -1,742 +1,15 @@
 # 📆 最近90天活跃 - 第 29 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-27 20:58
+> 最后更新：2026-07-30 11:44
 
-共收录 **7142** 个项目
-（第 29/72 页）
+共收录 **7059** 个项目
+（第 29/71 页）
 
 ## 项目列表
 
 
-### 2801. ludwig-ai/ludwig
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) |
-| ⭐ Stars | 11710 |
-| 🍴 Forks | 1220 |
-| 👀 Watchers | 11710 |
-| 📝 Open Issues | 2 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2018-12-27 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Low-code framework for building custom LLMs, neural networks, and other AI models
-
-**中文简介**：
-用于构建自定义LLM、神经网络和其他人工智能模型的低代码框架
-
-
-**Topics**：computer-vision, data-centric, data-science, deep, deep-learning, deeplearning, fine-tuning, learning, llama, llama2, llm, llm-training, machine-learning, machinelearning, mistral, ml, natural-language, natural-language-processing, neural-network, pytorch
-
-
-
----
-
-### 2802. BrowserSync/browser-sync
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) |
-| ⭐ Stars | 12291 |
-| 🍴 Forks | 755 |
-| 👀 Watchers | 12291 |
-| 📝 Open Issues | 573 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2013-10-12 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Keep multiple browsers & devices in sync when building websites. https://browsersync.io
-
-**中文简介**：
-构建网站时保持多个浏览器和设备同步。 https://browsersync.io
-
-
-**Topics**：-
-
-
-
----
-
-### 2803. arkenfox/user.js
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/arkenfox/user.js](https://github.com/arkenfox/user.js) |
-| ⭐ Stars | 12591 |
-| 🍴 Forks | 556 |
-| 👀 Watchers | 12591 |
-| 📝 Open Issues | 22 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-02-16 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-
-**中文简介**：
-Firefox 隐私、安全和反跟踪：用于配置和强化的综合 user.js 模板
-
-
-**Topics**：anti-fingerprinting, anti-tracking, arkenfox, firefox, mozilla, privacy, security, settings
-
-
-
----
-
-### 2804. readthedocs/readthedocs.org
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org) |
-| ⭐ Stars | 8360 |
-| 🍴 Forks | 3705 |
-| 👀 Watchers | 8360 |
-| 📝 Open Issues | 401 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2010-08-16 |
-| 🔄 最后更新 | 2026-06-04 |
-| 📜 License | MIT |
-
-**简介**：
-The source code that powers readthedocs.org
-
-**中文简介**：
-为 readthedocs.org 提供支持的源代码
-
-
-**Topics**：docs, mkdocs, python, sphinx, sphinx-doc
-
-
-
----
-
-### 2805. rushter/MLAlgorithms
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) |
-| ⭐ Stars | 10983 |
-| 🍴 Forks | 1755 |
-| 👀 Watchers | 10983 |
-| 📝 Open Issues | 10 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2016-10-05 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Minimal and clean examples of machine learning algorithms implementations
-
-**中文简介**：
-机器学习算法实现的最小且干净的示例
-
-
-**Topics**：deep-learning, machine-learning, machine-learning-algorithms, neural-networks, python
-
-
-
----
-
-### 2806. flannel-io/flannel
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/flannel-io/flannel](https://github.com/flannel-io/flannel) |
-| ⭐ Stars | 9464 |
-| 🍴 Forks | 2891 |
-| 👀 Watchers | 9464 |
-| 📝 Open Issues | 24 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2014-07-10 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-flannel is a network fabric for containers, designed for Kubernetes
-
-**中文简介**：
-flannel 是一种容器网络结构，专为 Kubernetes 设计
-
-
-**Topics**：docker, docker-image, flannel, go, kubernetes, network, overlay-network, subnet
-
-
-
----
-
-### 2807. cakephp/cakephp
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/cakephp/cakephp](https://github.com/cakephp/cakephp) |
-| ⭐ Stars | 8796 |
-| 🍴 Forks | 3387 |
-| 👀 Watchers | 8796 |
-| 📝 Open Issues | 18 |
-| 💻 主语言 | PHP |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2010-05-08 |
-| 🔄 最后更新 | 2026-06-04 |
-| 📜 License | MIT |
-
-**简介**：
-CakePHP: The Rapid Development Framework for PHP - Official Repository
-
-**中文简介**：
-CakePHP：PHP 快速开发框架 - 官方存储库
-
-
-**Topics**：cakephp, form-builder, hacktoberfest, mvc, mvc-framework, orm, php, psr-7, rapid-development, rest-api, validation, web, web-framework
-
-
-
----
-
-### 2808. opa334/Dopamine
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/opa334/Dopamine](https://github.com/opa334/Dopamine) |
-| ⭐ Stars | 5190 |
-| 🍴 Forks | 6086 |
-| 👀 Watchers | 5190 |
-| 📝 Open Issues | 60 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2023-01-31 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Dopamine is a semi-untethered jailbreak for iOS 15 and 16
-
-**中文简介**：
-Dopamine 是 iOS 15 和 16 的半自由越狱工具
-
-
-**Topics**：-
-
-
-
----
-
-### 2809. prometheus-community/helm-charts
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) |
-| ⭐ Stars | 6126 |
-| 🍴 Forks | 5374 |
-| 👀 Watchers | 6126 |
-| 📝 Open Issues | 222 |
-| 💻 主语言 | Mustache |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2020-08-08 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Prometheus community Helm charts
-
-**中文简介**：
-Prometheus 社区 Helm 图表
-
-
-**Topics**：charts, helm, helm-charts, kubernetes, prometheus
-
-
-
----
-
-### 2810. xmake-io/xmake
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/xmake-io/xmake](https://github.com/xmake-io/xmake) |
-| ⭐ Stars | 12031 |
-| 🍴 Forks | 940 |
-| 👀 Watchers | 12031 |
-| 📝 Open Issues | 255 |
-| 💻 主语言 | Lua |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2015-04-23 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-🔥 A cross-platform build utility based on Lua
-
-**中文简介**：
-🔥 基于 Lua 的跨平台构建实用程序
-
-
-**Topics**：build, build-tool, c, c-plus-plus, cmake, cross-toolchains, linux, lua, makefile, objective-c, package-manager, tbox, visual-studio, wdk, xmake
-
-
-
----
-
-### 2811. StarTrail-org/LEANN
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) |
-| ⭐ Stars | 11878 |
-| 🍴 Forks | 1054 |
-| 👀 Watchers | 11878 |
-| 📝 Open Issues | 67 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2025-06-09 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
-
-**中文简介**：
-[MLsys2026]：与 LEANN 一起对一切进行 RAG。在您的个人设备上运行快速、准确且 100% 私有的 RAG 应用程序时，可节省 97% 的存储空间。
-
-
-**Topics**：ai, faiss, gpt-oss, langchain, llama-index, llm, localstorage, offline-first, ollama, privacy, python, rag, retrieval-augmented-generation, vector-database, vector-search, vectors
-
-
-
----
-
-### 2812. microsoft/STL
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/microsoft/STL](https://github.com/microsoft/STL) |
-| ⭐ Stars | 11076 |
-| 🍴 Forks | 1625 |
-| 👀 Watchers | 11076 |
-| 📝 Open Issues | 561 |
-| 💻 主语言 | C++ |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2019-08-27 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-MSVC's implementation of the C++ Standard Library.
-
-**中文简介**：
-MSVC 对 C++ 标准库的实现。
-
-
-**Topics**：-
-
-
-
----
-
-### 2813. GoogleChromeLabs/comlink
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) |
-| ⭐ Stars | 12699 |
-| 🍴 Forks | 429 |
-| 👀 Watchers | 12699 |
-| 📝 Open Issues | 124 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-09-06 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Comlink makes WebWorkers enjoyable.
-
-**中文简介**：
-Comlink 让 WebWorkers 变得有趣。
-
-
-**Topics**：-
-
-
-
----
-
-### 2814. ctjhoa/rust-learning
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) |
-| ⭐ Stars | 12179 |
-| 🍴 Forks | 823 |
-| 👀 Watchers | 12179 |
-| 📝 Open Issues | 10 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2015-05-07 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-A bunch of links to blog posts, articles, videos, etc for learning Rust
-
-**中文简介**：
-一堆用于学习 Rust 的博客文章、文章、视频等的链接
-
-
-**Topics**：blog-article, book, hacktoberfest, learn, rust, teaching, tutorial, video
-
-
-
----
-
-### 2815. codexu/note-gen
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/codexu/note-gen](https://github.com/codexu/note-gen) |
-| ⭐ Stars | 12041 |
-| 🍴 Forks | 916 |
-| 👀 Watchers | 12041 |
-| 📝 Open Issues | 138 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2024-08-06 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-A cross-platform Markdown AI note-taking software.
-
-**中文简介**：
-一款跨平台的 Markdown AI 笔记软件。
-
-
-**Topics**：agent, chatbot, knowledge-base, llm, markdown, mcp, nextjs, note-taking, rag, tauri, webdav
-
-
-
----
-
-### 2816. 89luca89/distrobox
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/89luca89/distrobox](https://github.com/89luca89/distrobox) |
-| ⭐ Stars | 12557 |
-| 🍴 Forks | 524 |
-| 👀 Watchers | 12557 |
-| 📝 Open Issues | 129 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2021-11-18 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
-
-**中文简介**：
-在终端内使用任何 Linux 发行版。实现软件的向后和向前兼容性，并自由使用您更喜欢的任何发行版。镜像位于：https://gitlab.com/89luca89/distrobox
-
-
-**Topics**：almalinux, alpine, archlinux, bash, centos, command-line, containers, debian, development, docker, fedora, linux, opensuse, podman, posix, posix-sh, rockylinux, suse, tools, ubuntu
-
-
-
----
-
-### 2817. cytoscape/cytoscape.js
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) |
-| ⭐ Stars | 11037 |
-| 🍴 Forks | 1665 |
-| 👀 Watchers | 11037 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2011-08-23 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Graph theory (network) library for visualisation and analysis
-
-**中文简介**：
-用于可视化和分析的图论（网络）库
-
-
-**Topics**：analysis, cytoscapejs, graph-theory, javascript, network, visualisation, visualization
-
-
-
----
-
-### 2818. HIllya51/LunaTranslator
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) |
-| ⭐ Stars | 11801 |
-| 🍴 Forks | 1088 |
-| 👀 Watchers | 11801 |
-| 📝 Open Issues | 59 |
-| 💻 主语言 | C++ |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2022-09-28 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-视觉小说翻译器 / Visual Novel Translator
-
-**中文简介**：
-视觉小说翻译器 / 视觉小说翻译器
-
-
-**Topics**：galgame, ocr, reverse-engineering, translator, visual-novel, win32
-
-
-
----
-
-### 2819. rs/zerolog
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/rs/zerolog](https://github.com/rs/zerolog) |
-| ⭐ Stars | 12414 |
-| 🍴 Forks | 622 |
-| 👀 Watchers | 12414 |
-| 📝 Open Issues | 144 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-05-12 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Zero Allocation JSON Logger
-
-**中文简介**：
-零分配 JSON 记录器
-
-
-**Topics**：golang, json, logging, structured-logging, zerolog
-
-
-
----
-
-### 2820. dhamaniasad/awesome-postgres
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/dhamaniasad/awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) |
-| ⭐ Stars | 11944 |
-| 🍴 Forks | 974 |
-| 👀 Watchers | 11944 |
-| 📝 Open Issues | 41 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2015-08-02 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | CC0-1.0 |
-
-**简介**：
-A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-
-**中文简介**：
-受 Awesome-mysql 启发，精选的 PostgreSQL 软件、库、工具和资源列表
-
-
-**Topics**：database, postgres, postgresql
-
-
-
----
-
-### 2821. infracost/infracost
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/infracost/infracost](https://github.com/infracost/infracost) |
-| ⭐ Stars | 12342 |
-| 🍴 Forks | 674 |
-| 👀 Watchers | 12342 |
-| 📝 Open Issues | 19 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2020-06-24 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!
-
-**中文简介**：
-面向工程师、AI 编码代理和 CI/CD 的云成本情报 💰📉 向左转变 FinOps！
-
-
-**Topics**：aws, azure, cdk, cloud, cloud-cost-estimates, cloud-formation, cost-estimation, cost-management, cost-optimization, devops, finops, gcp, google, infrastructure-as-code, monthly-costs, terraform, terraform-cost-estimation
-
-
-
----
-
-### 2822. evershopcommerce/evershop
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) |
-| ⭐ Stars | 10123 |
-| 🍴 Forks | 2335 |
-| 👀 Watchers | 10123 |
-| 📝 Open Issues | 86 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2021-05-06 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-🛍️ Typescript E-commerce Platform
-
-**中文简介**：
-🛍️ Typescript 电子商务平台
-
-
-**Topics**：ecommerce, ecommerce-framework, ecommerce-platform, react, typescript
-
-
-
----
-
-### 2823. didi/LogicFlow
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/didi/LogicFlow](https://github.com/didi/LogicFlow) |
-| ⭐ Stars | 11409 |
-| 🍴 Forks | 1367 |
-| 👀 Watchers | 11409 |
-| 📝 Open Issues | 131 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2020-12-24 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-
-
-
-**Topics**：bpmn, diagram, diagramming, didi, flow, flowchart, graph, javascript, javascript-diagramming-library, mvvm, svg, typescript, visualization
-
-**中文Topics**：节律, 图表, 图表化, 滴滴, 流动, 流程图, 图形, javascript, javascript 图表库, mvvm, svg, typescript, 可视化
-
-
----
-
-### 2824. angristan/wireguard-install
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/angristan/wireguard-install](https://github.com/angristan/wireguard-install) |
-| ⭐ Stars | 11016 |
-| 🍴 Forks | 1658 |
-| 👀 Watchers | 11016 |
-| 📝 Open Issues | 122 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2019-05-05 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-WireGuard VPN installer for Linux servers
-
-**中文简介**：
-适用于 Linux 服务器的 WireGuard VPN 安装程序
-
-
-**Topics**：linux, nat, privacy, vpn, wireguard
-
-
-
----
-
-### 2825. logto-io/logto
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/logto-io/logto](https://github.com/logto-io/logto) |
-| ⭐ Stars | 12129 |
-| 🍴 Forks | 819 |
-| 👀 Watchers | 12129 |
-| 📝 Open Issues | 180 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2021-06-19 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MPL-2.0 |
-
-**简介**：
-🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-
-**中文简介**：
-🧑‍🚀 SaaS 和 AI 应用程序的身份验证和授权基础设施，基于 OIDC 和 OAuth 2.1 构建，具有多租户、SSO 和 RBAC。
-
-
-**Topics**：authentication, authorization, email, identity, jwt, login, logto, mfa, oauth2, openid-connect, password, passwordless, rbac, saml, signup, sms, social-login, sso, totp, typescript
-
-
-
----
-
-### 2826. linkerd/linkerd2
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/linkerd/linkerd2](https://github.com/linkerd/linkerd2) |
-| ⭐ Stars | 11413 |
-| 🍴 Forks | 1353 |
-| 👀 Watchers | 11413 |
-| 📝 Open Issues | 210 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2017-12-04 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-
-**中文简介**：
-适用于 Kubernetes 的超轻量、安全第一的服务网格。 Linkerd 2.x 的主要存储库。
-
-
-**Topics**：cloud-native, golang, kubernetes, linkerd, rust, service-mesh
-
-
-
----
-
-### 2827. ophub/amlogic-s9xxx-armbian
+### 2801. ophub/amlogic-s9xxx-armbian
 
 | 属性 | 信息 |
 |---|---|
@@ -764,7 +37,7 @@ Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a3
 
 ---
 
-### 2828. rzashakeri/beautify-github-profile
+### 2802. rzashakeri/beautify-github-profile
 
 | 属性 | 信息 |
 |---|---|
@@ -792,7 +65,7 @@ This repository will assist you in creating a more beautiful and appealing githu
 
 ---
 
-### 2829. redpanda-data/redpanda
+### 2803. redpanda-data/redpanda
 
 | 属性 | 信息 |
 |---|---|
@@ -820,7 +93,7 @@ Redpanda 是一个面向开发者的流数据平台。兼容 Kafka API。速度�
 
 ---
 
-### 2830. chenhg5/cc-connect
+### 2804. chenhg5/cc-connect
 
 | 属性 | 信息 |
 |---|---|
@@ -848,7 +121,7 @@ Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messag
 
 ---
 
-### 2831. azerothcore/azerothcore-wotlk
+### 2805. azerothcore/azerothcore-wotlk
 
 | 属性 | 信息 |
 |---|---|
@@ -876,7 +149,7 @@ MMO 的完整开源和模块化解决方案
 
 ---
 
-### 2832. microsoft/windows-rs
+### 2806. microsoft/windows-rs
 
 | 属性 | 信息 |
 |---|---|
@@ -904,7 +177,7 @@ Rust for Windows
 
 ---
 
-### 2833. simonw/llm
+### 2807. simonw/llm
 
 | 属性 | 信息 |
 |---|---|
@@ -932,7 +205,7 @@ Access large language models from the command-line
 
 ---
 
-### 2834. runelite/runelite
+### 2808. runelite/runelite
 
 | 属性 | 信息 |
 |---|---|
@@ -960,7 +233,7 @@ Open source Old School RuneScape client
 
 ---
 
-### 2835. giampaolo/psutil
+### 2809. giampaolo/psutil
 
 | 属性 | 信息 |
 |---|---|
@@ -988,7 +261,7 @@ Python 中用于进程和系统监控的跨平台库
 
 ---
 
-### 2836. triton-inference-server/server
+### 2810. triton-inference-server/server
 
 | 属性 | 信息 |
 |---|---|
@@ -1016,7 +289,7 @@ Triton 推理服务器提供优化的云和边缘推理解决方案。
 
 ---
 
-### 2837. sonic-pi-net/sonic-pi
+### 2811. sonic-pi-net/sonic-pi
 
 | 属性 | 信息 |
 |---|---|
@@ -1044,7 +317,7 @@ Code. Music. Live.
 
 ---
 
-### 2838. spesmilo/electrum
+### 2812. spesmilo/electrum
 
 | 属性 | 信息 |
 |---|---|
@@ -1072,7 +345,7 @@ Electrum Bitcoin Wallet
 
 ---
 
-### 2839. nix-community/home-manager
+### 2813. nix-community/home-manager
 
 | 属性 | 信息 |
 |---|---|
@@ -1100,7 +373,7 @@ Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 
 ---
 
-### 2840. google/adk-samples
+### 2814. google/adk-samples
 
 | 属性 | 信息 |
 |---|---|
@@ -1129,7 +402,7 @@ A collection of sample agents built with Agent Development Kit (ADK)
 
 ---
 
-### 2841. dotansimha/graphql-code-generator
+### 2815. dotansimha/graphql-code-generator
 
 | 属性 | 信息 |
 |---|---|
@@ -1157,7 +430,7 @@ A tool for generating code based on a GraphQL schema and GraphQL operations (que
 
 ---
 
-### 2842. ethereum/ethereum-org-website
+### 2816. ethereum/ethereum-org-website
 
 | 属性 | 信息 |
 |---|---|
@@ -1185,7 +458,7 @@ Ethereum.org 是以太坊社区的主要在线资源。
 
 ---
 
-### 2843. nodejs/node-gyp
+### 2817. nodejs/node-gyp
 
 | 属性 | 信息 |
 |---|---|
@@ -1213,7 +486,7 @@ Node.js 原生插件构建工具
 
 ---
 
-### 2844. Canop/broot
+### 2818. Canop/broot
 
 | 属性 | 信息 |
 |---|---|
@@ -1241,7 +514,7 @@ A new way to see and navigate directory trees : https://dystroy.org/broot
 
 ---
 
-### 2845. rybbit-io/rybbit
+### 2819. rybbit-io/rybbit
 
 | 属性 | 信息 |
 |---|---|
@@ -1269,7 +542,7 @@ A new way to see and navigate directory trees : https://dystroy.org/broot
 
 ---
 
-### 2846. streamlink/streamlink
+### 2820. streamlink/streamlink
 
 | 属性 | 信息 |
 |---|---|
@@ -1297,7 +570,7 @@ Streamlink 是一个 CLI 实用程序，它将来自各种服务的视频流传�
 
 ---
 
-### 2847. jemalloc/jemalloc
+### 2821. jemalloc/jemalloc
 
 | 属性 | 信息 |
 |---|---|
@@ -1323,7 +596,7 @@ Streamlink 是一个 CLI 实用程序，它将来自各种服务的视频流传�
 
 ---
 
-### 2848. flowable/flowable-engine
+### 2822. flowable/flowable-engine
 
 | 属性 | 信息 |
 |---|---|
@@ -1351,7 +624,7 @@ A compact and highly efficient workflow and Business Process Management (BPM) pl
 
 ---
 
-### 2849. pentaho/pentaho-kettle
+### 2823. pentaho/pentaho-kettle
 
 | 属性 | 信息 |
 |---|---|
@@ -1379,7 +652,7 @@ Pentaho 数据集成 ( ETL ) 又名 Kettle
 
 ---
 
-### 2850. openreplay/openreplay
+### 2824. openreplay/openreplay
 
 | 属性 | 信息 |
 |---|---|
@@ -1407,7 +680,7 @@ Session replay, cobrowsing and product analytics you can self-host. Best for rep
 
 ---
 
-### 2851. dropwizard/dropwizard
+### 2825. dropwizard/dropwizard
 
 | 属性 | 信息 |
 |---|---|
@@ -1435,7 +708,7 @@ A damn simple library for building production-ready RESTful web services.
 
 ---
 
-### 2852. qutebrowser/qutebrowser
+### 2826. qutebrowser/qutebrowser
 
 | 属性 | 信息 |
 |---|---|
@@ -1463,7 +736,7 @@ A keyboard-driven, vim-like browser based on Python and Qt.
 
 ---
 
-### 2853. atlassian/pragmatic-drag-and-drop
+### 2827. atlassian/pragmatic-drag-and-drop
 
 | 属性 | 信息 |
 |---|---|
@@ -1491,7 +764,7 @@ Fast drag and drop for any experience on any tech stack
 
 ---
 
-### 2854. deployphp/deployer
+### 2828. deployphp/deployer
 
 | 属性 | 信息 |
 |---|---|
@@ -1519,7 +792,7 @@ PHP 部署工具，支持开箱即用的流行框架
 
 ---
 
-### 2855. icloud-photos-downloader/icloud_photos_downloader
+### 2829. icloud-photos-downloader/icloud_photos_downloader
 
 | 属性 | 信息 |
 |---|---|
@@ -1547,7 +820,7 @@ A command-line tool to download photos from iCloud
 
 ---
 
-### 2856. phpredis/phpredis
+### 2830. phpredis/phpredis
 
 | 属性 | 信息 |
 |---|---|
@@ -1575,7 +848,7 @@ Redis 的 PHP 扩展
 
 ---
 
-### 2857. rustdesk/rustdesk-server
+### 2831. rustdesk/rustdesk-server
 
 | 属性 | 信息 |
 |---|---|
@@ -1603,7 +876,7 @@ RustDesk 服务器程序
 
 ---
 
-### 2858. espnet/espnet
+### 2832. espnet/espnet
 
 | 属性 | 信息 |
 |---|---|
@@ -1631,7 +904,7 @@ End-to-End Speech Processing Toolkit
 
 ---
 
-### 2859. 255kb/stack-on-a-budget
+### 2833. 255kb/stack-on-a-budget
 
 | 属性 | 信息 |
 |---|---|
@@ -1660,7 +933,7 @@ A collection of services with great free tiers for developers on a budget. Spons
 
 ---
 
-### 2860. wsvincent/awesome-django
+### 2834. wsvincent/awesome-django
 
 | 属性 | 信息 |
 |---|---|
@@ -1688,7 +961,7 @@ A curated list of awesome things related to Django
 
 ---
 
-### 2861. retejs/rete
+### 2835. retejs/rete
 
 | 属性 | 信息 |
 |---|---|
@@ -1716,7 +989,7 @@ JavaScript framework for visual programming
 
 ---
 
-### 2862. zuiidea/antd-admin
+### 2836. zuiidea/antd-admin
 
 | 属性 | 信息 |
 |---|---|
@@ -1744,7 +1017,7 @@ AI友好的企业前端最佳实践
 
 ---
 
-### 2863. nasa/fprime
+### 2837. nasa/fprime
 
 | 属性 | 信息 |
 |---|---|
@@ -1772,7 +1045,7 @@ F´ - 飞行软件和嵌入式系统框架
 
 ---
 
-### 2864. apache/camel
+### 2838. apache/camel
 
 | 属性 | 信息 |
 |---|---|
@@ -1800,7 +1073,7 @@ Apache Camel 是一个开源集成框架，使您能够快速轻松地集成使�
 
 ---
 
-### 2865. google/skia
+### 2839. google/skia
 
 | 属性 | 信息 |
 |---|---|
@@ -1828,7 +1101,7 @@ Skia 是一个完整的 2D 图形库，用于绘制文本、几何图形和图�
 
 ---
 
-### 2866. benoitc/gunicorn
+### 2840. benoitc/gunicorn
 
 | 属性 | 信息 |
 |---|---|
@@ -1856,7 +1129,7 @@ Gunicorn 'Green Unicorn' 是一个用于 UNIX、快速客户端和睡眠应用�
 
 ---
 
-### 2867. Project-OSRM/osrm-backend
+### 2841. Project-OSRM/osrm-backend
 
 | 属性 | 信息 |
 |---|---|
@@ -1884,7 +1157,7 @@ Open Source Routing Machine - C++ backend
 
 ---
 
-### 2868. miantiao-me/Sink
+### 2842. miantiao-me/Sink
 
 | 属性 | 信息 |
 |---|---|
@@ -1912,7 +1185,7 @@ Open Source Routing Machine - C++ backend
 
 ---
 
-### 2869. mRemoteNG/mRemoteNG
+### 2843. mRemoteNG/mRemoteNG
 
 | 属性 | 信息 |
 |---|---|
@@ -1940,7 +1213,7 @@ mRemoteNG 是下一代 mRemote、开源、选项卡式、多协议、远程连�
 
 ---
 
-### 2870. Heapy/awesome-kotlin
+### 2844. Heapy/awesome-kotlin
 
 | 属性 | 信息 |
 |---|---|
@@ -1968,7 +1241,7 @@ A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 
 ---
 
-### 2871. fuma-nama/fumadocs
+### 2845. fuma-nama/fumadocs
 
 | 属性 | 信息 |
 |---|---|
@@ -1996,7 +1269,7 @@ The beautiful & flexible React.js docs framework.
 
 ---
 
-### 2872. changesets/changesets
+### 2846. changesets/changesets
 
 | 属性 | 信息 |
 |---|---|
@@ -2024,7 +1297,7 @@ The beautiful & flexible React.js docs framework.
 
 ---
 
-### 2873. cython/cython
+### 2847. cython/cython
 
 | 属性 | 信息 |
 |---|---|
@@ -2052,7 +1325,7 @@ The most widely used Python to C compiler
 
 ---
 
-### 2874. jxxghp/MoviePilot
+### 2848. jxxghp/MoviePilot
 
 | 属性 | 信息 |
 |---|---|
@@ -2078,7 +1351,7 @@ NAS媒体库自动化管理工具
 
 ---
 
-### 2875. spencermountain/compromise
+### 2849. spencermountain/compromise
 
 | 属性 | 信息 |
 |---|---|
@@ -2106,7 +1379,7 @@ modest natural-language processing
 
 ---
 
-### 2876. orf/gping
+### 2850. orf/gping
 
 | 属性 | 信息 |
 |---|---|
@@ -2134,7 +1407,7 @@ Ping，但有图表
 
 ---
 
-### 2877. superset-sh/superset
+### 2851. superset-sh/superset
 
 | 属性 | 信息 |
 |---|---|
@@ -2162,7 +1435,7 @@ AI 代理时代的代码编辑器 - 在您的机器上运行 Claude Code、Codex
 
 ---
 
-### 2878. facebook/facebook-ios-sdk
+### 2852. facebook/facebook-ios-sdk
 
 | 属性 | 信息 |
 |---|---|
@@ -2190,7 +1463,7 @@ Used to integrate the Facebook Platform with your iOS & tvOS apps.
 
 ---
 
-### 2879. Alexays/Waybar
+### 2853. Alexays/Waybar
 
 | 属性 | 信息 |
 |---|---|
@@ -2218,7 +1491,7 @@ Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tad
 
 ---
 
-### 2880. baldurk/renderdoc
+### 2854. baldurk/renderdoc
 
 | 属性 | 信息 |
 |---|---|
@@ -2246,7 +1519,7 @@ RenderDoc 是一个独立的图形调试工具。
 
 ---
 
-### 2881. BtbN/FFmpeg-Builds
+### 2855. BtbN/FFmpeg-Builds
 
 | 属性 | 信息 |
 |---|---|
@@ -2272,7 +1545,7 @@ RenderDoc 是一个独立的图形调试工具。
 
 ---
 
-### 2882. openai/openai-node
+### 2856. openai/openai-node
 
 | 属性 | 信息 |
 |---|---|
@@ -2300,7 +1573,7 @@ OpenAI API 的官方 JavaScript / TypeScript 库
 
 ---
 
-### 2883. Azure/azure-sdk-for-net
+### 2857. Azure/azure-sdk-for-net
 
 | 属性 | 信息 |
 |---|---|
@@ -2328,7 +1601,7 @@ This repository is for active development of the Azure SDK for .NET. For consume
 
 ---
 
-### 2884. paulmillr/chokidar
+### 2858. paulmillr/chokidar
 
 | 属性 | 信息 |
 |---|---|
@@ -2356,7 +1629,7 @@ Minimal and efficient cross-platform file watching library
 
 ---
 
-### 2885. jsx-eslint/eslint-plugin-react
+### 2859. jsx-eslint/eslint-plugin-react
 
 | 属性 | 信息 |
 |---|---|
@@ -2384,7 +1657,7 @@ ESLint 的 React 特定 linting 规则
 
 ---
 
-### 2886. huggingface/chat-ui
+### 2860. huggingface/chat-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -2412,7 +1685,7 @@ The open source codebase powering HuggingChat
 
 ---
 
-### 2887. wanshuiyin/Auto-claude-code-research-in-sleep
+### 2861. wanshuiyin/Auto-claude-code-research-in-sleep
 
 | 属性 | 信息 |
 |---|---|
@@ -2440,7 +1713,7 @@ ARIS ⚔️ (Auto-Research-In-Sleep) — 用于自主 ML 研究的轻量级 Mark
 
 ---
 
-### 2888. github/copilot-cli
+### 2862. github/copilot-cli
 
 | 属性 | 信息 |
 |---|---|
@@ -2468,7 +1741,7 @@ GitHub Copilot CLI 将 Copilot 编码代理的强大功能直接带到您的终�
 
 ---
 
-### 2889. cloudwego/eino
+### 2863. cloudwego/eino
 
 | 属性 | 信息 |
 |---|---|
@@ -2496,7 +1769,7 @@ Go 中的终极 LLM/AI 应用程序开发框架。
 
 ---
 
-### 2890. elie222/inbox-zero
+### 2864. elie222/inbox-zero
 
 | 属性 | 信息 |
 |---|---|
@@ -2524,7 +1797,7 @@ The world's best AI personal assistant for email. Open source app to help you re
 
 ---
 
-### 2891. yairm210/Unciv
+### 2865. yairm210/Unciv
 
 | 属性 | 信息 |
 |---|---|
@@ -2552,7 +1825,7 @@ Civ V 的开源 Android/桌面重制版
 
 ---
 
-### 2892. benbusby/whoogle-search
+### 2866. benbusby/whoogle-search
 
 | 属性 | 信息 |
 |---|---|
@@ -2580,7 +1853,7 @@ A self-hosted, ad-free, privacy-respecting metasearch engine
 
 ---
 
-### 2893. jwtk/jjwt
+### 2867. jwtk/jjwt
 
 | 属性 | 信息 |
 |---|---|
@@ -2608,7 +1881,7 @@ Java JWT：适用于 Java 和 Android 的 JSON Web 令牌
 
 ---
 
-### 2894. AppIntro/AppIntro
+### 2868. AppIntro/AppIntro
 
 | 属性 | 信息 |
 |---|---|
@@ -2636,7 +1909,7 @@ Make a cool intro for your Android app.
 
 ---
 
-### 2895. StockSharp/StockSharp
+### 2869. StockSharp/StockSharp
 
 | 属性 | 信息 |
 |---|---|
@@ -2664,7 +1937,7 @@ Algorithmic trading and quantitative trading open source platform to develop tra
 
 ---
 
-### 2896. reduxjs/redux-toolkit
+### 2870. reduxjs/redux-toolkit
 
 | 属性 | 信息 |
 |---|---|
@@ -2692,7 +1965,7 @@ The official, opinionated, batteries-included toolset for efficient Redux develo
 
 ---
 
-### 2897. libre-tube/LibreTube
+### 2871. libre-tube/LibreTube
 
 | 属性 | 信息 |
 |---|---|
@@ -2720,7 +1993,7 @@ An alternative frontend for YouTube, for Android.
 
 ---
 
-### 2898. owncast/owncast
+### 2872. owncast/owncast
 
 | 属性 | 信息 |
 |---|---|
@@ -2748,7 +2021,7 @@ Take control over your live stream video by running it yourself.  Streaming + ch
 
 ---
 
-### 2899. netbootxyz/netboot.xyz
+### 2873. netbootxyz/netboot.xyz
 
 | 属性 | 信息 |
 |---|---|
@@ -2776,7 +2049,7 @@ Your favorite operating systems in one place.  A network-based bootable operatin
 
 ---
 
-### 2900. James-Yu/LaTeX-Workshop
+### 2874. James-Yu/LaTeX-Workshop
 
 | 属性 | 信息 |
 |---|---|
@@ -2799,6 +2072,735 @@ Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize
 
 
 **Topics**：-
+
+
+
+---
+
+### 2875. yonggekkk/sing-box-yg
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/yonggekkk/sing-box-yg](https://github.com/yonggekkk/sing-box-yg) |
+| ⭐ Stars | 9034 |
+| 🍴 Forks | 2902 |
+| 👀 Watchers | 9034 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Shell |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2023-10-22 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本
+
+
+
+**Topics**：acme, alpine, anytls, argo, clash-meta, cloudflared, hostuno, hysteria2, oblivion, openclash, psiphon, serv00, shadowrocket, sing-box, tuic, v2ray, v2rayn, warp, xray
+
+**中文Topics**：极致, 高山, 任意, 阿尔戈, 冲突元, 云焰, 霍斯图诺, 歇斯底里2, 遗忘, 开放冲突, 赛风, 服务00, 影子火箭, 唱盒, 理解, v2ray, v2雨, 经, X射线
+
+
+---
+
+### 2876. restsharp/RestSharp
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/restsharp/RestSharp](https://github.com/restsharp/RestSharp) |
+| ⭐ Stars | 9825 |
+| 🍴 Forks | 2307 |
+| 👀 Watchers | 9825 |
+| 📝 Open Issues | 25 |
+| 💻 主语言 | C# |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2009-11-16 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Simple REST and HTTP API Client for .NET
+
+**中文简介**：
+适用于 .NET 的简单 REST 和 HTTP API 客户端
+
+
+**Topics**：-
+
+
+
+---
+
+### 2877. cloudflare/quiche
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cloudflare/quiche](https://github.com/cloudflare/quiche) |
+| ⭐ Stars | 11541 |
+| 🍴 Forks | 1008 |
+| 👀 Watchers | 11541 |
+| 📝 Open Issues | 252 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2018-09-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-2-Clause |
+
+**简介**：
+🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+
+**中文简介**：
+🥧 QUIC 传输协议和 HTTP/3 的美味实现
+
+
+**Topics**：http3, network-programming, protocol, quic, rust
+
+
+
+---
+
+### 2878. alexeygrigorev/data-science-interviews
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alexeygrigorev/data-science-interviews](https://github.com/alexeygrigorev/data-science-interviews) |
+| ⭐ Stars | 10032 |
+| 🍴 Forks | 2147 |
+| 👀 Watchers | 10032 |
+| 📝 Open Issues | 10 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2020-03-02 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | CC-BY-4.0 |
+
+**简介**：
+Data science interview questions and answers
+
+**中文简介**：
+数据科学面试问题和答案
+
+
+**Topics**：data-science, data-science-interviews, interview-questions, machine-learning
+
+
+
+---
+
+### 2879. protobufjs/protobuf.js
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) |
+| ⭐ Stars | 10554 |
+| 🍴 Forks | 1727 |
+| 👀 Watchers | 10554 |
+| 📝 Open Issues | 566 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2013-03-01 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Protocol Buffers for JavaScript and TypeScript.
+
+**中文简介**：
+JavaScript 和 TypeScript 的协议缓冲区。
+
+
+**Topics**：javascript, protobuf, protocol-buffers, serialization, typescript
+
+
+
+---
+
+### 2880. o3de/o3de
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/o3de/o3de](https://github.com/o3de/o3de) |
+| ⭐ Stars | 9320 |
+| 🍴 Forks | 2499 |
+| 👀 Watchers | 9320 |
+| 📝 Open Issues | 3538 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2021-04-05 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
+
+**中文简介**：
+开放 3D 引擎 (O3DE) 是一款获得 Apache 2.0 许可的多平台 3D 引擎，使开发人员和内容创作者能够构建 AAA 游戏、影院品质的 3D 世界和高保真模拟，而无需任何费用或商业义务。
+
+
+**Topics**：3d-graphics, 3d-graphics-engine, animation, game-development, game-engine, gamedev
+
+
+
+---
+
+### 2881. callstack/linaria
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/callstack/linaria](https://github.com/callstack/linaria) |
+| ⭐ Stars | 12329 |
+| 🍴 Forks | 412 |
+| 👀 Watchers | 12329 |
+| 📝 Open Issues | 146 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2017-05-23 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | MIT |
+
+**简介**：
+Zero-runtime CSS in JS library
+
+**中文简介**：
+JS 库中的零运行时 CSS
+
+
+**Topics**：css, css-in-js, css-in-react, react
+
+
+
+---
+
+### 2882. zilliztech/claude-context
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zilliztech/claude-context](https://github.com/zilliztech/claude-context) |
+| ⭐ Stars | 11724 |
+| 🍴 Forks | 864 |
+| 👀 Watchers | 11724 |
+| 📝 Open Issues | 113 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2025-06-06 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+
+**中文简介**：
+代码搜索 MCP 以获得克劳德代码。使整个代码库成为任何编码代理的上下文。
+
+
+**Topics**：agent, agentic-rag, ai-coding, claude-code, code-generation, code-search, cursor, embedding, gemini-cli, mcp, merkle-tree, nodejs, openai, rag, semantic-search, typescript, vector-database, vibe-coding, voyage-ai, vscode-extension
+
+
+
+---
+
+### 2883. software-mansion/react-native-reanimated
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) |
+| ⭐ Stars | 10881 |
+| 🍴 Forks | 1479 |
+| 👀 Watchers | 10881 |
+| 📝 Open Issues | 374 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2018-04-25 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+React Native's Animated library reimplemented
+
+**中文简介**：
+React Native 的动画库重新实现
+
+
+**Topics**：animation, gesture, javascript, multithreading, react-native, react-native-reanimated, react-native-worklets, worklets
+
+
+
+---
+
+### 2884. supertone-inc/supertonic
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) |
+| ⭐ Stars | 11301 |
+| 🍴 Forks | 1177 |
+| 👀 Watchers | 11301 |
+| 📝 Open Issues | 112 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2025-11-18 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+
+**中文简介**：
+快如闪电、设备内多语言 TTS — 通过 ONNX 本地运行。
+
+
+**Topics**：cpp, csharp, flutter, go, ios, java, lightweight, multilingual, nodejs, on-device, onnx, onnxruntime, python, rust, speech-synthesis, swift, text-to-speech, tts, web, webgpu
+
+
+
+---
+
+### 2885. clojure/clojure
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/clojure/clojure](https://github.com/clojure/clojure) |
+| ⭐ Stars | 10924 |
+| 🍴 Forks | 1462 |
+| 👀 Watchers | 10924 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2010-06-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | 未知 |
+
+**简介**：
+The Clojure programming language
+
+**中文简介**：
+Clojure 编程语言
+
+
+**Topics**：-
+
+
+
+---
+
+### 2886. alibaba/spring-ai-alibaba
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) |
+| ⭐ Stars | 9910 |
+| 🍴 Forks | 2206 |
+| 👀 Watchers | 9910 |
+| 📝 Open Issues | 276 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2024-09-09 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Agentic AI Framework for Java Developers
+
+**中文简介**：
+面向 Java 开发人员的代理 AI 框架
+
+
+**Topics**：agentic, artificial-intelligence, context-engineering, graph, java, multi-agent, reactagent, spring-ai, workflow
+
+
+
+---
+
+### 2887. yargs/yargs
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/yargs/yargs](https://github.com/yargs/yargs) |
+| ⭐ Stars | 11489 |
+| 🍴 Forks | 1020 |
+| 👀 Watchers | 11489 |
+| 📝 Open Issues | 321 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2013-11-07 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | MIT |
+
+**简介**：
+ yargs the modern, pirate-themed successor to optimist.
+
+**中文简介**：
+yargs 是乐观主义者的现代海盗主题继承者。
+
+
+**Topics**：-
+
+
+
+---
+
+### 2888. dotnet/docs
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/dotnet/docs](https://github.com/dotnet/docs) |
+| ⭐ Stars | 4698 |
+| 🍴 Forks | 6079 |
+| 👀 Watchers | 4698 |
+| 📝 Open Issues | 990 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2015-05-19 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | CC-BY-4.0 |
+
+**简介**：
+This repository contains .NET Documentation.
+
+**中文简介**：
+该存储库包含 .NET 文档。
+
+
+**Topics**：csharp, dotnet, dotnet-core, fsharp, hacktoberfest, visual-basic
+
+
+
+---
+
+### 2889. sktime/sktime
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/sktime/sktime](https://github.com/sktime/sktime) |
+| ⭐ Stars | 9794 |
+| 🍴 Forks | 2184 |
+| 👀 Watchers | 9794 |
+| 📝 Open Issues | 2366 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2018-11-06 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-3-Clause |
+
+**简介**：
+A unified framework for machine learning with time series
+
+**中文简介**：
+时间序列机器学习的统一框架
+
+
+**Topics**：ai, anomaly-detection, changepoint-detection, data-mining, data-science, forecasting, hacktoberfest, machine-learning, scikit-learn, sktime, time-series, time-series-analysis, time-series-classification, time-series-regression, time-series-segmentation
+
+**中文Topics**：ai, 异常检测, 变化点检测, 数据挖掘, 数据科学, 预测, 黑客啤酒节, 机器学习, scikit-learn, 小品, 时间序列, time-series-analysis, 时间序列分类, 时间序列回归, 时间序列分割
+
+
+---
+
+### 2890. hadolint/hadolint
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hadolint/hadolint](https://github.com/hadolint/hadolint) |
+| ⭐ Stars | 12187 |
+| 🍴 Forks | 495 |
+| 👀 Watchers | 12187 |
+| 📝 Open Issues | 240 |
+| 💻 主语言 | Haskell |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2015-11-15 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Dockerfile linter, validate inline bash, written in Haskell
+
+**中文简介**：
+Dockerfile linter，验证内联 bash，用 Haskell 编写
+
+
+**Topics**：docker, dockerfile, dockerfile-linter, haskell, linter, shellcheck, static-analysis
+
+
+
+---
+
+### 2891. apache/shenyu
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/apache/shenyu](https://github.com/apache/shenyu) |
+| ⭐ Stars | 8795 |
+| 🍴 Forks | 3042 |
+| 👀 Watchers | 8795 |
+| 📝 Open Issues | 175 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2018-07-11 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.
+
+**中文简介**：
+Apache ShenYu 是一个 Java 原生 API 网关，用于服务代理、协议转换和 API 治理。
+
+
+**Topics**：api-gateway, dubbo-proxy, grpc-proxy, http-proxy, reactor-java, sofa-proxy, spring-cloud-proxy
+
+
+
+---
+
+### 2892. be5invis/Sarasa-Gothic
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) |
+| ⭐ Stars | 12335 |
+| 🍴 Forks | 391 |
+| 👀 Watchers | 12335 |
+| 📝 Open Issues | 4 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2017-06-30 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+
+**中文简介**：
+萨拉萨哥特式 / 萨拉萨哥特式 / 萨拉萨哥特式 / 萨拉萨哥特式 / 萨拉萨哥特式
+
+
+**Topics**：font, typeface
+
+**中文Topics**：字体, 字体
+
+
+---
+
+### 2893. numba/numba
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/numba/numba](https://github.com/numba/numba) |
+| ⭐ Stars | 11037 |
+| 🍴 Forks | 1276 |
+| 👀 Watchers | 11037 |
+| 📝 Open Issues | 1787 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2012-03-08 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-2-Clause |
+
+**简介**：
+NumPy aware dynamic Python compiler using LLVM
+
+**中文简介**：
+使用 LLVM 的 NumPy 感知动态 Python 编译器
+
+
+**Topics**：compiler, cuda, llvm, numba, numpy, parallel, python
+
+
+
+---
+
+### 2894. dbcli/mycli
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/dbcli/mycli](https://github.com/dbcli/mycli) |
+| ⭐ Stars | 11921 |
+| 🍴 Forks | 696 |
+| 👀 Watchers | 11921 |
+| 📝 Open Issues | 19 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2015-04-05 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-3-Clause |
+
+**简介**：
+A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+
+**中文简介**：
+具有自动完成和语法突出显示功能的 MySQL 终端客户端。
+
+
+**Topics**：auto-completion, database, mycli, mysql, python, syntax-highlighting
+
+
+
+---
+
+### 2895. thedevs-network/kutt
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/thedevs-network/kutt](https://github.com/thedevs-network/kutt) |
+| ⭐ Stars | 10887 |
+| 🍴 Forks | 1466 |
+| 👀 Watchers | 10887 |
+| 📝 Open Issues | 94 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2018-02-13 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Free Modern URL Shortener.
+
+**中文简介**：
+免费的现代 URL 缩短器。
+
+
+**Topics**：link-shortener, shorten-urls, shortener, url-shortener, urlshortener
+
+
+
+---
+
+### 2896. ubicloud/ubicloud
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) |
+| ⭐ Stars | 12085 |
+| 🍴 Forks | 564 |
+| 👀 Watchers | 12085 |
+| 📝 Open Issues | 111 |
+| 💻 主语言 | Ruby |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2023-01-17 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+
+**中文简介**：
+AWS 的开源替代品。弹性计算、块存储（非复制）、防火墙和负载均衡器、托管 Postgres、K8s、AI 推理和 IAM 服务。
+
+
+**Topics**：bare-metal, cloud, github-actions, hosting, kubernetes, linux, managed-cloud, open, opensource, portable, postgresql, ruby
+
+
+
+---
+
+### 2897. dotnet/BenchmarkDotNet
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) |
+| ⭐ Stars | 11424 |
+| 🍴 Forks | 1050 |
+| 👀 Watchers | 11424 |
+| 📝 Open Issues | 186 |
+| 💻 主语言 | C# |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2013-08-18 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Powerful .NET library for benchmarking
+
+**中文简介**：
+强大的 .NET 基准测试库
+
+
+**Topics**：benchmark, benchmarking, c-sharp, csharp, dotnet, hacktoberfest, performance
+
+
+
+---
+
+### 2898. coil-kt/coil
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/coil-kt/coil](https://github.com/coil-kt/coil) |
+| ⭐ Stars | 11813 |
+| 🍴 Forks | 764 |
+| 👀 Watchers | 11813 |
+| 📝 Open Issues | 63 |
+| 💻 主语言 | Kotlin |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2019-08-10 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Image loading for Android and Compose Multiplatform.
+
+**中文简介**：
+Android 和 Compose Multiplatform 的图像加载。
+
+
+**Topics**：android, androidx, compose, compose-multiplatform, coroutines, image-loader, images, kotlin, kotlin-coroutines, okio
+
+
+
+---
+
+### 2899. aws/serverless-application-model
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/aws/serverless-application-model](https://github.com/aws/serverless-application-model) |
+| ⭐ Stars | 9560 |
+| 🍴 Forks | 2450 |
+| 👀 Watchers | 9560 |
+| 📝 Open Issues | 103 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2016-10-10 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
+
+**中文简介**：
+AWS 无服务器应用程序模型 (AWS SAM) 转换是一个 AWS CloudFormation 宏，可将 SAM 模板转换为 CloudFormation 模板。
+
+
+**Topics**：aws, aws-sam, lambda, sam, sam-specification, serverless, serverless-application-model, serverless-applications
+
+
+
+---
+
+### 2900. 1N3/Sn1per
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per) |
+| ⭐ Stars | 10061 |
+| 🍴 Forks | 2078 |
+| 👀 Watchers | 10061 |
+| 📝 Open Issues | 7 |
+| 💻 主语言 | Shell |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2015-09-06 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Attack Surface Management Platform
+
+**中文简介**：
+攻击面管理平台
+
+
+**Topics**：attack-surface, attack-surface-management, attacksurface, bugbounty-platform, cybersecurity, hacking, hacking-tools, osint-framework, osint-tool, penetration-testing, pentest-scripts, pentest-tool, pentest-tools, pentesting, pentesting-tools, security, security-tools, sn1per, sn1per-professional
 
 
 

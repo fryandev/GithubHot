@@ -1,129 +1,15 @@
 # 📅 最近30天活跃
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-07-27 20:58
+> 最后更新：2026-07-30 11:44
 
-共收录 **16** 个项目
+共收录 **11** 个项目
 
 
 ## 项目列表
 
 
-### 1. ruvnet/ruflo
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| ⭐ Stars | 62163 |
-| 🍴 Forks | 7284 |
-| 👀 Watchers | 62163 |
-| 📝 Open Issues | 693 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2025-06-02 |
-| 🔄 最后更新 | 2026-06-30 |
-| 📜 License | MIT |
-
-**简介**：
-🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-
-**中文简介**：
-🌊 领先的 Claude 智能体元驾驭框架。部署智能多智能体集群，协调自主工作流，构建对话式 AI 系统。具备自适应记忆、自学习集群智能、RAG 集成，以及原生 Claude Code / Codex 集成。
-
-
-**Topics**：agentic-ai, agentic-framework, agentic-rag, agentic-workflow, agents, ai-agents, ai-assistant, ai-coding, ai-skills, autonomous-agents, claude-code, codex, mcp-server, multi-agent, multi-agent-systems, npm, skills, swarm, swarm-intelligence, typescript
-
-**中文Topics**：agentic-ai, agentic-framework, agentic-rag, agentic-workflow, agents, ai-agents, ai助手, ai编程, ai技能, 自主智能体, claude-code, codex, mcp-server, 多智能体, 多智能体系统, npm, 技能, 集群, 集群智能, typescript
-
-
----
-
-### 2. Hmbown/CodeWhale
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) |
-| ⭐ Stars | 39216 |
-| 🍴 Forks | 3389 |
-| 👀 Watchers | 39216 |
-| 📝 Open Issues | 240 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-01-19 |
-| 🔄 最后更新 | 2026-06-30 |
-| 📜 License | MIT |
-
-**简介**：
-Open-source, community-driven agent harness
-
-**中文简介**：
-终端中的 DeepSeek + MiMo 编程助手
-
-
-**Topics**：cli, deepseek, llm, rust, terminal, tui
-
-**中文Topics**：cli, deepseek, llm, rust, terminal, tui
-
-
----
-
-### 3. K-Dense-AI/scientific-agent-skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) |
-| ⭐ Stars | 29649 |
-| 🍴 Forks | 3023 |
-| 👀 Watchers | 29649 |
-| 📝 Open Issues | 33 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2025-10-19 |
-| 🔄 最后更新 | 2026-06-30 |
-| 📜 License | MIT |
-
-**简介**：
-Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.
-
-**中文简介**：
-将任何人工智能代理变成人工智能科学家。排名第一的科学代理技能库，全球有 160,000 多名科学家使用。 140 种即用型技能以及 100 多个涵盖生物学、化学、医学和药物发现的科学数据库。与 Cursor、Claude Code、Codex、Antigravity 和开放代理技能标准兼容。
-
-
-**Topics**：agent-skills, ai-scientist, bioinformatics, chemoinformatics, claude, claude-skills, claudecode, clinical-research, computational-biology, data-analysis, drug-discovery, genomics, materials-science, metabolomics, proteomics, scientific-computing, scientific-visualization
-
-
-
----
-
-### 4. baidu/Unlimited-OCR
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) |
-| ⭐ Stars | 12326 |
-| 🍴 Forks | 968 |
-| 👀 Watchers | 12326 |
-| 📝 Open Issues | 44 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-18 |
-| 🔄 最后更新 | 2026-06-30 |
-| 📜 License | MIT |
-
-**简介**：
-Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-
-**中文简介**：
-无限OCR功能：迎接一次性长文本解析时代。
-
-
-**Topics**：-
-
-
-
----
-
-### 5. xbtlin/ai-berkshire
+### 1. xbtlin/ai-berkshire
 
 | 属性 | 信息 |
 |---|---|
@@ -152,35 +38,7 @@ AI时代的伯克希尔：基于Claude Code/Codex的价值投资研究框架。�
 
 ---
 
-### 6. deepseek-ai/DeepSpec
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) |
-| ⭐ Stars | 4790 |
-| 🍴 Forks | 393 |
-| 👀 Watchers | 4790 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-26 |
-| 🔄 最后更新 | 2026-06-30 |
-| 📜 License | MIT |
-
-**简介**：
-DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
-
-**中文简介**：
-DeepSpec：用于训练和评估推测解码算法的端到端代码库
-
-
-**Topics**：-
-
-
-
----
-
-### 7. MadsLorentzen/ai-job-search
+### 2. MadsLorentzen/ai-job-search
 
 | 属性 | 信息 |
 |---|---|
@@ -209,7 +67,7 @@ The job search that runs on your machine. AI job application framework built on 
 
 ---
 
-### 8. hasaneyldrm/exercises-dataset
+### 3. hasaneyldrm/exercises-dataset
 
 | 属性 | 信息 |
 |---|---|
@@ -238,7 +96,7 @@ The job search that runs on your machine. AI job application framework built on 
 
 ---
 
-### 9. facebook/astryx
+### 4. facebook/astryx
 
 | 属性 | 信息 |
 |---|---|
@@ -266,7 +124,7 @@ An open source design system that's fully customizable and agent ready
 
 ---
 
-### 10. x4gKing/X4G
+### 5. x4gKing/X4G
 
 | 属性 | 信息 |
 |---|---|
@@ -292,7 +150,7 @@ An open source design system that's fully customizable and agent ready
 
 ---
 
-### 11. bradautomates/claude-video
+### 6. bradautomates/claude-video
 
 | 属性 | 信息 |
 |---|---|
@@ -320,7 +178,7 @@ Give Claude the ability to watch any video. /watch downloads, extracts frames, t
 
 ---
 
-### 12. xai-org/grok-build
+### 7. xai-org/grok-build
 
 | 属性 | 信息 |
 |---|---|
@@ -348,7 +206,7 @@ SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
 
 ---
 
-### 13. Fei-Away/Codex-Dream-Skin
+### 8. Fei-Away/Codex-Dream-Skin
 
 | 属性 | 信息 |
 |---|---|
@@ -376,7 +234,7 @@ Codex Dream Skin
 
 ---
 
-### 14. k1tbyte/Wand-Enhancer
+### 9. k1tbyte/Wand-Enhancer
 
 | 属性 | 信息 |
 |---|---|
@@ -405,7 +263,7 @@ Wand (WeMod) 应用程序的高级用户体验和互操作性扩展
 
 ---
 
-### 15. 0xNyk/council-of-high-intelligence
+### 10. 0xNyk/council-of-high-intelligence
 
 | 属性 | 信息 |
 |---|---|
@@ -434,7 +292,7 @@ Structured multi-perspective deliberation for hard decisions. Run full councils,
 
 ---
 
-### 16. Dicklesworthstone/destructive_command_guard
+### 11. Dicklesworthstone/destructive_command_guard
 
 | 属性 | 信息 |
 |---|---|

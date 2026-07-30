@@ -3,6 +3,9 @@
 .kimi/
 .codebuddy/
 
+# 用户私有目录（不提交）
+user/
+
 # Python
 __pycache__/
 *.pyc
