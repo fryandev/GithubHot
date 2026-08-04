@@ -1,7 +1,7 @@
 # 💻 JavaScript 热门项目 - 第 5 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-07-30 11:44
+> 最后更新：2026-08-04 11:47
 
 共收录 **1812** 个项目
 （第 5/19 页）
@@ -1290,7 +1290,7 @@ Simple, responsive, modern SVG Charts with zero dependencies
 
 **Topics**：diff, dom, dom-nexttick, vue, vue-router, vue-template, vuex
 
-**中文Topics**：差异, 多姆, dom-nexttic, vue, vue-路由器, vue 模板, 视图
+**中文Topics**：diff, dom, dom-nexttick, vue, vue-router, vue-template, vuex
 
 
 ---

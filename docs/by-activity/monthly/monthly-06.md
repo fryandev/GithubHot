@@ -1,217 +1,15 @@
 # 📆 最近90天活跃 - 第 6 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-30 11:44
+> 最后更新：2026-08-04 11:47
 
-共收录 **7059** 个项目
-（第 6/71 页）
+共收录 **6909** 个项目
+（第 6/70 页）
 
 ## 项目列表
 
 
-### 501. umami-software/umami
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/umami-software/umami](https://github.com/umami-software/umami) |
-| ⭐ Stars | 37046 |
-| 🍴 Forks | 7241 |
-| 👀 Watchers | 37046 |
-| 📝 Open Issues | 131 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2020-07-17 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
-
-**中文简介**：
-Umami 是一个现代化的、注重隐私的分析平台。Google Analytics、Mixpanel 和 Amplitude 的开源替代方案。
-
-
-**Topics**：analytics, audience-segmentation, charts, cohort-analysis, google-analytics, product-analytics, statistics, user-journey, web-analytics
-
-**中文Topics**：analytics, audience-segmentation, charts, cohort-analysis, google-analytics, product-analytics, statistics, user-journey, web-analytics
-
-
----
-
-### 502. k88hudson/git-flight-rules
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) |
-| ⭐ Stars | 42465 |
-| 🍴 Forks | 3175 |
-| 👀 Watchers | 42465 |
-| 📝 Open Issues | 14 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2014-07-22 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | CC-BY-SA-4.0 |
-
-**简介**：
-Flight rules for git
-
-**中文简介**：
-Git 飞行规则（应急操作指南）。
-
-
-**Topics**：-
-
-
-
----
-
-### 503. ChromeDevTools/chrome-devtools-mcp
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
-| ⭐ Stars | 42963 |
-| 🍴 Forks | 2756 |
-| 👀 Watchers | 42963 |
-| 📝 Open Issues | 89 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-09-11 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Chrome DevTools for coding agents
-
-**中文简介**：
-面向编码智能体的 Chrome 开发者工具。
-
-
-**Topics**：browser, chrome, chrome-devtools, debugging, devtools, mcp, mcp-server, puppeteer
-
-**中文Topics**：browser, chrome, chrome-devtools, 调试, devtools, mcp, mcp-server, puppeteer
-
-
----
-
-### 504. XTLS/Xray-core
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/XTLS/Xray-core](https://github.com/XTLS/Xray-core) |
-| ⭐ Stars | 39280 |
-| 🍴 Forks | 5470 |
-| 👀 Watchers | 39280 |
-| 📝 Open Issues | 55 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2020-11-09 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MPL-2.0 |
-
-**简介**：
-Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-
-**中文简介**：
-Xray，穿透一切。也是最好的v2ray-core。魔法发生的地方。一个面向多种用途的开放平台
-
-
-**Topics**：anticensorship, dns, network, proxy, reality, shadowsocks, socks5, tls, trojan, tunnel, utls, vision, vless, vmess, vpn, wireguard, xhttp, xray, xtls, xudp
-
-**中文Topics**：反审查, dns, 网络, 代理, reality, shadowsocks, socks5, tls, trojan, 隧道, utls, vision, vless, vmess, vpn, wireguard, xhttp, xray, xtls, xudp
-
-
----
-
-### 505. zxing/zxing
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/zxing/zxing](https://github.com/zxing/zxing) |
-| ⭐ Stars | 33968 |
-| 🍴 Forks | 9433 |
-| 👀 Watchers | 33968 |
-| 📝 Open Issues | 7 |
-| 💻 主语言 | Java |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2011-10-12 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-ZXing ("Zebra Crossing") barcode scanning library for Java, Android
-
-**中文简介**：
-ZXing（"Zebra Crossing"）Java 和 Android 条码扫描库
-
-
-**Topics**：android, barcode, barcode-scanner, datamatrix, java, qr-code, upc, zxing
-
-**中文Topics**：android, 条码, barcode-scanner, datamatrix, java, 二维码, upc, zxing
-
-
----
-
-### 506. dcloudio/uni-app
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/dcloudio/uni-app](https://github.com/dcloudio/uni-app) |
-| ⭐ Stars | 41536 |
-| 🍴 Forks | 3710 |
-| 👀 Watchers | 41536 |
-| 📝 Open Issues | 692 |
-| 💻 主语言 | Objective-C |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2018-07-12 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-A cross-platform framework using Vue.js
-
-**中文简介**：
-基于Vue.js的跨端应用框架
-
-
-**Topics**：android, cross-platform, crossplatform, hbuilderx, ios, javascript, miniprogram, uni, uni-app, uniapp, vue, vue3
-
-**中文Topics**：android, 跨平台, 跨平台, hbuilderx, ios, javascript, 小程序, uni, uni-app, uniapp, vue, vue3
-
-
----
-
-### 507. appsmithorg/appsmith
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) |
-| ⭐ Stars | 39984 |
-| 🍴 Forks | 4591 |
-| 👀 Watchers | 39984 |
-| 📝 Open Issues | 4460 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2020-06-30 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-
-**中文简介**：
-构建管理后台、内部工具和仪表盘的低代码平台。集成25+数据库和任意API
-
-
-**Topics**：admin-dashboard, admin-panels, app-builder, automation, crud, custom-internal, developer-tools, gui, gui-application, hacktoberfest, internal-tools, java, javascript, low-code, low-code-framework, react, self-hosted, typescript, webdevelopment, workflows
-
-**中文Topics**：管理后台, 管理面板, 应用构建器, 自动化, crud, custom-internal, 开发者工具, gui, gui应用, hacktoberfest, 内部工具, java, javascript, 低代码, 低代码框架, react, 自托管, typescript, web开发, 工作流
-
-
----
-
-### 508. nwjs/nw.js
+### 501. nwjs/nw.js
 
 | 属性 | 信息 |
 |---|---|
@@ -240,7 +38,7 @@ Call all Node.js modules directly from DOM/WebWorker and enable a new way of wri
 
 ---
 
-### 509. aria2/aria2
+### 502. aria2/aria2
 
 | 属性 | 信息 |
 |---|---|
@@ -269,7 +67,7 @@ aria2是一款轻量级多协议、多来源、跨平台命令行下载工具，
 
 ---
 
-### 510. moeru-ai/airi
+### 503. moeru-ai/airi
 
 | 属性 | 信息 |
 |---|---|
@@ -298,7 +96,7 @@ aria2是一款轻量级多协议、多来源、跨平台命令行下载工具，
 
 ---
 
-### 511. keycloak/keycloak
+### 504. keycloak/keycloak
 
 | 属性 | 信息 |
 |---|---|
@@ -327,7 +125,7 @@ Open Source Identity and Access Management For Modern Applications and Services
 
 ---
 
-### 512. dotnet/AspNetCore.Docs
+### 505. dotnet/AspNetCore.Docs
 
 | 属性 | 信息 |
 |---|---|
@@ -355,7 +153,7 @@ ASP.NET Core 文档
 
 ---
 
-### 513. sahat/hackathon-starter
+### 506. sahat/hackathon-starter
 
 | 属性 | 信息 |
 |---|---|
@@ -384,7 +182,7 @@ Node.js Web 应用的样板项目
 
 ---
 
-### 514. facebookresearch/faiss
+### 507. facebookresearch/faiss
 
 | 属性 | 信息 |
 |---|---|
@@ -412,7 +210,7 @@ A library for efficient similarity search and clustering of dense vectors.
 
 ---
 
-### 515. mingrammer/diagrams
+### 508. mingrammer/diagrams
 
 | 属性 | 信息 |
 |---|---|
@@ -441,7 +239,7 @@ A library for efficient similarity search and clustering of dense vectors.
 
 ---
 
-### 516. sqlmapproject/sqlmap
+### 509. sqlmapproject/sqlmap
 
 | 属性 | 信息 |
 |---|---|
@@ -470,7 +268,7 @@ Automatic SQL injection and database takeover tool
 
 ---
 
-### 517. CorentinTh/it-tools
+### 510. CorentinTh/it-tools
 
 | 属性 | 信息 |
 |---|---|
@@ -499,7 +297,7 @@ Collection of handy online tools for developers, with great UX.
 
 ---
 
-### 518. chatboxai/chatbox
+### 511. chatboxai/chatbox
 
 | 属性 | 信息 |
 |---|---|
@@ -528,7 +326,7 @@ Powerful AI Client
 
 ---
 
-### 519. SeleniumHQ/selenium
+### 512. SeleniumHQ/selenium
 
 | 属性 | 信息 |
 |---|---|
@@ -557,7 +355,7 @@ A browser automation framework and ecosystem.
 
 ---
 
-### 520. remoteintech/remote-jobs
+### 513. remoteintech/remote-jobs
 
 | 属性 | 信息 |
 |---|---|
@@ -586,7 +384,7 @@ remoteintech.company的数据来源——一个社区维护的远程友好型科
 
 ---
 
-### 521. paperless-ngx/paperless-ngx
+### 514. paperless-ngx/paperless-ngx
 
 | 属性 | 信息 |
 |---|---|
@@ -615,7 +413,7 @@ A community-supported supercharged document management system: scan, index and a
 
 ---
 
-### 522. xuxueli/xxl-job
+### 515. xuxueli/xxl-job
 
 | 属性 | 信息 |
 |---|---|
@@ -643,7 +441,7 @@ A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 
 ---
 
-### 523. colinhacks/zod
+### 516. colinhacks/zod
 
 | 属性 | 信息 |
 |---|---|
@@ -672,7 +470,7 @@ TypeScript-first schema validation with static type inference
 
 ---
 
-### 524. openssl/openssl
+### 517. openssl/openssl
 
 | 属性 | 信息 |
 |---|---|
@@ -700,7 +498,7 @@ General purpose TLS and crypto library
 
 ---
 
-### 525. docker/compose
+### 518. docker/compose
 
 | 属性 | 信息 |
 |---|---|
@@ -729,7 +527,7 @@ Define and run multi-container applications with Docker
 
 ---
 
-### 526. go-gorm/gorm
+### 519. go-gorm/gorm
 
 | 属性 | 信息 |
 |---|---|
@@ -758,7 +556,7 @@ Golang出色的ORM库，以开发者友好为目标
 
 ---
 
-### 527. typeorm/typeorm
+### 520. typeorm/typeorm
 
 | 属性 | 信息 |
 |---|---|
@@ -787,7 +585,7 @@ TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB,
 
 ---
 
-### 528. yarnpkg/yarn
+### 521. yarnpkg/yarn
 
 | 属性 | 信息 |
 |---|---|
@@ -816,7 +614,7 @@ The 1.x line is frozen - features and bugfixes now happen on https://github.com/
 
 ---
 
-### 529. psf/black
+### 522. psf/black
 
 | 属性 | 信息 |
 |---|---|
@@ -845,7 +643,7 @@ The uncompromising Python code formatter
 
 ---
 
-### 530. chakra-ui/chakra-ui
+### 523. chakra-ui/chakra-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -874,7 +672,7 @@ Chakra UI是一个用于快速构建SaaS产品的组件系统 ⚡️
 
 ---
 
-### 531. microsoft/Data-Science-For-Beginners
+### 524. microsoft/Data-Science-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -903,7 +701,7 @@ Chakra UI是一个用于快速构建SaaS产品的组件系统 ⚡️
 
 ---
 
-### 532. facebookresearch/detectron2
+### 525. facebookresearch/detectron2
 
 | 属性 | 信息 |
 |---|---|
@@ -931,7 +729,7 @@ Detectron2 是一个用于目标检测、分割和其他视觉识别任务的平
 
 ---
 
-### 533. jaywcjlove/linux-command
+### 526. jaywcjlove/linux-command
 
 | 属性 | 信息 |
 |---|---|
@@ -960,7 +758,7 @@ Linux 命令大全搜索工具，内容包含 Linux 命令手册、详解、学�
 
 ---
 
-### 534. chen08209/FlClash
+### 527. chen08209/FlClash
 
 | 属性 | 信息 |
 |---|---|
@@ -989,7 +787,7 @@ A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so
 
 ---
 
-### 535. roboflow/supervision
+### 528. roboflow/supervision
 
 | 属性 | 信息 |
 |---|---|
@@ -1018,7 +816,7 @@ We write your reusable computer vision tools. 💜
 
 ---
 
-### 536. binarywang/WxJava
+### 529. binarywang/WxJava
 
 | 属性 | 信息 |
 |---|---|
@@ -1047,7 +845,7 @@ We write your reusable computer vision tools. 💜
 
 ---
 
-### 537. ToolJet/ToolJet
+### 530. ToolJet/ToolJet
 
 | 属性 | 信息 |
 |---|---|
@@ -1076,7 +874,7 @@ ToolJet 是 ToolJet AI 的开源基础——一个企业级应用生成平台，
 
 ---
 
-### 538. novuhq/novu
+### 531. novuhq/novu
 
 | 属性 | 信息 |
 |---|---|
@@ -1105,7 +903,7 @@ The open-source communication infrastructure for agents and products
 
 ---
 
-### 539. sharkdp/fd
+### 532. sharkdp/fd
 
 | 属性 | 信息 |
 |---|---|
@@ -1134,7 +932,7 @@ A simple, fast and user-friendly alternative to 'find'
 
 ---
 
-### 540. zen-browser/desktop
+### 533. zen-browser/desktop
 
 | 属性 | 信息 |
 |---|---|
@@ -1163,7 +961,7 @@ Welcome to a calmer internet
 
 ---
 
-### 541. apache/flink
+### 534. apache/flink
 
 | 属性 | 信息 |
 |---|---|
@@ -1191,7 +989,7 @@ Apache Flink
 
 ---
 
-### 542. charmbracelet/bubbletea
+### 535. charmbracelet/bubbletea
 
 | 属性 | 信息 |
 |---|---|
@@ -1220,7 +1018,7 @@ A powerful little TUI framework 🏗
 
 ---
 
-### 543. qbittorrent/qBittorrent
+### 536. qbittorrent/qBittorrent
 
 | 属性 | 信息 |
 |---|---|
@@ -1249,7 +1047,7 @@ qBittorrent BitTorrent 客户端
 
 ---
 
-### 544. PatrickJS/awesome-cursorrules
+### 537. PatrickJS/awesome-cursorrules
 
 | 属性 | 信息 |
 |---|---|
@@ -1278,7 +1076,7 @@ qBittorrent BitTorrent 客户端
 
 ---
 
-### 545. styled-components/styled-components
+### 538. styled-components/styled-components
 
 | 属性 | 信息 |
 |---|---|
@@ -1307,7 +1105,7 @@ React快速、表现力强的样式方案。服务端组件、客户端组件、
 
 ---
 
-### 546. router-for-me/CLIProxyAPI
+### 539. router-for-me/CLIProxyAPI
 
 | 属性 | 信息 |
 |---|---|
@@ -1336,7 +1134,7 @@ Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenA
 
 ---
 
-### 547. vbenjs/vue-vben-admin
+### 540. vbenjs/vue-vben-admin
 
 | 属性 | 信息 |
 |---|---|
@@ -1365,7 +1163,7 @@ A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monor
 
 ---
 
-### 548. symfony/symfony
+### 541. symfony/symfony
 
 | 属性 | 信息 |
 |---|---|
@@ -1393,7 +1191,7 @@ Symfony PHP 框架
 
 ---
 
-### 549. NervJS/taro
+### 542. NervJS/taro
 
 | 属性 | 信息 |
 |---|---|
@@ -1422,7 +1220,7 @@ Symfony PHP 框架
 
 ---
 
-### 550. XX-net/XX-Net
+### 543. XX-net/XX-Net
 
 | 属性 | 信息 |
 |---|---|
@@ -1451,7 +1249,7 @@ A proxy tool to bypass GFW.
 
 ---
 
-### 551. openwrt/openwrt
+### 544. openwrt/openwrt
 
 | 属性 | 信息 |
 |---|---|
@@ -1480,7 +1278,7 @@ This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is
 
 ---
 
-### 552. amruthpillai/reactive-resume
+### 545. amruthpillai/reactive-resume
 
 | 属性 | 信息 |
 |---|---|
@@ -1509,7 +1307,7 @@ A one-of-a-kind resume builder that keeps your privacy in mind. Completely secur
 
 ---
 
-### 553. huggingface/pytorch-image-models
+### 546. huggingface/pytorch-image-models
 
 | 属性 | 信息 |
 |---|---|
@@ -1538,7 +1336,7 @@ The largest collection of PyTorch image encoders / backbones. Including train, e
 
 ---
 
-### 554. MarlinFirmware/Marlin
+### 547. MarlinFirmware/Marlin
 
 | 属性 | 信息 |
 |---|---|
@@ -1566,7 +1364,7 @@ Marlin 是针对 RepRap 3D 打印机的固件，针对 8 位和 32 位微控制�
 
 ---
 
-### 555. mifi/lossless-cut
+### 548. mifi/lossless-cut
 
 | 属性 | 信息 |
 |---|---|
@@ -1595,7 +1393,7 @@ The swiss army knife of lossless video/audio editing
 
 ---
 
-### 556. OpenZeppelin/openzeppelin-contracts
+### 549. OpenZeppelin/openzeppelin-contracts
 
 | 属性 | 信息 |
 |---|---|
@@ -1623,7 +1421,7 @@ OpenZeppelin Contracts 是一个用于安全智能合约开发的库。
 
 ---
 
-### 557. google-ai-edge/mediapipe
+### 550. google-ai-edge/mediapipe
 
 | 属性 | 信息 |
 |---|---|
@@ -1652,7 +1450,7 @@ Cross-platform, customizable ML solutions for live and streaming media.
 
 ---
 
-### 558. TeamNewPipe/NewPipe
+### 551. TeamNewPipe/NewPipe
 
 | 属性 | 信息 |
 |---|---|
@@ -1681,7 +1479,7 @@ Android自由轻量级流媒体前端
 
 ---
 
-### 559. patchy631/ai-engineering-hub
+### 552. patchy631/ai-engineering-hub
 
 | 属性 | 信息 |
 |---|---|
@@ -1710,7 +1508,7 @@ In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ---
 
-### 560. backstage/backstage
+### 553. backstage/backstage
 
 | 属性 | 信息 |
 |---|---|
@@ -1739,7 +1537,7 @@ Backstage 是一个用于构建开发者门户的开放框架
 
 ---
 
-### 561. apolloconfig/apollo
+### 554. apolloconfig/apollo
 
 | 属性 | 信息 |
 |---|---|
@@ -1767,7 +1565,7 @@ Apollo是一个可靠的配置管理系统，适用于微服务配置管理场�
 
 ---
 
-### 562. GoogleChrome/lighthouse
+### 555. GoogleChrome/lighthouse
 
 | 属性 | 信息 |
 |---|---|
@@ -1795,7 +1593,7 @@ Automated auditing, performance metrics, and best practices for the web.
 
 ---
 
-### 563. bumptech/glide
+### 556. bumptech/glide
 
 | 属性 | 信息 |
 |---|---|
@@ -1823,7 +1621,7 @@ An image loading and caching library for Android focused on smooth scrolling
 
 ---
 
-### 564. saadeghi/daisyui
+### 557. saadeghi/daisyui
 
 | 属性 | 信息 |
 |---|---|
@@ -1852,7 +1650,7 @@ An image loading and caching library for Android focused on smooth scrolling
 
 ---
 
-### 565. ArduPilot/ardupilot
+### 558. ArduPilot/ardupilot
 
 | 属性 | 信息 |
 |---|---|
@@ -1880,7 +1678,7 @@ ArduPlane、ArduCopter、ArduRover、ArduSub 源
 
 ---
 
-### 566. OAI/OpenAPI-Specification
+### 559. OAI/OpenAPI-Specification
 
 | 属性 | 信息 |
 |---|---|
@@ -1908,7 +1706,7 @@ OpenAPI 规范存储库
 
 ---
 
-### 567. huggingface/diffusers
+### 560. huggingface/diffusers
 
 | 属性 | 信息 |
 |---|---|
@@ -1937,7 +1735,7 @@ OpenAPI 规范存储库
 
 ---
 
-### 568. outline/outline
+### 561. outline/outline
 
 | 属性 | 信息 |
 |---|---|
@@ -1966,7 +1764,7 @@ The fastest knowledge base for growing teams. Beautiful, realtime collaborative,
 
 ---
 
-### 569. huiyadanli/RevokeMsgPatcher
+### 562. huiyadanli/RevokeMsgPatcher
 
 | 属性 | 信息 |
 |---|---|
@@ -1995,7 +1793,7 @@ The fastest knowledge base for growing teams. Beautiful, realtime collaborative,
 
 ---
 
-### 570. duckdb/duckdb
+### 563. duckdb/duckdb
 
 | 属性 | 信息 |
 |---|---|
@@ -2024,7 +1822,7 @@ DuckDB是一款分析型进程内SQL数据库管理系统
 
 ---
 
-### 571. HKUDS/LightRAG
+### 564. HKUDS/LightRAG
 
 | 属性 | 信息 |
 |---|---|
@@ -2053,7 +1851,7 @@ DuckDB是一款分析型进程内SQL数据库管理系统
 
 ---
 
-### 572. ShareX/ShareX
+### 565. ShareX/ShareX
 
 | 属性 | 信息 |
 |---|---|
@@ -2082,7 +1880,7 @@ ShareX 是一款免费开源的应用程序，用户只需按一个键即可捕�
 
 ---
 
-### 573. DavidHDev/react-bits
+### 566. DavidHDev/react-bits
 
 | 属性 | 信息 |
 |---|---|
@@ -2111,7 +1909,7 @@ An open source collection of animated, interactive & fully customizable React co
 
 ---
 
-### 574. angular/angular-cli
+### 567. angular/angular-cli
 
 | 属性 | 信息 |
 |---|---|
@@ -2140,7 +1938,7 @@ Angular 的 CLI 工具
 
 ---
 
-### 575. photoprism/photoprism
+### 568. photoprism/photoprism
 
 | 属性 | 信息 |
 |---|---|
@@ -2169,7 +1967,7 @@ AI-Powered Photos App for the Decentralized Web 🌈💎✨
 
 ---
 
-### 576. ManimCommunity/manim
+### 569. ManimCommunity/manim
 
 | 属性 | 信息 |
 |---|---|
@@ -2198,7 +1996,7 @@ A community-maintained Python framework for creating mathematical animations.
 
 ---
 
-### 577. pola-rs/polars
+### 570. pola-rs/polars
 
 | 属性 | 信息 |
 |---|---|
@@ -2227,7 +2025,7 @@ Extremely fast Query Engine for DataFrames, written in Rust
 
 ---
 
-### 578. ageron/handson-ml
+### 571. ageron/handson-ml
 
 | 属性 | 信息 |
 |---|---|
@@ -2256,7 +2054,7 @@ Extremely fast Query Engine for DataFrames, written in Rust
 
 ---
 
-### 579. juanfont/headscale
+### 572. juanfont/headscale
 
 | 属性 | 信息 |
 |---|---|
@@ -2285,7 +2083,7 @@ Tailscale控制服务器的开源、自托管实现
 
 ---
 
-### 580. nushell/nushell
+### 573. nushell/nushell
 
 | 属性 | 信息 |
 |---|---|
@@ -2314,7 +2112,7 @@ A new type of shell
 
 ---
 
-### 581. nextcloud/server
+### 574. nextcloud/server
 
 | 属性 | 信息 |
 |---|---|
@@ -2343,7 +2141,7 @@ A new type of shell
 
 ---
 
-### 582. freeCodeCamp/devdocs
+### 575. freeCodeCamp/devdocs
 
 | 属性 | 信息 |
 |---|---|
@@ -2372,7 +2170,7 @@ API文档浏览器
 
 ---
 
-### 583. trpc/trpc
+### 576. trpc/trpc
 
 | 属性 | 信息 |
 |---|---|
@@ -2401,7 +2199,7 @@ API文档浏览器
 
 ---
 
-### 584. gofiber/fiber
+### 577. gofiber/fiber
 
 | 属性 | 信息 |
 |---|---|
@@ -2430,7 +2228,7 @@ API文档浏览器
 
 ---
 
-### 585. directus/directus
+### 578. directus/directus
 
 | 属性 | 信息 |
 |---|---|
@@ -2459,7 +2257,7 @@ The flexible backend for all your projects 🐰 Turn your DB into a headless CMS
 
 ---
 
-### 586. DrKLO/Telegram
+### 579. DrKLO/Telegram
 
 | 属性 | 信息 |
 |---|---|
@@ -2487,7 +2285,7 @@ Android 版 Telegram 源码
 
 ---
 
-### 587. koalaman/shellcheck
+### 580. koalaman/shellcheck
 
 | 属性 | 信息 |
 |---|---|
@@ -2516,7 +2314,7 @@ ShellCheck，一款shell脚本的静态分析工具
 
 ---
 
-### 588. hashicorp/vault
+### 581. hashicorp/vault
 
 | 属性 | 信息 |
 |---|---|
@@ -2545,7 +2343,7 @@ A tool for secrets management, encryption as a service, and privileged access ma
 
 ---
 
-### 589. servo/servo
+### 582. servo/servo
 
 | 属性 | 信息 |
 |---|---|
@@ -2574,7 +2372,7 @@ Servo 旨在为开发者提供一个轻量级、高性能的替代方案，用�
 
 ---
 
-### 590. chatanywhere/GPT_API_free
+### 583. chatanywhere/GPT_API_free
 
 | 属性 | 信息 |
 |---|---|
@@ -2603,7 +2401,7 @@ Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSee
 
 ---
 
-### 591. siddharthvaddem/openscreen
+### 584. siddharthvaddem/openscreen
 
 | 属性 | 信息 |
 |---|---|
@@ -2632,7 +2430,7 @@ Create stunning demos for free. Open-source, no subscriptions, no watermarks, an
 
 ---
 
-### 592. hexojs/hexo
+### 585. hexojs/hexo
 
 | 属性 | 信息 |
 |---|---|
@@ -2661,7 +2459,7 @@ A fast, simple & powerful blog framework, powered by Node.js.
 
 ---
 
-### 593. gkd-kit/gkd
+### 586. gkd-kit/gkd
 
 | 属性 | 信息 |
 |---|---|
@@ -2690,7 +2488,7 @@ A fast, simple & powerful blog framework, powered by Node.js.
 
 ---
 
-### 594. mdn/content
+### 587. mdn/content
 
 | 属性 | 信息 |
 |---|---|
@@ -2718,7 +2516,7 @@ MDN Web 文档内容的官方来源。包含超过 14,000 页有关 HTML、CSS�
 
 ---
 
-### 595. langchain-ai/langgraph
+### 588. langchain-ai/langgraph
 
 | 属性 | 信息 |
 |---|---|
@@ -2747,7 +2545,7 @@ Build resilient agents.
 
 ---
 
-### 596. wshobson/agents
+### 589. wshobson/agents
 
 | 属性 | 信息 |
 |---|---|
@@ -2776,7 +2574,7 @@ Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, Ope
 
 ---
 
-### 597. Kong/insomnia
+### 590. Kong/insomnia
 
 | 属性 | 信息 |
 |---|---|
@@ -2805,7 +2603,7 @@ The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE an
 
 ---
 
-### 598. markedjs/marked
+### 591. markedjs/marked
 
 | 属性 | 信息 |
 |---|---|
@@ -2834,7 +2632,7 @@ A markdown parser and compiler. Built for speed.
 
 ---
 
-### 599. pcottle/learnGitBranching
+### 592. pcottle/learnGitBranching
 
 | 属性 | 信息 |
 |---|---|
@@ -2862,7 +2660,7 @@ An interactive git visualization and tutorial. Aspiring students of git can use 
 
 ---
 
-### 600. trustwallet/assets
+### 593. trustwallet/assets
 
 | 属性 | 信息 |
 |---|---|
@@ -2885,6 +2683,206 @@ A comprehensive, up-to-date collection of information about several thousands (!
 
 
 **Topics**：-
+
+
+
+---
+
+### 594. portainer/portainer
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/portainer/portainer](https://github.com/portainer/portainer) |
+| ⭐ Stars | 37661 |
+| 🍴 Forks | 2831 |
+| 👀 Watchers | 37661 |
+| 📝 Open Issues | 749 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2016-05-19 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Zlib |
+
+**简介**：
+Making Docker and Kubernetes management easy.
+
+**中文简介**：
+让 Docker 和 Kubernetes 管理变得简单。
+
+
+**Topics**：docker, docker-compose, docker-container, docker-deployment, docker-image, docker-swarm, docker-ui, dockerfile, hacktoberfest, kubernetes, moby, portainer, ui
+
+**中文Topics**：docker, docker-compose, docker-container, docker-deployment, docker-image, docker-swarm, docker-ui, dockerfile, hacktoberfest, kubernetes, moby, portainer, ui
+
+
+---
+
+### 595. multica-ai/multica
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/multica-ai/multica](https://github.com/multica-ai/multica) |
+| ⭐ Stars | 35545 |
+| 🍴 Forks | 4324 |
+| 👀 Watchers | 35545 |
+| 📝 Open Issues | 886 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-01-13 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+
+**中文简介**：
+开源托管智能体平台。将编码智能体转变为真正的队友——分配任务、跟踪进度、积累技能。
+
+
+**Topics**：-
+
+
+
+---
+
+### 596. preactjs/preact
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/preactjs/preact](https://github.com/preactjs/preact) |
+| ⭐ Stars | 38676 |
+| 🍴 Forks | 2037 |
+| 👀 Watchers | 38676 |
+| 📝 Open Issues | 149 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2015-09-11 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+
+**中文简介**：
+⚛️ 体积仅3kB、具有相同现代API的React替代方案。组件与虚拟DOM
+
+
+**Topics**：components, dom, jsx, preact, react, vdom, virtual-dom
+
+**中文Topics**：组件, dom, jsx, preact, react, vdom, virtual-dom
+
+
+---
+
+### 597. drawdb-io/drawdb
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) |
+| ⭐ Stars | 37329 |
+| 🍴 Forks | 3027 |
+| 👀 Watchers | 37329 |
+| 📝 Open Issues | 220 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2023-07-16 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+Free, simple, and intuitive online database diagram editor and SQL generator.
+
+**中文简介**：
+免费、简单、直观的在线数据库图表编辑器和 SQL 生成器。
+
+
+**Topics**：database-schema, diagram-editor, editor, erd, erdiagram, indexeddb, javascript, mariadb, oracle-database, oracle-db, postgresql, react, sql, sql-server, sqlite, svg, tailwindcss
+
+**中文Topics**：database-schema, diagram-editor, editor, erd, erdiagram, indexeddb, javascript, mariadb, oracle-database, oracle-db, postgresql, react, sql, sql-server, sqlite, svg, tailwindcss
+
+
+---
+
+### 598. swagger-api/swagger-ui
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) |
+| ⭐ Stars | 28830 |
+| 🍴 Forks | 9270 |
+| 👀 Watchers | 28830 |
+| 📝 Open Issues | 1455 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2011-07-15 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+
+**中文简介**：
+Swagger UI 是 HTML、JavaScript 和 CSS 资源的集合，可从符合 Swagger 的 API 动态生成精美的文档。
+
+
+**Topics**：hacktoberfest, oas, open-source, openapi, openapi-specification, openapi3, openapi31, rest, rest-api, swagger, swagger-api, swagger-js, swagger-oss, swagger-ui
+
+
+
+---
+
+### 599. naptha/tesseract.js
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/naptha/tesseract.js](https://github.com/naptha/tesseract.js) |
+| ⭐ Stars | 38124 |
+| 🍴 Forks | 2364 |
+| 👀 Watchers | 38124 |
+| 📝 Open Issues | 45 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2015-06-24 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+
+**中文简介**：
+支持 100 多种语言的纯 JavaScript OCR 库 📖🎉🖥
+
+
+**Topics**：deep-learning, javascript, ocr, tesseract, webassembly
+
+**中文Topics**：deep-learning, javascript, ocr, tesseract, webassembly
+
+
+---
+
+### 600. nginx/nginx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/nginx/nginx](https://github.com/nginx/nginx) |
+| ⭐ Stars | 30614 |
+| 🍴 Forks | 7954 |
+| 👀 Watchers | 30614 |
+| 📝 Open Issues | 404 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2015-06-23 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-2-Clause |
+
+**简介**：
+The official NGINX Open Source repository.
+
+**中文简介**：
+官方 NGINX 开源存储库。
+
+
+**Topics**：content-cache, http, http2, http3, https, load-balancer, mail-proxy-server, nginx, quic, reverse-proxy, security, tcp-proxy-server, tls, udp-proxy-server, web-server
 
 
 

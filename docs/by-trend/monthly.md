@@ -1,7 +1,7 @@
 # 📉 月飙升榜
 
 > 📉 月飙升榜 项目列表
-> 最后更新：2026-07-30 11:44
+> 最后更新：2026-08-04 11:47
 
 共收录 **30** 个项目
 
@@ -38,31 +38,30 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ---
 
-### 2. DeusData/codebase-memory-mcp
+### 2. stablyai/orca
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
-| ⭐ Stars | 10015 |
-| 🍴 Forks | 758 |
-| 👀 Watchers | 10015 |
-| 📝 Open Issues | 136 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-02-24 |
-| 🔄 最后更新 | 2026-06-21 |
+| 链接 | [https://github.com/stablyai/orca](https://github.com/stablyai/orca) |
+| ⭐ Stars | 4290 |
+| 🍴 Forks | 280 |
+| 👀 Watchers | 4290 |
+| 📝 Open Issues | 290 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-17 |
+| 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 
 **中文简介**：
-高性能代码智能MCP服务器。可将代码库索引到持久化的知识图谱中——平均处理时间仅为几毫秒。支持158种语言，查询响应时间在亚毫秒级，所需token数量减少99%。单个静态二进制文件，无任何依赖项。
+Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
 
 
-**Topics**：aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf
+**Topics**：ade, claude-code, cli, codex, cursor-agent, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees
 
-**中文Topics**：辅助工具, AST解析器, Claude代码编辑器, 代码分析工具, 代码智能分析工具, codex, cursor, 密码加密工具, 开发者工具集, Gemini命令行工具, 图形可视化工具, Kilocode工具, 知识图谱, mcp, MCP服务器, 模型上下文协议, OpenCode工具, SQLite数据库, Tree-Sitter解析器, Windsurf工具
 
 
 ---
@@ -95,88 +94,88 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ---
 
-### 4. stablyai/orca
+### 4. DeusData/codebase-memory-mcp
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/stablyai/orca](https://github.com/stablyai/orca) |
-| ⭐ Stars | 4290 |
-| 🍴 Forks | 280 |
-| 👀 Watchers | 4290 |
-| 📝 Open Issues | 290 |
+| 链接 | [https://github.com/DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) |
+| ⭐ Stars | 10015 |
+| 🍴 Forks | 758 |
+| 👀 Watchers | 10015 |
+| 📝 Open Issues | 136 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-06-21 |
+| 📜 License | MIT |
+
+**简介**：
+High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+
+**中文简介**：
+高性能代码智能MCP服务器。可将代码库索引到持久化的知识图谱中——平均处理时间仅为几毫秒。支持158种语言，查询响应时间在亚毫秒级，所需token数量减少99%。单个静态二进制文件，无任何依赖项。
+
+
+**Topics**：aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf
+
+**中文Topics**：辅助工具, AST解析器, Claude代码编辑器, 代码分析工具, 代码智能分析工具, codex, cursor, 密码加密工具, 开发者工具集, Gemini命令行工具, 图形可视化工具, Kilocode工具, 知识图谱, mcp, MCP服务器, 模型上下文协议, OpenCode工具, SQLite数据库, Tree-Sitter解析器, Windsurf工具
+
+
+---
+
+### 5. diegosouzapw/OmniRoute
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) |
+| ⭐ Stars | 5795 |
+| 🍴 Forks | 1001 |
+| 👀 Watchers | 5795 |
+| 📝 Open Issues | 35 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-17 |
+| 📅 创建时间 | 2026-02-13 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 
 **中文简介**：
-Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
+永远不要停止编码。免费 AI 网关：一个端点，160 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。
 
 
-**Topics**：ade, claude-code, cli, codex, cursor-agent, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees
+**Topics**：a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver
 
 
 
 ---
 
-### 5. chopratejas/headroom
+### 6. safishamsi/graphify
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/chopratejas/headroom](https://github.com/chopratejas/headroom) |
-| ⭐ Stars | 15326 |
-| 🍴 Forks | 972 |
-| 👀 Watchers | 15326 |
-| 📝 Open Issues | 240 |
+| 链接 | [https://github.com/safishamsi/graphify](https://github.com/safishamsi/graphify) |
+| ⭐ Stars | 60257 |
+| 🍴 Forks | 6254 |
+| 👀 Watchers | 60257 |
+| 📝 Open Issues | 295 |
 | 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-01-07 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-
-**中文简介**：
-在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。
-
-
-**Topics**：agent, ai, anthropic, claude-code, compression, context-engineering, context-window, cursor, fastapi, langchain, llm, mcp, openai, prompt-engineering, proxy, python, rag, token-optimization, tokens, typescript
-
-**中文Topics**：代理人, ai, anthropic, 克劳德代码, 压缩, 情境工程, 上下文窗口, cursor, 快速API, 朗查恩, llm, mcp, openai, 即时工程, 代理人, python, rag, 代币优化, 代币, typescript
-
-
----
-
-### 6. Leonxlnx/taste-skill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
-| ⭐ Stars | 34800 |
-| 🍴 Forks | 2558 |
-| 👀 Watchers | 34800 |
-| 📝 Open Issues | 26 |
-| 💻 主语言 | Shell |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-19 |
+| 📅 创建时间 | 2026-04-03 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
 **中文简介**：
-Taste-Skill - 让你的 AI 拥有好品味。阻止 AI 生成无聊、千篇一律的内容
+AI 编程助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任意代码文件夹、SQL 模式、R 脚本、shell 脚本、文档、论文、图像或视频转换为可查询的知识图谱。应用代码 + 数据库模式 + 基础设施，一张图谱全搞定。
 
 
-**Topics**：agent, ai, claude, claude-code, codex, coding, design, frontend, lowcode, nocode, skill, skills, vibecoding
+**Topics**：antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter
 
-**中文Topics**：agent, ai, claude, claude-code, codex, coding, 设计, 前端, lowcode, nocode, skill, skills, vibecoding
+**中文Topics**：antigravity, claude-code, codex, gemini, graphrag, 知识图谱, leiden, openclaw, rag, 技能, tree-sitter
 
 
 ---
@@ -210,86 +209,86 @@ The open-source CapCut alternative
 
 ---
 
-### 8. safishamsi/graphify
+### 8. Leonxlnx/taste-skill
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/safishamsi/graphify](https://github.com/safishamsi/graphify) |
-| ⭐ Stars | 60257 |
-| 🍴 Forks | 6254 |
-| 👀 Watchers | 60257 |
-| 📝 Open Issues | 295 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
+| ⭐ Stars | 34800 |
+| 🍴 Forks | 2558 |
+| 👀 Watchers | 34800 |
+| 📝 Open Issues | 26 |
+| 💻 主语言 | Shell |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-04-03 |
+| 📅 创建时间 | 2026-02-19 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
 **中文简介**：
-AI 编程助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任意代码文件夹、SQL 模式、R 脚本、shell 脚本、文档、论文、图像或视频转换为可查询的知识图谱。应用代码 + 数据库模式 + 基础设施，一张图谱全搞定。
+Taste-Skill - 让你的 AI 拥有好品味。阻止 AI 生成无聊、千篇一律的内容
 
 
-**Topics**：antigravity, claude-code, codex, gemini, graphrag, knowledge-graph, leiden, openclaw, rag, skills, tree-sitter
+**Topics**：agent, ai, claude, claude-code, codex, coding, design, frontend, lowcode, nocode, skill, skills, vibecoding
 
-**中文Topics**：antigravity, claude-code, codex, gemini, graphrag, 知识图谱, leiden, openclaw, rag, 技能, tree-sitter
+**中文Topics**：agent, ai, claude, claude-code, codex, coding, 设计, 前端, lowcode, nocode, skill, skills, vibecoding
 
 
 ---
 
-### 9. diegosouzapw/OmniRoute
+### 9. Nutlope/hallmark
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) |
-| ⭐ Stars | 5795 |
-| 🍴 Forks | 1001 |
-| 👀 Watchers | 5795 |
-| 📝 Open Issues | 35 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-02-13 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-
-**中文简介**：
-永远不要停止编码。免费 AI 网关：一个端点，160 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。
-
-
-**Topics**：a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver
-
-
-
----
-
-### 10. baidu/Unlimited-OCR
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) |
-| ⭐ Stars | 12326 |
-| 🍴 Forks | 968 |
-| 👀 Watchers | 12326 |
-| 📝 Open Issues | 44 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
+| ⭐ Stars | 10969 |
+| 🍴 Forks | 543 |
+| 👀 Watchers | 10969 |
+| 📝 Open Issues | 20 |
+| 💻 主语言 | CSS |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-18 |
-| 🔄 最后更新 | 2026-06-30 |
+| 📅 创建时间 | 2026-04-27 |
+| 🔄 最后更新 | 2026-07-17 |
 | 📜 License | MIT |
 
 **简介**：
-Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 **中文简介**：
-无限OCR功能：迎接一次性长文本解析时代。
+Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 
 **Topics**：-
+
+
+
+---
+
+### 10. ogulcancelik/herdr
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) |
+| ⭐ Stars | 4707 |
+| 🍴 Forks | 283 |
+| 👀 Watchers | 4707 |
+| 📝 Open Issues | 22 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-27 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+agent multiplexer that lives in your terminal.
+
+**中文简介**：
+位于您终端中的代理多路复用器。
+
+
+**Topics**：agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager
 
 
 
@@ -323,83 +322,26 @@ Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 ---
 
-### 12. ogulcancelik/herdr
+### 12. baidu/Unlimited-OCR
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) |
-| ⭐ Stars | 4707 |
-| 🍴 Forks | 283 |
-| 👀 Watchers | 4707 |
-| 📝 Open Issues | 22 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-27 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-agent multiplexer that lives in your terminal.
-
-**中文简介**：
-位于您终端中的代理多路复用器。
-
-
-**Topics**：agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager
-
-
-
----
-
-### 13. addyosmani/agent-skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
-| ⭐ Stars | 48558 |
-| 🍴 Forks | 5394 |
-| 👀 Watchers | 48558 |
-| 📝 Open Issues | 97 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Production-grade engineering skills for AI coding agents.
-
-**中文简介**：
-面向AI编码代理的生产级工程技能。
-
-
-**Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
-
-**中文Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, 技能
-
-
----
-
-### 14. Nutlope/hallmark
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
-| ⭐ Stars | 10969 |
-| 🍴 Forks | 543 |
-| 👀 Watchers | 10969 |
-| 📝 Open Issues | 20 |
-| 💻 主语言 | CSS |
+| 链接 | [https://github.com/baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) |
+| ⭐ Stars | 12326 |
+| 🍴 Forks | 968 |
+| 👀 Watchers | 12326 |
+| 📝 Open Issues | 44 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-27 |
-| 🔄 最后更新 | 2026-07-17 |
+| 📅 创建时间 | 2026-06-18 |
+| 🔄 最后更新 | 2026-06-30 |
 | 📜 License | MIT |
 
 **简介**：
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 **中文简介**：
-Claude Code、Cursor、Codex 的防 AI 设计技巧。
+无限OCR功能：迎接一次性长文本解析时代。
 
 
 **Topics**：-
@@ -408,35 +350,7 @@ Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 ---
 
-### 15. JCodesMore/ai-website-cloner-template
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) |
-| ⭐ Stars | 16425 |
-| 🍴 Forks | 2516 |
-| 👀 Watchers | 16425 |
-| 📝 Open Issues | 10 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-13 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Clone any website with one command using AI coding agents
-
-**中文简介**：
-使用 AI 编码代理通过一个命令克隆任何网站
-
-
-**Topics**：ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
-
-
-
----
-
-### 16. iOfficeAI/OfficeCLI
+### 13. iOfficeAI/OfficeCLI
 
 | 属性 | 信息 |
 |---|---|
@@ -464,36 +378,62 @@ OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，�
 
 ---
 
-### 17. JuliusBrussee/caveman
+### 14. chopratejas/headroom
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) |
-| ⭐ Stars | 69421 |
-| 🍴 Forks | 3910 |
-| 👀 Watchers | 69421 |
-| 📝 Open Issues | 274 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-04-04 |
+| 链接 | [https://github.com/chopratejas/headroom](https://github.com/chopratejas/headroom) |
+| ⭐ Stars | 15326 |
+| 🍴 Forks | 972 |
+| 👀 Watchers | 15326 |
+| 📝 Open Issues | 240 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-01-07 |
 | 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 
 **中文简介**：
-🪨 为什么用很多 token 当少量 token 就能搞定——Claude Code 技能，通过像穴居人一样说话来削减 65% 的 token
+在工具输出、日志、文件和 RAG 块到达 LLM 之前对其进行压缩。减少 60-95% 的标记，答案相同。库、代理、MCP 服务器。
 
 
-**Topics**：ai, anthropic, caveman, claude, claude-code, llm, meme, prompt-engineering, skill, tokens
+**Topics**：agent, ai, anthropic, claude-code, compression, context-engineering, context-window, cursor, fastapi, langchain, llm, mcp, openai, prompt-engineering, proxy, python, rag, token-optimization, tokens, typescript
 
-**中文Topics**：ai, anthropic, caveman, claude, claude-code, llm, meme, prompt-engineering, skill, tokens
+**中文Topics**：代理人, ai, anthropic, 克劳德代码, 压缩, 情境工程, 上下文窗口, cursor, 快速API, 朗查恩, llm, mcp, openai, 即时工程, 代理人, python, rag, 代币优化, 代币, typescript
 
 
 ---
 
-### 18. xbtlin/ai-berkshire
+### 15. bojieli/ai-agent-book
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
+| ⭐ Stars | 22271 |
+| 🍴 Forks | 2233 |
+| 👀 Watchers | 22271 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-09-09 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+
+
+**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+
+
+
+---
+
+### 16. xbtlin/ai-berkshire
 
 | 属性 | 信息 |
 |---|---|
@@ -522,36 +462,64 @@ AI时代的伯克希尔：基于Claude Code/Codex的价值投资研究框架。�
 
 ---
 
-### 19. Lum1104/Understand-Anything
+### 17. addyosmani/agent-skills
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) |
-| ⭐ Stars | 53301 |
-| 🍴 Forks | 4376 |
-| 👀 Watchers | 53301 |
-| 📝 Open Issues | 179 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
+| ⭐ Stars | 48558 |
+| 🍴 Forks | 5394 |
+| 👀 Watchers | 48558 |
+| 📝 Open Issues | 97 |
+| 💻 主语言 | Shell |
 | 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-03-15 |
+| 📅 创建时间 | 2026-02-15 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+Production-grade engineering skills for AI coding agents.
 
 **中文简介**：
-教学型图谱优于 impress 型图谱。将任意代码转换为可交互的知识图谱，您可以探索、搜索和提问。兼容Claude Code、Codex、Cursor、Copilot、Gemini CLI等。
+面向AI编码代理的生产级工程技能。
 
 
-**Topics**：antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding
+**Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, skills
 
-**中文Topics**：antigravity-skills, 业务知识, claude-code, claude-skills, 代码库分析, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, 知识库, 知识图谱, memory, opencode-skills, pi-agent, understandcode, vibe-coding
+**中文Topics**：agent-skills, antigravity, antigravity-ide, claude-code, cursor, 技能
 
 
 ---
 
-### 20. ruvnet/RuView
+### 18. Zackriya-Solutions/meetily
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) |
+| ⭐ Stars | 12553 |
+| 🍴 Forks | 1304 |
+| 👀 Watchers | 12553 |
+| 📝 Open Issues | 208 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2024-12-26 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  
+
+**中文简介**：
+隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。
+
+
+**Topics**：ai, ai-meeting-assistant, llm, local-ai, mac, meeting-minutes, meeting-notes, offline-first, ollama, parakeet, privacy-focused, privacy-tools, rust, self-hosted, sortformer, speech-to-text, transcription, whisper, whisper-cpp, windows
+
+
+
+---
+
+### 19. ruvnet/RuView
 
 | 属性 | 信息 |
 |---|---|
@@ -580,30 +548,59 @@ Graphs that teach > graphs that impress. Turn any code into an interactive knowl
 
 ---
 
-### 21. Zackriya-Solutions/meetily
+### 20. pbakaus/impeccable
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) |
-| ⭐ Stars | 12553 |
-| 🍴 Forks | 1304 |
-| 👀 Watchers | 12553 |
-| 📝 Open Issues | 208 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2024-12-26 |
+| 链接 | [https://github.com/pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
+| ⭐ Stars | 35029 |
+| 🍴 Forks | 1900 |
+| 👀 Watchers | 35029 |
+| 📝 Open Issues | 29 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2025-11-16 |
 | 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  
+The design language that makes your AI harness better at design.
 
 **中文简介**：
-隐私第一，AI 会议助手具有 4 倍快的 Parakeet/Whisper 实时转录、发言者分类和基于 Rust 构建的 Ollama 摘要。 100%本地加工。无需云。 Meetily（Meetly Ai - https://meetily.ai）是适用于 macOS 和 Windows 的排名第一的自托管开源人工智能会议记录工具。
+让你的 AI 在设计方面更出色的设计语言。
 
 
-**Topics**：ai, ai-meeting-assistant, llm, local-ai, mac, meeting-minutes, meeting-notes, offline-first, ollama, parakeet, privacy-focused, privacy-tools, rust, self-hosted, sortformer, speech-to-text, transcription, whisper, whisper-cpp, windows
+**Topics**：-
 
+
+
+---
+
+### 21. hasaneyldrm/exercises-dataset
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) |
+| ⭐ Stars | 11471 |
+| 🍴 Forks | 1315 |
+| 👀 Watchers | 11471 |
+| 📝 Open Issues | 15 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-18 |
+| 🔄 最后更新 | 2026-07-11 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+
+**中文简介**：
+1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。
+
+
+**Topics**：dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout
+
+**中文Topics**：数据集, 练习数据库, 练习, 健身, 健身应用程序, 健身房, json, 日志新闻, 反应本机, 锻炼
 
 
 ---
@@ -636,178 +633,63 @@ SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
 
 ---
 
-### 23. hasaneyldrm/exercises-dataset
+### 23. block/buzz
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) |
-| ⭐ Stars | 11471 |
-| 🍴 Forks | 1315 |
-| 👀 Watchers | 11471 |
-| 📝 Open Issues | 15 |
-| 💻 主语言 | HTML |
+| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
+| ⭐ Stars | 14197 |
+| 🍴 Forks | 1184 |
+| 👀 Watchers | 14197 |
+| 📝 Open Issues | 756 |
+| 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-18 |
-| 🔄 最后更新 | 2026-07-11 |
-| 📜 License | NOASSERTION |
+| 📅 创建时间 | 2026-03-06 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
+A hive mind communication platform
 
 **中文简介**：
-1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。
+蜂巢思维交流平台
 
 
-**Topics**：dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout
+**Topics**：-
 
-**中文Topics**：数据集, 练习数据库, 练习, 健身, 健身应用程序, 健身房, json, 日志新闻, 反应本机, 锻炼
 
 
 ---
 
-### 24. colbymchenry/codegraph
+### 24. JCodesMore/ai-website-cloner-template
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) |
-| ⭐ Stars | 42846 |
-| 🍴 Forks | 2633 |
-| 👀 Watchers | 42846 |
-| 📝 Open Issues | 219 |
+| 链接 | [https://github.com/JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) |
+| ⭐ Stars | 16425 |
+| 🍴 Forks | 2516 |
+| 👀 Watchers | 16425 |
+| 📝 Open Issues | 10 |
 | 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-01-18 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-13 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+Clone any website with one command using AI coding agents
 
 **中文简介**：
-为 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 预构建的代码知识图谱——更少的 token 消耗，更少的工具调用，100% 本地运行。
+使用 AI 编码代理通过一个命令克隆任何网站
 
 
-**Topics**：-
+**Topics**：ai, ai-agents, ai-tools, automation, boilerplate, claude, claude-code, clone, developer-tools, nextjs, react, reverse-engineering, shadcn-ui, skills, tailwindcss, template, typescript, web-scraping, website-clone
 
 
 
 ---
 
-### 25. pbakaus/impeccable
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
-| ⭐ Stars | 35029 |
-| 🍴 Forks | 1900 |
-| 👀 Watchers | 35029 |
-| 📝 Open Issues | 29 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-11-16 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-The design language that makes your AI harness better at design.
-
-**中文简介**：
-让你的 AI 在设计方面更出色的设计语言。
-
-
-**Topics**：-
-
-
-
----
-
-### 26. palmier-io/palmier-pro
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) |
-| ⭐ Stars | 4567 |
-| 🍴 Forks | 355 |
-| 👀 Watchers | 4567 |
-| 📝 Open Issues | 40 |
-| 💻 主语言 | Swift |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-07 |
-| 🔄 最后更新 | 2026-06-21 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-macOS video editor built for AI
-
-**中文简介**：
-专为人工智能打造的macOS视频编辑器
-
-
-**Topics**：ai-video, claude, macos, mcp, seedance2, swift, video-editor
-
-**中文Topics**：AI视频, claude, macos, mcp, seedance2, swift, 视频编辑器
-
-
----
-
-### 27. mukul975/Anthropic-Cybersecurity-Skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) |
-| ⭐ Stars | 14518 |
-| 🍴 Forks | 1706 |
-| 👀 Watchers | 14518 |
-| 📝 Open Issues | 16 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-02-25 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
-
-**中文简介**：
-AI 代理的 754 项结构化网络安全技能 · 映射到 5 个框架：MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND 和 NIST AI RMF ·agentskills.io 标准 · 可与 Claude Code、GitHub Copilot、Codex CLI、Cursor、Gemini CLI 和 20 多个平台配合使用 · 26 个安全域 · Apache 2.0
-
-
-**Topics**：ai-agents, claude-code, cloud-security, cybersecurity, devsecops, ethical-hacking, incident-response, infosec, llm, malware-analysis, mcp, mitre-attack, nist-csf, osint, penetration-testing, red-team, security, security-automation, threat-hunting, threat-intelligence
-
-
-
----
-
-### 28. apple/container
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/apple/container](https://github.com/apple/container) |
-| ⭐ Stars | 26811 |
-| 🍴 Forks | 774 |
-| 👀 Watchers | 26811 |
-| 📝 Open Issues | 283 |
-| 💻 主语言 | Swift |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-05-30 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-
-**中文简介**：
-在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器的工具。使用 Swift 编写，针对 Apple 芯片优化。
-
-
-**Topics**：-
-
-**中文Topics**：[]
-
-
----
-
-### 29. google-labs-code/design.md
+### 25. google-labs-code/design.md
 
 | 属性 | 信息 |
 |---|---|
@@ -835,7 +717,64 @@ A format specification for describing a visual identity to coding agents. DESIGN
 
 ---
 
-### 30. facebook/astryx
+### 26. colbymchenry/codegraph
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) |
+| ⭐ Stars | 42846 |
+| 🍴 Forks | 2633 |
+| 👀 Watchers | 42846 |
+| 📝 Open Issues | 219 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-01-18 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+
+**中文简介**：
+为 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent 预构建的代码知识图谱——更少的 token 消耗，更少的工具调用，100% 本地运行。
+
+
+**Topics**：-
+
+
+
+---
+
+### 27. Lum1104/Understand-Anything
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) |
+| ⭐ Stars | 53301 |
+| 🍴 Forks | 4376 |
+| 👀 Watchers | 53301 |
+| 📝 Open Issues | 179 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-03-15 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+
+**中文简介**：
+教学型图谱优于 impress 型图谱。将任意代码转换为可交互的知识图谱，您可以探索、搜索和提问。兼容Claude Code、Codex、Cursor、Copilot、Gemini CLI等。
+
+
+**Topics**：antigravity-skills, business-knowledge, claude-code, claude-skills, codebase-analysis, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, knowledge-base, knowledge-graph, memory, opencode-skills, pi-agent, understandcode, vibe-coding
+
+**中文Topics**：antigravity-skills, 业务知识, claude-code, claude-skills, 代码库分析, codex, codex-skills, developer-tools-ai-agent, gemini-cli-skills, karpathy-llm-wiki, 知识库, 知识图谱, memory, opencode-skills, pi-agent, understandcode, vibe-coding
+
+
+---
+
+### 28. facebook/astryx
 
 | 属性 | 信息 |
 |---|---|
@@ -855,6 +794,62 @@ An open source design system that's fully customizable and agent ready
 
 **中文简介**：
 完全可定制且可供代理使用的开源设计系统
+
+
+**Topics**：-
+
+
+
+---
+
+### 29. hugohe3/ppt-master
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) |
+| ⭐ Stars | 24763 |
+| 🍴 Forks | 2245 |
+| 👀 Watchers | 24763 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2025-12-10 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He
+
+**中文简介**：
+AI 从任何文档生成真实的、可编辑的 PowerPoint — 原生形状和动画、以音频旁白形式表达的演讲者注释，以及遵循您自己的 .pptx 模板而不是幻灯片图像的选项 · 作者：Hugo He
+
+
+**Topics**：ai-agent, aippt, office, powerpoint, powerpoint-generation, ppt, pptx, presentation, slide, slides
+
+
+
+---
+
+### 30. bradautomates/claude-video
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bradautomates/claude-video](https://github.com/bradautomates/claude-video) |
+| ⭐ Stars | 8826 |
+| 🍴 Forks | 955 |
+| 👀 Watchers | 8826 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-24 |
+| 🔄 最后更新 | 2026-07-17 |
+| 📜 License | MIT |
+
+**简介**：
+Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+
+**中文简介**：
+让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。
 
 
 **Topics**：-

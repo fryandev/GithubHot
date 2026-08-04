@@ -1,44 +1,15 @@
 # 📅 最近30天活跃
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-07-30 11:44
+> 最后更新：2026-08-04 11:47
 
-共收录 **11** 个项目
+共收录 **16** 个项目
 
 
 ## 项目列表
 
 
-### 1. xbtlin/ai-berkshire
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) |
-| ⭐ Stars | 7289 |
-| 🍴 Forks | 933 |
-| 👀 Watchers | 7289 |
-| 📝 Open Issues | 26 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-07 |
-| 🔄 最后更新 | 2026-06-30 |
-| 📜 License | MIT |
-
-**简介**：
-AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-
-**中文简介**：
-AI时代的伯克希尔：基于Claude Code/Codex的价值投资研究框架。巴菲特·芒格·段永平·李录四大师的方法论 + 多智能体并行研究。| AI时代的伯克希尔：专为Claude Code/Codex设计的价值投资研究框架。四位大师的方法论 + 多智能体对抗式分析。
-
-
-**Topics**：ai, ai-agent, anthropic, berkshire-hathaway, charlie-munger, china-stock, claude, claude-code, financial-analysis, fintech, fundamental-analysis, investment, investment-research, llm, mcp, portfolio-management, stock-analysis, stock-market, value-investing, warren-buffett
-
-**中文Topics**：ai, 人工智能代理, anthropic, 巴克希尔·哈撒韦, 查理·芒格, 中国股市, claude, 克劳德代码, 财务分析, 金融科技, 基本面分析, 投资, 投资研究, llm, mcp, 投资组合管理, 股票分析, 股市, 价值投资, 沃伦·巴菲特
-
-
----
-
-### 2. MadsLorentzen/ai-job-search
+### 1. MadsLorentzen/ai-job-search
 
 | 属性 | 信息 |
 |---|---|
@@ -67,7 +38,7 @@ The job search that runs on your machine. AI job application framework built on 
 
 ---
 
-### 3. hasaneyldrm/exercises-dataset
+### 2. hasaneyldrm/exercises-dataset
 
 | 属性 | 信息 |
 |---|---|
@@ -96,7 +67,7 @@ The job search that runs on your machine. AI job application framework built on 
 
 ---
 
-### 4. facebook/astryx
+### 3. facebook/astryx
 
 | 属性 | 信息 |
 |---|---|
@@ -124,7 +95,7 @@ An open source design system that's fully customizable and agent ready
 
 ---
 
-### 5. x4gKing/X4G
+### 4. x4gKing/X4G
 
 | 属性 | 信息 |
 |---|---|
@@ -150,35 +121,7 @@ An open source design system that's fully customizable and agent ready
 
 ---
 
-### 6. bradautomates/claude-video
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/bradautomates/claude-video](https://github.com/bradautomates/claude-video) |
-| ⭐ Stars | 8826 |
-| 🍴 Forks | 955 |
-| 👀 Watchers | 8826 |
-| 📝 Open Issues | 52 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-24 |
-| 🔄 最后更新 | 2026-07-17 |
-| 📜 License | MIT |
-
-**简介**：
-Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
-
-**中文简介**：
-让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。
-
-
-**Topics**：-
-
-
-
----
-
-### 7. xai-org/grok-build
+### 5. xai-org/grok-build
 
 | 属性 | 信息 |
 |---|---|
@@ -206,7 +149,7 @@ SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
 
 ---
 
-### 8. Fei-Away/Codex-Dream-Skin
+### 6. Fei-Away/Codex-Dream-Skin
 
 | 属性 | 信息 |
 |---|---|
@@ -234,36 +177,7 @@ Codex Dream Skin
 
 ---
 
-### 9. k1tbyte/Wand-Enhancer
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) |
-| ⭐ Stars | 9583 |
-| 🍴 Forks | 26165 |
-| 👀 Watchers | 9583 |
-| 📝 Open Issues | 28 |
-| 💻 主语言 | C# |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2024-11-17 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Advanced UX and interoperability extension for Wand (WeMod) app
-
-**中文简介**：
-Wand (WeMod) 应用程序的高级用户体验和互操作性扩展
-
-
-**Topics**：csharp, wand, wand-enhancer, wand-pro, wemod, wpf
-
-**中文Topics**：夏普, 魔杖, 魔杖增强器, 魔杖专业版, 韦莫德, 工作组
-
-
----
-
-### 10. 0xNyk/council-of-high-intelligence
+### 7. 0xNyk/council-of-high-intelligence
 
 | 属性 | 信息 |
 |---|---|
@@ -292,7 +206,7 @@ Structured multi-perspective deliberation for hard decisions. Run full councils,
 
 ---
 
-### 11. Dicklesworthstone/destructive_command_guard
+### 8. Dicklesworthstone/destructive_command_guard
 
 | 属性 | 信息 |
 |---|---|
@@ -317,6 +231,231 @@ The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm
 **Topics**：ai-agents, cli, developer-tools, git, rust, safety
 
 **中文Topics**：人工智能代理, cli, 开发人员工具, git, rust, 安全
+
+
+---
+
+### 9. bojieli/ai-agent-book
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
+| ⭐ Stars | 22271 |
+| 🍴 Forks | 2233 |
+| 👀 Watchers | 22271 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-09-09 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+
+
+**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+
+
+
+---
+
+### 10. block/buzz
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
+| ⭐ Stars | 14197 |
+| 🍴 Forks | 1184 |
+| 👀 Watchers | 14197 |
+| 📝 Open Issues | 756 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-06 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A hive mind communication platform
+
+**中文简介**：
+蜂巢思维交流平台
+
+
+**Topics**：-
+
+
+
+---
+
+### 11. ayghri/i-have-adhd
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) |
+| ⭐ Stars | 11045 |
+| 🍴 Forks | 557 |
+| 👀 Watchers | 11045 |
+| 📝 Open Issues | 9 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-13 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+
+**中文简介**：
+您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。
+
+
+**Topics**：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity
+
+**中文Topics**：多动症, claude-, 克劳德代码插件, 克劳德技能, 开发人员工具, 生产率
+
+
+---
+
+### 12. oblien/openship
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/oblien/openship](https://github.com/oblien/openship) |
+| ⭐ Stars | 8826 |
+| 🍴 Forks | 716 |
+| 👀 Watchers | 8826 |
+| 📝 Open Issues | 69 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-05 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Self-hosted deployment platform
+
+**中文简介**：
+自托管部署平台
+
+
+**Topics**：agents, ai, deployments, self-hosted
+
+**中文Topics**：代理, ai, 部署, 自托管
+
+
+---
+
+### 13. every-app/open-seo
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/every-app/open-seo](https://github.com/every-app/open-seo) |
+| ⭐ Stars | 8402 |
+| 🍴 Forks | 915 |
+| 👀 Watchers | 8402 |
+| 📝 Open Issues | 58 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-27 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+Open source alternative to Semrush and Ahrefs
+
+**中文简介**：
+Semrush 和 Ahrefs 的开源替代品
+
+
+**Topics**：backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit
+
+**中文Topics**：反向链接分析, 谷歌搜索控制台 mcp, 关键词研究, mcp, 搜索引擎优化, 搜索引擎优化工具, 现场审核
+
+
+---
+
+### 14. CoreBunch/Instatic
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) |
+| ⭐ Stars | 6060 |
+| 🍴 Forks | 536 |
+| 👀 Watchers | 6060 |
+| 📝 Open Issues | 55 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-30 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. 
+
+**中文简介**：
+Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS，输出干净的静态页面。用户、角色、插件、内容、数据库，一切都在那里。
+
+
+**Topics**：cms, css, css-framework, page-builder, static, website
+
+**中文Topics**：管理系统, css, css 框架, 页面构建器, 静态, 网站
+
+
+---
+
+### 15. andrewyng/openworker
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/andrewyng/openworker](https://github.com/andrewyng/openworker) |
+| ⭐ Stars | 7905 |
+| 🍴 Forks | 1051 |
+| 👀 Watchers | 7905 |
+| 📝 Open Issues | 210 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-20 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 16. citrolabs/ego-lite
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
+| ⭐ Stars | 5315 |
+| 🍴 Forks | 256 |
+| 👀 Watchers | 5315 |
+| 📝 Open Issues | 41 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-16 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+
+**中文简介**：
+AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。
+
+
+**Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
+
+**中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
 
 
 ---

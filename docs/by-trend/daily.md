@@ -1,125 +1,44 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-07-30 11:44
+> 最后更新：2026-08-04 11:47
 
-共收录 **10** 个项目
+共收录 **8** 个项目
 
 
 ## 项目列表
 
 
-### 1. MoonshotAI/Kimi-K3
+### 1. microsoft/AI-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) |
-| ⭐ Stars | 6181 |
-| 🍴 Forks | 435 |
-| 👀 Watchers | 6181 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-27 |
-| 🔄 最后更新 | 2026-07-30 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Open Frontier Intelligence
-
-**中文简介**：
-开放前沿情报
-
-
-**Topics**：-
-
-
-
----
-
-### 2. bojieli/ai-agent-book
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
-| ⭐ Stars | 22271 |
-| 🍴 Forks | 2233 |
-| 👀 Watchers | 22271 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2025-09-09 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-
-
-
-**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
-
-
-
----
-
-### 3. block/buzz
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
-| ⭐ Stars | 14197 |
-| 🍴 Forks | 1184 |
-| 👀 Watchers | 14197 |
-| 📝 Open Issues | 756 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-06 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-A hive mind communication platform
-
-**中文简介**：
-蜂巢思维交流平台
-
-
-**Topics**：-
-
-
-
----
-
-### 4. virgiliojr94/book-to-skill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
-| ⭐ Stars | 4431 |
-| 🍴 Forks | 553 |
-| 👀 Watchers | 4431 |
-| 📝 Open Issues | 1 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-05-01 |
+| 链接 | [https://github.com/microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) |
+| ⭐ Stars | 47975 |
+| 🍴 Forks | 9931 |
+| 👀 Watchers | 47975 |
+| 📝 Open Issues | 7 |
+| 💻 主语言 | Jupyter Notebook |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2021-03-03 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+12 Weeks, 24 Lessons, AI for All!
 
 **中文简介**：
-将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。
+12周，24节课，面向所有人的AI课程！
 
 
-**Topics**：-
+**Topics**：ai, artificial-intelligence, cnn, computer-vision, deep-learning, gan, machine-learning, microsoft-for-beginners, nlp, rnn
 
+**中文Topics**：ai, 人工智能, cnn, 计算机视觉, 深度学习, gan, 机器学习, microsoft-for-beginners, nlp, rnn
 
 
 ---
 
-### 5. diegosouzapw/OmniRoute
+### 2. diegosouzapw/OmniRoute
 
 | 属性 | 信息 |
 |---|---|
@@ -147,7 +66,117 @@ Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), con
 
 ---
 
-### 6. stablyai/orca
+### 3. TencentCloud/TencentDB-Agent-Memory
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
+| ⭐ Stars | 5036 |
+| 🍴 Forks | 429 |
+| 👀 Watchers | 5036 |
+| 📝 Open Issues | 72 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-04-07 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+
+**中文简介**：
+腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。
+
+
+**Topics**：agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search
+
+
+
+---
+
+### 4. Panniantong/Agent-Reach
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
+| ⭐ Stars | 22007 |
+| 🍴 Forks | 1886 |
+| 👀 Watchers | 22007 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+
+**中文简介**：
+让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。
+
+
+**Topics**：agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
+
+
+
+---
+
+### 5. bojieli/ai-agent-book
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
+| ⭐ Stars | 22271 |
+| 🍴 Forks | 2233 |
+| 👀 Watchers | 22271 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-09-09 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
+
+
+**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+
+
+
+---
+
+### 6. block/buzz
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
+| ⭐ Stars | 14197 |
+| 🍴 Forks | 1184 |
+| 👀 Watchers | 14197 |
+| 📝 Open Issues | 756 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-06 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A hive mind communication platform
+
+**中文简介**：
+蜂巢思维交流平台
+
+
+**Topics**：-
+
+
+
+---
+
+### 7. stablyai/orca
 
 | 属性 | 信息 |
 |---|---|
@@ -175,114 +204,29 @@ Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自�
 
 ---
 
-### 7. pascalorg/editor
+### 8. lyogavin/airllm
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/pascalorg/editor](https://github.com/pascalorg/editor) |
-| ⭐ Stars | 16415 |
-| 🍴 Forks | 2185 |
-| 👀 Watchers | 16415 |
-| 📝 Open Issues | 46 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/lyogavin/airllm](https://github.com/lyogavin/airllm) |
+| ⭐ Stars | 19465 |
+| 🍴 Forks | 2139 |
+| 👀 Watchers | 19465 |
+| 📝 Open Issues | 159 |
+| 💻 主语言 | Jupyter Notebook |
 | 🔥 热度等级 | hot |
-| 📅 创建时间 | 2025-10-16 |
+| 📅 创建时间 | 2023-06-12 |
 | 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-Create and share 3D architectural projects.
+AirLLM 70B inference with single 4GB GPU
 
 **中文简介**：
-创建和共享 3D 建筑项目。
+使用单个 4GB GPU 进行 AirLLM 70B 推理
 
 
-**Topics**：-
-
-
-
----
-
-### 8. ayghri/i-have-adhd
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) |
-| ⭐ Stars | 11045 |
-| 🍴 Forks | 557 |
-| 👀 Watchers | 11045 |
-| 📝 Open Issues | 9 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-05-13 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | MIT |
-
-**简介**：
-A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
-
-**中文简介**：
-您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。
-
-
-**Topics**：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity
-
-**中文Topics**：多动症, claude-, 克劳德代码插件, 克劳德技能, 开发人员工具, 生产率
-
-
----
-
-### 9. paperswithbacktest/awesome-systematic-trading
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) |
-| ⭐ Stars | 8303 |
-| 🍴 Forks | 1172 |
-| 👀 Watchers | 8303 |
-| 📝 Open Issues | 32 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2022-02-05 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-
-**中文简介**：
-一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。
-
-
-**Topics**：algorithmic-trading, algotrading, alpha, arbitrage-bot, awesome, awesome-list, book, finance, futures, futures-historical-data, futures-market, futuresmarkets, paper, quant, quantitative-finance, quantitative-trading, trading-algorithms, trading-bot, trading-strategies
-
-
-
----
-
-### 10. Panniantong/Agent-Reach
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) |
-| ⭐ Stars | 22007 |
-| 🍴 Forks | 1886 |
-| 👀 Watchers | 22007 |
-| 📝 Open Issues | 52 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-02-24 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-
-**中文简介**：
-让您的人工智能代理有一双能够看到整个互联网的眼睛。阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书 — 一个 CLI，零 API 费用。
-
-
-**Topics**：agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
+**Topics**：chinese-llm, chinese-nlp, finetune, generative-ai, instruct-gpt, instruction-set, llama, llm, lora, open-models, open-source, open-source-models, qlora
 
 
 

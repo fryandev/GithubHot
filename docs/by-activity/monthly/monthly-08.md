@@ -1,244 +1,15 @@
 # 📆 最近90天活跃 - 第 8 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-07-30 11:44
+> 最后更新：2026-08-04 11:47
 
-共收录 **7059** 个项目
-（第 8/71 页）
+共收录 **6909** 个项目
+（第 8/70 页）
 
 ## 项目列表
 
 
-### 701. AdguardTeam/AdGuardHome
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) |
-| ⭐ Stars | 34681 |
-| 🍴 Forks | 2378 |
-| 👀 Watchers | 34681 |
-| 📝 Open Issues | 1261 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2016-07-06 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-Network-wide ads & trackers blocking DNS server
-
-**中文简介**：
-全网广告和跟踪器拦截 DNS 服务器
-
-
-**Topics**：adblock, adguard, dns, dns-over-https, dns-over-quic, dns-over-tls, dnscrypt, golang, open-source, privacy
-
-**中文Topics**：adblock, adguard, dns, dns-over-https, dns-over-quic, dns-over-tls, dnscrypt, golang, 开源, 隐私
-
-
----
-
-### 702. kepano/obsidian-skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) |
-| ⭐ Stars | 34541 |
-| 🍴 Forks | 2438 |
-| 👀 Watchers | 34541 |
-| 📝 Open Issues | 39 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-01-02 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
-
-**中文简介**：
-Obsidian 的智能体技能。教您的智能体使用 Markdown、Bases、JSON Canvas 和 CLI
-
-
-**Topics**：claude, clawdbot, cli, codex, defuddle, obsidian, openclaw, opencode, skills
-
-**中文Topics**：claude, clawdbot, cli, codex, defuddle, obsidian, openclaw, opencode, skills
-
-
----
-
-### 703. blakeblackshear/frigate
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) |
-| ⭐ Stars | 33564 |
-| 🍴 Forks | 3261 |
-| 👀 Watchers | 33564 |
-| 📝 Open Issues | 129 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2019-01-26 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-NVR with realtime local object detection for IP cameras
-
-**中文简介**：
-具有实时本地目标检测功能的 IP 摄像头 NVR
-
-
-**Topics**：ai, camera, google-coral, home-assistant, home-automation, homeautomation, mqtt, nvr, object-detection, realtime, rtsp, tensorflow
-
-**中文Topics**：ai, 摄像头, google-coral, home-assistant, home-automation, homeautomation, mqtt, nvr, 目标检测, 实时, rtsp, tensorflow
-
-
----
-
-### 704. signalapp/Signal-Android
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) |
-| ⭐ Stars | 28878 |
-| 🍴 Forks | 6753 |
-| 👀 Watchers | 28878 |
-| 📝 Open Issues | 491 |
-| 💻 主语言 | Kotlin |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2011-12-15 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | AGPL-3.0 |
-
-**简介**：
-A private messenger for Android.
-
-**中文简介**：
-适用于 Android 的私人信使。
-
-
-**Topics**：-
-
-
-
----
-
-### 705. pbakaus/impeccable
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
-| ⭐ Stars | 35029 |
-| 🍴 Forks | 1900 |
-| 👀 Watchers | 35029 |
-| 📝 Open Issues | 29 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-11-16 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-The design language that makes your AI harness better at design.
-
-**中文简介**：
-让你的 AI 在设计方面更出色的设计语言。
-
-
-**Topics**：-
-
-
-
----
-
-### 706. apache/incubator-seata
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/apache/incubator-seata](https://github.com/apache/incubator-seata) |
-| ⭐ Stars | 25974 |
-| 🍴 Forks | 8868 |
-| 👀 Watchers | 25974 |
-| 📝 Open Issues | 865 |
-| 💻 主语言 | Java |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2018-12-28 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-
-**中文简介**：
-:fire: Seata 是一个易于使用、高性能、开源的分布式事务解决方案。
-
-
-**Topics**：at, consistency, distributed-transaction, microservice, saga, tcc, xa
-
-
-
----
-
-### 707. SerenityOS/serenity
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/SerenityOS/serenity](https://github.com/SerenityOS/serenity) |
-| ⭐ Stars | 33323 |
-| 🍴 Forks | 3342 |
-| 👀 Watchers | 33323 |
-| 📝 Open Issues | 746 |
-| 💻 主语言 | C++ |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2018-12-02 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | BSD-2-Clause |
-
-**简介**：
-The Serenity Operating System 🐞
-
-**中文简介**：
-Serenity 操作系统 🐞
-
-
-**Topics**：browser, c-plus-plus, desktop-environment, kernel, operating-system, os, unix
-
-**中文Topics**：browser, c-plus-plus, 桌面环境, 内核, 操作系统, os, unix
-
-
----
-
-### 708. Textualize/textual
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Textualize/textual](https://github.com/Textualize/textual) |
-| ⭐ Stars | 36171 |
-| 🍴 Forks | 1207 |
-| 👀 Watchers | 36171 |
-| 📝 Open Issues | 279 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2021-04-08 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-
-**中文简介**：
-Python 的精简应用框架。使用简单的 Python API 构建复杂的用户界面。在终端和 Web 浏览器中运行你的应用。
-
-
-**Topics**：cli, framework, python, rich, terminal, tui
-
-**中文Topics**：cli, framework, python, rich, terminal, tui
-
-
----
-
-### 709. labring/FastGPT
+### 701. labring/FastGPT
 
 | 属性 | 信息 |
 |---|---|
@@ -266,7 +37,7 @@ FastGPT 是一个基于LLM的知识平台，提供一整套开箱即用的功能
 
 ---
 
-### 710. certbot/certbot
+### 702. certbot/certbot
 
 | 属性 | 信息 |
 |---|---|
@@ -295,7 +66,7 @@ Certbot 是 EFF 开发的工具，用于从 Let's Encrypt 获取证书，并可�
 
 ---
 
-### 711. mybatis/mybatis-3
+### 703. mybatis/mybatis-3
 
 | 属性 | 信息 |
 |---|---|
@@ -323,7 +94,7 @@ Java 的 MyBatis SQL 映射器框架
 
 ---
 
-### 712. sgl-project/sglang
+### 704. sgl-project/sglang
 
 | 属性 | 信息 |
 |---|---|
@@ -351,7 +122,7 @@ SGLang 是一个用于大型语言模型和多模态模型的高性能服务框�
 
 ---
 
-### 713. parallax/jsPDF
+### 705. parallax/jsPDF
 
 | 属性 | 信息 |
 |---|---|
@@ -379,7 +150,7 @@ Client-side JavaScript PDF generation for everyone.
 
 ---
 
-### 714. juice-shop/juice-shop
+### 706. juice-shop/juice-shop
 
 | 属性 | 信息 |
 |---|---|
@@ -408,7 +179,7 @@ OWASP Juice Shop：可能是最现代、最复杂的不安全 Web 应用程序
 
 ---
 
-### 715. python-poetry/poetry
+### 707. python-poetry/poetry
 
 | 属性 | 信息 |
 |---|---|
@@ -437,7 +208,7 @@ Python packaging and dependency management made easy
 
 ---
 
-### 716. pnpm/pnpm
+### 708. pnpm/pnpm
 
 | 属性 | 信息 |
 |---|---|
@@ -466,7 +237,7 @@ Fast, disk space efficient package manager
 
 ---
 
-### 717. raysan5/raylib
+### 709. raysan5/raylib
 
 | 属性 | 信息 |
 |---|---|
@@ -495,7 +266,7 @@ A simple and easy-to-use library to enjoy videogames programming
 
 ---
 
-### 718. Homebrew/homebrew-cask
+### 710. Homebrew/homebrew-cask
 
 | 属性 | 信息 |
 |---|---|
@@ -523,7 +294,7 @@ A simple and easy-to-use library to enjoy videogames programming
 
 ---
 
-### 719. openai/openai-python
+### 711. openai/openai-python
 
 | 属性 | 信息 |
 |---|---|
@@ -551,7 +322,7 @@ OpenAI API 的官方 Python 库
 
 ---
 
-### 720. mqyqingfeng/Blog
+### 712. mqyqingfeng/Blog
 
 | 属性 | 信息 |
 |---|---|
@@ -578,7 +349,7 @@ OpenAI API 的官方 Python 库
 
 ---
 
-### 721. 0xAX/linux-insides
+### 713. 0xAX/linux-insides
 
 | 属性 | 信息 |
 |---|---|
@@ -607,7 +378,7 @@ A book-in-progress about the Linux kernel and its insides.
 
 ---
 
-### 722. python-telegram-bot/python-telegram-bot
+### 714. python-telegram-bot/python-telegram-bot
 
 | 属性 | 信息 |
 |---|---|
@@ -635,7 +406,7 @@ We have made you a wrapper you can't refuse
 
 ---
 
-### 723. microsoft/vcpkg
+### 715. microsoft/vcpkg
 
 | 属性 | 信息 |
 |---|---|
@@ -664,7 +435,7 @@ C++ Library Manager for Windows, Linux, and MacOS
 
 ---
 
-### 724. microsoft/playwright-mcp
+### 716. microsoft/playwright-mcp
 
 | 属性 | 信息 |
 |---|---|
@@ -693,7 +464,7 @@ Playwright MCP 服务器
 
 ---
 
-### 725. inkonchain/docs
+### 717. inkonchain/docs
 
 | 属性 | 信息 |
 |---|---|
@@ -721,7 +492,7 @@ Ink 文档。
 
 ---
 
-### 726. jqlang/jq
+### 718. jqlang/jq
 
 | 属性 | 信息 |
 |---|---|
@@ -750,7 +521,7 @@ Command-line JSON processor
 
 ---
 
-### 727. AstrBotDevs/AstrBot
+### 719. AstrBotDevs/AstrBot
 
 | 属性 | 信息 |
 |---|---|
@@ -779,7 +550,7 @@ AI Agent Assistant & development framework that integrates lots of IM platforms,
 
 ---
 
-### 728. lutzroeder/netron
+### 720. lutzroeder/netron
 
 | 属性 | 信息 |
 |---|---|
@@ -808,7 +579,7 @@ Visualizer for neural network, deep learning and machine learning models
 
 ---
 
-### 729. schollz/croc
+### 721. schollz/croc
 
 | 属性 | 信息 |
 |---|---|
@@ -837,7 +608,7 @@ Easily and securely send things from one computer to another :crocodile: :packag
 
 ---
 
-### 730. balena-io/etcher
+### 722. balena-io/etcher
 
 | 属性 | 信息 |
 |---|---|
@@ -866,7 +637,7 @@ Flash OS images to SD cards & USB drives, safely and easily.
 
 ---
 
-### 731. deepinsight/insightface
+### 723. deepinsight/insightface
 
 | 属性 | 信息 |
 |---|---|
@@ -894,7 +665,7 @@ State-of-the-art 2D and 3D Face Analysis Project
 
 ---
 
-### 732. solidjs/solid
+### 724. solidjs/solid
 
 | 属性 | 信息 |
 |---|---|
@@ -923,7 +694,7 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 ---
 
-### 733. wailsapp/wails
+### 725. wailsapp/wails
 
 | 属性 | 信息 |
 |---|---|
@@ -952,7 +723,7 @@ Create beautiful applications using Go
 
 ---
 
-### 734. ocrmypdf/OCRmyPDF
+### 726. ocrmypdf/OCRmyPDF
 
 | 属性 | 信息 |
 |---|---|
@@ -981,7 +752,7 @@ OCRmyPDF 为扫描的 PDF 文件添加 OCR 文本层，使其可以被搜索
 
 ---
 
-### 735. lissy93/web-check
+### 727. lissy93/web-check
 
 | 属性 | 信息 |
 |---|---|
@@ -1010,7 +781,7 @@ OCRmyPDF 为扫描的 PDF 文件添加 OCR 文本层，使其可以被搜索
 
 ---
 
-### 736. derailed/k9s
+### 728. derailed/k9s
 
 | 属性 | 信息 |
 |---|---|
@@ -1039,7 +810,7 @@ OCRmyPDF 为扫描的 PDF 文件添加 OCR 文本层，使其可以被搜索
 
 ---
 
-### 737. youzan/vant
+### 729. youzan/vant
 
 | 属性 | 信息 |
 |---|---|
@@ -1067,7 +838,7 @@ A lightweight, customizable Vue UI library for mobile web apps.
 
 ---
 
-### 738. awesome-foss/awesome-sysadmin
+### 730. awesome-foss/awesome-sysadmin
 
 | 属性 | 信息 |
 |---|---|
@@ -1096,7 +867,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ---
 
-### 739. OpenAPITools/openapi-generator
+### 731. OpenAPITools/openapi-generator
 
 | 属性 | 信息 |
 |---|---|
@@ -1125,7 +896,7 @@ OpenAPI Generator 可根据 OpenAPI 规范（v2、v3）自动生成 API 客户�
 
 ---
 
-### 740. k3s-io/k3s
+### 732. k3s-io/k3s
 
 | 属性 | 信息 |
 |---|---|
@@ -1154,7 +925,7 @@ Lightweight Kubernetes
 
 ---
 
-### 741. fish-shell/fish-shell
+### 733. fish-shell/fish-shell
 
 | 属性 | 信息 |
 |---|---|
@@ -1183,7 +954,7 @@ The user-friendly command line shell.
 
 ---
 
-### 742. remix-run/remix
+### 734. remix-run/remix
 
 | 属性 | 信息 |
 |---|---|
@@ -1211,7 +982,7 @@ Build Better Websites. Create modern, resilient user experiences with web fundam
 
 ---
 
-### 743. drizzle-team/drizzle-orm
+### 735. drizzle-team/drizzle-orm
 
 | 属性 | 信息 |
 |---|---|
@@ -1233,12 +1004,12 @@ ORM
 
 **Topics**：bunjs, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, turso, typescript
 
-**中文Topics**：邦杰斯, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, 图尔索, typescript
+**中文Topics**：bunjs, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, turso, typescript
 
 
 ---
 
-### 744. glanceapp/glance
+### 736. glanceapp/glance
 
 | 属性 | 信息 |
 |---|---|
@@ -1267,7 +1038,7 @@ A self-hosted dashboard that puts all your feeds in one place
 
 ---
 
-### 745. aquasecurity/trivy
+### 737. aquasecurity/trivy
 
 | 属性 | 信息 |
 |---|---|
@@ -1296,7 +1067,7 @@ Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes
 
 ---
 
-### 746. utmapp/UTM
+### 738. utmapp/UTM
 
 | 属性 | 信息 |
 |---|---|
@@ -1325,7 +1096,7 @@ iOS 和 macOS 的虚拟机
 
 ---
 
-### 747. hwdsl2/setup-ipsec-vpn
+### 739. hwdsl2/setup-ipsec-vpn
 
 | 属性 | 信息 |
 |---|---|
@@ -1353,7 +1124,7 @@ Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco I
 
 ---
 
-### 748. influxdata/influxdb
+### 740. influxdata/influxdb
 
 | 属性 | 信息 |
 |---|---|
@@ -1382,7 +1153,7 @@ Scalable datastore for metrics, events, and real-time analytics
 
 ---
 
-### 749. seaweedfs/seaweedfs
+### 741. seaweedfs/seaweedfs
 
 | 属性 | 信息 |
 |---|---|
@@ -1411,7 +1182,7 @@ SeaweedFS 是一个分布式存储系统，支持对象存储（S3）、文件�
 
 ---
 
-### 750. filamentphp/filament
+### 742. filamentphp/filament
 
 | 属性 | 信息 |
 |---|---|
@@ -1439,7 +1210,7 @@ A powerful open-source UI framework for Laravel • Build and ship apps & admin 
 
 ---
 
-### 751. MetaCubeX/mihomo
+### 743. MetaCubeX/mihomo
 
 | 属性 | 信息 |
 |---|---|
@@ -1467,7 +1238,7 @@ Honkai 的简单 Python Pydantic 模型：Star Rail 解析来自 Mihomo API 的�
 
 ---
 
-### 752. Azure/azure-quickstart-templates
+### 744. Azure/azure-quickstart-templates
 
 | 属性 | 信息 |
 |---|---|
@@ -1495,7 +1266,7 @@ Azure 快速入门模板
 
 ---
 
-### 753. ossrs/srs
+### 745. ossrs/srs
 
 | 属性 | 信息 |
 |---|---|
@@ -1524,7 +1295,7 @@ SRS 是一款简单、高效的实时媒体服务器，支持 RTMP、WebRTC、HL
 
 ---
 
-### 754. VectifyAI/PageIndex
+### 746. VectifyAI/PageIndex
 
 | 属性 | 信息 |
 |---|---|
@@ -1553,7 +1324,7 @@ SRS 是一款简单、高效的实时媒体服务器，支持 RTMP、WebRTC、HL
 
 ---
 
-### 755. tokio-rs/tokio
+### 747. tokio-rs/tokio
 
 | 属性 | 信息 |
 |---|---|
@@ -1582,7 +1353,7 @@ A runtime for writing reliable asynchronous applications with Rust. Provides I/O
 
 ---
 
-### 756. SillyTavern/SillyTavern
+### 748. SillyTavern/SillyTavern
 
 | 属性 | 信息 |
 |---|---|
@@ -1610,7 +1381,7 @@ LLM Frontend for Power Users.
 
 ---
 
-### 757. restic/restic
+### 749. restic/restic
 
 | 属性 | 信息 |
 |---|---|
@@ -1639,7 +1410,7 @@ Fast, secure, efficient backup program
 
 ---
 
-### 758. github/github-mcp-server
+### 750. github/github-mcp-server
 
 | 属性 | 信息 |
 |---|---|
@@ -1667,7 +1438,7 @@ GitHub 的官方 MCP 服务器
 
 ---
 
-### 759. podman-container-tools/podman
+### 751. podman-container-tools/podman
 
 | 属性 | 信息 |
 |---|---|
@@ -1696,7 +1467,7 @@ Podman：用于管理 OCI 容器和 Pod 的工具。
 
 ---
 
-### 760. Lightning-AI/pytorch-lightning
+### 752. Lightning-AI/pytorch-lightning
 
 | 属性 | 信息 |
 |---|---|
@@ -1724,7 +1495,7 @@ Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code 
 
 ---
 
-### 761. sequelize/sequelize
+### 753. sequelize/sequelize
 
 | 属性 | 信息 |
 |---|---|
@@ -1752,7 +1523,7 @@ Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with
 
 ---
 
-### 762. ianstormtaylor/slate
+### 754. ianstormtaylor/slate
 
 | 属性 | 信息 |
 |---|---|
@@ -1781,7 +1552,7 @@ A completely customizable framework for building rich text editors. (Currently i
 
 ---
 
-### 763. hashicorp/consul
+### 755. hashicorp/consul
 
 | 属性 | 信息 |
 |---|---|
@@ -1809,7 +1580,7 @@ Consul 是一种分布式、高度可用且数据中心感知的解决方案，�
 
 ---
 
-### 764. tailscale/tailscale
+### 756. tailscale/tailscale
 
 | 属性 | 信息 |
 |---|---|
@@ -1838,7 +1609,7 @@ The easiest, most secure way to use WireGuard and 2FA.
 
 ---
 
-### 765. fabricjs/fabric.js
+### 757. fabricjs/fabric.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1866,7 +1637,7 @@ Javascript Canvas 库、SVG 到 Canvas（和 canvas 到 SVG）解析器
 
 ---
 
-### 766. mongodb/mongo
+### 758. mongodb/mongo
 
 | 属性 | 信息 |
 |---|---|
@@ -1894,7 +1665,7 @@ MongoDB 数据库
 
 ---
 
-### 767. github/opensource.guide
+### 759. github/opensource.guide
 
 | 属性 | 信息 |
 |---|---|
@@ -1922,7 +1693,7 @@ MongoDB 数据库
 
 ---
 
-### 768. hasura/graphql-engine
+### 760. hasura/graphql-engine
 
 | 属性 | 信息 |
 |---|---|
@@ -1951,7 +1722,7 @@ Blazing fast, instant realtime GraphQL APIs on all your data with fine grained a
 
 ---
 
-### 769. feder-cr/Jobs_Applier_AI_Agent_AIHawk
+### 761. feder-cr/Jobs_Applier_AI_Agent_AIHawk
 
 | 属性 | 信息 |
 |---|---|
@@ -1979,7 +1750,7 @@ AIHawk 旨在通过自动化职位申请流程来简化求职流程。利用人�
 
 ---
 
-### 770. cursor/cursor
+### 762. cursor/cursor
 
 | 属性 | 信息 |
 |---|---|
@@ -2005,7 +1776,7 @@ AIHawk 旨在通过自动化职位申请流程来简化求职流程。利用人�
 
 ---
 
-### 771. anthropics/financial-services
+### 763. anthropics/financial-services
 
 | 属性 | 信息 |
 |---|---|
@@ -2031,7 +1802,7 @@ AIHawk 旨在通过自动化职位申请流程来简化求职流程。利用人�
 
 ---
 
-### 772. DayuanJiang/next-ai-draw-io
+### 764. DayuanJiang/next-ai-draw-io
 
 | 属性 | 信息 |
 |---|---|
@@ -2059,7 +1830,7 @@ next.js Web 应用程序将 AI 功能与 draw.io 图表集成在一起。该应�
 
 ---
 
-### 773. composer/composer
+### 765. composer/composer
 
 | 属性 | 信息 |
 |---|---|
@@ -2088,7 +1859,7 @@ PHP 的依赖管理器
 
 ---
 
-### 774. carbon-language/carbon-lang
+### 766. carbon-language/carbon-lang
 
 | 属性 | 信息 |
 |---|---|
@@ -2117,7 +1888,7 @@ Carbon Language 的主仓库：文档、设计、实现和相关工具。（注�
 
 ---
 
-### 775. rohitg00/ai-engineering-from-scratch
+### 767. rohitg00/ai-engineering-from-scratch
 
 | 属性 | 信息 |
 |---|---|
@@ -2145,7 +1916,7 @@ Learn it. Build it. Ship it for others.
 
 ---
 
-### 776. chromium/chromium
+### 768. chromium/chromium
 
 | 属性 | 信息 |
 |---|---|
@@ -2173,7 +1944,7 @@ Chromium 源码的官方 GitHub 镜像
 
 ---
 
-### 777. gabime/spdlog
+### 769. gabime/spdlog
 
 | 属性 | 信息 |
 |---|---|
@@ -2201,7 +1972,7 @@ Fast C++ logging library.
 
 ---
 
-### 778. google/comprehensive-rust
+### 770. google/comprehensive-rust
 
 | 属性 | 信息 |
 |---|---|
@@ -2230,7 +2001,7 @@ This is the Rust course used by the Android team at Google. It provides you the 
 
 ---
 
-### 779. goharbor/harbor
+### 771. goharbor/harbor
 
 | 属性 | 信息 |
 |---|---|
@@ -2258,7 +2029,7 @@ An open source trusted cloud native registry project that stores, signs, and sca
 
 ---
 
-### 780. envoyproxy/envoy
+### 772. envoyproxy/envoy
 
 | 属性 | 信息 |
 |---|---|
@@ -2286,7 +2057,7 @@ Cloud-native high-performance edge/middle/service proxy
 
 ---
 
-### 781. mbadolato/iTerm2-Color-Schemes
+### 773. mbadolato/iTerm2-Color-Schemes
 
 | 属性 | 信息 |
 |---|---|
@@ -2315,7 +2086,7 @@ Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Termi
 
 ---
 
-### 782. searxng/searxng
+### 774. searxng/searxng
 
 | 属性 | 信息 |
 |---|---|
@@ -2344,7 +2115,7 @@ SearXNG 是一个免费的互联网元搜索引擎，聚合来自各种搜索服
 
 ---
 
-### 783. labstack/echo
+### 775. labstack/echo
 
 | 属性 | 信息 |
 |---|---|
@@ -2373,7 +2144,7 @@ High performance, minimalist Go web framework
 
 ---
 
-### 784. immutable-js/immutable-js
+### 776. immutable-js/immutable-js
 
 | 属性 | 信息 |
 |---|---|
@@ -2401,7 +2172,7 @@ Immutable persistent data collections for Javascript which increase efficiency a
 
 ---
 
-### 785. onyx-dot-app/onyx
+### 777. onyx-dot-app/onyx
 
 | 属性 | 信息 |
 |---|---|
@@ -2429,7 +2200,7 @@ Open Source AI Platform - AI Chat with advanced features that works with every L
 
 ---
 
-### 786. hehonghui/awesome-english-ebooks
+### 778. hehonghui/awesome-english-ebooks
 
 | 属性 | 信息 |
 |---|---|
@@ -2458,7 +2229,7 @@ Open Source AI Platform - AI Chat with advanced features that works with every L
 
 ---
 
-### 787. notepad-plus-plus/notepad-plus-plus
+### 779. notepad-plus-plus/notepad-plus-plus
 
 | 属性 | 信息 |
 |---|---|
@@ -2486,7 +2257,7 @@ Notepad++ 官方存储库
 
 ---
 
-### 788. desktop/desktop
+### 780. desktop/desktop
 
 | 属性 | 信息 |
 |---|---|
@@ -2514,7 +2285,7 @@ Focus on what matters instead of fighting with Git.
 
 ---
 
-### 789. celery/celery
+### 781. celery/celery
 
 | 属性 | 信息 |
 |---|---|
@@ -2542,7 +2313,7 @@ Distributed Task Queue (development branch)
 
 ---
 
-### 790. zellij-org/zellij
+### 782. zellij-org/zellij
 
 | 属性 | 信息 |
 |---|---|
@@ -2571,7 +2342,7 @@ A terminal workspace with batteries included
 
 ---
 
-### 791. swc-project/swc
+### 783. swc-project/swc
 
 | 属性 | 信息 |
 |---|---|
@@ -2600,7 +2371,7 @@ Rust-based platform for the Web
 
 ---
 
-### 792. casey/just
+### 784. casey/just
 
 | 属性 | 信息 |
 |---|---|
@@ -2628,7 +2399,7 @@ Rust-based platform for the Web
 
 ---
 
-### 793. linera-io/linera-protocol
+### 785. linera-io/linera-protocol
 
 | 属性 | 信息 |
 |---|---|
@@ -2657,7 +2428,7 @@ Linera 协议的主仓库
 
 ---
 
-### 794. PHPMailer/PHPMailer
+### 786. PHPMailer/PHPMailer
 
 | 属性 | 信息 |
 |---|---|
@@ -2685,7 +2456,7 @@ PHP 的经典电子邮件发送库
 
 ---
 
-### 795. linshenkx/prompt-optimizer
+### 787. linshenkx/prompt-optimizer
 
 | 属性 | 信息 |
 |---|---|
@@ -2713,7 +2484,7 @@ An AI prompt optimizer for writing better prompts and getting better AI results.
 
 ---
 
-### 796. FujiwaraChoki/MoneyPrinterV2
+### 788. FujiwaraChoki/MoneyPrinterV2
 
 | 属性 | 信息 |
 |---|---|
@@ -2741,7 +2512,7 @@ Automate the process of making money online.
 
 ---
 
-### 797. kovidgoyal/kitty
+### 789. kovidgoyal/kitty
 
 | 属性 | 信息 |
 |---|---|
@@ -2770,7 +2541,7 @@ If you live in the terminal, kitty is made for you! Cross-platform, fast, featur
 
 ---
 
-### 798. 78/xiaozhi-esp32
+### 790. 78/xiaozhi-esp32
 
 | 属性 | 信息 |
 |---|---|
@@ -2799,7 +2570,7 @@ An MCP-based chatbot | 一个基于MCP的聊天机器人
 
 ---
 
-### 799. nicolargo/glances
+### 791. nicolargo/glances
 
 | 属性 | 信息 |
 |---|---|
@@ -2828,7 +2599,7 @@ Glances 替你监控系统。GNU/Linux、BSD、Mac OS 和 Windows 操作系统�
 
 ---
 
-### 800. qdrant/qdrant
+### 792. qdrant/qdrant
 
 | 属性 | 信息 |
 |---|---|
@@ -2853,6 +2624,230 @@ Qdrant - 面向下一代 AI 的高性能、大规模向量数据库和向量搜�
 **Topics**：ai-search, ai-search-engine, embeddings-similarity, hnsw, hybrid-search, image-search, knn-algorithm, machine-learning, mlops, nearest-neighbor-search, neural-network, neural-search, recommender-system, search, search-engine, search-engines, similarity-search, vector-database, vector-search, vector-search-engine
 
 **中文Topics**：ai-search, ai-search-engine, embeddings-similarity, hnsw, 混合搜索, 图像搜索, knn-algorithm, 机器学习, mlops, nearest-neighbor-search, 神经网络, neural-search, 推荐系统, 搜索, search-engine, search-engines, 相似性搜索, 向量数据库, 向量搜索, vector-search-engine
+
+
+---
+
+### 793. tinyhumansai/openhuman
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
+| ⭐ Stars | 30956 |
+| 🍴 Forks | 2996 |
+| 👀 Watchers | 30956 |
+| 📝 Open Issues | 103 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-02-18 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Your Personal AI super intelligence. Private, Simple and extremely powerful.
+
+**中文简介**：
+您的个人人工智能超级智能。私密、简单且极其强大。
+
+
+**Topics**：-
+
+
+
+---
+
+### 794. microsoft/WSL
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/microsoft/WSL](https://github.com/microsoft/WSL) |
+| ⭐ Stars | 32579 |
+| 🍴 Forks | 1749 |
+| 👀 Watchers | 32579 |
+| 📝 Open Issues | 935 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2016-04-06 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Windows Subsystem for Linux
+
+**中文简介**：
+适用于 Linux 的 Windows 子系统。
+
+
+**Topics**：-
+
+
+
+---
+
+### 795. facefusion/facefusion
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/facefusion/facefusion](https://github.com/facefusion/facefusion) |
+| ⭐ Stars | 28697 |
+| 🍴 Forks | 4682 |
+| 👀 Watchers | 28697 |
+| 📝 Open Issues | 1 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2023-08-17 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Industry leading face manipulation platform
+
+**中文简介**：
+行业领先的人脸操控平台
+
+
+**Topics**：ai, deep-fake, deepfake, face-swap, faceswap, lip-sync, lipsync
+
+
+
+---
+
+### 796. sipeed/picoclaw
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/sipeed/picoclaw](https://github.com/sipeed/picoclaw) |
+| ⭐ Stars | 29297 |
+| 🍴 Forks | 4199 |
+| 👀 Watchers | 29297 |
+| 📝 Open Issues | 67 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2026-02-04 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+
+**中文简介**：
+小巧、快速且可在任何地方部署 — 自动化日常工作，释放您的创造力
+
+
+**Topics**：-
+
+
+
+---
+
+### 797. datawhalechina/happy-llm
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) |
+| ⭐ Stars | 30918 |
+| 🍴 Forks | 2936 |
+| 👀 Watchers | 30918 |
+| 📝 Open Issues | 61 |
+| 💻 主语言 | Jupyter Notebook |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-05-28 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+📚 从零开始构建大模型
+
+
+
+**Topics**：agent, llm, rag
+
+**中文Topics**：代理人, llm, rag
+
+
+---
+
+### 798. codex-team/editor.js
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/codex-team/editor.js](https://github.com/codex-team/editor.js) |
+| ⭐ Stars | 31809 |
+| 🍴 Forks | 2233 |
+| 👀 Watchers | 31809 |
+| 📝 Open Issues | 693 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2015-11-28 |
+| 🔄 最后更新 | 2026-06-05 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A block-style editor with clean JSON output
+
+**中文简介**：
+一款块级编辑器，输出简洁的 JSON
+
+
+**Topics**：codex-editor, editor, javascript, json, redactor, typescript, ui, wysiwyg
+
+**中文Topics**：codex-editor, 编辑器, javascript, json, 编辑器, typescript, ui, wysiwyg
+
+
+---
+
+### 799. ComposioHQ/composio
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ComposioHQ/composio](https://github.com/ComposioHQ/composio) |
+| ⭐ Stars | 28659 |
+| 🍴 Forks | 4608 |
+| 👀 Watchers | 28659 |
+| 📝 Open Issues | 122 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-02-23 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
+
+**中文简介**：
+Composio 支持 1000 多个工具包、工具搜索、上下文管理、身份验证和沙盒工作台，帮助您构建将意图转化为行动的 AI 代理。
+
+
+**Topics**：agentic-ai, agents, ai, ai-agents, aiagents, developer-tools, function-calling, gpt-4, javascript, js, llm, llmops, mcp, python, remote-mcp-server, sse, typescript
+
+
+
+---
+
+### 800. getredash/redash
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/getredash/redash](https://github.com/getredash/redash) |
+| ⭐ Stars | 28621 |
+| 🍴 Forks | 4601 |
+| 👀 Watchers | 28621 |
+| 📝 Open Issues | 787 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2013-10-28 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-2-Clause |
+
+**简介**：
+Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+
+**中文简介**：
+让您的公司由数据驱动。连接到任何数据源，轻松可视化、仪表板并共享您的数据。
+
+
+**Topics**：analytics, athena, bi, bigquery, business-intelligence, dashboard, databricks, hacktoberfest, javascript, mariadb, mysql, postgresql, python, redash, redshift, snowflake, spark, spark-sql, visualization
+
 
 
 ---
