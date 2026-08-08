@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 2 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **1729** 个项目
+共收录 **1731** 个项目
 （第 2/18 页）
 
 ## 项目列表
@@ -2102,7 +2102,7 @@ ORM
 
 **Topics**：bunjs, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, turso, typescript
 
-**中文Topics**：bunjs, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, turso, typescript
+**中文Topics**：邦杰斯, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, 图尔索, typescript
 
 
 ---

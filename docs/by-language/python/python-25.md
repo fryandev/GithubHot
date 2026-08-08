@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **2488** 个项目
+共收录 **2489** 个项目
 （第 25/25 页）
 
 ## 项目列表
@@ -2461,6 +2461,35 @@ A skill for your coding agent to stop it from burying the answer. ADHD-friendly 
 
 **Topics**：-
 
+
+
+---
+
+### 2489. huangruiteng/loopx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/huangruiteng/loopx](https://github.com/huangruiteng/loopx) |
+| ⭐ Stars | 3394 |
+| 🍴 Forks | 266 |
+| 👀 Watchers | 3394 |
+| 📝 Open Issues | 32 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-31 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+
+**中文简介**：
+适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。
+
+
+**Topics**：agent-control-plane, agent-ops, ai-agents, codex, long-running-agents, loop-engineering, loopx, workflow-automation
+
+**中文Topics**：代理控制平面, 代理操作, 人工智能代理, codex, 长期运行代理, 循环工程, 循环x, 工作流程自动化
 
 
 ---

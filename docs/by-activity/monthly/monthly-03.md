@@ -1,130 +1,15 @@
 # 📆 最近90天活跃 - 第 3 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **6909** 个项目
-（第 3/70 页）
+共收录 **6737** 个项目
+（第 3/68 页）
 
 ## 项目列表
 
 
-### 201. bradtraversy/design-resources-for-developers
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) |
-| ⭐ Stars | 65950 |
-| 🍴 Forks | 12077 |
-| 👀 Watchers | 65950 |
-| 📝 Open Issues | 32 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2020-05-06 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-**中文简介**：
-精心整理的设计与 UI 资源列表，涵盖库存图片、网页模板、CSS 框架、UI 组件库、工具等。
-
-
-**Topics**：-
-
-
-
----
-
-### 202. thedaviddias/Front-End-Checklist
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) |
-| ⭐ Stars | 72836 |
-| 🍴 Forks | 6657 |
-| 👀 Watchers | 72836 |
-| 📝 Open Issues | 1 |
-| 💻 主语言 | MDX |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2017-10-16 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-🗂 The essential checklist for modern web development, for humans and AI agents
-
-**中文简介**：
-🗂 现代 Web 开发的必备清单，面向人类和 AI 智能体
-
-
-**Topics**：ai-agent, ai-agents, checklist, css, front-end-developer-tool, front-end-development, frontend, guidelines, html, javascript, lists, reference, resources, rules, web-development
-
-**中文Topics**：ai-agent, ai-agents, 清单, css, front-end-developer-tool, 前端开发, frontend, 指南, html, javascript, 列表, 参考, 资源, 规则, web-development
-
-
----
-
-### 203. reduxjs/redux
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/reduxjs/redux](https://github.com/reduxjs/redux) |
-| ⭐ Stars | 61461 |
-| 🍴 Forks | 15060 |
-| 👀 Watchers | 61461 |
-| 📝 Open Issues | 44 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2015-05-29 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-A JS library for predictable global state management
-
-**中文简介**：
-一个用于可预测的全局状态管理的 JS 库
-
-
-**Topics**：redux
-
-**中文Topics**：redux
-
-
----
-
-### 204. ultralytics/yolov5
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5) |
-| ⭐ Stars | 57496 |
-| 🍴 Forks | 17472 |
-| 👀 Watchers | 57496 |
-| 📝 Open Issues | 44 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2020-05-18 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | AGPL-3.0 |
-
-**简介**：
-YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
-
-**中文简介**：
-YOLOv5 🚀 PyTorch → ONNX → CoreML → TFLite
-
-
-**Topics**：coreml, deep-learning, ios, machine-learning, ml, object-detection, onnx, pytorch, tflite, ultralytics, yolo, yolov3, yolov5
-
-**中文Topics**：coreml, 深度学习, ios, 机器学习, ml, 目标检测, onnx, pytorch, tflite, ultralytics, yolo, yolov3, yolov5
-
-
----
-
-### 205. ethereum/go-ethereum
+### 201. ethereum/go-ethereum
 
 | 属性 | 信息 |
 |---|---|
@@ -153,7 +38,7 @@ Go implementation of the Ethereum protocol
 
 ---
 
-### 206. daytonaio/daytona
+### 202. daytonaio/daytona
 
 | 属性 | 信息 |
 |---|---|
@@ -182,7 +67,7 @@ Daytona 是一个用于运行 AI 生成代码的安全弹性基础设施
 
 ---
 
-### 207. caddyserver/caddy
+### 203. caddyserver/caddy
 
 | 属性 | 信息 |
 |---|---|
@@ -211,7 +96,7 @@ Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ---
 
-### 208. NationalSecurityAgency/ghidra
+### 204. NationalSecurityAgency/ghidra
 
 | 属性 | 信息 |
 |---|---|
@@ -240,7 +125,7 @@ Ghidra 是一款软件逆向工程（SRE）框架
 
 ---
 
-### 209. FFmpeg/FFmpeg
+### 205. FFmpeg/FFmpeg
 
 | 属性 | 信息 |
 |---|---|
@@ -269,7 +154,7 @@ https://git.ffmpeg.org/ffmpeg.git 的镜像
 
 ---
 
-### 210. shareAI-lab/learn-claude-code
+### 206. shareAI-lab/learn-claude-code
 
 | 属性 | 信息 |
 |---|---|
@@ -298,7 +183,7 @@ Bash 就是你所需要的一切——一个从零到一构建的 nano claude co
 
 ---
 
-### 211. AppFlowy-IO/AppFlowy
+### 207. AppFlowy-IO/AppFlowy
 
 | 属性 | 信息 |
 |---|---|
@@ -327,7 +212,7 @@ Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborat
 
 ---
 
-### 212. unionlabs/union
+### 208. unionlabs/union
 
 | 属性 | 信息 |
 |---|---|
@@ -356,7 +241,7 @@ The trust-minimized, zero-knowledge bridging protocol, designed for censorship r
 
 ---
 
-### 213. qmk/qmk_firmware
+### 209. qmk/qmk_firmware
 
 | 属性 | 信息 |
 |---|---|
@@ -384,7 +269,7 @@ Open-source keyboard firmware for Atmel AVR and Arm USB families
 
 ---
 
-### 214. 666ghj/MiroFish
+### 210. 666ghj/MiroFish
 
 | 属性 | 信息 |
 |---|---|
@@ -413,7 +298,7 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ---
 
-### 215. leonardomso/33-js-concepts
+### 211. leonardomso/33-js-concepts
 
 | 属性 | 信息 |
 |---|---|
@@ -442,7 +327,7 @@ A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通
 
 ---
 
-### 216. facebook/docusaurus
+### 212. facebook/docusaurus
 
 | 属性 | 信息 |
 |---|---|
@@ -471,7 +356,7 @@ Easy to maintain open source documentation websites.
 
 ---
 
-### 217. prometheus/prometheus
+### 213. prometheus/prometheus
 
 | 属性 | 信息 |
 |---|---|
@@ -500,7 +385,7 @@ Prometheus 监控系统和时序数据库。
 
 ---
 
-### 218. webpack/webpack
+### 214. webpack/webpack
 
 | 属性 | 信息 |
 |---|---|
@@ -529,7 +414,7 @@ JavaScript 及其生态的打包工具。将多个模块打包成少量资源文
 
 ---
 
-### 219. rust-lang/rustlings
+### 215. rust-lang/rustlings
 
 | 属性 | 信息 |
 |---|---|
@@ -558,7 +443,7 @@ JavaScript 及其生态的打包工具。将多个模块打包成少量资源文
 
 ---
 
-### 220. OpenBB-finance/OpenBB
+### 216. OpenBB-finance/OpenBB
 
 | 属性 | 信息 |
 |---|---|
@@ -587,7 +472,7 @@ Financial data platform for analysts, quants and AI agents.
 
 ---
 
-### 221. scrapy/scrapy
+### 217. scrapy/scrapy
 
 | 属性 | 信息 |
 |---|---|
@@ -616,7 +501,7 @@ Scrapy，一个用于 Python 的快速高级 Web 爬取与抓取框架。
 
 ---
 
-### 222. Eugeny/tabby
+### 218. Eugeny/tabby
 
 | 属性 | 信息 |
 |---|---|
@@ -645,7 +530,7 @@ A terminal for a more modern age
 
 ---
 
-### 223. unclecode/crawl4ai
+### 219. unclecode/crawl4ai
 
 | 属性 | 信息 |
 |---|---|
@@ -673,7 +558,7 @@ A terminal for a more modern age
 
 ---
 
-### 224. apache/dubbo
+### 220. apache/dubbo
 
 | 属性 | 信息 |
 |---|---|
@@ -702,7 +587,7 @@ Apache Dubbo的Java实现，一款RPC和微服务框架
 
 ---
 
-### 225. socketio/socket.io
+### 221. socketio/socket.io
 
 | 属性 | 信息 |
 |---|---|
@@ -731,7 +616,7 @@ Bidirectional and low-latency communication for every platform
 
 ---
 
-### 226. commaai/openpilot
+### 222. commaai/openpilot
 
 | 属性 | 信息 |
 |---|---|
@@ -760,7 +645,7 @@ openpilot 是一个机器人操作系统。目前，它为 300 多款支持的�
 
 ---
 
-### 227. pandas-dev/pandas
+### 223. pandas-dev/pandas
 
 | 属性 | 信息 |
 |---|---|
@@ -789,7 +674,7 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 
 ---
 
-### 228. toeverything/AFFiNE
+### 224. toeverything/AFFiNE
 
 | 属性 | 信息 |
 |---|---|
@@ -818,7 +703,7 @@ There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next
 
 ---
 
-### 229. h5bp/Front-end-Developer-Interview-Questions
+### 225. h5bp/Front-end-Developer-Interview-Questions
 
 | 属性 | 信息 |
 |---|---|
@@ -847,7 +732,7 @@ A list of helpful front-end related questions you can use to interview potential
 
 ---
 
-### 230. JuliusBrussee/caveman
+### 226. JuliusBrussee/caveman
 
 | 属性 | 信息 |
 |---|---|
@@ -876,7 +761,7 @@ A list of helpful front-end related questions you can use to interview potential
 
 ---
 
-### 231. opendatalab/MinerU
+### 227. opendatalab/MinerU
 
 | 属性 | 信息 |
 |---|---|
@@ -905,7 +790,7 @@ Transforms complex documents like PDFs and Office docs into LLM-ready markdown/J
 
 ---
 
-### 232. virattt/ai-hedge-fund
+### 228. virattt/ai-hedge-fund
 
 | 属性 | 信息 |
 |---|---|
@@ -933,7 +818,7 @@ An AI Hedge Fund Team
 
 ---
 
-### 233. unslothai/unsloth
+### 229. unslothai/unsloth
 
 | 属性 | 信息 |
 |---|---|
@@ -962,7 +847,7 @@ Unsloth Studio 是一个用于在本地训练和运行 Gemma 4、Qwen3.6、DeepS
 
 ---
 
-### 234. h5bp/html5-boilerplate
+### 230. h5bp/html5-boilerplate
 
 | 属性 | 信息 |
 |---|---|
@@ -991,7 +876,7 @@ A professional front-end template for building fast, robust, and adaptable web a
 
 ---
 
-### 235. nektos/act
+### 231. nektos/act
 
 | 属性 | 信息 |
 |---|---|
@@ -1020,7 +905,7 @@ Run your GitHub Actions locally 🚀
 
 ---
 
-### 236. deepfakes/faceswap
+### 232. deepfakes/faceswap
 
 | 属性 | 信息 |
 |---|---|
@@ -1049,7 +934,7 @@ Deepfakes Software For All
 
 ---
 
-### 237. ultralytics/ultralytics
+### 233. ultralytics/ultralytics
 
 | 属性 | 信息 |
 |---|---|
@@ -1071,12 +956,12 @@ Ultralytics YOLO 🚀
 
 **Topics**：cli, computer-vision, deep-learning, hub, image-classification, instance-segmentation, machine-learning, object-detection, pose-estimation, python, pytorch, rotated-object-detection, segment-anything, tracking, ultralytics, yolo, yolo-world, yolo11, yolo26, yolov8
 
-**中文Topics**：cli, computer-vision, deep-learning, hub, image-classification, instance-segmentation, machine-learning, object-detection, pose-estimation, python, pytorch, rotated-object-detection, segment-anything, tracking, ultralytics, yolo, yolo-world, yolo11, yolo26, yolov8
+**中文Topics**：cli, 计算机视觉, 深度学习, 中心, 图像分类, 实例分割, 机器学习, 物体检测, 姿态估计, python, pytorch, 旋转物体检测, 分割任何东西, 追踪, 超解剂, 约洛, yolo世界, 约洛11, yolo26, 约洛夫8
 
 
 ---
 
-### 238. ComposioHQ/awesome-claude-skills
+### 234. ComposioHQ/awesome-claude-skills
 
 | 属性 | 信息 |
 |---|---|
@@ -1105,7 +990,7 @@ A curated list of awesome Claude Skills, resources, and tools for customizing Cl
 
 ---
 
-### 239. base/node
+### 235. base/node
 
 | 属性 | 信息 |
 |---|---|
@@ -1133,7 +1018,7 @@ Everything required to run your own Base node
 
 ---
 
-### 240. cline/cline
+### 236. cline/cline
 
 | 属性 | 信息 |
 |---|---|
@@ -1161,7 +1046,7 @@ Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ---
 
-### 241. traefik/traefik
+### 237. traefik/traefik
 
 | 属性 | 信息 |
 |---|---|
@@ -1190,7 +1075,7 @@ The Cloud Native Application Proxy
 
 ---
 
-### 242. gsd-build/get-shit-done
+### 238. gsd-build/get-shit-done
 
 | 属性 | 信息 |
 |---|---|
@@ -1219,7 +1104,7 @@ A light-weight and powerful meta-prompting, context engineering and spec-driven 
 
 ---
 
-### 243. openinterpreter/open-interpreter
+### 239. openinterpreter/open-interpreter
 
 | 属性 | 信息 |
 |---|---|
@@ -1248,7 +1133,7 @@ A natural language interface for computers
 
 ---
 
-### 244. remix-run/react-router
+### 240. remix-run/react-router
 
 | 属性 | 信息 |
 |---|---|
@@ -1276,7 +1161,7 @@ React 的声明式路由库。
 
 ---
 
-### 245. gorhill/uBlock
+### 241. gorhill/uBlock
 
 | 属性 | 信息 |
 |---|---|
@@ -1305,36 +1190,7 @@ uBlock Origin - 适用于 Chromium 和 Firefox 的高效拦截器。快速且精
 
 ---
 
-### 246. lodash/lodash
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/lodash/lodash](https://github.com/lodash/lodash) |
-| ⭐ Stars | 61232 |
-| 🍴 Forks | 7170 |
-| 👀 Watchers | 61232 |
-| 📝 Open Issues | 150 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2012-04-07 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-A modern JavaScript utility library delivering modularity, performance, & extras.
-
-**中文简介**：
-一个现代 JavaScript 工具库，提供模块化、性能和额外功能。
-
-
-**Topics**：javascript, lodash, modules, utilities
-
-**中文Topics**：javascript, lodash, modules, utilities
-
-
----
-
-### 247. ionic-team/ionic-framework
+### 242. ionic-team/ionic-framework
 
 | 属性 | 信息 |
 |---|---|
@@ -1363,7 +1219,7 @@ A powerful cross-platform UI toolkit for building native-quality iOS, Android, a
 
 ---
 
-### 248. earendil-works/pi
+### 243. earendil-works/pi
 
 | 属性 | 信息 |
 |---|---|
@@ -1391,7 +1247,7 @@ AI 智能体工具包：编程智能体 CLI、统一 LLM API、TUI 与 Web UI �
 
 ---
 
-### 249. Mintplex-Labs/anything-llm
+### 244. Mintplex-Labs/anything-llm
 
 | 属性 | 信息 |
 |---|---|
@@ -1420,7 +1276,7 @@ Stop renting your intelligence. Own it with AnythingLLM. Everything you need for
 
 ---
 
-### 250. wasabeef/awesome-android-ui
+### 245. wasabeef/awesome-android-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -1449,7 +1305,7 @@ A curated list of awesome Android UI/UX libraries
 
 ---
 
-### 251. tldr-pages/tldr
+### 246. tldr-pages/tldr
 
 | 属性 | 信息 |
 |---|---|
@@ -1478,7 +1334,7 @@ Collaborative cheatsheets for console commands 📚.
 
 ---
 
-### 252. nocodb/nocodb
+### 247. nocodb/nocodb
 
 | 属性 | 信息 |
 |---|---|
@@ -1507,7 +1363,7 @@ Collaborative cheatsheets for console commands 📚.
 
 ---
 
-### 253. ColorlibHQ/AdminLTE
+### 248. ColorlibHQ/AdminLTE
 
 | 属性 | 信息 |
 |---|---|
@@ -1536,7 +1392,7 @@ AdminLTE —— 基于 Bootstrap 5 的免费管理后台仪表盘模板。
 
 ---
 
-### 254. D4Vinci/Scrapling
+### 249. D4Vinci/Scrapling
 
 | 属性 | 信息 |
 |---|---|
@@ -1565,7 +1421,7 @@ AdminLTE —— 基于 Bootstrap 5 的免费管理后台仪表盘模板。
 
 ---
 
-### 255. gatsbyjs/gatsby
+### 250. gatsbyjs/gatsby
 
 | 属性 | 信息 |
 |---|---|
@@ -1594,7 +1450,7 @@ React-based framework with performance, scalability, and security built in.
 
 ---
 
-### 256. nexu-io/open-design
+### 251. nexu-io/open-design
 
 | 属性 | 信息 |
 |---|---|
@@ -1623,7 +1479,7 @@ React-based framework with performance, scalability, and security built in.
 
 ---
 
-### 257. TryGhost/Ghost
+### 252. TryGhost/Ghost
 
 | 属性 | 信息 |
 |---|---|
@@ -1652,7 +1508,7 @@ Independent technology for modern publishing, memberships, subscriptions and new
 
 ---
 
-### 258. pewdiepie-archdaemon/odysseus
+### 253. pewdiepie-archdaemon/odysseus
 
 | 属性 | 信息 |
 |---|---|
@@ -1680,7 +1536,7 @@ Self-hosted AI workspace.
 
 ---
 
-### 259. safishamsi/graphify
+### 254. safishamsi/graphify
 
 | 属性 | 信息 |
 |---|---|
@@ -1709,7 +1565,7 @@ AI 编程助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等
 
 ---
 
-### 260. alacritty/alacritty
+### 255. alacritty/alacritty
 
 | 属性 | 信息 |
 |---|---|
@@ -1738,7 +1594,7 @@ A cross-platform, OpenGL terminal emulator.
 
 ---
 
-### 261. jgraph/drawio-desktop
+### 256. jgraph/drawio-desktop
 
 | 属性 | 信息 |
 |---|---|
@@ -1767,7 +1623,7 @@ draw.io 的官方 electron 构建版本
 
 ---
 
-### 262. FuelLabs/sway
+### 257. FuelLabs/sway
 
 | 属性 | 信息 |
 |---|---|
@@ -1796,7 +1652,7 @@ draw.io 的官方 electron 构建版本
 
 ---
 
-### 263. apache/airflow
+### 258. apache/airflow
 
 | 属性 | 信息 |
 |---|---|
@@ -1825,7 +1681,7 @@ Apache Airflow —— 一个以编程方式编写、调度和监控工作流的�
 
 ---
 
-### 264. BurntSushi/ripgrep
+### 259. BurntSushi/ripgrep
 
 | 属性 | 信息 |
 |---|---|
@@ -1854,7 +1710,7 @@ ripgrep 在尊重你的 gitignore 的前提下，递归搜索目录中的正则�
 
 ---
 
-### 265. LadybirdBrowser/ladybird
+### 260. LadybirdBrowser/ladybird
 
 | 属性 | 信息 |
 |---|---|
@@ -1883,7 +1739,7 @@ Truly independent web browser
 
 ---
 
-### 266. jeecgboot/JeecgBoot
+### 261. jeecgboot/JeecgBoot
 
 | 属性 | 信息 |
 |---|---|
@@ -1910,7 +1766,7 @@ AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生�
 
 ---
 
-### 267. warpdotdev/warp
+### 262. warpdotdev/warp
 
 | 属性 | 信息 |
 |---|---|
@@ -1939,7 +1795,7 @@ Warp 是一个智能体开发环境，诞生于终端。
 
 ---
 
-### 268. code-yeongyu/oh-my-openagent
+### 263. code-yeongyu/oh-my-openagent
 
 | 属性 | 信息 |
 |---|---|
@@ -1968,7 +1824,7 @@ omo；复杂代码库独一无二的智能体驾驭工具，复杂软件工程�
 
 ---
 
-### 269. nuxt/nuxt
+### 264. nuxt/nuxt
 
 | 属性 | 信息 |
 |---|---|
@@ -1997,7 +1853,7 @@ the full-stack Vue framework
 
 ---
 
-### 270. koala73/worldmonitor
+### 265. koala73/worldmonitor
 
 | 属性 | 信息 |
 |---|---|
@@ -2026,7 +1882,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ---
 
-### 271. 2dust/v2rayNG
+### 266. 2dust/v2rayNG
 
 | 属性 | 信息 |
 |---|---|
@@ -2055,7 +1911,7 @@ Android 版 V2Ray 客户端，支持 Xray 核心和 v2fly 核心
 
 ---
 
-### 272. mozilla/pdf.js
+### 267. mozilla/pdf.js
 
 | 属性 | 信息 |
 |---|---|
@@ -2083,7 +1939,7 @@ JavaScript 版 PDF 阅读器。
 
 ---
 
-### 273. zylon-ai/private-gpt
+### 268. zylon-ai/private-gpt
 
 | 属性 | 信息 |
 |---|---|
@@ -2112,7 +1968,7 @@ Interact with your documents using the power of GPT, 100% privately, no data lea
 
 ---
 
-### 274. psf/requests
+### 269. psf/requests
 
 | 属性 | 信息 |
 |---|---|
@@ -2141,7 +1997,7 @@ A simple, yet elegant, HTTP library.
 
 ---
 
-### 275. docling-project/docling
+### 270. docling-project/docling
 
 | 属性 | 信息 |
 |---|---|
@@ -2170,7 +2026,7 @@ Get your documents ready for gen AI
 
 ---
 
-### 276. expo/expo
+### 271. expo/expo
 
 | 属性 | 信息 |
 |---|---|
@@ -2199,7 +2055,7 @@ An open-source framework for making universal native apps with React. Expo runs 
 
 ---
 
-### 277. mem0ai/mem0
+### 272. mem0ai/mem0
 
 | 属性 | 信息 |
 |---|---|
@@ -2228,7 +2084,7 @@ AI 智能体的通用记忆层
 
 ---
 
-### 278. datawhalechina/hello-agents
+### 273. datawhalechina/hello-agents
 
 | 属性 | 信息 |
 |---|---|
@@ -2255,7 +2111,7 @@ AI 智能体的通用记忆层
 
 ---
 
-### 279. usememos/memos
+### 274. usememos/memos
 
 | 属性 | 信息 |
 |---|---|
@@ -2284,7 +2140,7 @@ Open-source, self-hosted note-taking tool built for quick capture. Markdown-nati
 
 ---
 
-### 280. google/material-design-icons
+### 275. google/material-design-icons
 
 | 属性 | 信息 |
 |---|---|
@@ -2313,7 +2169,7 @@ Google 的 Material Design 图标（Material Symbols）
 
 ---
 
-### 281. google/guava
+### 276. google/guava
 
 | 属性 | 信息 |
 |---|---|
@@ -2342,7 +2198,7 @@ Google Java核心库。
 
 ---
 
-### 282. vuejs/core
+### 277. vuejs/core
 
 | 属性 | 信息 |
 |---|---|
@@ -2370,7 +2226,7 @@ Google Java核心库。
 
 ---
 
-### 283. dani-garcia/vaultwarden
+### 278. dani-garcia/vaultwarden
 
 | 属性 | 信息 |
 |---|---|
@@ -2399,7 +2255,7 @@ Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar
 
 ---
 
-### 284. etcd-io/etcd
+### 279. etcd-io/etcd
 
 | 属性 | 信息 |
 |---|---|
@@ -2428,7 +2284,7 @@ Distributed reliable key-value store for the most critical data of a distributed
 
 ---
 
-### 285. freqtrade/freqtrade
+### 280. freqtrade/freqtrade
 
 | 属性 | 信息 |
 |---|---|
@@ -2457,7 +2313,7 @@ Free, open source crypto trading bot
 
 ---
 
-### 286. go-gitea/gitea
+### 281. go-gitea/gitea
 
 | 属性 | 信息 |
 |---|---|
@@ -2486,7 +2342,7 @@ Git with a cup of tea! Painless self-hosted all-in-one software development serv
 
 ---
 
-### 287. pathwaycom/pathway
+### 282. pathwaycom/pathway
 
 | 属性 | 信息 |
 |---|---|
@@ -2515,7 +2371,7 @@ Python ETL framework for stream processing, real-time analytics, LLM pipelines, 
 
 ---
 
-### 288. NanmiCoder/MediaCrawler
+### 283. NanmiCoder/MediaCrawler
 
 | 属性 | 信息 |
 |---|---|
@@ -2543,7 +2399,7 @@ Python ETL framework for stream processing, real-time analytics, LLM pipelines, 
 
 ---
 
-### 289. PowerShell/PowerShell
+### 284. PowerShell/PowerShell
 
 | 属性 | 信息 |
 |---|---|
@@ -2572,7 +2428,7 @@ PowerShell for every system!
 
 ---
 
-### 290. termux/termux-app
+### 285. termux/termux-app
 
 | 属性 | 信息 |
 |---|---|
@@ -2601,7 +2457,7 @@ Termux——Android 操作系统上的终端模拟器应用，可通过多种包
 
 ---
 
-### 291. rclone/rclone
+### 286. rclone/rclone
 
 | 属性 | 信息 |
 |---|---|
@@ -2630,7 +2486,7 @@ Termux——Android 操作系统上的终端模拟器应用，可通过多种包
 
 ---
 
-### 292. Zie619/n8n-workflows
+### 287. Zie619/n8n-workflows
 
 | 属性 | 信息 |
 |---|---|
@@ -2658,7 +2514,7 @@ all of the workflows of n8n i could find (also from the site itself)
 
 ---
 
-### 293. withastro/astro
+### 288. withastro/astro
 
 | 属性 | 信息 |
 |---|---|
@@ -2687,7 +2543,7 @@ The web framework for content-driven websites. ⭐️ Star to support our work!
 
 ---
 
-### 294. rtk-ai/rtk
+### 289. rtk-ai/rtk
 
 | 属性 | 信息 |
 |---|---|
@@ -2716,7 +2572,7 @@ CLI 代理，可将常见开发命令的 LLM token 消耗降低 60-90%。单个 
 
 ---
 
-### 295. shanraisshan/claude-code-best-practice
+### 290. shanraisshan/claude-code-best-practice
 
 | 属性 | 信息 |
 |---|---|
@@ -2745,7 +2601,7 @@ from vibe coding to agentic engineering - practice makes claude perfect
 
 ---
 
-### 296. llvm/llvm-project
+### 291. llvm/llvm-project
 
 | 属性 | 信息 |
 |---|---|
@@ -2773,7 +2629,7 @@ LLVM 项目是一组模块化且可复用的编译器与工具链技术集合。
 
 ---
 
-### 297. MemPalace/mempalace
+### 292. MemPalace/mempalace
 
 | 属性 | 信息 |
 |---|---|
@@ -2802,7 +2658,7 @@ The best-benchmarked open-source AI memory system. And it's free.
 
 ---
 
-### 298. RocketChat/Rocket.Chat
+### 293. RocketChat/Rocket.Chat
 
 | 属性 | 信息 |
 |---|---|
@@ -2831,7 +2687,7 @@ The Secure CommsOS™ for mission-critical operations
 
 ---
 
-### 299. calcom/cal.diy
+### 294. calcom/cal.diy
 
 | 属性 | 信息 |
 |---|---|
@@ -2860,7 +2716,7 @@ Scheduling infrastructure for absolutely everyone.
 
 ---
 
-### 300. tw93/Pake
+### 295. tw93/Pake
 
 | 属性 | 信息 |
 |---|---|
@@ -2885,6 +2741,151 @@ Scheduling infrastructure for absolutely everyone.
 **Topics**：chatgpt, claude, desktop, gemini, hight-performance, linux, macos, no-electron, package, rust, tauri, windows, youtube
 
 **中文Topics**：chatgpt, claude, 桌面, gemini, 高性能, linux, macos, no-electron, package, rust, tauri, windows, youtube
+
+
+---
+
+### 296. pocketbase/pocketbase
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) |
+| ⭐ Stars | 58920 |
+| 🍴 Forks | 3439 |
+| 👀 Watchers | 58920 |
+| 📝 Open Issues | 17 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2022-07-05 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Open Source realtime backend in 1 file
+
+**中文简介**：
+单文件开源实时后端
+
+
+**Topics**：authentication, backend, golang, realtime
+
+**中文Topics**：认证, 后端, golang, 实时
+
+
+---
+
+### 297. appwrite/appwrite
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/appwrite/appwrite](https://github.com/appwrite/appwrite) |
+| ⭐ Stars | 56217 |
+| 🍴 Forks | 5422 |
+| 👀 Watchers | 56217 |
+| 📝 Open Issues | 941 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2019-04-08 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-3-Clause |
+
+**简介**：
+Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+
+**中文简介**：
+Appwrite®——为你的 Web、移动和 AI 应用提供完整的云基础设施。包括认证、数据库、存储、函数、消息、托管、实时等功能。
+
+
+**Topics**：android, appwrite, backend, backend-as-a-service, docker, firebase, flutter, hosting, ios, javascript, nextjs, react, react-native, reactnative, self-hosted, selfhosted, serverless, supabase, swift, web
+
+**中文Topics**：android, appwrite, 后端, backend-as-a-service, docker, firebase, flutter, 托管, ios, javascript, nextjs, react, react-native, reactnative, 自托管, selfhosted, 无服务器, supabase, swift, web
+
+
+---
+
+### 298. pi-hole/pi-hole
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) |
+| ⭐ Stars | 59145 |
+| 🍴 Forks | 3215 |
+| 👀 Watchers | 59145 |
+| 📝 Open Issues | 46 |
+| 💻 主语言 | Shell |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2014-06-08 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+A black hole for Internet advertisements
+
+**中文简介**：
+互联网广告的超级黑洞
+
+
+**Topics**：ad-blocker, blocker, cloud, dashboard, dhcp, dhcp-server, dns-server, dnsmasq, pi-hole, raspberry-pi, shell
+
+**中文Topics**：广告拦截器, 拦截器, 云, 仪表盘, dhcp, dhcp服务器, dns服务器, dnsmasq, pi-hole, 树莓派, shell
+
+
+---
+
+### 299. laurent22/joplin
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/laurent22/joplin](https://github.com/laurent22/joplin) |
+| ⭐ Stars | 55105 |
+| 🍴 Forks | 6143 |
+| 👀 Watchers | 55105 |
+| 📝 Open Issues | 587 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2017-01-16 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+**中文简介**：
+Joplin——注重隐私的笔记应用，支持 Windows、macOS、Linux、Android 和 iOS 同步。
+
+
+**Topics**：android, dropbox, electron, enex-files, evernote, javascript, joplin, nextcloud, nodejs, note-taking, notesnook, obsidian, onedrive, react-native, standardnotes, synchronisation, web-clipper, webdav
+
+**中文Topics**：android, dropbox, electron, enex-files, evernote, javascript, joplin, nextcloud, nodejs, 笔记, notesnook, obsidian, onedrive, react-native, standardnotes, 同步, 网页剪辑器, webdav
+
+
+---
+
+### 300. Homebrew/brew
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Homebrew/brew](https://github.com/Homebrew/brew) |
+| ⭐ Stars | 48321 |
+| 🍴 Forks | 11153 |
+| 👀 Watchers | 48321 |
+| 📝 Open Issues | 15 |
+| 💻 主语言 | Ruby |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2016-03-06 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | BSD-2-Clause |
+
+**简介**：
+🍺 The missing package manager for macOS (or Linux)
+
+**中文简介**：
+🍺 macOS（或Linux）缺失的包管理器。
+
+
+**Topics**：brew, homebrew, macos, package-manager, ruby
+
+**中文Topics**：brew, homebrew, macos, 包管理器, ruby
 
 
 ---

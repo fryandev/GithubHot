@@ -1,7 +1,7 @@
 # ⭐ 热门 - 第 77 页
 
 > ⭐ 热门 项目列表
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
 共收录 **12283** 个项目
 （第 77/123 页）
@@ -2389,7 +2389,7 @@ Flagsmith 是一个开源功能标记和远程配置服务。自托管或使用�
 
 **Topics**：bootstrap, docker, favorites, jpa, spring, spring-boot, spring-data-jpa, spring-session, springboot, springdatajpa, springsession, thymeleaf, webjars
 
-**中文Topics**：bootstrap, docker, favorites, jpa, spring, spring-boot, spring-data-jpa, spring-session, springboot, springdatajpa, springsession, thymeleaf, webjars
+**中文Topics**：引导程序, docker, 收藏夹, 日本专利协会, 春天, 弹簧靴, 弹簧数据jpa, 春季会议, 弹簧靴, 弹簧数据jpa, 春季会议, 百里香叶, 网络jar
 
 
 ---

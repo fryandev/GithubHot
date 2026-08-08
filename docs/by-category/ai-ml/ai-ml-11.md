@@ -1,9 +1,9 @@
 # AI / 机器学习 - 第 11 页
 
 > AI / 机器学习 相关的热门开源项目
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **1049** 个项目
+共收录 **1050** 个项目
 （第 11/11 页）
 
 ## 项目列表
@@ -1373,6 +1373,35 @@ Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 **Topics**：-
 
+
+
+---
+
+### 1050. alibaba/open-code-review
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alibaba/open-code-review](https://github.com/alibaba/open-code-review) |
+| ⭐ Stars | 19582 |
+| 🍴 Forks | 1361 |
+| 👀 Watchers | 19582 |
+| 📝 Open Issues | 75 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-18 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+**中文简介**：
+快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。
+
+
+**Topics**：agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
+
+**中文Topics**：代理, 代理技能, 代码审查, 代码审查助理, 安全带, 存储库级别上下文
 
 
 ---

@@ -1,9 +1,9 @@
 # 📊 周飙升榜
 
 > 📊 周飙升榜 项目列表
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **19** 个项目
+共收录 **20** 个项目
 
 
 ## 项目列表
@@ -202,7 +202,36 @@ bluetooth mesh chat, IRC vibes
 
 ---
 
-### 8. citrolabs/ego-lite
+### 8. alibaba/open-code-review
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alibaba/open-code-review](https://github.com/alibaba/open-code-review) |
+| ⭐ Stars | 19582 |
+| 🍴 Forks | 1361 |
+| 👀 Watchers | 19582 |
+| 📝 Open Issues | 75 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-18 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+**中文简介**：
+快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。
+
+
+**Topics**：agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
+
+**中文Topics**：代理, 代理技能, 代码审查, 代码审查助理, 安全带, 存储库级别上下文
+
+
+---
+
+### 9. citrolabs/ego-lite
 
 | 属性 | 信息 |
 |---|---|
@@ -231,7 +260,7 @@ AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理�
 
 ---
 
-### 9. earendil-works/pi
+### 10. earendil-works/pi
 
 | 属性 | 信息 |
 |---|---|
@@ -259,7 +288,7 @@ AI 智能体工具包：编程智能体 CLI、统一 LLM API、TUI 与 Web UI �
 
 ---
 
-### 10. DietrichGebert/ponytail
+### 11. DietrichGebert/ponytail
 
 | 属性 | 信息 |
 |---|---|
@@ -288,7 +317,7 @@ Makes your AI agent think like the laziest senior dev in the room. The best code
 
 ---
 
-### 11. MoonshotAI/Kimi-K3
+### 12. MoonshotAI/Kimi-K3
 
 | 属性 | 信息 |
 |---|---|
@@ -316,7 +345,7 @@ Open Frontier Intelligence
 
 ---
 
-### 12. pbakaus/impeccable
+### 13. pbakaus/impeccable
 
 | 属性 | 信息 |
 |---|---|
@@ -344,7 +373,7 @@ The design language that makes your AI harness better at design.
 
 ---
 
-### 13. microsoft/AI-For-Beginners
+### 14. microsoft/AI-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -373,7 +402,7 @@ The design language that makes your AI harness better at design.
 
 ---
 
-### 14. huggingface/speech-to-speech
+### 15. huggingface/speech-to-speech
 
 | 属性 | 信息 |
 |---|---|
@@ -402,7 +431,7 @@ Build local voice agents with open-source models
 
 ---
 
-### 15. koala73/worldmonitor
+### 16. koala73/worldmonitor
 
 | 属性 | 信息 |
 |---|---|
@@ -431,7 +460,7 @@ Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic
 
 ---
 
-### 16. Nutlope/hallmark
+### 17. Nutlope/hallmark
 
 | 属性 | 信息 |
 |---|---|
@@ -459,7 +488,7 @@ Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 ---
 
-### 17. paperswithbacktest/awesome-systematic-trading
+### 18. paperswithbacktest/awesome-systematic-trading
 
 | 属性 | 信息 |
 |---|---|
@@ -487,7 +516,7 @@ A curated list of awesome libraries, packages, strategies, books, blogs, tutoria
 
 ---
 
-### 18. virgiliojr94/book-to-skill
+### 19. virgiliojr94/book-to-skill
 
 | 属性 | 信息 |
 |---|---|
@@ -515,7 +544,7 @@ Turn any technical book PDF into a Claude Code skill — ready to study, referen
 
 ---
 
-### 19. bradautomates/claude-video
+### 20. bradautomates/claude-video
 
 | 属性 | 信息 |
 |---|---|

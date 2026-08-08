@@ -1,10 +1,10 @@
 # 📆 最近90天活跃 - 第 1 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **6909** 个项目
-（第 1/70 页）
+共收录 **6737** 个项目
+（第 1/68 页）
 
 ## 项目列表
 
@@ -758,36 +758,7 @@ Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分
 
 ---
 
-### 27. massgravel/Microsoft-Activation-Scripts
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) |
-| ⭐ Stars | 177544 |
-| 🍴 Forks | 17007 |
-| 👀 Watchers | 177544 |
-| 📝 Open Issues | 1 |
-| 💻 主语言 | Batchfile |
-| 🔥 热度等级 | legendary |
-| 📅 创建时间 | 2020-01-12 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
-**中文简介**：
-开源的 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge 和在线 KMS 激活方式，以及高级故障排除。
-
-
-**Topics**：activator, hwid, kms, kms38, massgrave, massgravel, microsoft, microsoft365, office, office365, ohook, powershell, tsforge, windows, windows-10, windows-11
-
-**中文Topics**：激活工具, hwid, kms, kms38, massgrave, massgravel, microsoft, microsoft365, office, office365, ohook, powershell, tsforge, windows, windows-10, windows-11
-
-
----
-
-### 28. anomalyco/opencode
+### 27. anomalyco/opencode
 
 | 属性 | 信息 |
 |---|---|
@@ -815,7 +786,7 @@ The open source coding agent.
 
 ---
 
-### 29. ollama/ollama
+### 28. ollama/ollama
 
 | 属性 | 信息 |
 |---|---|
@@ -844,7 +815,7 @@ Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Ge
 
 ---
 
-### 30. firstcontributions/first-contributions
+### 29. firstcontributions/first-contributions
 
 | 属性 | 信息 |
 |---|---|
@@ -873,7 +844,7 @@ Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Ge
 
 ---
 
-### 31. avelino/awesome-go
+### 30. avelino/awesome-go
 
 | 属性 | 信息 |
 |---|---|
@@ -902,7 +873,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ---
 
-### 32. f/prompts.chat
+### 31. f/prompts.chat
 
 | 属性 | 信息 |
 |---|---|
@@ -931,7 +902,7 @@ f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 
 ---
 
-### 33. microsoft/generative-ai-for-beginners
+### 32. microsoft/generative-ai-for-beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -960,7 +931,7 @@ f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 
 ---
 
-### 34. yt-dlp/yt-dlp
+### 33. yt-dlp/yt-dlp
 
 | 属性 | 信息 |
 |---|---|
@@ -989,7 +960,7 @@ A feature-rich command-line audio/video downloader
 
 ---
 
-### 35. x1xhlol/system-prompts-and-models-of-ai-tools
+### 34. x1xhlol/system-prompts-and-models-of-ai-tools
 
 | 属性 | 信息 |
 |---|---|
@@ -1018,7 +989,7 @@ FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Juni
 
 ---
 
-### 36. vercel/next.js
+### 35. vercel/next.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1047,7 +1018,7 @@ React 框架。
 
 ---
 
-### 37. kubernetes/kubernetes
+### 36. kubernetes/kubernetes
 
 | 属性 | 信息 |
 |---|---|
@@ -1076,7 +1047,7 @@ Production-Grade Container Scheduling and Management
 
 ---
 
-### 38. 521xueweihan/HelloGitHub
+### 37. 521xueweihan/HelloGitHub
 
 | 属性 | 信息 |
 |---|---|
@@ -1105,7 +1076,7 @@ Production-Grade Container Scheduling and Management
 
 ---
 
-### 39. langgenius/dify
+### 38. langgenius/dify
 
 | 属性 | 信息 |
 |---|---|
@@ -1134,7 +1105,7 @@ Production-ready platform for agentic workflow development.
 
 ---
 
-### 40. ant-design/ant-design
+### 39. ant-design/ant-design
 
 | 属性 | 信息 |
 |---|---|
@@ -1163,7 +1134,7 @@ An enterprise-class UI design language and React UI library
 
 ---
 
-### 41. anthropics/skills
+### 40. anthropics/skills
 
 | 属性 | 信息 |
 |---|---|
@@ -1192,7 +1163,7 @@ Agent 技能的公共仓库。
 
 ---
 
-### 42. langchain-ai/langchain
+### 41. langchain-ai/langchain
 
 | 属性 | 信息 |
 |---|---|
@@ -1221,7 +1192,7 @@ The agent engineering platform.
 
 ---
 
-### 43. ChatGPTNextWeb/NextChat
+### 42. ChatGPTNextWeb/NextChat
 
 | 属性 | 信息 |
 |---|---|
@@ -1250,7 +1221,7 @@ The agent engineering platform.
 
 ---
 
-### 44. open-webui/open-webui
+### 43. open-webui/open-webui
 
 | 属性 | 信息 |
 |---|---|
@@ -1279,7 +1250,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ---
 
-### 45. nodejs/node
+### 44. nodejs/node
 
 | 属性 | 信息 |
 |---|---|
@@ -1308,7 +1279,7 @@ Node.js JavaScript 运行时 ✨🐢🚀✨
 
 ---
 
-### 46. opencv/opencv
+### 45. opencv/opencv
 
 | 属性 | 信息 |
 |---|---|
@@ -1337,7 +1308,7 @@ Open Source Computer Vision Library
 
 ---
 
-### 47. langflow-ai/langflow
+### 46. langflow-ai/langflow
 
 | 属性 | 信息 |
 |---|---|
@@ -1366,7 +1337,7 @@ Langflow 是一个用于构建和部署 AI 驱动智能体和工作流的强大�
 
 ---
 
-### 48. mrdoob/three.js
+### 47. mrdoob/three.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1395,7 +1366,7 @@ JavaScript 3D 库。
 
 ---
 
-### 49. Genymobile/scrcpy
+### 48. Genymobile/scrcpy
 
 | 属性 | 信息 |
 |---|---|
@@ -1424,7 +1395,7 @@ Display and control your Android device
 
 ---
 
-### 50. golang/go
+### 49. golang/go
 
 | 属性 | 信息 |
 |---|---|
@@ -1453,7 +1424,7 @@ Go 编程语言。
 
 ---
 
-### 51. microsoft/markitdown
+### 50. microsoft/markitdown
 
 | 属性 | 信息 |
 |---|---|
@@ -1482,7 +1453,7 @@ Python tool for converting files and office documents to Markdown.
 
 ---
 
-### 52. facebook/react-native
+### 51. facebook/react-native
 
 | 属性 | 信息 |
 |---|---|
@@ -1511,7 +1482,7 @@ A framework for building native applications using React
 
 ---
 
-### 53. anthropics/claude-code
+### 52. anthropics/claude-code
 
 | 属性 | 信息 |
 |---|---|
@@ -1539,7 +1510,7 @@ Claude Code 是一个智能编程工具，常驻你的终端，理解你的代�
 
 ---
 
-### 54. godotengine/godot
+### 53. godotengine/godot
 
 | 属性 | 信息 |
 |---|---|
@@ -1568,7 +1539,7 @@ Godot 引擎——多平台 2D 和 3D 游戏引擎。
 
 ---
 
-### 55. microsoft/PowerToys
+### 54. microsoft/PowerToys
 
 | 属性 | 信息 |
 |---|---|
@@ -1597,7 +1568,7 @@ Microsoft PowerToys 是一套实用工具集合，可提升 Windows 上的生产
 
 ---
 
-### 56. Chalarangelo/30-seconds-of-code
+### 55. Chalarangelo/30-seconds-of-code
 
 | 属性 | 信息 |
 |---|---|
@@ -1626,7 +1597,7 @@ Coding articles to level up your development skills
 
 ---
 
-### 57. electron/electron
+### 56. electron/electron
 
 | 属性 | 信息 |
 |---|---|
@@ -1655,7 +1626,7 @@ Coding articles to level up your development skills
 
 ---
 
-### 58. excalidraw/excalidraw
+### 57. excalidraw/excalidraw
 
 | 属性 | 信息 |
 |---|---|
@@ -1684,7 +1655,7 @@ Virtual whiteboard for sketching hand-drawn like diagrams
 
 ---
 
-### 59. d3/d3
+### 58. d3/d3
 
 | 属性 | 信息 |
 |---|---|
@@ -1713,7 +1684,7 @@ Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_tre
 
 ---
 
-### 60. mui/material-ui
+### 59. mui/material-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -1742,7 +1713,7 @@ Material UI：全面实现 Google Material Design 的 React 组件库。永久�
 
 ---
 
-### 61. bitcoin/bitcoin
+### 60. bitcoin/bitcoin
 
 | 属性 | 信息 |
 |---|---|
@@ -1771,7 +1742,7 @@ Bitcoin Core 集成/暂存树。
 
 ---
 
-### 62. ggml-org/llama.cpp
+### 61. ggml-org/llama.cpp
 
 | 属性 | 信息 |
 |---|---|
@@ -1800,7 +1771,7 @@ LLM inference in C/C++
 
 ---
 
-### 63. ripienaar/free-for-dev
+### 62. ripienaar/free-for-dev
 
 | 属性 | 信息 |
 |---|---|
@@ -1829,7 +1800,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ---
 
-### 64. firecrawl/firecrawl
+### 63. firecrawl/firecrawl
 
 | 属性 | 信息 |
 |---|---|
@@ -1858,7 +1829,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ---
 
-### 65. pytorch/pytorch
+### 64. pytorch/pytorch
 
 | 属性 | 信息 |
 |---|---|
@@ -1887,7 +1858,7 @@ Python 中的张量与动态神经网络，具备强大的 GPU 加速能力。
 
 ---
 
-### 66. rustdesk/rustdesk
+### 65. rustdesk/rustdesk
 
 | 属性 | 信息 |
 |---|---|
@@ -1916,7 +1887,7 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ---
 
-### 67. home-assistant/core
+### 66. home-assistant/core
 
 | 属性 | 信息 |
 |---|---|
@@ -1945,7 +1916,7 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ---
 
-### 68. tensorflow/models
+### 67. tensorflow/models
 
 | 属性 | 信息 |
 |---|---|
@@ -1973,7 +1944,7 @@ TensorFlow 构建的模型和示例。
 
 ---
 
-### 69. angular/angular
+### 68. angular/angular
 
 | 属性 | 信息 |
 |---|---|
@@ -2002,7 +1973,7 @@ Deliver web apps with confidence 🚀
 
 ---
 
-### 70. spring-projects/spring-boot
+### 69. spring-projects/spring-boot
 
 | 属性 | 信息 |
 |---|---|
@@ -2031,7 +2002,7 @@ Spring Boot 帮助你以最小的繁琐创建基于 Spring 的生产级应用和
 
 ---
 
-### 71. Shubhamsaboo/awesome-llm-apps
+### 70. Shubhamsaboo/awesome-llm-apps
 
 | 属性 | 信息 |
 |---|---|
@@ -2060,7 +2031,7 @@ Spring Boot 帮助你以最小的繁琐创建基于 Spring 的生产级应用和
 
 ---
 
-### 72. clash-verge-rev/clash-verge-rev
+### 71. clash-verge-rev/clash-verge-rev
 
 | 属性 | 信息 |
 |---|---|
@@ -2089,7 +2060,7 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 
 ---
 
-### 73. rust-lang/rust
+### 72. rust-lang/rust
 
 | 属性 | 信息 |
 |---|---|
@@ -2118,7 +2089,7 @@ Empowering everyone to build reliable and efficient software.
 
 ---
 
-### 74. Comfy-Org/ComfyUI
+### 73. Comfy-Org/ComfyUI
 
 | 属性 | 信息 |
 |---|---|
@@ -2147,7 +2118,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ---
 
-### 75. mattpocock/skills
+### 74. mattpocock/skills
 
 | 属性 | 信息 |
 |---|---|
@@ -2175,7 +2146,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ---
 
-### 76. django/django
+### 75. django/django
 
 | 属性 | 信息 |
 |---|---|
@@ -2204,7 +2175,7 @@ The Web framework for perfectionists with deadlines.
 
 ---
 
-### 77. msitarzewski/agency-agents
+### 76. msitarzewski/agency-agents
 
 | 属性 | 信息 |
 |---|---|
@@ -2232,7 +2203,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ---
 
-### 78. iluwatar/java-design-patterns
+### 77. iluwatar/java-design-patterns
 
 | 属性 | 信息 |
 |---|---|
@@ -2261,7 +2232,7 @@ Java 实现的设计模式。
 
 ---
 
-### 79. garrytan/gstack
+### 78. garrytan/gstack
 
 | 属性 | 信息 |
 |---|---|
@@ -2289,7 +2260,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ---
 
-### 80. 2dust/v2rayN
+### 79. 2dust/v2rayN
 
 | 属性 | 信息 |
 |---|---|
@@ -2318,7 +2289,7 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 ---
 
-### 81. shadcn-ui/ui
+### 80. shadcn-ui/ui
 
 | 属性 | 信息 |
 |---|---|
@@ -2347,36 +2318,7 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ---
 
-### 82. Hack-with-Github/Awesome-Hacking
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) |
-| ⭐ Stars | 113863 |
-| 🍴 Forks | 10399 |
-| 👀 Watchers | 113863 |
-| 📝 Open Issues | 34 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | legendary |
-| 📅 创建时间 | 2016-03-30 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | CC0-1.0 |
-
-**简介**：
-A collection of various awesome lists for hackers, pentesters and security researchers
-
-**中文简介**：
-为黑客、渗透测试人员和安全研究员收集的各种精选列表。
-
-
-**Topics**：android, awesome, bug-bounty, fuzzing, hacking, penetration-testing, pentesting-windows, reverse-engineering, security
-
-**中文Topics**：android, 精选, 漏洞赏金, 模糊测试, 黑客技术, 渗透测试, windows渗透测试, 逆向工程, 安全
-
-
----
-
-### 83. microsoft/TypeScript
+### 81. microsoft/TypeScript
 
 | 属性 | 信息 |
 |---|---|
@@ -2405,7 +2347,7 @@ TypeScript 是 JavaScript 的超集，可编译为纯净的 JavaScript 输出。
 
 ---
 
-### 84. fatedier/frp
+### 82. fatedier/frp
 
 | 属性 | 信息 |
 |---|---|
@@ -2434,7 +2376,7 @@ A fast reverse proxy to help you expose a local server behind a NAT or firewall 
 
 ---
 
-### 85. iptv-org/iptv
+### 83. iptv-org/iptv
 
 | 属性 | 信息 |
 |---|---|
@@ -2463,7 +2405,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ---
 
-### 86. anuraghazra/github-readme-stats
+### 84. anuraghazra/github-readme-stats
 
 | 属性 | 信息 |
 |---|---|
@@ -2492,7 +2434,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ---
 
-### 87. axios/axios
+### 85. axios/axios
 
 | 属性 | 信息 |
 |---|---|
@@ -2521,7 +2463,7 @@ Promise based HTTP client for the browser and node.js
 
 ---
 
-### 88. google-gemini/gemini-cli
+### 86. google-gemini/gemini-cli
 
 | 属性 | 信息 |
 |---|---|
@@ -2550,7 +2492,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 ---
 
-### 89. macrozheng/mall
+### 87. macrozheng/mall
 
 | 属性 | 信息 |
 |---|---|
@@ -2577,7 +2519,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ---
 
-### 90. github/spec-kit
+### 88. github/spec-kit
 
 | 属性 | 信息 |
 |---|---|
@@ -2606,7 +2548,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ---
 
-### 91. supabase/supabase
+### 89. supabase/supabase
 
 | 属性 | 信息 |
 |---|---|
@@ -2635,7 +2577,7 @@ Postgres 开发平台。Supabase 为你提供专用的 Postgres 数据库，用�
 
 ---
 
-### 92. python/cpython
+### 90. python/cpython
 
 | 属性 | 信息 |
 |---|---|
@@ -2663,7 +2605,7 @@ Python 编程语言。
 
 ---
 
-### 93. laravel/laravel
+### 91. laravel/laravel
 
 | 属性 | 信息 |
 |---|---|
@@ -2692,7 +2634,7 @@ Laravel 是一个语法富有表现力、优雅精致的 Web 应用框架。我�
 
 ---
 
-### 94. microsoft/Web-Dev-For-Beginners
+### 92. microsoft/Web-Dev-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -2721,7 +2663,7 @@ Laravel 是一个语法富有表现力、优雅精致的 Web 应用框架。我�
 
 ---
 
-### 95. rasbt/LLMs-from-scratch
+### 93. rasbt/LLMs-from-scratch
 
 | 属性 | 信息 |
 |---|---|
@@ -2750,7 +2692,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ---
 
-### 96. microsoft/terminal
+### 94. microsoft/terminal
 
 | 属性 | 信息 |
 |---|---|
@@ -2779,7 +2721,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ---
 
-### 97. jaywcjlove/awesome-mac
+### 95. jaywcjlove/awesome-mac
 
 | 属性 | 信息 |
 |---|---|
@@ -2808,7 +2750,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ---
 
-### 98. papers-we-love/papers-we-love
+### 96. papers-we-love/papers-we-love
 
 | 属性 | 信息 |
 |---|---|
@@ -2837,7 +2779,7 @@ Papers from the computer science community to read and discuss.
 
 ---
 
-### 99. denoland/deno
+### 97. denoland/deno
 
 | 属性 | 信息 |
 |---|---|
@@ -2866,7 +2808,7 @@ JavaScript 和 TypeScript 的现代运行时。
 
 ---
 
-### 100. Anduin2017/HowToCook
+### 98. Anduin2017/HowToCook
 
 | 属性 | 信息 |
 |---|---|
@@ -2891,6 +2833,64 @@ Programmer's guide about how to cook at home.
 **Topics**：chinese, cookbook, cooking, dishes, recipes
 
 **中文Topics**：中文, cookbook, 烹饪, 菜谱, 食谱
+
+
+---
+
+### 99. microsoft/ML-For-Beginners
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) |
+| ⭐ Stars | 86412 |
+| 🍴 Forks | 20958 |
+| 👀 Watchers | 86412 |
+| 📝 Open Issues | 9 |
+| 💻 主语言 | Jupyter Notebook |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2021-03-03 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+**中文简介**：
+12 周、26 节课、52 个测验，面向所有人的经典机器学习课程。
+
+
+**Topics**：data-science, education, machine-learning, machine-learning-algorithms, machinelearning, machinelearning-python, microsoft-for-beginners, ml, python, r, scikit-learn, scikit-learn-python
+
+**中文Topics**：data-science, 教育, machine-learning, machine-learning-algorithms, machinelearning, machinelearning-python, microsoft-for-beginners, ml, python, r, scikit-learn, scikit-learn-python
+
+
+---
+
+### 100. tauri-apps/tauri
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri) |
+| ⭐ Stars | 107545 |
+| 🍴 Forks | 3674 |
+| 👀 Watchers | 107545 |
+| 📝 Open Issues | 1446 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | legendary |
+| 📅 创建时间 | 2019-07-13 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+**中文简介**：
+使用 Web 前端构建更小、更快、更安全的桌面和移动应用。
+
+
+**Topics**：desktop-app, high-performance, mobile-app, native-app, rust, web-frontend, webview
+
+**中文Topics**：桌面应用, 高性能, 移动应用, 原生应用, rust, web前端, webview
 
 
 ---

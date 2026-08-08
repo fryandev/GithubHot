@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **1729** 个项目
+共收录 **1731** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -820,6 +820,62 @@ Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS
 **Topics**：cms, css, css-framework, page-builder, static, website
 
 **中文Topics**：管理系统, css, css 框架, 页面构建器, 静态, 网站
+
+
+---
+
+### 1730. trycompai/crm
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/trycompai/crm](https://github.com/trycompai/crm) |
+| ⭐ Stars | 7497 |
+| 🍴 Forks | 805 |
+| 👀 Watchers | 7497 |
+| 📝 Open Issues | 10 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-31 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
+
+**中文简介**：
+Comp AI CRM 是一款专为 AI 客服人员设计的开源 CRM。代理优先的 CRM。
+
+
+**Topics**：-
+
+
+
+---
+
+### 1731. cloudflare/computer
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cloudflare/computer](https://github.com/cloudflare/computer) |
+| ⭐ Stars | 5707 |
+| 🍴 Forks | 288 |
+| 👀 Watchers | 5707 |
+| 📝 Open Issues | 21 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-05 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Give your agent a computer 👾
+
+**中文简介**：
+给你的代理人一台电脑👾
+
+
+**Topics**：-
+
 
 
 ---

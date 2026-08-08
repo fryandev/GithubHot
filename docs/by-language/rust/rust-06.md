@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **532** 个项目
+共收录 **534** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -900,6 +900,63 @@ A hive mind communication platform
 
 **中文简介**：
 蜂巢思维交流平台
+
+
+**Topics**：-
+
+
+
+---
+
+### 533. firecrawl/pdf-inspector
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) |
+| ⭐ Stars | 13038 |
+| 🍴 Forks | 887 |
+| 👀 Watchers | 13038 |
+| 📝 Open Issues | 100 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-06 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+
+**中文简介**：
+用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。
+
+
+**Topics**：markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction
+
+**中文Topics**：降价, nodejs, ocr 路由, pdf, pdf-分类, pdf 提取, pdf 解析器, python, rust, 文本提取
+
+
+---
+
+### 534. firecrawl/anydoc
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/firecrawl/anydoc](https://github.com/firecrawl/anydoc) |
+| ⭐ Stars | 11018 |
+| 🍴 Forks | 513 |
+| 👀 Watchers | 11018 |
+| 📝 Open Issues | 44 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-03 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+**中文简介**：
+将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，具有 Node.js 和 Python 绑定。
 
 
 **Topics**：-

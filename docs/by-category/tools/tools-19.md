@@ -1,9 +1,9 @@
 # 工具 - 第 19 页
 
 > 工具 相关的热门开源项目
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
-共收录 **2126** 个项目
+共收录 **2127** 个项目
 （第 19/22 页）
 
 ## 项目列表
@@ -1291,7 +1291,7 @@ LM Studio CLI
 
 **Topics**：llm, lmstudio, nodejs, typescript
 
-**中文Topics**：llm, lmstudio, nodejs, typescript
+**中文Topics**：llm, 工作室, nodejs, typescript
 
 
 ---

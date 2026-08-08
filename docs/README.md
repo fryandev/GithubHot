@@ -1,13 +1,13 @@
 # 🔥 GitHub 热门项目精选
 
-> 最后更新：2026-08-04 11:47
+> 最后更新：2026-08-08 08:41
 
 ## 📊 数据概览
 
 | 指标 | 数值 |
 |---|---|
-| 收录项目总数 | 14434 |
-| 热门项目数 | 14434 |
+| 收录项目总数 | 14441 |
+| 热门项目数 | 14441 |
 | 涵盖语言 | 151 种 |
 | 涵盖领域 | 12 个 |
 
@@ -15,14 +15,14 @@
 
 ### 按语言
 
-- [Python](by-language/python.md) (2488)
+- [Python](by-language/python.md) (2489)
 - [JavaScript](by-language/javascript.md) (1812)
-- [TypeScript](by-language/typescript.md) (1729)
-- [Go](by-language/go.md) (1106)
+- [TypeScript](by-language/typescript.md) (1731)
+- [Go](by-language/go.md) (1107)
 - [Java](by-language/java.md) (797)
 - [C++](by-language/cplusplus.md) (719)
-- [Rust](by-language/rust.md) (532)
-- [C](by-language/c.md) (510)
+- [Rust](by-language/rust.md) (534)
+- [C](by-language/c.md) (511)
 - [C#](by-language/csharp.md) (367)
 - [Jupyter Notebook](by-language/jupyter-notebook.md) (342)
 - [Shell](by-language/shell.md) (338)
@@ -36,13 +36,13 @@
 
 ### 按领域
 
-- [🛠️ 工具](by-category/tools.md) (2143)
+- [🛠️ 工具](by-category/tools.md) (2144)
 - [🌐 Web 开发](by-category/web-dev.md) (1225)
 - [📱 移动端](by-category/mobile.md) (1134)
 - [🏗️ 基础设施](by-category/infrastructure.md) (1107)
-- [🤖 AI / 机器学习](by-category/ai-ml.md) (1058)
+- [🤖 AI / 机器学习](by-category/ai-ml.md) (1059)
 - [🔧 DevOps](by-category/devops.md) (516)
-- [🗄️ 数据库](by-category/database.md) (485)
+- [🗄️ 数据库](by-category/database.md) (486)
 - [🔒 安全](by-category/security.md) (338)
 - [🎮 游戏开发](by-category/game-dev.md) (225)
 - [📊 数据科学](by-category/data-science.md) (187)
@@ -60,9 +60,9 @@
 
 ### 按活跃
 
-- [🔥 最近7天活跃](by-activity/daily.md) (1)
-- [📅 最近30天活跃](by-activity/weekly.md) (16)
-- [📆 最近90天活跃](by-activity/monthly.md) (6909)
+- [🔥 最近7天活跃](by-activity/daily.md) (7)
+- [📅 最近30天活跃](by-activity/weekly.md) (17)
+- [📆 最近90天活跃](by-activity/monthly.md) (6737)
 
 
 ### 按趋势
