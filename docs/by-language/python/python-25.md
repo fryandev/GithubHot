@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **2489** 个项目
+共收录 **2493** 个项目
 （第 25/25 页）
 
 ## 项目列表
@@ -2490,6 +2490,120 @@ Lightweight loop engineering state kernel for long-running AI agent teams. Agent
 **Topics**：agent-control-plane, agent-ops, ai-agents, codex, long-running-agents, loop-engineering, loopx, workflow-automation
 
 **中文Topics**：代理控制平面, 代理操作, 人工智能代理, codex, 长期运行代理, 循环工程, 循环x, 工作流程自动化
+
+
+---
+
+### 2490. guillaumemeyer/watermarks-remover
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) |
+| ⭐ Stars | 14699 |
+| 🍴 Forks | 1640 |
+| 👀 Watchers | 14699 |
+| 📝 Open Issues | 29 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-11 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+**中文简介**：
+剥离多供应商 AI 出处标记：Unicode 文本卫生、统计重写挂钩以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据
+
+
+**Topics**：agent-skill, ai, c2pa, claude, provenance, synthid, watermark
+
+**中文Topics**：代理技能, ai, c2pa, claude, 出处, 合成体, 水印
+
+
+---
+
+### 2491. semantica-agi/semantica
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/semantica-agi/semantica](https://github.com/semantica-agi/semantica) |
+| ⭐ Stars | 9201 |
+| 🍴 Forks | 952 |
+| 👀 Watchers | 9201 |
+| 📝 Open Issues | 102 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-06-25 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Graph-Native Infrastructure for Context and Accountable AI Systems
+
+**中文简介**：
+用于上下文和负责任的人工智能系统的图本机基础设施
+
+
+**Topics**：agent-memory, ai, ai-governance, ai-infrastructure, artificial-intelligence, context-engineering, context-graphs, data-engineering, decision-intelligence, developer-tools, explainable-ai, generative-ai, graph-rag, knowledge-graph, llm, ontology, provenance, python, reasoning, semantic-search
+
+**中文Topics**：代理记忆, ai, 人工智能治理, 人工智能基础设施, 人工智能, 情境工程, 上下文图, 数据工程, 决策智能, 开发人员工具, 可解释的人工智能, 生成式人工智能, 图形抹布, 知识图, llm, 本体论, 出处, python, 推理, 语义搜索
+
+
+---
+
+### 2492. awesome-dsh-plugin/awesome-dsh-plugin
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
+| ⭐ Stars | 9380 |
+| 🍴 Forks | 1379 |
+| 👀 Watchers | 9380 |
+| 📝 Open Issues | 218 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | CC0-1.0 |
+
+**简介**：
+A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+
+
+
+**Topics**：awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
+
+**中文Topics**：太棒了, 真棒列表, Deepseek 线束, dsh, dsh 插件
+
+
+---
+
+### 2493. cactus-compute/needle
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cactus-compute/needle](https://github.com/cactus-compute/needle) |
+| ⭐ Stars | 7607 |
+| 🍴 Forks | 485 |
+| 👀 Watchers | 7607 |
+| 📝 Open Issues | 29 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+
+**中文简介**：
+适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。
+
+
+**Topics**：cactus, gemini, gemma, llm, on-device-ai
+
+**中文Topics**：仙人掌, gemini, 杰玛, llm, 设备上的人工智能
 
 
 ---

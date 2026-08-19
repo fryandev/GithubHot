@@ -1,10 +1,10 @@
 # 📆 最近90天活跃 - 第 1 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **6737** 个项目
-（第 1/68 页）
+共收录 **6084** 个项目
+（第 1/61 页）
 
 ## 项目列表
 
@@ -1192,36 +1192,7 @@ The agent engineering platform.
 
 ---
 
-### 42. ChatGPTNextWeb/NextChat
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) |
-| ⭐ Stars | 88184 |
-| 🍴 Forks | 59647 |
-| 👀 Watchers | 88184 |
-| 📝 Open Issues | 836 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2023-03-10 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-**中文简介**：
-✨ 轻量快速的 AI 助手。支持：Web | iOS | MacOS | Android | Linux | Windows
-
-
-**Topics**：calclaude, chatgpt, claude, cross-platform, desktop, fe, gemini, gemini-pro, gemini-server, gemini-ultra, gpt-4o, groq, nextjs, ollama, react, tauri, tauri-app, vercel, webui
-
-**中文Topics**：calclaude, chatgpt, claude, cross-platform, desktop, fe, gemini, gemini-pro, gemini-server, gemini-ultra, gpt-4o, groq, nextjs, ollama, react, tauri, tauri-app, vercel, webui
-
-
----
-
-### 43. open-webui/open-webui
+### 42. open-webui/open-webui
 
 | 属性 | 信息 |
 |---|---|
@@ -1250,7 +1221,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ---
 
-### 44. nodejs/node
+### 43. nodejs/node
 
 | 属性 | 信息 |
 |---|---|
@@ -1279,7 +1250,7 @@ Node.js JavaScript 运行时 ✨🐢🚀✨
 
 ---
 
-### 45. opencv/opencv
+### 44. opencv/opencv
 
 | 属性 | 信息 |
 |---|---|
@@ -1308,7 +1279,7 @@ Open Source Computer Vision Library
 
 ---
 
-### 46. langflow-ai/langflow
+### 45. langflow-ai/langflow
 
 | 属性 | 信息 |
 |---|---|
@@ -1337,7 +1308,7 @@ Langflow 是一个用于构建和部署 AI 驱动智能体和工作流的强大�
 
 ---
 
-### 47. mrdoob/three.js
+### 46. mrdoob/three.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1366,7 +1337,7 @@ JavaScript 3D 库。
 
 ---
 
-### 48. Genymobile/scrcpy
+### 47. Genymobile/scrcpy
 
 | 属性 | 信息 |
 |---|---|
@@ -1395,7 +1366,7 @@ Display and control your Android device
 
 ---
 
-### 49. golang/go
+### 48. golang/go
 
 | 属性 | 信息 |
 |---|---|
@@ -1424,7 +1395,7 @@ Go 编程语言。
 
 ---
 
-### 50. microsoft/markitdown
+### 49. microsoft/markitdown
 
 | 属性 | 信息 |
 |---|---|
@@ -1453,7 +1424,7 @@ Python tool for converting files and office documents to Markdown.
 
 ---
 
-### 51. facebook/react-native
+### 50. facebook/react-native
 
 | 属性 | 信息 |
 |---|---|
@@ -1482,7 +1453,7 @@ A framework for building native applications using React
 
 ---
 
-### 52. anthropics/claude-code
+### 51. anthropics/claude-code
 
 | 属性 | 信息 |
 |---|---|
@@ -1510,7 +1481,7 @@ Claude Code 是一个智能编程工具，常驻你的终端，理解你的代�
 
 ---
 
-### 53. godotengine/godot
+### 52. godotengine/godot
 
 | 属性 | 信息 |
 |---|---|
@@ -1539,7 +1510,7 @@ Godot 引擎——多平台 2D 和 3D 游戏引擎。
 
 ---
 
-### 54. microsoft/PowerToys
+### 53. microsoft/PowerToys
 
 | 属性 | 信息 |
 |---|---|
@@ -1568,7 +1539,7 @@ Microsoft PowerToys 是一套实用工具集合，可提升 Windows 上的生产
 
 ---
 
-### 55. Chalarangelo/30-seconds-of-code
+### 54. Chalarangelo/30-seconds-of-code
 
 | 属性 | 信息 |
 |---|---|
@@ -1597,7 +1568,7 @@ Coding articles to level up your development skills
 
 ---
 
-### 56. electron/electron
+### 55. electron/electron
 
 | 属性 | 信息 |
 |---|---|
@@ -1626,7 +1597,7 @@ Coding articles to level up your development skills
 
 ---
 
-### 57. excalidraw/excalidraw
+### 56. excalidraw/excalidraw
 
 | 属性 | 信息 |
 |---|---|
@@ -1655,7 +1626,7 @@ Virtual whiteboard for sketching hand-drawn like diagrams
 
 ---
 
-### 58. d3/d3
+### 57. d3/d3
 
 | 属性 | 信息 |
 |---|---|
@@ -1684,7 +1655,7 @@ Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_tre
 
 ---
 
-### 59. mui/material-ui
+### 58. mui/material-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -1713,7 +1684,7 @@ Material UI：全面实现 Google Material Design 的 React 组件库。永久�
 
 ---
 
-### 60. bitcoin/bitcoin
+### 59. bitcoin/bitcoin
 
 | 属性 | 信息 |
 |---|---|
@@ -1742,7 +1713,7 @@ Bitcoin Core 集成/暂存树。
 
 ---
 
-### 61. ggml-org/llama.cpp
+### 60. ggml-org/llama.cpp
 
 | 属性 | 信息 |
 |---|---|
@@ -1771,7 +1742,7 @@ LLM inference in C/C++
 
 ---
 
-### 62. ripienaar/free-for-dev
+### 61. ripienaar/free-for-dev
 
 | 属性 | 信息 |
 |---|---|
@@ -1800,7 +1771,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ---
 
-### 63. firecrawl/firecrawl
+### 62. firecrawl/firecrawl
 
 | 属性 | 信息 |
 |---|---|
@@ -1829,7 +1800,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ---
 
-### 64. pytorch/pytorch
+### 63. pytorch/pytorch
 
 | 属性 | 信息 |
 |---|---|
@@ -1858,7 +1829,7 @@ Python 中的张量与动态神经网络，具备强大的 GPU 加速能力。
 
 ---
 
-### 65. rustdesk/rustdesk
+### 64. rustdesk/rustdesk
 
 | 属性 | 信息 |
 |---|---|
@@ -1887,7 +1858,7 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ---
 
-### 66. home-assistant/core
+### 65. home-assistant/core
 
 | 属性 | 信息 |
 |---|---|
@@ -1916,7 +1887,7 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ---
 
-### 67. tensorflow/models
+### 66. tensorflow/models
 
 | 属性 | 信息 |
 |---|---|
@@ -1944,7 +1915,7 @@ TensorFlow 构建的模型和示例。
 
 ---
 
-### 68. angular/angular
+### 67. angular/angular
 
 | 属性 | 信息 |
 |---|---|
@@ -1973,7 +1944,7 @@ Deliver web apps with confidence 🚀
 
 ---
 
-### 69. spring-projects/spring-boot
+### 68. spring-projects/spring-boot
 
 | 属性 | 信息 |
 |---|---|
@@ -2002,7 +1973,7 @@ Spring Boot 帮助你以最小的繁琐创建基于 Spring 的生产级应用和
 
 ---
 
-### 70. Shubhamsaboo/awesome-llm-apps
+### 69. Shubhamsaboo/awesome-llm-apps
 
 | 属性 | 信息 |
 |---|---|
@@ -2031,7 +2002,7 @@ Spring Boot 帮助你以最小的繁琐创建基于 Spring 的生产级应用和
 
 ---
 
-### 71. clash-verge-rev/clash-verge-rev
+### 70. clash-verge-rev/clash-verge-rev
 
 | 属性 | 信息 |
 |---|---|
@@ -2060,7 +2031,7 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 
 ---
 
-### 72. rust-lang/rust
+### 71. rust-lang/rust
 
 | 属性 | 信息 |
 |---|---|
@@ -2089,7 +2060,7 @@ Empowering everyone to build reliable and efficient software.
 
 ---
 
-### 73. Comfy-Org/ComfyUI
+### 72. Comfy-Org/ComfyUI
 
 | 属性 | 信息 |
 |---|---|
@@ -2118,7 +2089,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ---
 
-### 74. mattpocock/skills
+### 73. mattpocock/skills
 
 | 属性 | 信息 |
 |---|---|
@@ -2146,7 +2117,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ---
 
-### 75. django/django
+### 74. django/django
 
 | 属性 | 信息 |
 |---|---|
@@ -2175,7 +2146,7 @@ The Web framework for perfectionists with deadlines.
 
 ---
 
-### 76. msitarzewski/agency-agents
+### 75. msitarzewski/agency-agents
 
 | 属性 | 信息 |
 |---|---|
@@ -2203,7 +2174,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ---
 
-### 77. iluwatar/java-design-patterns
+### 76. iluwatar/java-design-patterns
 
 | 属性 | 信息 |
 |---|---|
@@ -2232,7 +2203,7 @@ Java 实现的设计模式。
 
 ---
 
-### 78. garrytan/gstack
+### 77. garrytan/gstack
 
 | 属性 | 信息 |
 |---|---|
@@ -2260,7 +2231,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ---
 
-### 79. 2dust/v2rayN
+### 78. 2dust/v2rayN
 
 | 属性 | 信息 |
 |---|---|
@@ -2289,7 +2260,7 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 ---
 
-### 80. shadcn-ui/ui
+### 79. shadcn-ui/ui
 
 | 属性 | 信息 |
 |---|---|
@@ -2318,7 +2289,7 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ---
 
-### 81. microsoft/TypeScript
+### 80. microsoft/TypeScript
 
 | 属性 | 信息 |
 |---|---|
@@ -2347,7 +2318,7 @@ TypeScript 是 JavaScript 的超集，可编译为纯净的 JavaScript 输出。
 
 ---
 
-### 82. fatedier/frp
+### 81. fatedier/frp
 
 | 属性 | 信息 |
 |---|---|
@@ -2376,7 +2347,7 @@ A fast reverse proxy to help you expose a local server behind a NAT or firewall 
 
 ---
 
-### 83. iptv-org/iptv
+### 82. iptv-org/iptv
 
 | 属性 | 信息 |
 |---|---|
@@ -2405,7 +2376,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ---
 
-### 84. anuraghazra/github-readme-stats
+### 83. anuraghazra/github-readme-stats
 
 | 属性 | 信息 |
 |---|---|
@@ -2434,7 +2405,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ---
 
-### 85. axios/axios
+### 84. axios/axios
 
 | 属性 | 信息 |
 |---|---|
@@ -2463,7 +2434,7 @@ Promise based HTTP client for the browser and node.js
 
 ---
 
-### 86. google-gemini/gemini-cli
+### 85. google-gemini/gemini-cli
 
 | 属性 | 信息 |
 |---|---|
@@ -2492,34 +2463,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 ---
 
-### 87. macrozheng/mall
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/macrozheng/mall](https://github.com/macrozheng/mall) |
-| ⭐ Stars | 83815 |
-| 🍴 Forks | 29701 |
-| 👀 Watchers | 83815 |
-| 📝 Open Issues | 15 |
-| 💻 主语言 | Java |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2018-04-04 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-
-
-
-**Topics**：docker, elasticsearch, elk, java, mongodb, mybatis, mysql, rabbitmq, redis, spring, spring-boot, spring-cloud, spring-security, springboot, springcloud, swagger-ui
-
-**中文Topics**：docker, elasticsearch, elk, java, mongodb, mybatis, mysql, rabbitmq, redis, 春天, 弹簧靴, 春云, 弹簧安全, 弹簧靴, 春云, swagger-ui
-
-
----
-
-### 88. github/spec-kit
+### 86. github/spec-kit
 
 | 属性 | 信息 |
 |---|---|
@@ -2548,7 +2492,7 @@ mall项目是一套电商系统，包括前台商城系统及后台管理系统�
 
 ---
 
-### 89. supabase/supabase
+### 87. supabase/supabase
 
 | 属性 | 信息 |
 |---|---|
@@ -2577,7 +2521,7 @@ Postgres 开发平台。Supabase 为你提供专用的 Postgres 数据库，用�
 
 ---
 
-### 90. python/cpython
+### 88. python/cpython
 
 | 属性 | 信息 |
 |---|---|
@@ -2605,7 +2549,7 @@ Python 编程语言。
 
 ---
 
-### 91. laravel/laravel
+### 89. laravel/laravel
 
 | 属性 | 信息 |
 |---|---|
@@ -2634,7 +2578,7 @@ Laravel 是一个语法富有表现力、优雅精致的 Web 应用框架。我�
 
 ---
 
-### 92. microsoft/Web-Dev-For-Beginners
+### 90. microsoft/Web-Dev-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -2663,7 +2607,7 @@ Laravel 是一个语法富有表现力、优雅精致的 Web 应用框架。我�
 
 ---
 
-### 93. rasbt/LLMs-from-scratch
+### 91. rasbt/LLMs-from-scratch
 
 | 属性 | 信息 |
 |---|---|
@@ -2692,7 +2636,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ---
 
-### 94. microsoft/terminal
+### 92. microsoft/terminal
 
 | 属性 | 信息 |
 |---|---|
@@ -2721,7 +2665,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ---
 
-### 95. jaywcjlove/awesome-mac
+### 93. jaywcjlove/awesome-mac
 
 | 属性 | 信息 |
 |---|---|
@@ -2750,36 +2694,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ---
 
-### 96. papers-we-love/papers-we-love
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) |
-| ⭐ Stars | 106827 |
-| 🍴 Forks | 6368 |
-| 👀 Watchers | 106827 |
-| 📝 Open Issues | 2 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | legendary |
-| 📅 创建时间 | 2013-12-15 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-Papers from the computer science community to read and discuss.
-
-**中文简介**：
-计算机科学社区中值得阅读和讨论的论文。
-
-
-**Topics**：awesome, computer-science, meetup, papers, programming, read-papers, theory
-
-**中文Topics**：精选, 计算机科学, 聚会, 论文, 编程, 读论文, 理论
-
-
----
-
-### 97. denoland/deno
+### 94. denoland/deno
 
 | 属性 | 信息 |
 |---|---|
@@ -2808,7 +2723,7 @@ JavaScript 和 TypeScript 的现代运行时。
 
 ---
 
-### 98. Anduin2017/HowToCook
+### 95. Anduin2017/HowToCook
 
 | 属性 | 信息 |
 |---|---|
@@ -2837,7 +2752,7 @@ Programmer's guide about how to cook at home.
 
 ---
 
-### 99. microsoft/ML-For-Beginners
+### 96. microsoft/ML-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -2866,7 +2781,7 @@ Programmer's guide about how to cook at home.
 
 ---
 
-### 100. tauri-apps/tauri
+### 97. tauri-apps/tauri
 
 | 属性 | 信息 |
 |---|---|
@@ -2891,6 +2806,93 @@ Build smaller, faster, and more secure desktop and mobile applications with a we
 **Topics**：desktop-app, high-performance, mobile-app, native-app, rust, web-frontend, webview
 
 **中文Topics**：桌面应用, 高性能, 移动应用, 原生应用, rust, web前端, webview
+
+
+---
+
+### 98. browser-use/browser-use
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use) |
+| ⭐ Stars | 97444 |
+| 🍴 Forks | 10899 |
+| 👀 Watchers | 97444 |
+| 📝 Open Issues | 269 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-10-31 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+
+**中文简介**：
+🌐 让网站对 AI 智能体可访问。轻松自动化在线任务。
+
+
+**Topics**：ai-agents, ai-tools, browser-automation, browser-use, llm, playwright, python
+
+**中文Topics**：ai-agents, ai-tools, browser-automation, browser-use, llm, playwright, python
+
+
+---
+
+### 99. elastic/elasticsearch
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch) |
+| ⭐ Stars | 76867 |
+| 🍴 Forks | 25969 |
+| 👀 Watchers | 76867 |
+| 📝 Open Issues | 5900 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2010-02-08 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Free and Open Source, Distributed, RESTful Search Engine
+
+**中文简介**：
+免费开源的分布式 RESTful 搜索引擎。
+
+
+**Topics**：elasticsearch, java, search-engine
+
+**中文Topics**：elasticsearch, java, search-engine
+
+
+---
+
+### 100. hacksider/Deep-Live-Cam
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) |
+| ⭐ Stars | 93644 |
+| 🍴 Forks | 13662 |
+| 👀 Watchers | 93644 |
+| 📝 Open Issues | 123 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2023-09-24 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+real time face swap and one-click video deepfake with only a single image
+
+**中文简介**：
+仅需单张图片即可实现实时换脸和一键视频深度伪造。
+
+
+**Topics**：ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence, deep-fake, deepfake, deepfake-webcam, faceswap, fake-webcam, gan, real-time-deepfake, realtime, realtime-deepfake, realtime-face-changer, video-deepfake, webcam, webcamera
+
+**中文Topics**：ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence, deep-fake, deepfake, deepfake-webcam, faceswap, fake-webcam, gan, real-time-deepfake, realtime, realtime-deepfake, realtime-face-changer, video-deepfake, webcam, webcamera
 
 
 ---

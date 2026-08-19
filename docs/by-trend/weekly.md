@@ -1,7 +1,7 @@
 # 📊 周飙升榜
 
 > 📊 周飙升榜 项目列表
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
 共收录 **20** 个项目
 
@@ -9,26 +9,166 @@
 ## 项目列表
 
 
-### 1. block/buzz
+### 1. cathrynlavery/diagram-design
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
-| ⭐ Stars | 14197 |
-| 🍴 Forks | 1184 |
-| 👀 Watchers | 14197 |
-| 📝 Open Issues | 756 |
+| 链接 | [https://github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
+| ⭐ Stars | 22262 |
+| 🍴 Forks | 1366 |
+| 👀 Watchers | 22262 |
+| 📝 Open Issues | 38 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-16 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+
+**中文简介**：
+Claude Code 的 27 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。
+
+
+**Topics**：-
+
+
+
+---
+
+### 2. PrimeIntellect-ai/prime-agent
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
+| ⭐ Stars | 17256 |
+| 🍴 Forks | 1856 |
+| 👀 Watchers | 17256 |
+| 📝 Open Issues | 66 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-08 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+
+**中文简介**：
+用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。
+
+
+**Topics**：-
+
+
+
+---
+
+### 3. semantica-agi/semantica
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/semantica-agi/semantica](https://github.com/semantica-agi/semantica) |
+| ⭐ Stars | 9201 |
+| 🍴 Forks | 952 |
+| 👀 Watchers | 9201 |
+| 📝 Open Issues | 102 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-06-25 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Graph-Native Infrastructure for Context and Accountable AI Systems
+
+**中文简介**：
+用于上下文和负责任的人工智能系统的图本机基础设施
+
+
+**Topics**：agent-memory, ai, ai-governance, ai-infrastructure, artificial-intelligence, context-engineering, context-graphs, data-engineering, decision-intelligence, developer-tools, explainable-ai, generative-ai, graph-rag, knowledge-graph, llm, ontology, provenance, python, reasoning, semantic-search
+
+**中文Topics**：代理记忆, ai, 人工智能治理, 人工智能基础设施, 人工智能, 情境工程, 上下文图, 数据工程, 决策智能, 开发人员工具, 可解释的人工智能, 生成式人工智能, 图形抹布, 知识图, llm, 本体论, 出处, python, 推理, 语义搜索
+
+
+---
+
+### 4. zhaoxuya520/reverse-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) |
+| ⭐ Stars | 26473 |
+| 🍴 Forks | 3598 |
+| 👀 Watchers | 26473 |
+| 📝 Open Issues | 17 |
+| 💻 主语言 | PowerShell |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 5. guillaumemeyer/watermarks-remover
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) |
+| ⭐ Stars | 14699 |
+| 🍴 Forks | 1640 |
+| 👀 Watchers | 14699 |
+| 📝 Open Issues | 29 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-11 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
+
+**中文简介**：
+剥离多供应商 AI 出处标记：Unicode 文本卫生、统计重写挂钩以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据
+
+
+**Topics**：agent-skill, ai, c2pa, claude, provenance, synthid, watermark
+
+**中文Topics**：代理技能, ai, c2pa, claude, 出处, 合成体, 水印
+
+
+---
+
+### 6. firecrawl/anydoc
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/firecrawl/anydoc](https://github.com/firecrawl/anydoc) |
+| ⭐ Stars | 11018 |
+| 🍴 Forks | 513 |
+| 👀 Watchers | 11018 |
+| 📝 Open Issues | 44 |
 | 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-06 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | Apache-2.0 |
+| 📅 创建时间 | 2026-08-03 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
 
 **简介**：
-A hive mind communication platform
+Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
 
 **中文简介**：
-蜂巢思维交流平台
+将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，具有 Node.js 和 Python 绑定。
 
 
 **Topics**：-
@@ -37,78 +177,82 @@ A hive mind communication platform
 
 ---
 
-### 2. bojieli/ai-agent-book
+### 7. TencentCloud/TencentDB-Agent-Memory
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) |
-| ⭐ Stars | 22271 |
-| 🍴 Forks | 2233 |
-| 👀 Watchers | 22271 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2025-09-09 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | Apache-2.0 |
+| 链接 | [https://github.com/TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
+| ⭐ Stars | 5036 |
+| 🍴 Forks | 429 |
+| 👀 Watchers | 5036 |
+| 📝 Open Issues | 72 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-04-07 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
 
 **简介**：
-《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
+
+**中文简介**：
+腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。
 
 
-
-**Topics**：agent, agent-memory, ai-agent, book, coding-agent, context-engineering, large-language-models, llm, mcp, multi-agent, multimodal, rag, reinforcement-learning
+**Topics**：agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search
 
 
 
 ---
 
-### 3. diegosouzapw/OmniRoute
+### 8. ogulcancelik/herdr
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) |
-| ⭐ Stars | 5795 |
-| 🍴 Forks | 1001 |
-| 👀 Watchers | 5795 |
-| 📝 Open Issues | 35 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) |
+| ⭐ Stars | 4707 |
+| 🍴 Forks | 283 |
+| 👀 Watchers | 4707 |
+| 📝 Open Issues | 22 |
+| 💻 主语言 | Rust |
 | 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-02-13 |
+| 📅 创建时间 | 2026-03-27 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+agent multiplexer that lives in your terminal.
+
+**中文简介**：
+位于您终端中的代理多路复用器。
+
+
+**Topics**：agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager
+
+
+
+---
+
+### 9. virgiliojr94/book-to-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
+| ⭐ Stars | 4431 |
+| 🍴 Forks | 553 |
+| 👀 Watchers | 4431 |
+| 📝 Open Issues | 1 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-05-01 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
 **中文简介**：
-永远不要停止编码。免费 AI 网关：一个端点，160 多个提供商（50 多个免费），将 Claude Code、Codex、Cursor、Cline 和 Copilot 连接到免费的 Claude/GPT/Gemini。 RTK+Caveman 堆叠压缩可节省 15-95% 的令牌、智能自动回退、MCP/A2A、多模式 API、桌面/PWA。
-
-
-**Topics**：a2a, ai-agents, ai-gateway, anthropic, claude, claude-code, cline, codex, copilot, cursor, deepseek, free-ai, gemini, gemini-cli, llm-gateway, mcp, openai, openai-proxy, qwen, token-saver
-
-
-
----
-
-### 4. andrewyng/openworker
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/andrewyng/openworker](https://github.com/andrewyng/openworker) |
-| ⭐ Stars | 7905 |
-| 🍴 Forks | 1051 |
-| 👀 Watchers | 7905 |
-| 📝 Open Issues | 210 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-20 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | MIT |
-
-**简介**：
-暂无描述
-
+将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。
 
 
 **Topics**：-
@@ -117,35 +261,64 @@ Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), con
 
 ---
 
-### 5. stablyai/orca
+### 10. HKUDS/DeepTutor
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/stablyai/orca](https://github.com/stablyai/orca) |
-| ⭐ Stars | 4290 |
-| 🍴 Forks | 280 |
-| 👀 Watchers | 4290 |
-| 📝 Open Issues | 290 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-17 |
+| 链接 | [https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) |
+| ⭐ Stars | 24587 |
+| 🍴 Forks | 3329 |
+| 👀 Watchers | 24587 |
+| 📝 Open Issues | 51 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2025-12-28 |
 | 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
+DeepTutor: Agent-native, Open-sourced Personalized Tutoring. https://deeptutor.info/.
 
 **中文简介**：
-Orca 是用于与一组并行代理一起工作的下一代 IDE。使用您自己的订阅运行任何编码代理。可在桌面和移动设备上使用。
+DeepTutor：代理原生、开源的个性化辅导。 https://deeptutor.info/。
 
 
-**Topics**：ade, claude-code, cli, codex, cursor-agent, ghostty, ide, mobile-app, opencode, orchestration, parallel-agents, pi, terminal, worktrees
+**Topics**：ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag
 
 
 
 ---
 
-### 6. ayghri/i-have-adhd
+### 11. tt-a1i/archify
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify) |
+| ⭐ Stars | 14312 |
+| 🍴 Forks | 1038 |
+| 👀 Watchers | 14312 |
+| 📝 Open Issues | 23 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-15 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+
+**中文简介**：
+具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。
+
+
+**Topics**：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex, coding-agents, data-flow-diagram, deepseek-harness, developer-tools, diagram-as-code, diagrams, diagrams-as-code, dsh-plugin, mermaid-alternative, opencode, sequence-diagram, software-architecture, system-design, text-to-diagram
+
+**中文Topics**：代理技能, 架构即代码, 架构图, 克劳德技能, 代码可视化, codex, 编码剂, 数据流图, Deepseek 线束, 开发人员工具, 图表即代码, 图表, 图表即代码, dsh 插件, 美人鱼-替代品, 开放代码, 序列图, 软件架构, 系统设计, 文本到图表
+
+
+---
+
+### 12. ayghri/i-have-adhd
 
 | 属性 | 信息 |
 |---|---|
@@ -174,26 +347,26 @@ A skill for your coding agent to stop it from burying the answer. ADHD-friendly 
 
 ---
 
-### 7. permissionlesstech/bitchat
+### 13. emilkowalski/skills
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) |
-| ⭐ Stars | 26005 |
-| 🍴 Forks | 2486 |
-| 👀 Watchers | 26005 |
-| 📝 Open Issues | 285 |
-| 💻 主语言 | Swift |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-07-04 |
-| 🔄 最后更新 | 2026-06-05 |
-| 📜 License | Unlicense |
+| 链接 | [https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| ⭐ Stars | 30309 |
+| 🍴 Forks | 1706 |
+| 👀 Watchers | 30309 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Markdown |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-16 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
 
 **简介**：
-bluetooth mesh chat, IRC vibes
+Skills for Designers and Engineers.
 
 **中文简介**：
-蓝牙网状聊天、IRC 氛围
+设计师和工程师的技能。
 
 
 **Topics**：-
@@ -202,265 +375,7 @@ bluetooth mesh chat, IRC vibes
 
 ---
 
-### 8. alibaba/open-code-review
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/alibaba/open-code-review](https://github.com/alibaba/open-code-review) |
-| ⭐ Stars | 19582 |
-| 🍴 Forks | 1361 |
-| 👀 Watchers | 19582 |
-| 📝 Open Issues | 75 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-05-18 |
-| 🔄 最后更新 | 2026-08-08 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-
-**中文简介**：
-快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。
-
-
-**Topics**：agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
-
-**中文Topics**：代理, 代理技能, 代码审查, 代码审查助理, 安全带, 存储库级别上下文
-
-
----
-
-### 9. citrolabs/ego-lite
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
-| ⭐ Stars | 5315 |
-| 🍴 Forks | 256 |
-| 👀 Watchers | 5315 |
-| 📝 Open Issues | 41 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-16 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | MIT |
-
-**简介**：
-The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
-
-**中文简介**：
-AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。
-
-
-**Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
-
-**中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
-
-
----
-
-### 10. earendil-works/pi
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/earendil-works/pi](https://github.com/earendil-works/pi) |
-| ⭐ Stars | 60279 |
-| 🍴 Forks | 7231 |
-| 👀 Watchers | 60279 |
-| 📝 Open Issues | 55 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-08-09 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-
-**中文简介**：
-AI 智能体工具包：编程智能体 CLI、统一 LLM API、TUI 与 Web UI 库、Slack 机器人、vLLM 容器等。
-
-
-**Topics**：-
-
-
-
----
-
-### 11. DietrichGebert/ponytail
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
-| ⭐ Stars | 22294 |
-| 🍴 Forks | 968 |
-| 👀 Watchers | 22294 |
-| 📝 Open Issues | 28 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-12 |
-| 🔄 最后更新 | 2026-06-16 |
-| 📜 License | MIT |
-
-**简介**：
-Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-
-**中文简介**：
-让你的AI智能体表现得像房间里最懒的资深开发人员。最好的代码，就是你从未写过的代码。
-
-
-**Topics**：agent-skills, ai-agents, claude, claude-code, claude-code-plugin, cursor-rules, developer-tools, llm, prompt-engineering, yagni
-
-**中文Topics**：智能体技能, AI智能体, claude, Claude-Code, Claude-Code插件, Cursor规则, 开发者工具, llm, 提示词工程, yagni
-
-
----
-
-### 12. MoonshotAI/Kimi-K3
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) |
-| ⭐ Stars | 6181 |
-| 🍴 Forks | 435 |
-| 👀 Watchers | 6181 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-27 |
-| 🔄 最后更新 | 2026-07-30 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Open Frontier Intelligence
-
-**中文简介**：
-开放前沿情报
-
-
-**Topics**：-
-
-
-
----
-
-### 13. pbakaus/impeccable
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/pbakaus/impeccable](https://github.com/pbakaus/impeccable) |
-| ⭐ Stars | 35029 |
-| 🍴 Forks | 1900 |
-| 👀 Watchers | 35029 |
-| 📝 Open Issues | 29 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-11-16 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-The design language that makes your AI harness better at design.
-
-**中文简介**：
-让你的 AI 在设计方面更出色的设计语言。
-
-
-**Topics**：-
-
-
-
----
-
-### 14. microsoft/AI-For-Beginners
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) |
-| ⭐ Stars | 47975 |
-| 🍴 Forks | 9931 |
-| 👀 Watchers | 47975 |
-| 📝 Open Issues | 7 |
-| 💻 主语言 | Jupyter Notebook |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2021-03-03 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-12 Weeks, 24 Lessons, AI for All!
-
-**中文简介**：
-12周，24节课，面向所有人的AI课程！
-
-
-**Topics**：ai, artificial-intelligence, cnn, computer-vision, deep-learning, gan, machine-learning, microsoft-for-beginners, nlp, rnn
-
-**中文Topics**：ai, 人工智能, cnn, 计算机视觉, 深度学习, gan, 机器学习, microsoft-for-beginners, nlp, rnn
-
-
----
-
-### 15. huggingface/speech-to-speech
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) |
-| ⭐ Stars | 4853 |
-| 🍴 Forks | 579 |
-| 👀 Watchers | 4853 |
-| 📝 Open Issues | 92 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2024-08-07 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Build local voice agents with open-source models
-
-**中文简介**：
-使用开源模型构建本地语音代理
-
-
-**Topics**：ai, assistant, language-model, machine-learning, python, speech, speech-synthesis, speech-to-text, speech-translation
-
-**中文Topics**：ai, 助理, 语言模型, 机器学习, python, 演讲, 语音合成, 语音转文本, 语音翻译
-
-
----
-
-### 16. koala73/worldmonitor
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/koala73/worldmonitor](https://github.com/koala73/worldmonitor) |
-| ⭐ Stars | 55905 |
-| 🍴 Forks | 8968 |
-| 👀 Watchers | 55905 |
-| 📝 Open Issues | 185 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2026-01-08 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-
-**中文简介**：
-实时全球情报仪表盘。AI 驱动的新闻聚合、地缘政治监控和基础设施追踪，统一态势感知界面。
-
-
-**Topics**：ai, dashboard, geopolitics, monitoring, news, opensource, osint, palantir, situation
-
-**中文Topics**：ai, 仪表盘, 地缘政治, 监控, 新闻, 开源, osint, palantir, 态势
-
-
----
-
-### 17. Nutlope/hallmark
+### 14. Nutlope/hallmark
 
 | 属性 | 信息 |
 |---|---|
@@ -488,54 +403,26 @@ Claude Code、Cursor、Codex 的防 AI 设计技巧。
 
 ---
 
-### 18. paperswithbacktest/awesome-systematic-trading
+### 15. block/buzz
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) |
-| ⭐ Stars | 8303 |
-| 🍴 Forks | 1172 |
-| 👀 Watchers | 8303 |
-| 📝 Open Issues | 32 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2022-02-05 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
+| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
+| ⭐ Stars | 14197 |
+| 🍴 Forks | 1184 |
+| 👀 Watchers | 14197 |
+| 📝 Open Issues | 756 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-06 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+A hive mind communication platform
 
 **中文简介**：
-一系列很棒的库、软件包、策略、书籍、博客、系统交易教程。
-
-
-**Topics**：algorithmic-trading, algotrading, alpha, arbitrage-bot, awesome, awesome-list, book, finance, futures, futures-historical-data, futures-market, futuresmarkets, paper, quant, quantitative-finance, quantitative-trading, trading-algorithms, trading-bot, trading-strategies
-
-
-
----
-
-### 19. virgiliojr94/book-to-skill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
-| ⭐ Stars | 4431 |
-| 🍴 Forks | 553 |
-| 👀 Watchers | 4431 |
-| 📝 Open Issues | 1 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-05-01 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-
-**中文简介**：
-将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。
+蜂巢思维交流平台
 
 
 **Topics**：-
@@ -544,26 +431,142 @@ Turn any technical book PDF into a Claude Code skill — ready to study, referen
 
 ---
 
-### 20. bradautomates/claude-video
+### 16. firecrawl/pdf-inspector
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/bradautomates/claude-video](https://github.com/bradautomates/claude-video) |
-| ⭐ Stars | 8826 |
-| 🍴 Forks | 955 |
-| 👀 Watchers | 8826 |
-| 📝 Open Issues | 52 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) |
+| ⭐ Stars | 13038 |
+| 🍴 Forks | 887 |
+| 👀 Watchers | 13038 |
+| 📝 Open Issues | 100 |
+| 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-24 |
-| 🔄 最后更新 | 2026-07-17 |
+| 📅 创建时间 | 2026-02-06 |
+| 🔄 最后更新 | 2026-08-08 |
 | 📜 License | MIT |
 
 **简介**：
-Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
+Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 
 **中文简介**：
-让克劳德能够观看任何视频。 /watch 下载、提取帧、转录，然后将其全部交给 Claude。
+用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。
+
+
+**Topics**：markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction
+
+**中文Topics**：降价, nodejs, ocr 路由, pdf, pdf-分类, pdf 提取, pdf 解析器, python, rust, 文本提取
+
+
+---
+
+### 17. FareedKhan-dev/kimi-k3-in-c
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
+| ⭐ Stars | 3289 |
+| 🍴 Forks | 538 |
+| 👀 Watchers | 3289 |
+| 📝 Open Issues | 5 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-01 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+
+**中文简介**：
+2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。
+
+
+**Topics**：avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine, kimi-k3, linear-attention, llm, llm-inference, machine-learning, memory-efficient, mixture-of-experts, moe, mxfp4, quantization, simd, systems-programming, transformer, zero-dependencies
+
+**中文Topics**：avx2, c99, c99 cpu 推理, 深度学习, 从头开始, 推理机, 基米-k3, 线性注意力, llm, LLM 推理, 机器学习, 内存效率, 专家组合, 萌, mxfp4, 量化, 模拟指令集, 系统编程, 变压器, 零依赖
+
+
+---
+
+### 18. cactus-compute/needle
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cactus-compute/needle](https://github.com/cactus-compute/needle) |
+| ⭐ Stars | 7607 |
+| 🍴 Forks | 485 |
+| 👀 Watchers | 7607 |
+| 📝 Open Issues | 29 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+
+**中文简介**：
+适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。
+
+
+**Topics**：cactus, gemini, gemma, llm, on-device-ai
+
+**中文Topics**：仙人掌, gemini, 杰玛, llm, 设备上的人工智能
+
+
+---
+
+### 19. k1tbyte/Wand-Enhancer
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) |
+| ⭐ Stars | 9583 |
+| 🍴 Forks | 26165 |
+| 👀 Watchers | 9583 |
+| 📝 Open Issues | 28 |
+| 💻 主语言 | C# |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2024-11-17 |
+| 🔄 最后更新 | 2026-07-19 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Advanced UX and interoperability extension for Wand (WeMod) app
+
+**中文简介**：
+Wand (WeMod) 应用程序的高级用户体验和互操作性扩展
+
+
+**Topics**：csharp, wand, wand-enhancer, wand-pro, wemod, wpf
+
+**中文Topics**：夏普, 魔杖, 魔杖增强器, 魔杖专业版, 韦莫德, 工作组
+
+
+---
+
+### 20. cloudflare/computer
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cloudflare/computer](https://github.com/cloudflare/computer) |
+| ⭐ Stars | 5707 |
+| 🍴 Forks | 288 |
+| 👀 Watchers | 5707 |
+| 📝 Open Issues | 21 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-05 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Give your agent a computer 👾
+
+**中文简介**：
+给你的代理人一台电脑👾
 
 
 **Topics**：-

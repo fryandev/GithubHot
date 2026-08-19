@@ -1,9 +1,9 @@
 # 💻 Markdown 热门项目
 
 > 使用 Markdown 开发的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **24** 个项目
+共收录 **25** 个项目
 
 
 ## 项目列表
@@ -675,6 +675,34 @@ A collection listing all Achievements available on the GitHub profile 🏆
 
 
 **Topics**：achievement, achievements, badge, badges, galaxy-brain, github, github-profile
+
+
+
+---
+
+### 25. emilkowalski/skills
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| ⭐ Stars | 30309 |
+| 🍴 Forks | 1706 |
+| 👀 Watchers | 30309 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Markdown |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-16 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Skills for Designers and Engineers.
+
+**中文简介**：
+设计师和工程师的技能。
+
+
+**Topics**：-
 
 
 

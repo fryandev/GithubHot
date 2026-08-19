@@ -1,9 +1,9 @@
 # 工具 - 第 22 页
 
 > 工具 相关的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **2127** 个项目
+共收录 **2132** 个项目
 （第 22/22 页）
 
 ## 项目列表
@@ -766,6 +766,144 @@ Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi
 **Topics**：agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
 
 **中文Topics**：代理, 代理技能, 代码审查, 代码审查助理, 安全带, 存储库级别上下文
+
+
+---
+
+### 2128. zhaoxuya520/reverse-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) |
+| ⭐ Stars | 26473 |
+| 🍴 Forks | 3598 |
+| 👀 Watchers | 26473 |
+| 📝 Open Issues | 17 |
+| 💻 主语言 | PowerShell |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 2129. cathrynlavery/diagram-design
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
+| ⭐ Stars | 22262 |
+| 🍴 Forks | 1366 |
+| 👀 Watchers | 22262 |
+| 📝 Open Issues | 38 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-16 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+
+**中文简介**：
+Claude Code 的 27 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。
+
+
+**Topics**：-
+
+
+
+---
+
+### 2130. awesome-dsh-plugin/awesome-dsh-plugin
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) |
+| ⭐ Stars | 9380 |
+| 🍴 Forks | 1379 |
+| 👀 Watchers | 9380 |
+| 📝 Open Issues | 218 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | CC0-1.0 |
+
+**简介**：
+A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+
+
+
+**Topics**：awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
+
+**中文Topics**：太棒了, 真棒列表, Deepseek 线束, dsh, dsh 插件
+
+
+---
+
+### 2131. zhu1090093659/dsh-web-ui
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) |
+| ⭐ Stars | 4713 |
+| 🍴 Forks | 286 |
+| 👀 Watchers | 4713 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-12 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
+
+**中文简介**：
+DeepSeek Harness (DSH) Web UI 的插件和皮肤集合 - 任务板、git 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心。
+
+
+**Topics**：deepseek-harness, dsh, dsh-plugin, web-ui
+
+**中文Topics**：Deepseek 线束, dsh, dsh 插件, 网络用户界面
+
+
+---
+
+### 2132. akitaonrails/ai-memory
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) |
+| ⭐ Stars | 2918 |
+| 🍴 Forks | 244 |
+| 👀 Watchers | 2918 |
+| 📝 Open Issues | 9 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-21 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+**中文简介**：
+用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换
+
+
+**Topics**：-
+
 
 
 ---

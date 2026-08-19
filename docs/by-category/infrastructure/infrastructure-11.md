@@ -1,9 +1,9 @@
 # 基础设施 - 第 11 页
 
 > 基础设施 相关的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **1088** 个项目
+共收录 **1089** 个项目
 （第 11/11 页）
 
 ## 项目列表
@@ -2464,6 +2464,35 @@ High-performance code intelligence MCP server. Indexes codebases into a persiste
 **Topics**：aider, ast, claude-code, code-analysis, code-intelligence, codex, cursor, cypher, developer-tools, gemini-cli, graph-visualization, kilocode, knowledge-graph, mcp, mcp-server, model-context-protocol, opencode, sqlite, tree-sitter, windsurf
 
 **中文Topics**：辅助工具, AST解析器, Claude代码编辑器, 代码分析工具, 代码智能分析工具, codex, cursor, 密码加密工具, 开发者工具集, Gemini命令行工具, 图形可视化工具, Kilocode工具, 知识图谱, mcp, MCP服务器, 模型上下文协议, OpenCode工具, SQLite数据库, Tree-Sitter解析器, Windsurf工具
+
+
+---
+
+### 1089. semantica-agi/semantica
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/semantica-agi/semantica](https://github.com/semantica-agi/semantica) |
+| ⭐ Stars | 9201 |
+| 🍴 Forks | 952 |
+| 👀 Watchers | 9201 |
+| 📝 Open Issues | 102 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-06-25 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Graph-Native Infrastructure for Context and Accountable AI Systems
+
+**中文简介**：
+用于上下文和负责任的人工智能系统的图本机基础设施
+
+
+**Topics**：agent-memory, ai, ai-governance, ai-infrastructure, artificial-intelligence, context-engineering, context-graphs, data-engineering, decision-intelligence, developer-tools, explainable-ai, generative-ai, graph-rag, knowledge-graph, llm, ontology, provenance, python, reasoning, semantic-search
+
+**中文Topics**：代理记忆, ai, 人工智能治理, 人工智能基础设施, 人工智能, 情境工程, 上下文图, 数据工程, 决策智能, 开发人员工具, 可解释的人工智能, 生成式人工智能, 图形抹布, 知识图, llm, 本体论, 出处, python, 推理, 语义搜索
 
 
 ---

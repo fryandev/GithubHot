@@ -1,241 +1,15 @@
 # 📅 最近30天活跃
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **17** 个项目
+共收录 **16** 个项目
 
 
 ## 项目列表
 
 
-### 1. MadsLorentzen/ai-job-search
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) |
-| ⭐ Stars | 20949 |
-| 🍴 Forks | 6102 |
-| 👀 Watchers | 20949 |
-| 📝 Open Issues | 4 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-18 |
-| 🔄 最后更新 | 2026-07-11 |
-| 📜 License | MIT |
-
-**简介**：
-The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
-
-**中文简介**：
-在您的计算机上运行的职位搜索。基于 Claude Code 构建的人工智能职位申请框架：评估职位、定制简历、撰写求职信、准备面试。分叉并拥有它。
-
-
-**Topics**：ai, ai-agents, career, claude-code, cover-letter, cv, interview-preparation, job-application, job-hunting, job-search, latex, resume
-
-**中文Topics**：ai, 人工智能代理, 职业生涯, 克劳德·代码, 求职信, cv, 面试准备, 工作申请, 找工作, 求职, 乳胶, 恢复
-
-
----
-
-### 2. hasaneyldrm/exercises-dataset
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) |
-| ⭐ Stars | 11471 |
-| 🍴 Forks | 1315 |
-| 👀 Watchers | 11471 |
-| 📝 Open Issues | 15 |
-| 💻 主语言 | HTML |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-18 |
-| 🔄 最后更新 | 2026-07-11 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
-
-**中文简介**：
-1,324 项运动健身数据集 — 动画 GIF、180×180 缩略图、肌肉群和设备数据以及 6 种语言的分步说明。 LogPress 应用程序背后的锻炼数据层。
-
-
-**Topics**：dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout
-
-**中文Topics**：数据集, 练习数据库, 练习, 健身, 健身应用程序, 健身房, json, 日志新闻, 反应本机, 锻炼
-
-
----
-
-### 3. facebook/astryx
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/facebook/astryx](https://github.com/facebook/astryx) |
-| ⭐ Stars | 7866 |
-| 🍴 Forks | 664 |
-| 👀 Watchers | 7866 |
-| 📝 Open Issues | 202 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-01-09 |
-| 🔄 最后更新 | 2026-07-11 |
-| 📜 License | MIT |
-
-**简介**：
-An open source design system that's fully customizable and agent ready
-
-**中文简介**：
-完全可定制且可供代理使用的开源设计系统
-
-
-**Topics**：-
-
-
-
----
-
-### 4. x4gKing/X4G
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/x4gKing/X4G](https://github.com/x4gKing/X4G) |
-| ⭐ Stars | 4347 |
-| 🍴 Forks | 8236 |
-| 👀 Watchers | 4347 |
-| 📝 Open Issues | 12 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-04 |
-| 🔄 最后更新 | 2026-07-11 |
-| 📜 License | 未知 |
-
-**简介**：
-暂无描述
-
-
-
-**Topics**：-
-
-
-
----
-
-### 5. xai-org/grok-build
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/xai-org/grok-build](https://github.com/xai-org/grok-build) |
-| ⭐ Stars | 19647 |
-| 🍴 Forks | 3519 |
-| 👀 Watchers | 19647 |
-| 📝 Open Issues | 0 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-14 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-
-**中文简介**：
-SpaceXAI 的编码代理线束和 TUI。全屏、鼠标交互、可扩展。
-
-
-**Topics**：-
-
-
-
----
-
-### 6. Fei-Away/Codex-Dream-Skin
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) |
-| ⭐ Stars | 10068 |
-| 🍴 Forks | 1047 |
-| 👀 Watchers | 10068 |
-| 📝 Open Issues | 101 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-15 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | 未知 |
-
-**简介**：
-Codex Dream Skin
-
-**中文简介**：
-法典梦想皮肤
-
-
-**Topics**：-
-
-
-
----
-
-### 7. 0xNyk/council-of-high-intelligence
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) |
-| ⭐ Stars | 3649 |
-| 🍴 Forks | 5 |
-| 👀 Watchers | 3649 |
-| 📝 Open Issues | 19 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-02 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | MIT |
-
-**简介**：
-Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
-
-**中文简介**：
-为艰难决策进行结构化的多角度审议。就 Claude Code、Codex、Gemini CLI 和 OpenCode 举办完整的委员会、重点三合会或双人辩论。
-
-
-**Topics**：agent-skill, ai-agents, claude-code, codex, decision-making, deliberation, gemini-cli, llm-routing, multi-agent-systems, multi-llm, open-source, opencode, prompt-engineering, structured-debate
-
-**中文Topics**：代理技能, 人工智能代理, 克劳德·代码, codex, 决策, 商议, Gemini-cli, llm 路由, 多代理系统, 多LLM, 开源, 开放代码, 即时工程, 结构化辩论
-
-
----
-
-### 8. Dicklesworthstone/destructive_command_guard
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) |
-| ⭐ Stars | 5154 |
-| 🍴 Forks | 195 |
-| 👀 Watchers | 5154 |
-| 📝 Open Issues | 2 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-01-07 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-
-**中文简介**：
-破坏性命令防护 (dcg) 用于阻止代理执行危险的 git 和 shell 命令。
-
-
-**Topics**：ai-agents, cli, developer-tools, git, rust, safety
-
-**中文Topics**：人工智能代理, cli, 开发人员工具, git, rust, 安全
-
-
----
-
-### 9. bojieli/ai-agent-book
+### 1. bojieli/ai-agent-book
 
 | 属性 | 信息 |
 |---|---|
@@ -261,7 +35,7 @@ The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm
 
 ---
 
-### 10. block/buzz
+### 2. block/buzz
 
 | 属性 | 信息 |
 |---|---|
@@ -289,7 +63,7 @@ A hive mind communication platform
 
 ---
 
-### 11. ayghri/i-have-adhd
+### 3. ayghri/i-have-adhd
 
 | 属性 | 信息 |
 |---|---|
@@ -318,7 +92,7 @@ A skill for your coding agent to stop it from burying the answer. ADHD-friendly 
 
 ---
 
-### 12. oblien/openship
+### 4. oblien/openship
 
 | 属性 | 信息 |
 |---|---|
@@ -347,7 +121,7 @@ Self-hosted deployment platform
 
 ---
 
-### 13. every-app/open-seo
+### 5. every-app/open-seo
 
 | 属性 | 信息 |
 |---|---|
@@ -376,7 +150,7 @@ Semrush 和 Ahrefs 的开源替代品
 
 ---
 
-### 14. CoreBunch/Instatic
+### 6. CoreBunch/Instatic
 
 | 属性 | 信息 |
 |---|---|
@@ -405,7 +179,7 @@ Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS
 
 ---
 
-### 15. andrewyng/openworker
+### 7. andrewyng/openworker
 
 | 属性 | 信息 |
 |---|---|
@@ -431,7 +205,7 @@ Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS
 
 ---
 
-### 16. citrolabs/ego-lite
+### 8. citrolabs/ego-lite
 
 | 属性 | 信息 |
 |---|---|
@@ -460,7 +234,7 @@ AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理�
 
 ---
 
-### 17. MoonshotAI/Kimi-K3
+### 9. MoonshotAI/Kimi-K3
 
 | 属性 | 信息 |
 |---|---|
@@ -484,6 +258,206 @@ Open Frontier Intelligence
 
 **Topics**：-
 
+
+
+---
+
+### 10. alibaba/open-code-review
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alibaba/open-code-review](https://github.com/alibaba/open-code-review) |
+| ⭐ Stars | 19582 |
+| 🍴 Forks | 1361 |
+| 👀 Watchers | 19582 |
+| 📝 Open Issues | 75 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-18 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+
+**中文简介**：
+快速、高效，经过阿里巴巴规模的实战考验。混合架构代码审查工具：确定性管道+LLM代理，精确的行级注释，内置多语言规则集（NPE，线程安全，XSS，SQL注入），兼容OpenAI和Anthropic。
+
+
+**Topics**：agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
+
+**中文Topics**：代理, 代理技能, 代码审查, 代码审查助理, 安全带, 存储库级别上下文
+
+
+---
+
+### 11. firecrawl/pdf-inspector
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) |
+| ⭐ Stars | 13038 |
+| 🍴 Forks | 887 |
+| 👀 Watchers | 13038 |
+| 📝 Open Issues | 100 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-06 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+
+**中文简介**：
+用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。
+
+
+**Topics**：markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction
+
+**中文Topics**：降价, nodejs, ocr 路由, pdf, pdf-分类, pdf 提取, pdf 解析器, python, rust, 文本提取
+
+
+---
+
+### 12. firecrawl/anydoc
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/firecrawl/anydoc](https://github.com/firecrawl/anydoc) |
+| ⭐ Stars | 11018 |
+| 🍴 Forks | 513 |
+| 👀 Watchers | 11018 |
+| 📝 Open Issues | 44 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-03 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+
+**中文简介**：
+将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，具有 Node.js 和 Python 绑定。
+
+
+**Topics**：-
+
+
+
+---
+
+### 13. trycompai/crm
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/trycompai/crm](https://github.com/trycompai/crm) |
+| ⭐ Stars | 7497 |
+| 🍴 Forks | 805 |
+| 👀 Watchers | 7497 |
+| 📝 Open Issues | 10 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-31 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.
+
+**中文简介**：
+Comp AI CRM 是一款专为 AI 客服人员设计的开源 CRM。代理优先的 CRM。
+
+
+**Topics**：-
+
+
+
+---
+
+### 14. cloudflare/computer
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cloudflare/computer](https://github.com/cloudflare/computer) |
+| ⭐ Stars | 5707 |
+| 🍴 Forks | 288 |
+| 👀 Watchers | 5707 |
+| 📝 Open Issues | 21 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-05 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Give your agent a computer 👾
+
+**中文简介**：
+给你的代理人一台电脑👾
+
+
+**Topics**：-
+
+
+
+---
+
+### 15. huangruiteng/loopx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/huangruiteng/loopx](https://github.com/huangruiteng/loopx) |
+| ⭐ Stars | 3394 |
+| 🍴 Forks | 266 |
+| 👀 Watchers | 3394 |
+| 📝 Open Issues | 32 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-31 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | MIT |
+
+**简介**：
+Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
+
+**中文简介**：
+适用于长期运行的 AI 代理团队的轻量级循环工程状态内核。跨 Codex、Claude Code 和其他编码代理的代理循环不可知，具有持久目标、配额感知自动唤醒、可执行待办事项、证据日志和可验证的切换。
+
+
+**Topics**：agent-control-plane, agent-ops, ai-agents, codex, long-running-agents, loop-engineering, loopx, workflow-automation
+
+**中文Topics**：代理控制平面, 代理操作, 人工智能代理, codex, 长期运行代理, 循环工程, 循环x, 工作流程自动化
+
+
+---
+
+### 16. FareedKhan-dev/kimi-k3-in-c
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
+| ⭐ Stars | 3289 |
+| 🍴 Forks | 538 |
+| 👀 Watchers | 3289 |
+| 📝 Open Issues | 5 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-01 |
+| 🔄 最后更新 | 2026-08-08 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+
+**中文简介**：
+2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。
+
+
+**Topics**：avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine, kimi-k3, linear-attention, llm, llm-inference, machine-learning, memory-efficient, mixture-of-experts, moe, mxfp4, quantization, simd, systems-programming, transformer, zero-dependencies
+
+**中文Topics**：avx2, c99, c99 cpu 推理, 深度学习, 从头开始, 推理机, 基米-k3, 线性注意力, llm, LLM 推理, 机器学习, 内存效率, 专家组合, 萌, mxfp4, 量化, 模拟指令集, 系统编程, 变压器, 零依赖
 
 
 ---

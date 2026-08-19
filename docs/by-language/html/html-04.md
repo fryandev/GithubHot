@@ -1,9 +1,9 @@
 # 💻 HTML 热门项目 - 第 4 页
 
 > 使用 HTML 开发的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **326** 个项目
+共收录 **328** 个项目
 （第 4/4 页）
 
 ## 项目列表
@@ -726,6 +726,63 @@ Development and deployment made easy.
 **Topics**：dataset, exercise-database, exercises, fitness, fitness-app, gym, json, logpress, react-native, workout
 
 **中文Topics**：数据集, 练习数据库, 练习, 健身, 健身应用程序, 健身房, json, 日志新闻, 反应本机, 锻炼
+
+
+---
+
+### 327. cathrynlavery/diagram-design
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
+| ⭐ Stars | 22262 |
+| 🍴 Forks | 1366 |
+| 👀 Watchers | 22262 |
+| 📝 Open Issues | 38 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-16 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+
+**中文简介**：
+Claude Code 的 27 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。
+
+
+**Topics**：-
+
+
+
+---
+
+### 328. tt-a1i/archify
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify) |
+| ⭐ Stars | 14312 |
+| 🍴 Forks | 1038 |
+| 👀 Watchers | 14312 |
+| 📝 Open Issues | 23 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-15 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+
+**中文简介**：
+具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。
+
+
+**Topics**：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex, coding-agents, data-flow-diagram, deepseek-harness, developer-tools, diagram-as-code, diagrams, diagrams-as-code, dsh-plugin, mermaid-alternative, opencode, sequence-diagram, software-architecture, system-design, text-to-diagram
+
+**中文Topics**：代理技能, 架构即代码, 架构图, 克劳德技能, 代码可视化, codex, 编码剂, 数据流图, Deepseek 线束, 开发人员工具, 图表即代码, 图表, 图表即代码, dsh 插件, 美人鱼-替代品, 开放代码, 序列图, 软件架构, 系统设计, 文本到图表
 
 
 ---

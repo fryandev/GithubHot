@@ -1,9 +1,9 @@
 # 安全 - 第 4 页
 
 > 安全 相关的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **334** 个项目
+共收录 **335** 个项目
 （第 4/4 页）
 
 ## 项目列表
@@ -951,6 +951,32 @@ Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns
 
 **中文简介**：
 AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险。
+
+
+**Topics**：-
+
+
+
+---
+
+### 335. zhaoxuya520/reverse-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) |
+| ⭐ Stars | 26473 |
+| 🍴 Forks | 3598 |
+| 👀 Watchers | 26473 |
+| 📝 Open Issues | 17 |
+| 💻 主语言 | PowerShell |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
 
 
 **Topics**：-

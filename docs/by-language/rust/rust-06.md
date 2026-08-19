@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **534** 个项目
+共收录 **535** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -957,6 +957,34 @@ Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean 
 
 **中文简介**：
 将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，具有 Node.js 和 Python 绑定。
+
+
+**Topics**：-
+
+
+
+---
+
+### 535. akitaonrails/ai-memory
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) |
+| ⭐ Stars | 2918 |
+| 🍴 Forks | 244 |
+| 👀 Watchers | 2918 |
+| 📝 Open Issues | 9 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-21 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+**中文简介**：
+用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换
 
 
 **Topics**：-

@@ -1,13 +1,13 @@
 # 🔥 GitHub 热门项目精选
 
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
 ## 📊 数据概览
 
 | 指标 | 数值 |
 |---|---|
-| 收录项目总数 | 14441 |
-| 热门项目数 | 14441 |
+| 收录项目总数 | 14455 |
+| 热门项目数 | 14455 |
 | 涵盖语言 | 151 种 |
 | 涵盖领域 | 12 个 |
 
@@ -15,18 +15,18 @@
 
 ### 按语言
 
-- [Python](by-language/python.md) (2489)
+- [Python](by-language/python.md) (2493)
 - [JavaScript](by-language/javascript.md) (1812)
-- [TypeScript](by-language/typescript.md) (1731)
+- [TypeScript](by-language/typescript.md) (1735)
 - [Go](by-language/go.md) (1107)
 - [Java](by-language/java.md) (797)
 - [C++](by-language/cplusplus.md) (719)
-- [Rust](by-language/rust.md) (534)
+- [Rust](by-language/rust.md) (535)
 - [C](by-language/c.md) (511)
 - [C#](by-language/csharp.md) (367)
 - [Jupyter Notebook](by-language/jupyter-notebook.md) (342)
 - [Shell](by-language/shell.md) (338)
-- [HTML](by-language/html.md) (326)
+- [HTML](by-language/html.md) (328)
 - [PHP](by-language/php.md) (322)
 - [Swift](by-language/swift.md) (265)
 - [Kotlin](by-language/kotlin.md) (188)
@@ -36,18 +36,18 @@
 
 ### 按领域
 
-- [🛠️ 工具](by-category/tools.md) (2144)
-- [🌐 Web 开发](by-category/web-dev.md) (1225)
-- [📱 移动端](by-category/mobile.md) (1134)
-- [🏗️ 基础设施](by-category/infrastructure.md) (1107)
+- [🛠️ 工具](by-category/tools.md) (2149)
+- [🌐 Web 开发](by-category/web-dev.md) (1226)
+- [📱 移动端](by-category/mobile.md) (1135)
+- [🏗️ 基础设施](by-category/infrastructure.md) (1108)
 - [🤖 AI / 机器学习](by-category/ai-ml.md) (1059)
 - [🔧 DevOps](by-category/devops.md) (516)
 - [🗄️ 数据库](by-category/database.md) (486)
-- [🔒 安全](by-category/security.md) (338)
+- [🔒 安全](by-category/security.md) (339)
 - [🎮 游戏开发](by-category/game-dev.md) (225)
 - [📊 数据科学](by-category/data-science.md) (187)
 - [⛓️ 区块链](by-category/blockchain.md) (139)
-- [🔌 嵌入式 / IoT](by-category/embedded.md) (125)
+- [🔌 嵌入式 / IoT](by-category/embedded.md) (126)
 
 
 ### 按热度
@@ -60,9 +60,9 @@
 
 ### 按活跃
 
-- [🔥 最近7天活跃](by-activity/daily.md) (7)
-- [📅 最近30天活跃](by-activity/weekly.md) (17)
-- [📆 最近90天活跃](by-activity/monthly.md) (6737)
+- [🔥 最近7天活跃](by-activity/daily.md) (14)
+- [📅 最近30天活跃](by-activity/weekly.md) (16)
+- [📆 最近90天活跃](by-activity/monthly.md) (6084)
 
 
 ### 按趋势

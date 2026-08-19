@@ -1,9 +1,9 @@
 # 嵌入式 / IoT - 第 2 页
 
 > 嵌入式 / IoT 相关的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **124** 个项目
+共收录 **125** 个项目
 （第 2/2 页）
 
 ## 项目列表
@@ -677,6 +677,35 @@ Blinker node.js library for hardware. Works with Raspberry Pi, Banana Pi, linux,
 
 **Topics**：iot, linux, mqtt, raspberry-pi, typescript
 
+
+
+---
+
+### 125. cordiverse/cordis
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cordiverse/cordis](https://github.com/cordiverse/cordis) |
+| ⭐ Stars | 6213 |
+| 🍴 Forks | 342 |
+| 👀 Watchers | 6213 |
+| 📝 Open Issues | 47 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2022-05-17 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Meta-Framework of Spatiotemporal Composability
+
+**中文简介**：
+时空可组合性元框架
+
+
+**Topics**：effect, framework, nodejs, plugin
+
+**中文Topics**：效果, 框架, nodejs, 插件
 
 
 ---

@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **1731** 个项目
+共收录 **1735** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -876,6 +876,118 @@ Give your agent a computer 👾
 
 **Topics**：-
 
+
+
+---
+
+### 1732. PrimeIntellect-ai/prime-agent
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
+| ⭐ Stars | 17256 |
+| 🍴 Forks | 1856 |
+| 👀 Watchers | 17256 |
+| 📝 Open Issues | 66 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-08 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+
+**中文简介**：
+用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。
+
+
+**Topics**：-
+
+
+
+---
+
+### 1733. anywhere-labs/deepseek-harness-desktop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) |
+| ⭐ Stars | 14199 |
+| 🍴 Forks | 657 |
+| 👀 Watchers | 14199 |
+| 📝 Open Issues | 147 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+
+
+
+**Topics**：cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+
+
+
+---
+
+### 1734. cordiverse/cordis
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cordiverse/cordis](https://github.com/cordiverse/cordis) |
+| ⭐ Stars | 6213 |
+| 🍴 Forks | 342 |
+| 👀 Watchers | 6213 |
+| 📝 Open Issues | 47 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2022-05-17 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Meta-Framework of Spatiotemporal Composability
+
+**中文简介**：
+时空可组合性元框架
+
+
+**Topics**：effect, framework, nodejs, plugin
+
+**中文Topics**：效果, 框架, nodejs, 插件
+
+
+---
+
+### 1735. zhu1090093659/dsh-web-ui
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) |
+| ⭐ Stars | 4713 |
+| 🍴 Forks | 286 |
+| 👀 Watchers | 4713 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-12 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.
+
+**中文简介**：
+DeepSeek Harness (DSH) Web UI 的插件和皮肤集合 - 任务板、git 图表、右侧面板、远程移动 UI、宠物、实时令牌统计信息和皮肤中心。
+
+
+**Topics**：deepseek-harness, dsh, dsh-plugin, web-ui
+
+**中文Topics**：Deepseek 线束, dsh, dsh 插件, 网络用户界面
 
 
 ---

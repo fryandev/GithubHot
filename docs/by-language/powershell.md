@@ -1,9 +1,9 @@
 # 💻 PowerShell 热门项目
 
 > 使用 PowerShell 开发的热门开源项目
-> 最后更新：2026-08-08 08:41
+> 最后更新：2026-08-19 14:58
 
-共收录 **37** 个项目
+共收录 **39** 个项目
 
 
 ## 项目列表
@@ -1042,6 +1042,60 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 
 **Topics**：awesome, awesome-list, game-development, love2d, lua
+
+
+
+---
+
+### 38. zhaoxuya520/reverse-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) |
+| ⭐ Stars | 26473 |
+| 🍴 Forks | 3598 |
+| 👀 Watchers | 26473 |
+| 📝 Open Issues | 17 |
+| 💻 主语言 | PowerShell |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 39. yjh051108/dsh-routing-suite
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) |
+| ⭐ Stars | 6153 |
+| 🍴 Forks | 108 |
+| 👀 Watchers | 6153 |
+| 📝 Open Issues | 45 |
+| 💻 主语言 | PowerShell |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-14 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | 未知 |
+
+**简介**：
+dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
+
+**中文简介**：
+dsh-routing-suite — 注入器 + 路由器标准套件：首先安装运行时注入器，然后安装任务感知推理模式路由器预设（测量 P1-P23）。
+
+
+**Topics**：-
 
 
 
