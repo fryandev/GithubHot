@@ -1,10 +1,10 @@
 # 📆 最近90天活跃 - 第 1 页
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-08-19 14:58
+> 最后更新：2026-08-22 10:36
 
-共收录 **6084** 个项目
-（第 1/61 页）
+共收录 **5887** 个项目
+（第 1/59 页）
 
 ## 项目列表
 
@@ -384,36 +384,7 @@ All Algorithms implemented in Python
 
 ---
 
-### 14. github/gitignore
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/github/gitignore](https://github.com/github/gitignore) |
-| ⭐ Stars | 174308 |
-| 🍴 Forks | 82443 |
-| 👀 Watchers | 174308 |
-| 📝 Open Issues | 65 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | legendary |
-| 📅 创建时间 | 2010-11-08 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | CC0-1.0 |
-
-**简介**：
-A collection of useful .gitignore templates
-
-**中文简介**：
-有用的 .gitignore 模板集合。
-
-
-**Topics**：git, gitignore
-
-**中文Topics**：git, gitignore
-
-
----
-
-### 15. twbs/bootstrap
+### 14. twbs/bootstrap
 
 | 属性 | 信息 |
 |---|---|
@@ -442,7 +413,7 @@ The most popular HTML, CSS, and JavaScript framework for developing responsive, 
 
 ---
 
-### 16. n8n-io/n8n
+### 15. n8n-io/n8n
 
 | 属性 | 信息 |
 |---|---|
@@ -471,7 +442,7 @@ Fair-code workflow automation platform with native AI capabilities. Combine visu
 
 ---
 
-### 17. affaan-m/ECC
+### 16. affaan-m/ECC
 
 | 属性 | 信息 |
 |---|---|
@@ -500,7 +471,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 
 ---
 
-### 18. Significant-Gravitas/AutoGPT
+### 17. Significant-Gravitas/AutoGPT
 
 | 属性 | 信息 |
 |---|---|
@@ -529,7 +500,7 @@ AutoGPT 的愿景是让每个人都能使用并在此基础上构建可访问的
 
 ---
 
-### 19. obra/superpowers
+### 18. obra/superpowers
 
 | 属性 | 信息 |
 |---|---|
@@ -557,7 +528,7 @@ An agentic skills framework & software development methodology that works.
 
 ---
 
-### 20. microsoft/vscode
+### 19. microsoft/vscode
 
 | 属性 | 信息 |
 |---|---|
@@ -586,7 +557,7 @@ Visual Studio Code
 
 ---
 
-### 21. trekhleb/javascript-algorithms
+### 20. trekhleb/javascript-algorithms
 
 | 属性 | 信息 |
 |---|---|
@@ -615,7 +586,7 @@ Visual Studio Code
 
 ---
 
-### 22. NousResearch/hermes-agent
+### 21. NousResearch/hermes-agent
 
 | 属性 | 信息 |
 |---|---|
@@ -644,7 +615,7 @@ The agent that grows with you
 
 ---
 
-### 23. ohmyzsh/ohmyzsh
+### 22. ohmyzsh/ohmyzsh
 
 | 属性 | 信息 |
 |---|---|
@@ -673,7 +644,7 @@ The agent that grows with you
 
 ---
 
-### 24. flutter/flutter
+### 23. flutter/flutter
 
 | 属性 | 信息 |
 |---|---|
@@ -702,7 +673,7 @@ Flutter 让你能够轻松快速地构建适用于移动设备及其他平台的
 
 ---
 
-### 25. Snailclimb/JavaGuide
+### 24. Snailclimb/JavaGuide
 
 | 属性 | 信息 |
 |---|---|
@@ -729,7 +700,7 @@ Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分
 
 ---
 
-### 26. huggingface/transformers
+### 25. huggingface/transformers
 
 | 属性 | 信息 |
 |---|---|
@@ -758,7 +729,7 @@ Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分
 
 ---
 
-### 27. anomalyco/opencode
+### 26. anomalyco/opencode
 
 | 属性 | 信息 |
 |---|---|
@@ -786,7 +757,7 @@ The open source coding agent.
 
 ---
 
-### 28. ollama/ollama
+### 27. ollama/ollama
 
 | 属性 | 信息 |
 |---|---|
@@ -815,7 +786,7 @@ Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Ge
 
 ---
 
-### 29. firstcontributions/first-contributions
+### 28. firstcontributions/first-contributions
 
 | 属性 | 信息 |
 |---|---|
@@ -844,7 +815,7 @@ Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Ge
 
 ---
 
-### 30. avelino/awesome-go
+### 29. avelino/awesome-go
 
 | 属性 | 信息 |
 |---|---|
@@ -873,7 +844,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ---
 
-### 31. f/prompts.chat
+### 30. f/prompts.chat
 
 | 属性 | 信息 |
 |---|---|
@@ -902,7 +873,7 @@ f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 
 ---
 
-### 32. microsoft/generative-ai-for-beginners
+### 31. microsoft/generative-ai-for-beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -931,7 +902,7 @@ f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co
 
 ---
 
-### 33. yt-dlp/yt-dlp
+### 32. yt-dlp/yt-dlp
 
 | 属性 | 信息 |
 |---|---|
@@ -960,36 +931,7 @@ A feature-rich command-line audio/video downloader
 
 ---
 
-### 34. x1xhlol/system-prompts-and-models-of-ai-tools
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) |
-| ⭐ Stars | 138847 |
-| 🍴 Forks | 34525 |
-| 👀 Watchers | 138847 |
-| 📝 Open Issues | 146 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | legendary |
-| 📅 创建时间 | 2025-03-05 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-
-**中文简介**：
-完整的 Augment Code、Claude Code、Cluely、CodeBuddy、Comet、Cursor、Devin AI、Junie、Kiro、Leap.new、Lovable、Manus、NotionAI、Orchids.app、Perplexity、Poke、Qoder、Replit、Same.dev、Trae、Traycer AI、VSCode Agent、Warp.dev、Windsurf、Xcode、Z.ai Code、Dia 和 v0。（以及其他开源的）系统提示词、内部工具和 AI 模型。
-
-
-**Topics**：ai, bolt, cluely, copilot, cursor, cursorai, devin, github-copilot, lovable, open-source, perplexity, replit, system-prompts, trae, trae-ai, trae-ide, v0, vscode, windsurf, windsurf-ai
-
-**中文Topics**：ai, bolt, cluely, copilot, cursor, cursorai, devin, github-copilot, lovable, 开源, perplexity, replit, 系统提示词, trae, trae-ai, trae-ide, v0, vscode, windsurf, windsurf-ai
-
-
----
-
-### 35. vercel/next.js
+### 33. vercel/next.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1018,7 +960,7 @@ React 框架。
 
 ---
 
-### 36. kubernetes/kubernetes
+### 34. kubernetes/kubernetes
 
 | 属性 | 信息 |
 |---|---|
@@ -1047,7 +989,7 @@ Production-Grade Container Scheduling and Management
 
 ---
 
-### 37. 521xueweihan/HelloGitHub
+### 35. 521xueweihan/HelloGitHub
 
 | 属性 | 信息 |
 |---|---|
@@ -1076,7 +1018,7 @@ Production-Grade Container Scheduling and Management
 
 ---
 
-### 38. langgenius/dify
+### 36. langgenius/dify
 
 | 属性 | 信息 |
 |---|---|
@@ -1105,7 +1047,7 @@ Production-ready platform for agentic workflow development.
 
 ---
 
-### 39. ant-design/ant-design
+### 37. ant-design/ant-design
 
 | 属性 | 信息 |
 |---|---|
@@ -1134,7 +1076,7 @@ An enterprise-class UI design language and React UI library
 
 ---
 
-### 40. anthropics/skills
+### 38. anthropics/skills
 
 | 属性 | 信息 |
 |---|---|
@@ -1163,7 +1105,7 @@ Agent 技能的公共仓库。
 
 ---
 
-### 41. langchain-ai/langchain
+### 39. langchain-ai/langchain
 
 | 属性 | 信息 |
 |---|---|
@@ -1192,7 +1134,7 @@ The agent engineering platform.
 
 ---
 
-### 42. open-webui/open-webui
+### 40. open-webui/open-webui
 
 | 属性 | 信息 |
 |---|---|
@@ -1221,7 +1163,7 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ---
 
-### 43. nodejs/node
+### 41. nodejs/node
 
 | 属性 | 信息 |
 |---|---|
@@ -1250,7 +1192,7 @@ Node.js JavaScript 运行时 ✨🐢🚀✨
 
 ---
 
-### 44. opencv/opencv
+### 42. opencv/opencv
 
 | 属性 | 信息 |
 |---|---|
@@ -1279,7 +1221,7 @@ Open Source Computer Vision Library
 
 ---
 
-### 45. langflow-ai/langflow
+### 43. langflow-ai/langflow
 
 | 属性 | 信息 |
 |---|---|
@@ -1308,7 +1250,7 @@ Langflow 是一个用于构建和部署 AI 驱动智能体和工作流的强大�
 
 ---
 
-### 46. mrdoob/three.js
+### 44. mrdoob/three.js
 
 | 属性 | 信息 |
 |---|---|
@@ -1337,7 +1279,7 @@ JavaScript 3D 库。
 
 ---
 
-### 47. Genymobile/scrcpy
+### 45. Genymobile/scrcpy
 
 | 属性 | 信息 |
 |---|---|
@@ -1366,7 +1308,7 @@ Display and control your Android device
 
 ---
 
-### 48. golang/go
+### 46. golang/go
 
 | 属性 | 信息 |
 |---|---|
@@ -1395,7 +1337,7 @@ Go 编程语言。
 
 ---
 
-### 49. microsoft/markitdown
+### 47. microsoft/markitdown
 
 | 属性 | 信息 |
 |---|---|
@@ -1424,7 +1366,7 @@ Python tool for converting files and office documents to Markdown.
 
 ---
 
-### 50. facebook/react-native
+### 48. facebook/react-native
 
 | 属性 | 信息 |
 |---|---|
@@ -1453,7 +1395,7 @@ A framework for building native applications using React
 
 ---
 
-### 51. anthropics/claude-code
+### 49. anthropics/claude-code
 
 | 属性 | 信息 |
 |---|---|
@@ -1481,7 +1423,7 @@ Claude Code 是一个智能编程工具，常驻你的终端，理解你的代�
 
 ---
 
-### 52. godotengine/godot
+### 50. godotengine/godot
 
 | 属性 | 信息 |
 |---|---|
@@ -1510,7 +1452,7 @@ Godot 引擎——多平台 2D 和 3D 游戏引擎。
 
 ---
 
-### 53. microsoft/PowerToys
+### 51. microsoft/PowerToys
 
 | 属性 | 信息 |
 |---|---|
@@ -1539,7 +1481,7 @@ Microsoft PowerToys 是一套实用工具集合，可提升 Windows 上的生产
 
 ---
 
-### 54. Chalarangelo/30-seconds-of-code
+### 52. Chalarangelo/30-seconds-of-code
 
 | 属性 | 信息 |
 |---|---|
@@ -1568,7 +1510,7 @@ Coding articles to level up your development skills
 
 ---
 
-### 55. electron/electron
+### 53. electron/electron
 
 | 属性 | 信息 |
 |---|---|
@@ -1597,7 +1539,7 @@ Coding articles to level up your development skills
 
 ---
 
-### 56. excalidraw/excalidraw
+### 54. excalidraw/excalidraw
 
 | 属性 | 信息 |
 |---|---|
@@ -1626,7 +1568,7 @@ Virtual whiteboard for sketching hand-drawn like diagrams
 
 ---
 
-### 57. d3/d3
+### 55. d3/d3
 
 | 属性 | 信息 |
 |---|---|
@@ -1655,7 +1597,7 @@ Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_tre
 
 ---
 
-### 58. mui/material-ui
+### 56. mui/material-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -1684,7 +1626,7 @@ Material UI：全面实现 Google Material Design 的 React 组件库。永久�
 
 ---
 
-### 59. bitcoin/bitcoin
+### 57. bitcoin/bitcoin
 
 | 属性 | 信息 |
 |---|---|
@@ -1713,7 +1655,7 @@ Bitcoin Core 集成/暂存树。
 
 ---
 
-### 60. ggml-org/llama.cpp
+### 58. ggml-org/llama.cpp
 
 | 属性 | 信息 |
 |---|---|
@@ -1742,7 +1684,7 @@ LLM inference in C/C++
 
 ---
 
-### 61. ripienaar/free-for-dev
+### 59. ripienaar/free-for-dev
 
 | 属性 | 信息 |
 |---|---|
@@ -1771,7 +1713,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ---
 
-### 62. firecrawl/firecrawl
+### 60. firecrawl/firecrawl
 
 | 属性 | 信息 |
 |---|---|
@@ -1800,7 +1742,7 @@ The API to search, scrape, and interact with the web at scale. 🔥
 
 ---
 
-### 63. pytorch/pytorch
+### 61. pytorch/pytorch
 
 | 属性 | 信息 |
 |---|---|
@@ -1829,7 +1771,7 @@ Python 中的张量与动态神经网络，具备强大的 GPU 加速能力。
 
 ---
 
-### 64. rustdesk/rustdesk
+### 62. rustdesk/rustdesk
 
 | 属性 | 信息 |
 |---|---|
@@ -1858,7 +1800,7 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ---
 
-### 65. home-assistant/core
+### 63. home-assistant/core
 
 | 属性 | 信息 |
 |---|---|
@@ -1887,7 +1829,7 @@ An open-source remote desktop application designed for self-hosting, as an alter
 
 ---
 
-### 66. tensorflow/models
+### 64. tensorflow/models
 
 | 属性 | 信息 |
 |---|---|
@@ -1915,7 +1857,7 @@ TensorFlow 构建的模型和示例。
 
 ---
 
-### 67. angular/angular
+### 65. angular/angular
 
 | 属性 | 信息 |
 |---|---|
@@ -1944,7 +1886,7 @@ Deliver web apps with confidence 🚀
 
 ---
 
-### 68. spring-projects/spring-boot
+### 66. spring-projects/spring-boot
 
 | 属性 | 信息 |
 |---|---|
@@ -1973,7 +1915,7 @@ Spring Boot 帮助你以最小的繁琐创建基于 Spring 的生产级应用和
 
 ---
 
-### 69. Shubhamsaboo/awesome-llm-apps
+### 67. Shubhamsaboo/awesome-llm-apps
 
 | 属性 | 信息 |
 |---|---|
@@ -2002,7 +1944,7 @@ Spring Boot 帮助你以最小的繁琐创建基于 Spring 的生产级应用和
 
 ---
 
-### 70. clash-verge-rev/clash-verge-rev
+### 68. clash-verge-rev/clash-verge-rev
 
 | 属性 | 信息 |
 |---|---|
@@ -2031,7 +1973,7 @@ A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux 
 
 ---
 
-### 71. rust-lang/rust
+### 69. rust-lang/rust
 
 | 属性 | 信息 |
 |---|---|
@@ -2060,7 +2002,7 @@ Empowering everyone to build reliable and efficient software.
 
 ---
 
-### 72. Comfy-Org/ComfyUI
+### 70. Comfy-Org/ComfyUI
 
 | 属性 | 信息 |
 |---|---|
@@ -2089,7 +2031,7 @@ The most powerful and modular diffusion model GUI, api and backend with a graph/
 
 ---
 
-### 73. mattpocock/skills
+### 71. mattpocock/skills
 
 | 属性 | 信息 |
 |---|---|
@@ -2117,7 +2059,7 @@ Skills for Real Engineers. Straight from my .claude directory.
 
 ---
 
-### 74. django/django
+### 72. django/django
 
 | 属性 | 信息 |
 |---|---|
@@ -2146,7 +2088,7 @@ The Web framework for perfectionists with deadlines.
 
 ---
 
-### 75. msitarzewski/agency-agents
+### 73. msitarzewski/agency-agents
 
 | 属性 | 信息 |
 |---|---|
@@ -2174,7 +2116,7 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 ---
 
-### 76. iluwatar/java-design-patterns
+### 74. iluwatar/java-design-patterns
 
 | 属性 | 信息 |
 |---|---|
@@ -2203,7 +2145,7 @@ Java 实现的设计模式。
 
 ---
 
-### 77. garrytan/gstack
+### 75. garrytan/gstack
 
 | 属性 | 信息 |
 |---|---|
@@ -2231,7 +2173,7 @@ Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,
 
 ---
 
-### 78. 2dust/v2rayN
+### 76. 2dust/v2rayN
 
 | 属性 | 信息 |
 |---|---|
@@ -2260,7 +2202,7 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
 ---
 
-### 79. shadcn-ui/ui
+### 77. shadcn-ui/ui
 
 | 属性 | 信息 |
 |---|---|
@@ -2289,7 +2231,7 @@ A set of beautifully-designed, accessible components and a code distribution pla
 
 ---
 
-### 80. microsoft/TypeScript
+### 78. microsoft/TypeScript
 
 | 属性 | 信息 |
 |---|---|
@@ -2318,7 +2260,7 @@ TypeScript 是 JavaScript 的超集，可编译为纯净的 JavaScript 输出。
 
 ---
 
-### 81. fatedier/frp
+### 79. fatedier/frp
 
 | 属性 | 信息 |
 |---|---|
@@ -2347,7 +2289,7 @@ A fast reverse proxy to help you expose a local server behind a NAT or firewall 
 
 ---
 
-### 82. iptv-org/iptv
+### 80. iptv-org/iptv
 
 | 属性 | 信息 |
 |---|---|
@@ -2376,7 +2318,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ---
 
-### 83. anuraghazra/github-readme-stats
+### 81. anuraghazra/github-readme-stats
 
 | 属性 | 信息 |
 |---|---|
@@ -2405,7 +2347,7 @@ Collection of publicly available IPTV channels from all over the world
 
 ---
 
-### 84. axios/axios
+### 82. axios/axios
 
 | 属性 | 信息 |
 |---|---|
@@ -2434,7 +2376,7 @@ Promise based HTTP client for the browser and node.js
 
 ---
 
-### 85. google-gemini/gemini-cli
+### 83. google-gemini/gemini-cli
 
 | 属性 | 信息 |
 |---|---|
@@ -2463,7 +2405,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 ---
 
-### 86. github/spec-kit
+### 84. github/spec-kit
 
 | 属性 | 信息 |
 |---|---|
@@ -2492,7 +2434,7 @@ An open-source AI agent that brings the power of Gemini directly into your termi
 
 ---
 
-### 87. supabase/supabase
+### 85. supabase/supabase
 
 | 属性 | 信息 |
 |---|---|
@@ -2521,7 +2463,7 @@ Postgres 开发平台。Supabase 为你提供专用的 Postgres 数据库，用�
 
 ---
 
-### 88. python/cpython
+### 86. python/cpython
 
 | 属性 | 信息 |
 |---|---|
@@ -2549,7 +2491,7 @@ Python 编程语言。
 
 ---
 
-### 89. laravel/laravel
+### 87. laravel/laravel
 
 | 属性 | 信息 |
 |---|---|
@@ -2578,7 +2520,7 @@ Laravel 是一个语法富有表现力、优雅精致的 Web 应用框架。我�
 
 ---
 
-### 90. microsoft/Web-Dev-For-Beginners
+### 88. microsoft/Web-Dev-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -2607,7 +2549,7 @@ Laravel 是一个语法富有表现力、优雅精致的 Web 应用框架。我�
 
 ---
 
-### 91. rasbt/LLMs-from-scratch
+### 89. rasbt/LLMs-from-scratch
 
 | 属性 | 信息 |
 |---|---|
@@ -2636,7 +2578,7 @@ Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ---
 
-### 92. microsoft/terminal
+### 90. microsoft/terminal
 
 | 属性 | 信息 |
 |---|---|
@@ -2665,7 +2607,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ---
 
-### 93. jaywcjlove/awesome-mac
+### 91. jaywcjlove/awesome-mac
 
 | 属性 | 信息 |
 |---|---|
@@ -2694,7 +2636,7 @@ The new Windows Terminal and the original Windows console host, all in the same 
 
 ---
 
-### 94. denoland/deno
+### 92. denoland/deno
 
 | 属性 | 信息 |
 |---|---|
@@ -2723,7 +2665,7 @@ JavaScript 和 TypeScript 的现代运行时。
 
 ---
 
-### 95. Anduin2017/HowToCook
+### 93. Anduin2017/HowToCook
 
 | 属性 | 信息 |
 |---|---|
@@ -2752,7 +2694,7 @@ Programmer's guide about how to cook at home.
 
 ---
 
-### 96. microsoft/ML-For-Beginners
+### 94. microsoft/ML-For-Beginners
 
 | 属性 | 信息 |
 |---|---|
@@ -2781,7 +2723,7 @@ Programmer's guide about how to cook at home.
 
 ---
 
-### 97. tauri-apps/tauri
+### 95. tauri-apps/tauri
 
 | 属性 | 信息 |
 |---|---|
@@ -2810,7 +2752,7 @@ Build smaller, faster, and more secure desktop and mobile applications with a we
 
 ---
 
-### 98. browser-use/browser-use
+### 96. browser-use/browser-use
 
 | 属性 | 信息 |
 |---|---|
@@ -2839,7 +2781,7 @@ Build smaller, faster, and more secure desktop and mobile applications with a we
 
 ---
 
-### 99. elastic/elasticsearch
+### 97. elastic/elasticsearch
 
 | 属性 | 信息 |
 |---|---|
@@ -2868,7 +2810,7 @@ Free and Open Source, Distributed, RESTful Search Engine
 
 ---
 
-### 100. hacksider/Deep-Live-Cam
+### 98. hacksider/Deep-Live-Cam
 
 | 属性 | 信息 |
 |---|---|
@@ -2893,6 +2835,64 @@ real time face swap and one-click video deepfake with only a single image
 **Topics**：ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence, deep-fake, deepfake, deepfake-webcam, faceswap, fake-webcam, gan, real-time-deepfake, realtime, realtime-deepfake, realtime-face-changer, video-deepfake, webcam, webcamera
 
 **中文Topics**：ai, ai-deep-fake, ai-face, ai-webcam, artificial-intelligence, deep-fake, deepfake, deepfake-webcam, faceswap, fake-webcam, gan, real-time-deepfake, realtime, realtime-deepfake, realtime-face-changer, video-deepfake, webcam, webcamera
+
+
+---
+
+### 99. spring-projects/spring-framework
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) |
+| ⭐ Stars | 60010 |
+| 🍴 Forks | 38827 |
+| 👀 Watchers | 60010 |
+| 📝 Open Issues | 427 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2010-12-08 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Spring Framework
+
+**中文简介**：
+Spring 框架
+
+
+**Topics**：framework, spring, spring-framework
+
+**中文Topics**：框架, spring, spring-framework
+
+
+---
+
+### 100. fastapi/fastapi
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/fastapi/fastapi](https://github.com/fastapi/fastapi) |
+| ⭐ Stars | 98980 |
+| 🍴 Forks | 9404 |
+| 👀 Watchers | 98980 |
+| 📝 Open Issues | 94 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2018-12-08 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+**中文简介**：
+FastAPI 框架，高性能、易学、快速开发、生产就绪。
+
+
+**Topics**：api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web
+
+**中文Topics**：api, async, asyncio, fastapi, framework, json, json-schema, openapi, openapi3, pydantic, python, python-types, python3, redoc, rest, starlette, swagger, swagger-ui, uvicorn, web
 
 
 ---

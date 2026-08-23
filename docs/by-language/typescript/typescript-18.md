@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-08-19 14:58
+> 最后更新：2026-08-22 10:36
 
-共收录 **1735** 个项目
+共收录 **1736** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -988,6 +988,34 @@ DeepSeek Harness (DSH) Web UI 的插件和皮肤集合 - 任务板、git 图表�
 **Topics**：deepseek-harness, dsh, dsh-plugin, web-ui
 
 **中文Topics**：Deepseek 线束, dsh, dsh 插件, 网络用户界面
+
+
+---
+
+### 1736. cursor/plugins
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cursor/plugins](https://github.com/cursor/plugins) |
+| ⭐ Stars | 4423 |
+| 🍴 Forks | 367 |
+| 👀 Watchers | 4423 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-01-23 |
+| 🔄 最后更新 | 2026-08-22 |
+| 📜 License | 未知 |
+
+**简介**：
+Cursor plugin specification and official plugins
+
+**中文简介**：
+光标插件规范和官方插件
+
+
+**Topics**：-
+
 
 
 ---

@@ -1,9 +1,9 @@
 # 工具 - 第 22 页
 
 > 工具 相关的热门开源项目
-> 最后更新：2026-08-19 14:58
+> 最后更新：2026-08-22 10:36
 
-共收录 **2132** 个项目
+共收录 **2133** 个项目
 （第 22/22 页）
 
 ## 项目列表
@@ -900,6 +900,34 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 **中文简介**：
 用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换
+
+
+**Topics**：-
+
+
+
+---
+
+### 2133. cursor/plugins
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cursor/plugins](https://github.com/cursor/plugins) |
+| ⭐ Stars | 4423 |
+| 🍴 Forks | 367 |
+| 👀 Watchers | 4423 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-01-23 |
+| 🔄 最后更新 | 2026-08-22 |
+| 📜 License | 未知 |
+
+**简介**：
+Cursor plugin specification and official plugins
+
+**中文简介**：
+光标插件规范和官方插件
 
 
 **Topics**：-

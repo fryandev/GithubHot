@@ -1,9 +1,9 @@
 # 💻 Kotlin 热门项目 - 第 2 页
 
 > 使用 Kotlin 开发的热门开源项目
-> 最后更新：2026-08-19 14:58
+> 最后更新：2026-08-22 10:36
 
-共收录 **188** 个项目
+共收录 **189** 个项目
 （第 2/2 页）
 
 ## 项目列表
@@ -2457,6 +2457,34 @@ EhViewer 使用 Material Design 3 等进行了大修，源自 https://github.com
 **简介**：
 hanime1的三方客户端，提高了一些播放体验
 
+
+
+**Topics**：-
+
+
+
+---
+
+### 189. mahlernim/google-timeline-visualizer
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) |
+| ⭐ Stars | 2253 |
+| 🍴 Forks | 264 |
+| 👀 Watchers | 2253 |
+| 📝 Open Issues | 6 |
+| 💻 主语言 | Kotlin |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-12-16 |
+| 🔄 最后更新 | 2026-08-22 |
+| 📜 License | MIT |
+
+**简介**：
+Visualize your year in travel using your Google Location History (Timeline) data
+
+**中文简介**：
+使用您的 Google 位置记录（时间轴）数据可视化您这一年的旅行情况
 
 
 **Topics**：-

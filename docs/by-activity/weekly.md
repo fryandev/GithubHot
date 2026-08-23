@@ -1,9 +1,9 @@
 # 📅 最近30天活跃
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-08-19 14:58
+> 最后更新：2026-08-22 10:36
 
-共收录 **16** 个项目
+共收录 **17** 个项目
 
 
 ## 项目列表
@@ -458,6 +458,35 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 **Topics**：avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine, kimi-k3, linear-attention, llm, llm-inference, machine-learning, memory-efficient, mixture-of-experts, moe, mxfp4, quantization, simd, systems-programming, transformer, zero-dependencies
 
 **中文Topics**：avx2, c99, c99 cpu 推理, 深度学习, 从头开始, 推理机, 基米-k3, 线性注意力, llm, LLM 推理, 机器学习, 内存效率, 专家组合, 萌, mxfp4, 量化, 模拟指令集, 系统编程, 变压器, 零依赖
+
+
+---
+
+### 17. cordiverse/cordis
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cordiverse/cordis](https://github.com/cordiverse/cordis) |
+| ⭐ Stars | 6213 |
+| 🍴 Forks | 342 |
+| 👀 Watchers | 6213 |
+| 📝 Open Issues | 47 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2022-05-17 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Meta-Framework of Spatiotemporal Composability
+
+**中文简介**：
+时空可组合性元框架
+
+
+**Topics**：effect, framework, nodejs, plugin
+
+**中文Topics**：效果, 框架, nodejs, 插件
 
 
 ---

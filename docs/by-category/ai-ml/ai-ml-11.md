@@ -1,9 +1,9 @@
 # AI / 机器学习 - 第 11 页
 
 > AI / 机器学习 相关的热门开源项目
-> 最后更新：2026-08-19 14:58
+> 最后更新：2026-08-22 10:36
 
-共收录 **1050** 个项目
+共收录 **1051** 个项目
 （第 11/11 页）
 
 ## 项目列表
@@ -1402,6 +1402,35 @@ Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi
 **Topics**：agent, agent-skills, code-review, code-review-assistant, harness, repository-level-context
 
 **中文Topics**：代理, 代理技能, 代码审查, 代码审查助理, 安全带, 存储库级别上下文
+
+
+---
+
+### 1051. Tencent/AI-Infra-Guard
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) |
+| ⭐ Stars | 5341 |
+| 🍴 Forks | 511 |
+| 👀 Watchers | 5341 |
+| 📝 Open Issues | 25 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2024-12-25 |
+| 🔄 最后更新 | 2026-08-22 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+
+**中文简介**：
+全栈 AI 红队平台通过代理扫描、技能扫描、MCP 扫描、AI 基础设施扫描和 LLM 越狱评估来保护 AI 生态系统。
+
+
+**Topics**：agent, agent-security, ai-infra, ai-red-teaming, ai-security, llm, llm-evaluation, llm-jailbreak, llm-security, mcp-scan, openclaw-security, prompt-injection, prompt-security, scanner, security, security-tools, skill-scanner, skills-security, vulnerability
+
+**中文Topics**：代理, 代理安全, 人工智能基础设施, ai-红队, 人工智能安全, llm, llm-评估, llm-越狱, LLM-安全, mcp 扫描, openclaw-安全, 提示注入, 提示安全, 扫描仪, 安全, 安全工具, 技能扫描仪, 技能安全, 脆弱性
 
 
 ---

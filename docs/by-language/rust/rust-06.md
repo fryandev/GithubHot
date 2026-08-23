@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-08-19 14:58
+> 最后更新：2026-08-22 10:36
 
-共收录 **535** 个项目
+共收录 **536** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -989,6 +989,35 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 **Topics**：-
 
+
+
+---
+
+### 536. AprilNEA/OpenLogi
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) |
+| ⭐ Stars | 13007 |
+| 🍴 Forks | 352 |
+| 👀 Watchers | 13007 |
+| 📝 Open Issues | 239 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-24 |
+| 🔄 最后更新 | 2026-08-22 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+
+**中文简介**：
+⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。
+
+
+**Topics**：dpi, gpui, hid, hidpp, local-first, logitech, logitech-mouse, logitech-options, mouse-remapping, mx-master, privacy, rust, smartshift
+
+**中文Topics**：分辨率, 图形处理器, 隐藏, 希德普, 本地优先, 罗技, 罗技鼠标, 罗技选项, 鼠标重映射, MX-master, 隐私, rust, 智能换档
 
 
 ---
