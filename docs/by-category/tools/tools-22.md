@@ -1,9 +1,9 @@
 # 工具 - 第 22 页
 
 > 工具 相关的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **2133** 个项目
+共收录 **2138** 个项目
 （第 22/22 页）
 
 ## 项目列表
@@ -846,7 +846,7 @@ A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件�
 
 **Topics**：awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
 
-**中文Topics**：太棒了, 真棒列表, Deepseek 线束, dsh, dsh 插件
+**中文Topics**：awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
 
 
 ---
@@ -931,6 +931,136 @@ Cursor plugin specification and official plugins
 
 
 **Topics**：-
+
+
+
+---
+
+### 2134. t8y2/dbx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/t8y2/dbx](https://github.com/t8y2/dbx) |
+| ⭐ Stars | 19312 |
+| 🍴 Forks | 1874 |
+| 👀 Watchers | 19312 |
+| 📝 Open Issues | 1353 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-29 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
+
+
+
+**Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
+
+
+---
+
+### 2135. vorssaint/vorssaint-utils
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) |
+| ⭐ Stars | 18657 |
+| 🍴 Forks | 670 |
+| 👀 Watchers | 18657 |
+| 📝 Open Issues | 469 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Free and open-source macOS menu bar toolkit.
+
+
+
+**Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
+
+
+---
+
+### 2136. armory3d/armorpaint
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/armory3d/armorpaint](https://github.com/armory3d/armorpaint) |
+| ⭐ Stars | 4973 |
+| 🍴 Forks | 550 |
+| 👀 Watchers | 4973 |
+| 📝 Open Issues | 110 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2017-02-06 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Graphics Creation Tools
+
+
+
+**Topics**：3d, armorpaint, painting, texturing, tool
+
+
+
+---
+
+### 2137. Tencent/teamai-cli
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) |
+| ⭐ Stars | 4334 |
+| 🍴 Forks | 293 |
+| 👀 Watchers | 4334 |
+| 📝 Open Issues | 30 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-27 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Make Every Team AI Native
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 2138. vastsa/PI-Desktop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) |
+| ⭐ Stars | 3219 |
+| 🍴 Forks | 244 |
+| 👀 Watchers | 3219 |
+| 📝 Open Issues | 58 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2023-03-22 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | LGPL-3.0 |
+
+**简介**：
+Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+
+
+**Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
 
 
 

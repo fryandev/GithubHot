@@ -1,9 +1,9 @@
 # Web 开发 - 第 2 页
 
 > Web 开发 相关的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **1212** 个项目
+共收录 **1214** 个项目
 （第 2/13 页）
 
 ## 项目列表
@@ -1721,7 +1721,7 @@ Vue3、Element Plus、typescript后台管理系统
 
 **Topics**：element-plus, pinia, typescript, vue
 
-**中文Topics**：元素加, 松属, typescript, vue
+**中文Topics**：element-plus, pinia, typescript, vue
 
 
 ---

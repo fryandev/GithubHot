@@ -1,7 +1,7 @@
 # ⭐⭐ 非常热门 - 第 10 页
 
 > ⭐⭐ 非常热门 项目列表
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
 共收录 **2006** 个项目
 （第 10/21 页）
@@ -1060,7 +1060,7 @@ ORM
 
 **Topics**：bunjs, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, turso, typescript
 
-**中文Topics**：邦杰斯, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, 图尔索, typescript
+**中文Topics**：bunjs, mysql, nodejs, orm, postgres, postgresql, sql, sqlite, turso, typescript
 
 
 ---

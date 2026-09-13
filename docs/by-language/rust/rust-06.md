@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **536** 个项目
+共收录 **537** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -1018,6 +1018,32 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 **Topics**：dpi, gpui, hid, hidpp, local-first, logitech, logitech-mouse, logitech-options, mouse-remapping, mx-master, privacy, rust, smartshift
 
 **中文Topics**：分辨率, 图形处理器, 隐藏, 希德普, 本地优先, 罗技, 罗技鼠标, 罗技选项, 鼠标重映射, MX-master, 隐私, rust, 智能换档
+
+
+---
+
+### 537. t8y2/dbx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/t8y2/dbx](https://github.com/t8y2/dbx) |
+| ⭐ Stars | 19312 |
+| 🍴 Forks | 1874 |
+| 👀 Watchers | 19312 |
+| 📝 Open Issues | 1353 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-29 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
+
+
+
+**Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
 
 
 ---

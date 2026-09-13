@@ -1,7 +1,7 @@
 # 💻 Emacs Lisp 热门项目
 
 > 使用 Emacs Lisp 开发的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
 共收录 **10** 个项目
 
@@ -255,7 +255,7 @@ Rust :heart: Emacs
 
 **Topics**：editor, emacs, rust
 
-**中文Topics**：编辑, emacs, rust
+**中文Topics**：editor, emacs, rust
 
 
 ---

@@ -1,9 +1,9 @@
 # DevOps / 运维 - 第 6 页
 
 > DevOps / 运维 相关的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **507** 个项目
+共收录 **508** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -202,6 +202,32 @@ Self-hosted deployment platform
 **Topics**：agents, ai, deployments, self-hosted
 
 **中文Topics**：代理, ai, 部署, 自托管
+
+
+---
+
+### 508. t8y2/dbx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/t8y2/dbx](https://github.com/t8y2/dbx) |
+| ⭐ Stars | 19312 |
+| 🍴 Forks | 1874 |
+| 👀 Watchers | 19312 |
+| 📝 Open Issues | 1353 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-29 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
+
+
+
+**Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
 
 
 ---

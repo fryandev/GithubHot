@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **1736** 个项目
+共收录 **1740** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -1015,6 +1015,110 @@ Cursor plugin specification and official plugins
 
 
 **Topics**：-
+
+
+
+---
+
+### 1737. lnkiai/m3e-canvas
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) |
+| ⭐ Stars | 6420 |
+| 🍴 Forks | 653 |
+| 👀 Watchers | 6420 |
+| 📝 Open Issues | 2 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-02 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | MIT |
+
+**简介**：
+Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+
+
+**Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
+
+
+
+---
+
+### 1738. Tencent/teamai-cli
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) |
+| ⭐ Stars | 4334 |
+| 🍴 Forks | 293 |
+| 👀 Watchers | 4334 |
+| 📝 Open Issues | 30 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-27 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Make Every Team AI Native
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1739. vastsa/PI-Desktop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) |
+| ⭐ Stars | 3219 |
+| 🍴 Forks | 244 |
+| 👀 Watchers | 3219 |
+| 📝 Open Issues | 58 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2023-03-22 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | LGPL-3.0 |
+
+**简介**：
+Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+
+
+**Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
+
+
+
+---
+
+### 1740. alsk1992/CloddsBot
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) |
+| ⭐ Stars | 2646 |
+| 🍴 Forks | 321 |
+| 👀 Watchers | 2646 |
+| 📝 Open Issues | 29 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-01-26 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | MIT |
+
+**简介**：
+Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+
+
+**Topics**：agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402
 
 
 

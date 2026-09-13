@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **1812** 个项目
+共收录 **1813** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -343,6 +343,32 @@ AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理�
 **Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
 
 **中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
+
+
+---
+
+### 1813. bilawalsidhu/gods-eye-view
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
+| ⭐ Stars | 31039 |
+| 🍴 Forks | 6222 |
+| 👀 Watchers | 31039 |
+| 📝 Open Issues | 219 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-22 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+
+
+**Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
+
 
 
 ---

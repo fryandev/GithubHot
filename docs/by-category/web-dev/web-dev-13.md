@@ -1,9 +1,9 @@
 # Web 开发 - 第 13 页
 
 > Web 开发 相关的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **1212** 个项目
+共收录 **1214** 个项目
 （第 13/13 页）
 
 ## 项目列表
@@ -343,6 +343,58 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 **Topics**：agent, agent-security, ai-infra, ai-red-teaming, ai-security, llm, llm-evaluation, llm-jailbreak, llm-security, mcp-scan, openclaw-security, prompt-injection, prompt-security, scanner, security, security-tools, skill-scanner, skills-security, vulnerability
 
 **中文Topics**：代理, 代理安全, 人工智能基础设施, ai-红队, 人工智能安全, llm, llm-评估, llm-越狱, LLM-安全, mcp 扫描, openclaw-安全, 提示注入, 提示安全, 扫描仪, 安全, 安全工具, 技能扫描仪, 技能安全, 脆弱性
+
+
+---
+
+### 1213. bilawalsidhu/gods-eye-view
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
+| ⭐ Stars | 31039 |
+| 🍴 Forks | 6222 |
+| 👀 Watchers | 31039 |
+| 📝 Open Issues | 219 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-22 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+
+
+**Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
+
+
+
+---
+
+### 1214. lnkiai/m3e-canvas
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) |
+| ⭐ Stars | 6420 |
+| 🍴 Forks | 653 |
+| 👀 Watchers | 6420 |
+| 📝 Open Issues | 2 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-02 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | MIT |
+
+**简介**：
+Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+
+
+**Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
+
 
 
 ---

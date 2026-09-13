@@ -371,7 +371,7 @@ def info(ctx, full_name):
 def fetch_trends(ctx):
     """抓取外部趋势数据（OpenGithubs 日/周/月榜）"""
     db = Database(ctx.obj["db_path"])
-    fetcher = TrendFetcher()
+    fetcher = TrendFetcher(token=os.environ.get("GITHUB_TOKEN", ""))
 
     try:
         print("\n📈 开始抓取趋势数据...")
@@ -574,7 +574,7 @@ def _do_refresh(db_path: str):
     try:
         # 1. 抓取最新趋势数据
         print("\n📈 [1/2] 抓取外部趋势数据...")
-        trend_fetcher = TrendFetcher()
+        trend_fetcher = TrendFetcher(token=os.environ.get("GITHUB_TOKEN", ""))
         all_data = trend_fetcher.fetch_all()
         total = 0
         for period, rankings in all_data.items():

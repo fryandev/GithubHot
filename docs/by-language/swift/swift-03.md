@@ -1,9 +1,9 @@
 # 💻 Swift 热门项目 - 第 3 页
 
 > 使用 Swift 开发的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **265** 个项目
+共收录 **266** 个项目
 （第 3/3 页）
 
 ## 项目列表
@@ -1827,6 +1827,32 @@ macOS video editor built for AI
 **Topics**：ai-video, claude, macos, mcp, seedance2, swift, video-editor
 
 **中文Topics**：AI视频, claude, macos, mcp, seedance2, swift, 视频编辑器
+
+
+---
+
+### 266. vorssaint/vorssaint-utils
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) |
+| ⭐ Stars | 18657 |
+| 🍴 Forks | 670 |
+| 👀 Watchers | 18657 |
+| 📝 Open Issues | 469 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Free and open-source macOS menu bar toolkit.
+
+
+
+**Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
 
 
 ---

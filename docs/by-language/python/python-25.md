@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **2494** 个项目
+共收录 **2495** 个项目
 （第 25/25 页）
 
 ## 项目列表
@@ -2574,7 +2574,7 @@ A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件�
 
 **Topics**：awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
 
-**中文Topics**：太棒了, 真棒列表, Deepseek 线束, dsh, dsh 插件
+**中文Topics**：awesome, awesome-list, deepseek-harness, dsh, dsh-plugin
 
 
 ---
@@ -2633,6 +2633,32 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 **Topics**：agent, agent-security, ai-infra, ai-red-teaming, ai-security, llm, llm-evaluation, llm-jailbreak, llm-security, mcp-scan, openclaw-security, prompt-injection, prompt-security, scanner, security, security-tools, skill-scanner, skills-security, vulnerability
 
 **中文Topics**：代理, 代理安全, 人工智能基础设施, ai-红队, 人工智能安全, llm, llm-评估, llm-越狱, LLM-安全, mcp 扫描, openclaw-安全, 提示注入, 提示安全, 扫描仪, 安全, 安全工具, 技能扫描仪, 技能安全, 脆弱性
+
+
+---
+
+### 2495. sapientinc/PRAXIST
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) |
+| ⭐ Stars | 6711 |
+| 🍴 Forks | 663 |
+| 👀 Watchers | 6711 |
+| 📝 Open Issues | 10 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-27 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Autonomous research system for measurable, computer-executable research.
+
+
+
+**Topics**：-
+
 
 
 ---

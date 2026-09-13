@@ -1,62 +1,34 @@
 # 📊 周飙升榜
 
 > 📊 周飙升榜 项目列表
-> 最后更新：2026-08-22 10:36
+> 最后更新：2026-09-13 21:11
 
-共收录 **20** 个项目
+共收录 **19** 个项目
 
 
 ## 项目列表
 
 
-### 1. cathrynlavery/diagram-design
+### 1. THU-MAIC/OpenMAIC
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
-| ⭐ Stars | 22262 |
-| 🍴 Forks | 1366 |
-| 👀 Watchers | 22262 |
-| 📝 Open Issues | 38 |
-| 💻 主语言 | HTML |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-16 |
-| 🔄 最后更新 | 2026-08-19 |
-| 📜 License | MIT |
-
-**简介**：
-27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-
-**中文简介**：
-Claude Code 的 27 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。
-
-
-**Topics**：-
-
-
-
----
-
-### 2. PrimeIntellect-ai/prime-agent
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) |
-| ⭐ Stars | 17256 |
-| 🍴 Forks | 1856 |
-| 👀 Watchers | 17256 |
-| 📝 Open Issues | 66 |
+| 链接 | [https://github.com/THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) |
+| ⭐ Stars | 18353 |
+| 🍴 Forks | 3592 |
+| 👀 Watchers | 18353 |
+| 📝 Open Issues | 179 |
 | 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-05-08 |
-| 🔄 最后更新 | 2026-08-19 |
-| 📜 License | MIT |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-11 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | AGPL-3.0 |
 
 **简介**：
-A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 
 **中文简介**：
-用于编码工作流程和长时间运行的自主任务的自我改进 RLM 代理。
+开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验
 
 
 **Topics**：-
@@ -65,31 +37,56 @@ A self-improving RLM agent for coding workflows and long-running autonomous task
 
 ---
 
-### 3. semantica-agi/semantica
+### 2. bilawalsidhu/gods-eye-view
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/semantica-agi/semantica](https://github.com/semantica-agi/semantica) |
-| ⭐ Stars | 9201 |
-| 🍴 Forks | 952 |
-| 👀 Watchers | 9201 |
-| 📝 Open Issues | 102 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
+| ⭐ Stars | 31039 |
+| 🍴 Forks | 6222 |
+| 👀 Watchers | 31039 |
+| 📝 Open Issues | 219 |
+| 💻 主语言 | JavaScript |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2025-06-25 |
-| 🔄 最后更新 | 2026-08-19 |
+| 📅 创建时间 | 2026-06-22 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+
+
+**Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
+
+
+
+---
+
+### 3. basecamp/omarchy
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/basecamp/omarchy](https://github.com/basecamp/omarchy) |
+| ⭐ Stars | 23515 |
+| 🍴 Forks | 2357 |
+| 👀 Watchers | 23515 |
+| 📝 Open Issues | 624 |
+| 💻 主语言 | Shell |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2025-06-01 |
+| 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Graph-Native Infrastructure for Context and Accountable AI Systems
+Beautiful, Modern & Opinionated Linux
 
 **中文简介**：
-用于上下文和负责任的人工智能系统的图本机基础设施
+美丽、现代、有主见的 Linux
 
 
-**Topics**：agent-memory, ai, ai-governance, ai-infrastructure, artificial-intelligence, context-engineering, context-graphs, data-engineering, decision-intelligence, developer-tools, explainable-ai, generative-ai, graph-rag, knowledge-graph, llm, ontology, provenance, python, reasoning, semantic-search
+**Topics**：-
 
-**中文Topics**：代理记忆, ai, 人工智能治理, 人工智能基础设施, 人工智能, 情境工程, 上下文图, 数据工程, 决策智能, 开发人员工具, 可解释的人工智能, 生成式人工智能, 图形抹布, 知识图, llm, 本体论, 出处, python, 推理, 语义搜索
 
 
 ---
@@ -120,405 +117,60 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ---
 
-### 5. guillaumemeyer/watermarks-remover
+### 5. freestylefly/awesome-gpt-image-2
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) |
-| ⭐ Stars | 14699 |
-| 🍴 Forks | 1640 |
-| 👀 Watchers | 14699 |
-| 📝 Open Issues | 29 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-08-11 |
-| 🔄 最后更新 | 2026-08-19 |
-| 📜 License | MIT |
-
-**简介**：
-Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD
-
-**中文简介**：
-剥离多供应商 AI 出处标记：Unicode 文本卫生、统计重写挂钩以及 PNG/JPEG/SVG/PDF/DOCX/HTML/MD 中的 C2PA/元数据
-
-
-**Topics**：agent-skill, ai, c2pa, claude, provenance, synthid, watermark
-
-**中文Topics**：代理技能, ai, c2pa, claude, 出处, 合成体, 水印
-
-
----
-
-### 6. firecrawl/anydoc
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/firecrawl/anydoc](https://github.com/firecrawl/anydoc) |
-| ⭐ Stars | 11018 |
-| 🍴 Forks | 513 |
-| 👀 Watchers | 11018 |
-| 📝 Open Issues | 44 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-08-03 |
-| 🔄 最后更新 | 2026-08-08 |
-| 📜 License | MIT |
-
-**简介**：
-Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-
-**中文简介**：
-将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 转换为干净的 Markdown。使用 Rust 构建，具有 Node.js 和 Python 绑定。
-
-
-**Topics**：-
-
-
-
----
-
-### 7. TencentCloud/TencentDB-Agent-Memory
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) |
-| ⭐ Stars | 5036 |
-| 🍴 Forks | 429 |
-| 👀 Watchers | 5036 |
-| 📝 Open Issues | 72 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-04-07 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
-
-**中文简介**：
-腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。
-
-
-**Topics**：agent, ai-agent, embedding, llm, local-first, long-term-memory, memory, openclaw-plugin, vector-search
-
-
-
----
-
-### 8. ogulcancelik/herdr
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) |
-| ⭐ Stars | 4707 |
-| 🍴 Forks | 283 |
-| 👀 Watchers | 4707 |
-| 📝 Open Issues | 22 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-27 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-agent multiplexer that lives in your terminal.
-
-**中文简介**：
-位于您终端中的代理多路复用器。
-
-
-**Topics**：agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager
-
-
-
----
-
-### 9. virgiliojr94/book-to-skill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
-| ⭐ Stars | 4431 |
-| 🍴 Forks | 553 |
-| 👀 Watchers | 4431 |
-| 📝 Open Issues | 1 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-05-01 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
-
-**中文简介**：
-将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。
-
-
-**Topics**：-
-
-
-
----
-
-### 10. HKUDS/DeepTutor
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) |
-| ⭐ Stars | 24587 |
-| 🍴 Forks | 3329 |
-| 👀 Watchers | 24587 |
-| 📝 Open Issues | 51 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-12-28 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-DeepTutor: Agent-native, Open-sourced Personalized Tutoring. https://deeptutor.info/.
-
-**中文简介**：
-DeepTutor：代理原生、开源的个性化辅导。 https://deeptutor.info/。
-
-
-**Topics**：ai-agents, ai-tutor, clawdbot, cli-tool, deepresearch, interactive-learning, large-language-models, multi-agent-systems, rag
-
-
-
----
-
-### 11. tt-a1i/archify
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/tt-a1i/archify](https://github.com/tt-a1i/archify) |
-| ⭐ Stars | 14312 |
-| 🍴 Forks | 1038 |
-| 👀 Watchers | 14312 |
-| 📝 Open Issues | 23 |
-| 💻 主语言 | HTML |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-15 |
-| 🔄 最后更新 | 2026-08-19 |
-| 📜 License | MIT |
-
-**简介**：
-Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-
-**中文简介**：
-具有漂亮、可验证的架构、工作流程、序列、数据流和生命周期图的代理技能——具有动态和清晰导出功能的独立 HTML。
-
-
-**Topics**：agent-skills, architecture-as-code, architecture-diagram, claude-skill, code-visualization, codex, coding-agents, data-flow-diagram, deepseek-harness, developer-tools, diagram-as-code, diagrams, diagrams-as-code, dsh-plugin, mermaid-alternative, opencode, sequence-diagram, software-architecture, system-design, text-to-diagram
-
-**中文Topics**：代理技能, 架构即代码, 架构图, 克劳德技能, 代码可视化, codex, 编码剂, 数据流图, Deepseek 线束, 开发人员工具, 图表即代码, 图表, 图表即代码, dsh 插件, 美人鱼-替代品, 开放代码, 序列图, 软件架构, 系统设计, 文本到图表
-
-
----
-
-### 12. ayghri/i-have-adhd
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) |
-| ⭐ Stars | 11045 |
-| 🍴 Forks | 557 |
-| 👀 Watchers | 11045 |
-| 📝 Open Issues | 9 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-05-13 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | MIT |
-
-**简介**：
-A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
-
-**中文简介**：
-您的编码代理可以阻止其隐藏答案的技能。多动症友好的输出。
-
-
-**Topics**：adhd, claude-, claude-code-plugin, claude-skills, developer-tools, productivity
-
-**中文Topics**：多动症, claude-, 克劳德代码插件, 克劳德技能, 开发人员工具, 生产率
-
-
----
-
-### 13. emilkowalski/skills
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills) |
-| ⭐ Stars | 30309 |
-| 🍴 Forks | 1706 |
-| 👀 Watchers | 30309 |
-| 📝 Open Issues | 0 |
-| 💻 主语言 | Markdown |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-16 |
-| 🔄 最后更新 | 2026-08-19 |
-| 📜 License | MIT |
-
-**简介**：
-Skills for Designers and Engineers.
-
-**中文简介**：
-设计师和工程师的技能。
-
-
-**Topics**：-
-
-
-
----
-
-### 14. Nutlope/hallmark
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Nutlope/hallmark](https://github.com/Nutlope/hallmark) |
-| ⭐ Stars | 10969 |
-| 🍴 Forks | 543 |
-| 👀 Watchers | 10969 |
-| 📝 Open Issues | 20 |
-| 💻 主语言 | CSS |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-27 |
-| 🔄 最后更新 | 2026-07-17 |
-| 📜 License | MIT |
-
-**简介**：
-Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-
-**中文简介**：
-Claude Code、Cursor、Codex 的防 AI 设计技巧。
-
-
-**Topics**：-
-
-
-
----
-
-### 15. block/buzz
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/block/buzz](https://github.com/block/buzz) |
-| ⭐ Stars | 14197 |
-| 🍴 Forks | 1184 |
-| 👀 Watchers | 14197 |
-| 📝 Open Issues | 756 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-06 |
-| 🔄 最后更新 | 2026-07-27 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-A hive mind communication platform
-
-**中文简介**：
-蜂巢思维交流平台
-
-
-**Topics**：-
-
-
-
----
-
-### 16. firecrawl/pdf-inspector
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) |
-| ⭐ Stars | 13038 |
-| 🍴 Forks | 887 |
-| 👀 Watchers | 13038 |
-| 📝 Open Issues | 100 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-02-06 |
-| 🔄 最后更新 | 2026-08-08 |
-| 📜 License | MIT |
-
-**简介**：
-Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-
-**中文简介**：
-用于 PDF 检查、分类和文本提取的快速 Rust 库。智能检测扫描 PDF 与基于文本的 PDF，以实现智能路由决策。
-
-
-**Topics**：markdown, nodejs, ocr-routing, pdf, pdf-classification, pdf-extraction, pdf-parser, python, rust, text-extraction
-
-**中文Topics**：降价, nodejs, ocr 路由, pdf, pdf-分类, pdf 提取, pdf 解析器, python, rust, 文本提取
-
-
----
-
-### 17. FareedKhan-dev/kimi-k3-in-c
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
-| ⭐ Stars | 3289 |
-| 🍴 Forks | 538 |
-| 👀 Watchers | 3289 |
+| 链接 | [https://github.com/freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) |
+| ⭐ Stars | 7049 |
+| 🍴 Forks | 940 |
+| 👀 Watchers | 7049 |
 | 📝 Open Issues | 5 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-08-01 |
-| 🔄 最后更新 | 2026-08-08 |
-| 📜 License | Apache-2.0 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-04-25 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
 
 **简介**：
-A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
-
-**中文简介**：
-2.78 万亿参数的 Kimi K3 在 8.24 GB RAM 的单个 CPU 上运行推理。便携式 C99：无 BLAS、无框架、无 GPU。
+Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
 
-**Topics**：avx2, c99, cpu-inference, deep-learning, from-scratch, inference-engine, kimi-k3, linear-attention, llm, llm-inference, machine-learning, memory-efficient, mixture-of-experts, moe, mxfp4, quantization, simd, systems-programming, transformer, zero-dependencies
 
-**中文Topics**：avx2, c99, c99 cpu 推理, 深度学习, 从头开始, 推理机, 基米-k3, 线性注意力, llm, LLM 推理, 机器学习, 内存效率, 专家组合, 萌, mxfp4, 量化, 模拟指令集, 系统编程, 变压器, 零依赖
+**Topics**：agents, ai-image-generation, chatgpt, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation
+
+**中文Topics**：agents, 人工智能图像生成, 聊天室, gpt-图像-2, 图像提示, prompt-as-code, 即时工程, 技能, 工作流程自动化
 
 
 ---
 
-### 18. cactus-compute/needle
+### 6. tailscale/tailcat
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/cactus-compute/needle](https://github.com/cactus-compute/needle) |
-| ⭐ Stars | 7607 |
-| 🍴 Forks | 485 |
-| 👀 Watchers | 7607 |
-| 📝 Open Issues | 29 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/tailscale/tailcat](https://github.com/tailscale/tailcat) |
+| ⭐ Stars | 6973 |
+| 🍴 Forks | 277 |
+| 👀 Watchers | 6973 |
+| 📝 Open Issues | 19 |
+| 💻 主语言 | Go |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-02-24 |
-| 🔄 最后更新 | 2026-08-19 |
-| 📜 License | Apache-2.0 |
+| 📅 创建时间 | 2024-10-29 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | BSD-3-Clause |
 
 **简介**：
-14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
-
-**中文简介**：
-适用于微型设备的 14MB 基础模型；手机、可穿戴设备、智能家居和机器人。
+like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 
-**Topics**：cactus, gemini, gemma, llm, on-device-ai
 
-**中文Topics**：仙人掌, gemini, 杰玛, llm, 设备上的人工智能
+**Topics**：-
+
 
 
 ---
 
-### 19. k1tbyte/Wand-Enhancer
+### 7. k1tbyte/Wand-Enhancer
 
 | 属性 | 信息 |
 |---|---|
@@ -547,26 +199,330 @@ Wand (WeMod) 应用程序的高级用户体验和互操作性扩展
 
 ---
 
-### 20. cloudflare/computer
+### 8. sapientinc/PRAXIST
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/cloudflare/computer](https://github.com/cloudflare/computer) |
-| ⭐ Stars | 5707 |
-| 🍴 Forks | 288 |
-| 👀 Watchers | 5707 |
-| 📝 Open Issues | 21 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) |
+| ⭐ Stars | 6711 |
+| 🍴 Forks | 663 |
+| 👀 Watchers | 6711 |
+| 📝 Open Issues | 10 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-05 |
-| 🔄 最后更新 | 2026-08-08 |
+| 📅 创建时间 | 2026-08-27 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Autonomous research system for measurable, computer-executable research.
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 9. cathrynlavery/diagram-design
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
+| ⭐ Stars | 22262 |
+| 🍴 Forks | 1366 |
+| 👀 Watchers | 22262 |
+| 📝 Open Issues | 38 |
+| 💻 主语言 | HTML |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-16 |
+| 🔄 最后更新 | 2026-08-19 |
 | 📜 License | MIT |
 
 **简介**：
-Give your agent a computer 👾
+27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 
 **中文简介**：
-给你的代理人一台电脑👾
+Claude Code 的 27 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。
+
+
+**Topics**：-
+
+
+
+---
+
+### 10. every-app/open-seo
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/every-app/open-seo](https://github.com/every-app/open-seo) |
+| ⭐ Stars | 8402 |
+| 🍴 Forks | 915 |
+| 👀 Watchers | 8402 |
+| 📝 Open Issues | 58 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-02-27 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+Open source alternative to Semrush and Ahrefs
+
+**中文简介**：
+Semrush 和 Ahrefs 的开源替代品
+
+
+**Topics**：backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit
+
+**中文Topics**：反向链接分析, 谷歌搜索控制台 mcp, 关键词研究, mcp, 搜索引擎优化, 搜索引擎优化工具, 现场审核
+
+
+---
+
+### 11. google-research/timesfm
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/google-research/timesfm](https://github.com/google-research/timesfm) |
+| ⭐ Stars | 20521 |
+| 🍴 Forks | 1995 |
+| 👀 Watchers | 20521 |
+| 📝 Open Issues | 213 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | very-hot |
+| 📅 创建时间 | 2024-04-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+
+**中文简介**：
+TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。
+
+
+**Topics**：-
+
+
+
+---
+
+### 12. tashfeenahmed/freellmapi
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) |
+| ⭐ Stars | 7965 |
+| 🍴 Forks | 1298 |
+| 👀 Watchers | 7965 |
+| 📝 Open Issues | 28 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-04-21 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+
+**中文简介**：
+OpenAI 兼容代理，将 16 个 LLM 提供商的免费层（约 1.7B 代币/月）堆叠在一个 /v1 端点后面 - 以及任何自定义 OpenAI 兼容端点。智能路由、自动故障转移、加密密钥。仅个人实验。
+
+
+**Topics**：-
+
+
+
+---
+
+### 13. browser-use/video-use
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/browser-use/video-use](https://github.com/browser-use/video-use) |
+| ⭐ Stars | 9157 |
+| 🍴 Forks | 1327 |
+| 👀 Watchers | 9157 |
+| 📝 Open Issues | 27 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-04-12 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Edit videos with coding agents
+
+**中文简介**：
+使用编码代理编辑视频
+
+
+**Topics**：-
+
+
+
+---
+
+### 14. vorssaint/vorssaint-utils
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) |
+| ⭐ Stars | 18657 |
+| 🍴 Forks | 670 |
+| 👀 Watchers | 18657 |
+| 📝 Open Issues | 469 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Free and open-source macOS menu bar toolkit.
+
+
+
+**Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
+
+
+---
+
+### 15. emilkowalski/skills
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills) |
+| ⭐ Stars | 30309 |
+| 🍴 Forks | 1706 |
+| 👀 Watchers | 30309 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Markdown |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-16 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Skills for Designers and Engineers.
+
+**中文简介**：
+设计师和工程师的技能。
+
+
+**Topics**：-
+
+
+
+---
+
+### 16. ogulcancelik/herdr
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) |
+| ⭐ Stars | 4707 |
+| 🍴 Forks | 283 |
+| 👀 Watchers | 4707 |
+| 📝 Open Issues | 22 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-03-27 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+agent multiplexer that lives in your terminal.
+
+**中文简介**：
+位于您终端中的代理多路复用器。
+
+
+**Topics**：agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager
+
+
+
+---
+
+### 17. anywhere-labs/deepseek-harness-desktop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) |
+| ⭐ Stars | 14199 |
+| 🍴 Forks | 657 |
+| 👀 Watchers | 14199 |
+| 📝 Open Issues | 147 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+
+
+
+**Topics**：cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+
+
+
+---
+
+### 18. AprilNEA/OpenLogi
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) |
+| ⭐ Stars | 13007 |
+| 🍴 Forks | 352 |
+| 👀 Watchers | 13007 |
+| 📝 Open Issues | 239 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-24 |
+| 🔄 最后更新 | 2026-08-22 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+
+**中文简介**：
+⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。
+
+
+**Topics**：dpi, gpui, hid, hidpp, local-first, logitech, logitech-mouse, logitech-options, mouse-remapping, mx-master, privacy, rust, smartshift
+
+**中文Topics**：分辨率, 图形处理器, 隐藏, 希德普, 本地优先, 罗技, 罗技鼠标, 罗技选项, 鼠标重映射, MX-master, 隐私, rust, 智能换档
+
+
+---
+
+### 19. virgiliojr94/book-to-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
+| ⭐ Stars | 4431 |
+| 🍴 Forks | 553 |
+| 👀 Watchers | 4431 |
+| 📝 Open Issues | 1 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-05-01 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+
+**中文简介**：
+将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。
 
 
 **Topics**：-
