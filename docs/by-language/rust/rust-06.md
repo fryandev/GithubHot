@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **537** 个项目
+共收录 **539** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -1044,6 +1044,61 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 **Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
+**中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
+
+---
+
+### 538. storytold/artcraft
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/storytold/artcraft](https://github.com/storytold/artcraft) |
+| ⭐ Stars | 11823 |
+| 🍴 Forks | 1791 |
+| 👀 Watchers | 11823 |
+| 📝 Open Issues | 101 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2022-03-31 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+
+
+
+**Topics**：3d-graphics, ai, aivideo, filmmaking, imagegeneration
+
+**中文Topics**：3d-graphics, ai, aivideo, filmmaking, imagegeneration
+
+
+---
+
+### 539. pacifio/atlas
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pacifio/atlas](https://github.com/pacifio/atlas) |
+| ⭐ Stars | 9558 |
+| 🍴 Forks | 369 |
+| 👀 Watchers | 9558 |
+| 📝 Open Issues | 36 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-14 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Source control for agents. Use multiple coding agents, track their changes and query them in one place
+
+
+
+**Topics**：ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills
+
+**中文Topics**：ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills
 
 
 ---

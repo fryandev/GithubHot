@@ -1,13 +1,13 @@
 # 🔥 GitHub 热门项目精选
 
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
 ## 📊 数据概览
 
 | 指标 | 数值 |
 |---|---|
-| 收录项目总数 | 14470 |
-| 热门项目数 | 14470 |
+| 收录项目总数 | 14489 |
+| 热门项目数 | 14489 |
 | 涵盖语言 | 151 种 |
 | 涵盖领域 | 12 个 |
 
@@ -15,20 +15,20 @@
 
 ### 按语言
 
-- [Python](by-language/python.md) (2495)
-- [JavaScript](by-language/javascript.md) (1813)
-- [TypeScript](by-language/typescript.md) (1740)
-- [Go](by-language/go.md) (1108)
+- [Python](by-language/python.md) (2500)
+- [JavaScript](by-language/javascript.md) (1816)
+- [TypeScript](by-language/typescript.md) (1745)
+- [Go](by-language/go.md) (1109)
 - [Java](by-language/java.md) (797)
 - [C++](by-language/cplusplus.md) (719)
-- [Rust](by-language/rust.md) (537)
-- [C](by-language/c.md) (512)
+- [Rust](by-language/rust.md) (539)
+- [C](by-language/c.md) (513)
 - [C#](by-language/csharp.md) (367)
 - [Jupyter Notebook](by-language/jupyter-notebook.md) (342)
 - [Shell](by-language/shell.md) (338)
 - [HTML](by-language/html.md) (328)
 - [PHP](by-language/php.md) (322)
-- [Swift](by-language/swift.md) (266)
+- [Swift](by-language/swift.md) (267)
 - [Kotlin](by-language/kotlin.md) (189)
 
 ... 等共 151 种语言
@@ -36,14 +36,14 @@
 
 ### 按领域
 
-- [🛠️ 工具](by-category/tools.md) (2155)
+- [🛠️ 工具](by-category/tools.md) (2156)
 - [🌐 Web 开发](by-category/web-dev.md) (1229)
-- [📱 移动端](by-category/mobile.md) (1135)
-- [🏗️ 基础设施](by-category/infrastructure.md) (1109)
+- [📱 移动端](by-category/mobile.md) (1136)
+- [🏗️ 基础设施](by-category/infrastructure.md) (1110)
 - [🤖 AI / 机器学习](by-category/ai-ml.md) (1060)
 - [🔧 DevOps](by-category/devops.md) (517)
 - [🗄️ 数据库](by-category/database.md) (487)
-- [🔒 安全](by-category/security.md) (339)
+- [🔒 安全](by-category/security.md) (340)
 - [🎮 游戏开发](by-category/game-dev.md) (225)
 - [📊 数据科学](by-category/data-science.md) (187)
 - [⛓️ 区块链](by-category/blockchain.md) (139)
@@ -60,9 +60,9 @@
 
 ### 按活跃
 
-- [🔥 最近7天活跃](by-activity/daily.md) (10)
-- [📅 最近30天活跃](by-activity/weekly.md) (18)
-- [📆 最近90天活跃](by-activity/monthly.md) (38)
+- [🔥 最近7天活跃](by-activity/daily.md) (15)
+- [📅 最近30天活跃](by-activity/weekly.md) (12)
+- [📆 最近90天活跃](by-activity/monthly.md) (41)
 
 
 ### 按趋势

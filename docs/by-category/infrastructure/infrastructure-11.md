@@ -1,9 +1,9 @@
 # 基础设施 - 第 11 页
 
 > 基础设施 相关的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **1090** 个项目
+共收录 **1091** 个项目
 （第 11/11 页）
 
 ## 项目列表
@@ -2519,6 +2519,34 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 **Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
+**中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
+
+---
+
+### 1091. DuarteSantos8/openGym
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) |
+| ⭐ Stars | 8724 |
+| 🍴 Forks | 1087 |
+| 👀 Watchers | 8724 |
+| 📝 Open Issues | 70 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-18 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+
+
+
+**Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
+
+**中文Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
 
 
 ---

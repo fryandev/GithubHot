@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **1813** 个项目
+共收录 **1816** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -368,6 +368,86 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 
 **Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
+
+**中文Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
+
+
+---
+
+### 1814. cloudflare/security-audit-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
+| ⭐ Stars | 26981 |
+| 🍴 Forks | 1620 |
+| 👀 Watchers | 26981 |
+| 📝 Open Issues | 56 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-18 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1815. DuarteSantos8/openGym
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) |
+| ⭐ Stars | 8724 |
+| 🍴 Forks | 1087 |
+| 👀 Watchers | 8724 |
+| 📝 Open Issues | 70 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-18 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+
+
+
+**Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
+
+**中文Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
+
+
+---
+
+### 1816. alchaincyf/huashu-art-motion
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) |
+| ⭐ Stars | 2934 |
+| 🍴 Forks | 314 |
+| 👀 Watchers | 2934 |
+| 📝 Open Issues | 3 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-06 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。
+
+
+
+**Topics**：-
 
 
 

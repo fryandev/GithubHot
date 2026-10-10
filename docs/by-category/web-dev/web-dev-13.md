@@ -1,7 +1,7 @@
 # Web 开发 - 第 13 页
 
 > Web 开发 相关的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
 共收录 **1214** 个项目
 （第 13/13 页）
@@ -369,6 +369,7 @@ A spy satellite simulator in your browser, except the data is real. Live open so
 
 **Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
 
+**中文Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
 
 
 ---
@@ -395,6 +396,7 @@ Sketch Material 3 Expressive screens in the browser and turn them into vibe-codi
 
 **Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
 
+**中文Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
 
 
 ---

@@ -1,9 +1,9 @@
 # 💻 Swift 热门项目 - 第 3 页
 
 > 使用 Swift 开发的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **266** 个项目
+共收录 **267** 个项目
 （第 3/3 页）
 
 ## 项目列表
@@ -1852,6 +1852,33 @@ Free and open-source macOS menu bar toolkit.
 
 
 **Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
+**中文Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
+
+---
+
+### 267. robbietilton/Compositor
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/robbietilton/Compositor](https://github.com/robbietilton/Compositor) |
+| ⭐ Stars | 14951 |
+| 🍴 Forks | 1389 |
+| 👀 Watchers | 14951 |
+| 📝 Open Issues | 66 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-16 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+The Photoshop alternative for Mac
+
+
+
+**Topics**：-
 
 
 

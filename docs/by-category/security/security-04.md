@@ -1,9 +1,9 @@
 # 安全 - 第 4 页
 
 > 安全 相关的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **335** 个项目
+共收录 **336** 个项目
 （第 4/4 页）
 
 ## 项目列表
@@ -976,6 +976,32 @@ AI 代理技能的安全扫描器。检测漏洞、恶意模式和安全风险�
 
 **简介**：
 Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 336. cloudflare/security-audit-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
+| ⭐ Stars | 26981 |
+| 🍴 Forks | 1620 |
+| 👀 Watchers | 26981 |
+| 📝 Open Issues | 56 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-18 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 
 

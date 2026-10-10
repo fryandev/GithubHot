@@ -1,7 +1,7 @@
 # DevOps / 运维 - 第 6 页
 
 > DevOps / 运维 相关的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
 共收录 **508** 个项目
 （第 6/6 页）
@@ -228,6 +228,7 @@ Self-hosted deployment platform
 
 **Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
+**中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
 
 ---

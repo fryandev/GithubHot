@@ -1,9 +1,9 @@
 # 移动端 - 第 12 页
 
 > 移动端 相关的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **1111** 个项目
+共收录 **1112** 个项目
 （第 12/12 页）
 
 ## 项目列表
@@ -314,6 +314,33 @@ DeepSeek Harness (DSH) Web UI 的插件和皮肤集合 - 任务板、git 图表�
 **Topics**：deepseek-harness, dsh, dsh-plugin, web-ui
 
 **中文Topics**：Deepseek 线束, dsh, dsh 插件, 网络用户界面
+
+
+---
+
+### 1112. tester-army/e2e
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/tester-army/e2e](https://github.com/tester-army/e2e) |
+| ⭐ Stars | 8458 |
+| 🍴 Forks | 404 |
+| 👀 Watchers | 8458 |
+| 📝 Open Issues | 61 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-22 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Next generation e2e testing framework for web and mobile apps.
+
+
+
+**Topics**：e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web
+
+**中文Topics**：e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web
 
 
 ---

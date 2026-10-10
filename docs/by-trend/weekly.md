@@ -1,34 +1,61 @@
 # 📊 周飙升榜
 
 > 📊 周飙升榜 项目列表
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **19** 个项目
+共收录 **20** 个项目
 
 
 ## 项目列表
 
 
-### 1. THU-MAIC/OpenMAIC
+### 1. NandhaKishorM/laya
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) |
-| ⭐ Stars | 18353 |
-| 🍴 Forks | 3592 |
-| 👀 Watchers | 18353 |
-| 📝 Open Issues | 179 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-11 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | AGPL-3.0 |
+| 链接 | [https://github.com/NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) |
+| ⭐ Stars | 32002 |
+| 🍴 Forks | 2848 |
+| 👀 Watchers | 32002 |
+| 📝 Open Issues | 99 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-18 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
+Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+
+
+
+**Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
+
+**中文Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
+
+
+---
+
+### 2. NVIDIA/OpenShell
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) |
+| ⭐ Stars | 6859 |
+| 🍴 Forks | 814 |
+| 👀 Watchers | 6859 |
+| 📝 Open Issues | 233 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+OpenShell is the safe, private runtime for autonomous AI agents.
 
 **中文简介**：
-开放式多智能体互动课堂——一键获得沉浸式多智能体学习体验
+OpenShell 是自主 AI 代理的安全、私有运行时。
 
 
 **Topics**：-
@@ -37,52 +64,159 @@ Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learnin
 
 ---
 
-### 2. bilawalsidhu/gods-eye-view
+### 3. dream-num/univer
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
-| ⭐ Stars | 31039 |
-| 🍴 Forks | 6222 |
-| 👀 Watchers | 31039 |
-| 📝 Open Issues | 219 |
-| 💻 主语言 | JavaScript |
+| 链接 | [https://github.com/dream-num/univer](https://github.com/dream-num/univer) |
+| ⭐ Stars | 13155 |
+| 🍴 Forks | 1181 |
+| 👀 Watchers | 13155 |
+| 📝 Open Issues | 168 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2022-09-29 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.
+
+**中文简介**：
+Univer 是一个全栈框架，用于在 Web 和服务器上创建和编辑电子表格/文字处理器/演示文稿。
+
+
+**Topics**：collaboration, data-table, doc, docx, excel, grid, live-share, ppt, pptx, presentation, sdk, sheet, slides, spreadsheet, table, word, wordprocessor, xlsx
+
+
+
+---
+
+### 4. t8y2/dbx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/t8y2/dbx](https://github.com/t8y2/dbx) |
+| ⭐ Stars | 19312 |
+| 🍴 Forks | 1874 |
+| 👀 Watchers | 19312 |
+| 📝 Open Issues | 1353 |
+| 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-22 |
+| 📅 创建时间 | 2026-04-29 |
 | 🔄 最后更新 | 2026-09-13 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
+
+
+
+**Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
+**中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
+
+---
+
+### 5. hypit-ai/hypit
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hypit-ai/hypit](https://github.com/hypit-ai/hypit) |
+| ⭐ Stars | 20613 |
+| 🍴 Forks | 2261 |
+| 👀 Watchers | 20613 |
+| 📝 Open Issues | 11 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-29 |
+| 🔄 最后更新 | 2026-10-10 |
 | 📜 License | NOASSERTION |
 
 **简介**：
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
 
 
 
-**Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
+**Topics**：agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
+
+**中文Topics**：agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
+
+
+---
+
+### 6. pacifio/atlas
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pacifio/atlas](https://github.com/pacifio/atlas) |
+| ⭐ Stars | 9558 |
+| 🍴 Forks | 369 |
+| 👀 Watchers | 9558 |
+| 📝 Open Issues | 36 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-14 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Source control for agents. Use multiple coding agents, track their changes and query them in one place
+
+
+
+**Topics**：ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills
+
+**中文Topics**：ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills
+
+
+---
+
+### 7. KKKKhazix/AIHOT
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) |
+| ⭐ Stars | 6939 |
+| 🍴 Forks | 1701 |
+| 👀 Watchers | 6939 |
+| 📝 Open Issues | 3 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-28 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+
+
+
+**Topics**：ai, chinese, content-curation, daily-digest, docker-compose, llm, mcp, news-aggregator, postgresql, rss, self-hosted, typescript
 
 
 
 ---
 
-### 3. basecamp/omarchy
+### 8. cloudflare/security-audit-skill
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/basecamp/omarchy](https://github.com/basecamp/omarchy) |
-| ⭐ Stars | 23515 |
-| 🍴 Forks | 2357 |
-| 👀 Watchers | 23515 |
-| 📝 Open Issues | 624 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2025-06-01 |
-| 🔄 最后更新 | 2026-06-06 |
+| 链接 | [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
+| ⭐ Stars | 26981 |
+| 🍴 Forks | 1620 |
+| 👀 Watchers | 26981 |
+| 📝 Open Issues | 56 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-18 |
+| 🔄 最后更新 | 2026-10-10 |
 | 📜 License | MIT |
 
 **简介**：
-Beautiful, Modern & Opinionated Linux
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
-**中文简介**：
-美丽、现代、有主见的 Linux
 
 
 **Topics**：-
@@ -91,7 +225,7 @@ Beautiful, Modern & Opinionated Linux
 
 ---
 
-### 4. zhaoxuya520/reverse-skill
+### 9. zhaoxuya520/reverse-skill
 
 | 属性 | 信息 |
 |---|---|
@@ -117,256 +251,36 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ---
 
-### 5. freestylefly/awesome-gpt-image-2
+### 10. oblien/openship
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) |
-| ⭐ Stars | 7049 |
-| 🍴 Forks | 940 |
-| 👀 Watchers | 7049 |
-| 📝 Open Issues | 5 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-04-25 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-
-
-
-**Topics**：agents, ai-image-generation, chatgpt, gpt-image-2, image-prompts, prompt-as-code, prompt-engineering, skills, workflow-automation
-
-**中文Topics**：agents, 人工智能图像生成, 聊天室, gpt-图像-2, 图像提示, prompt-as-code, 即时工程, 技能, 工作流程自动化
-
-
----
-
-### 6. tailscale/tailcat
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/tailscale/tailcat](https://github.com/tailscale/tailcat) |
-| ⭐ Stars | 6973 |
-| 🍴 Forks | 277 |
-| 👀 Watchers | 6973 |
-| 📝 Open Issues | 19 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2024-10-29 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | BSD-3-Clause |
-
-**简介**：
-like netcat, but over Tailscale's data plane, without Tailscale's control plane
-
-
-
-**Topics**：-
-
-
-
----
-
-### 7. k1tbyte/Wand-Enhancer
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) |
-| ⭐ Stars | 9583 |
-| 🍴 Forks | 26165 |
-| 👀 Watchers | 9583 |
-| 📝 Open Issues | 28 |
-| 💻 主语言 | C# |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2024-11-17 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Advanced UX and interoperability extension for Wand (WeMod) app
-
-**中文简介**：
-Wand (WeMod) 应用程序的高级用户体验和互操作性扩展
-
-
-**Topics**：csharp, wand, wand-enhancer, wand-pro, wemod, wpf
-
-**中文Topics**：夏普, 魔杖, 魔杖增强器, 魔杖专业版, 韦莫德, 工作组
-
-
----
-
-### 8. sapientinc/PRAXIST
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) |
-| ⭐ Stars | 6711 |
-| 🍴 Forks | 663 |
-| 👀 Watchers | 6711 |
-| 📝 Open Issues | 10 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-08-27 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Autonomous research system for measurable, computer-executable research.
-
-
-
-**Topics**：-
-
-
-
----
-
-### 9. cathrynlavery/diagram-design
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) |
-| ⭐ Stars | 22262 |
-| 🍴 Forks | 1366 |
-| 👀 Watchers | 22262 |
-| 📝 Open Issues | 38 |
-| 💻 主语言 | HTML |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-16 |
-| 🔄 最后更新 | 2026-08-19 |
-| 📜 License | MIT |
-
-**简介**：
-27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-
-**中文简介**：
-Claude Code 的 27 种编辑图表类型。独立的 HTML + SVG。没有阴影，没有美人鱼的污迹。
-
-
-**Topics**：-
-
-
-
----
-
-### 10. every-app/open-seo
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/every-app/open-seo](https://github.com/every-app/open-seo) |
-| ⭐ Stars | 8402 |
-| 🍴 Forks | 915 |
-| 👀 Watchers | 8402 |
-| 📝 Open Issues | 58 |
+| 链接 | [https://github.com/oblien/openship](https://github.com/oblien/openship) |
+| ⭐ Stars | 8826 |
+| 🍴 Forks | 716 |
+| 👀 Watchers | 8826 |
+| 📝 Open Issues | 69 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-02-27 |
+| 📅 创建时间 | 2026-03-05 |
 | 🔄 最后更新 | 2026-07-27 |
-| 📜 License | MIT |
-
-**简介**：
-Open source alternative to Semrush and Ahrefs
-
-**中文简介**：
-Semrush 和 Ahrefs 的开源替代品
-
-
-**Topics**：backlink-analysis, google-search-console-mcp, keyword-research, mcp, seo, seo-tools, site-audit
-
-**中文Topics**：反向链接分析, 谷歌搜索控制台 mcp, 关键词研究, mcp, 搜索引擎优化, 搜索引擎优化工具, 现场审核
-
-
----
-
-### 11. google-research/timesfm
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/google-research/timesfm](https://github.com/google-research/timesfm) |
-| ⭐ Stars | 20521 |
-| 🍴 Forks | 1995 |
-| 👀 Watchers | 20521 |
-| 📝 Open Issues | 213 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | very-hot |
-| 📅 创建时间 | 2024-04-29 |
-| 🔄 最后更新 | 2026-06-06 |
 | 📜 License | Apache-2.0 |
 
 **简介**：
-TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+Self-hosted deployment platform
 
 **中文简介**：
-TimesFM（时间序列基础模型）是 Google Research 开发的用于时间序列预测的预训练时间序列基础模型。
+自托管部署平台
 
 
-**Topics**：-
+**Topics**：agents, ai, deployments, self-hosted
 
+**中文Topics**：代理, ai, 部署, 自托管
 
 
 ---
 
-### 12. tashfeenahmed/freellmapi
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) |
-| ⭐ Stars | 7965 |
-| 🍴 Forks | 1298 |
-| 👀 Watchers | 7965 |
-| 📝 Open Issues | 28 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-04-21 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
-
-**中文简介**：
-OpenAI 兼容代理，将 16 个 LLM 提供商的免费层（约 1.7B 代币/月）堆叠在一个 /v1 端点后面 - 以及任何自定义 OpenAI 兼容端点。智能路由、自动故障转移、加密密钥。仅个人实验。
-
-
-**Topics**：-
-
-
-
----
-
-### 13. browser-use/video-use
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/browser-use/video-use](https://github.com/browser-use/video-use) |
-| ⭐ Stars | 9157 |
-| 🍴 Forks | 1327 |
-| 👀 Watchers | 9157 |
-| 📝 Open Issues | 27 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-04-12 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
-
-**简介**：
-Edit videos with coding agents
-
-**中文简介**：
-使用编码代理编辑视频
-
-
-**Topics**：-
-
-
-
----
-
-### 14. vorssaint/vorssaint-utils
+### 11. vorssaint/vorssaint-utils
 
 | 属性 | 信息 |
 |---|---|
@@ -388,30 +302,29 @@ Free and open-source macOS menu bar toolkit.
 
 **Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
 
+**中文Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
 
 
 ---
 
-### 15. emilkowalski/skills
+### 12. robbietilton/Compositor
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/emilkowalski/skills](https://github.com/emilkowalski/skills) |
-| ⭐ Stars | 30309 |
-| 🍴 Forks | 1706 |
-| 👀 Watchers | 30309 |
-| 📝 Open Issues | 0 |
-| 💻 主语言 | Markdown |
+| 链接 | [https://github.com/robbietilton/Compositor](https://github.com/robbietilton/Compositor) |
+| ⭐ Stars | 14951 |
+| 🍴 Forks | 1389 |
+| 👀 Watchers | 14951 |
+| 📝 Open Issues | 66 |
+| 💻 主语言 | Swift |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-16 |
-| 🔄 最后更新 | 2026-08-19 |
+| 📅 创建时间 | 2026-09-16 |
+| 🔄 最后更新 | 2026-10-10 |
 | 📜 License | MIT |
 
 **简介**：
-Skills for Designers and Engineers.
+The Photoshop alternative for Mac
 
-**中文简介**：
-设计师和工程师的技能。
 
 
 **Topics**：-
@@ -420,112 +333,217 @@ Skills for Designers and Engineers.
 
 ---
 
-### 16. ogulcancelik/herdr
+### 13. browser-use/jev-ultrafast
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) |
-| ⭐ Stars | 4707 |
-| 🍴 Forks | 283 |
-| 👀 Watchers | 4707 |
-| 📝 Open Issues | 22 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-03-27 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-agent multiplexer that lives in your terminal.
-
-**中文简介**：
-位于您终端中的代理多路复用器。
-
-
-**Topics**：agent, agent-orchestration, ai, ai-agents, claude-code, cli, codex, coding-agents, developer-tools, devtools, multiplexer, rust, terminal, terminal-multiplexer, terminal-ui, tmux, tui, workspace-manager
-
-
-
----
-
-### 17. anywhere-labs/deepseek-harness-desktop
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) |
-| ⭐ Stars | 14199 |
-| 🍴 Forks | 657 |
-| 👀 Watchers | 14199 |
-| 📝 Open Issues | 147 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) |
+| ⭐ Stars | 22480 |
+| 🍴 Forks | 1651 |
+| 👀 Watchers | 22480 |
+| 📝 Open Issues | 190 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-08-13 |
-| 🔄 最后更新 | 2026-08-19 |
+| 📅 创建时间 | 2026-09-16 |
+| 🔄 最后更新 | 2026-10-10 |
 | 📜 License | MIT |
 
 **简介**：
-为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+Fastest and cheapest web agent
 
 
 
-**Topics**：cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+**Topics**：-
 
 
 
 ---
 
-### 18. AprilNEA/OpenLogi
+### 14. JustVugg/colibri
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) |
-| ⭐ Stars | 13007 |
-| 🍴 Forks | 352 |
-| 👀 Watchers | 13007 |
-| 📝 Open Issues | 239 |
-| 💻 主语言 | Rust |
+| 链接 | [https://github.com/JustVugg/colibri](https://github.com/JustVugg/colibri) |
+| ⭐ Stars | 40836 |
+| 🍴 Forks | 4483 |
+| 👀 Watchers | 40836 |
+| 📝 Open Issues | 88 |
+| 💻 主语言 | C |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-05-24 |
-| 🔄 最后更新 | 2026-08-22 |
+| 📅 创建时间 | 2026-07-01 |
+| 🔄 最后更新 | 2026-10-10 |
 | 📜 License | Apache-2.0 |
 
 **简介**：
-⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-
-**中文简介**：
-⚡️Logitech Options+ 的原生、本地优先替代方案，用 Rust 编写 - 重新映射按钮、DPI 和 HID++ 上的 SmartShift。没有帐户，没有遥测。
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
 
-**Topics**：dpi, gpui, hid, hidpp, local-first, logitech, logitech-mouse, logitech-options, mouse-remapping, mx-master, privacy, rust, smartshift
 
-**中文Topics**：分辨率, 图形处理器, 隐藏, 希德普, 本地优先, 罗技, 罗技鼠标, 罗技选项, 鼠标重映射, MX-master, 隐私, rust, 智能换档
+**Topics**：-
+
 
 
 ---
 
-### 19. virgiliojr94/book-to-skill
+### 15. google/ax
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) |
-| ⭐ Stars | 4431 |
-| 🍴 Forks | 553 |
-| 👀 Watchers | 4431 |
-| 📝 Open Issues | 1 |
+| 链接 | [https://github.com/google/ax](https://github.com/google/ax) |
+| ⭐ Stars | 13387 |
+| 🍴 Forks | 676 |
+| 👀 Watchers | 13387 |
+| 📝 Open Issues | 71 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-30 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Google's open agentic orchestration runtime
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 16. TencentCloud/Octop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/TencentCloud/Octop](https://github.com/TencentCloud/Octop) |
+| ⭐ Stars | 8288 |
+| 🍴 Forks | 1005 |
+| 👀 Watchers | 8288 |
+| 📝 Open Issues | 696 |
 | 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-08 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+A smarter, self-hosted AI assistant — multi-user, multi-agent.
+
+
+
+**Topics**：agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory
+
+**中文Topics**：agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory
+
+
+---
+
+### 17. trycua/cua
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/trycua/cua](https://github.com/trycua/cua) |
+| ⭐ Stars | 17699 |
+| 🍴 Forks | 1136 |
+| 👀 Watchers | 17699 |
+| 📝 Open Issues | 356 |
+| 💻 主语言 | HTML |
 | 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-05-01 |
+| 📅 创建时间 | 2025-01-31 |
 | 🔄 最后更新 | 2026-06-06 |
 | 📜 License | MIT |
 
 **简介**：
-Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 
 **中文简介**：
-将任何 PDF 技术书籍转化为 Claude Code 技能 — 可供您在工作时学习、参考和使用。
+计算机使用代理的开源基础设施。用于训练和评估可控制完整桌面（macOS、Linux、Windows）的 AI 代理的沙箱、SDK 和基准测试。
+
+
+**Topics**：agent, ai-agent, apple, computer-use, computer-use-agent, containerization, cua, desktop-automation, hacktoberfest, lume, macos, manus, operator, swift, virtualization, virtualization-framework, windows, windows-sandbox
+
+
+
+---
+
+### 18. jaredpalmer/kev
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/jaredpalmer/kev](https://github.com/jaredpalmer/kev) |
+| ⭐ Stars | 8840 |
+| 🍴 Forks | 580 |
+| 👀 Watchers | 8840 |
+| 📝 Open Issues | 31 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-17 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
+
+
+
+**Topics**：decision-model, jev, qwen3
+
+**中文Topics**：decision-model, jev, qwen3
+
+
+---
+
+### 19. liquidslr/system-design-notes
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) |
+| ⭐ Stars | 6261 |
+| 🍴 Forks | 1232 |
+| 👀 Watchers | 6261 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2024-12-24 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | 未知 |
+
+**简介**：
+Notes of the book System Desgin Interview - An Insider's Guide
+
+**中文简介**：
+《系统设计访谈 - 业内人士指南》一书的注释
 
 
 **Topics**：-
+
+
+
+---
+
+### 20. mobile-next/mobile-mcp
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) |
+| ⭐ Stars | 5128 |
+| 🍴 Forks | 446 |
+| 👀 Watchers | 5128 |
+| 📝 Open Issues | 48 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2025-03-28 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
+
+**中文简介**：
+用于移动自动化和抓取的模型上下文协议服务器（iOS、Android、仿真器、模拟器和真实设备）
+
+
+**Topics**：agent, android, emulator, ios, mcp, mobile, physical, real, simulator
 
 
 

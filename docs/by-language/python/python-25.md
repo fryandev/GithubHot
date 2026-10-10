@@ -1,9 +1,9 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **2495** 个项目
+共收录 **2500** 个项目
 （第 25/25 页）
 
 ## 项目列表
@@ -2659,6 +2659,140 @@ Autonomous research system for measurable, computer-executable research.
 
 **Topics**：-
 
+
+
+---
+
+### 2496. NandhaKishorM/laya
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) |
+| ⭐ Stars | 32002 |
+| 🍴 Forks | 2848 |
+| 👀 Watchers | 32002 |
+| 📝 Open Issues | 99 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-18 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+
+
+
+**Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
+
+**中文Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
+
+
+---
+
+### 2497. browser-use/jev-ultrafast
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) |
+| ⭐ Stars | 22480 |
+| 🍴 Forks | 1651 |
+| 👀 Watchers | 22480 |
+| 📝 Open Issues | 190 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-16 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+Fastest and cheapest web agent
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 2498. jaredpalmer/kev
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/jaredpalmer/kev](https://github.com/jaredpalmer/kev) |
+| ⭐ Stars | 8840 |
+| 🍴 Forks | 580 |
+| 👀 Watchers | 8840 |
+| 📝 Open Issues | 31 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-17 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
+
+
+
+**Topics**：decision-model, jev, qwen3
+
+**中文Topics**：decision-model, jev, qwen3
+
+
+---
+
+### 2499. TencentCloud/Octop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/TencentCloud/Octop](https://github.com/TencentCloud/Octop) |
+| ⭐ Stars | 8288 |
+| 🍴 Forks | 1005 |
+| 👀 Watchers | 8288 |
+| 📝 Open Issues | 696 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-08 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+A smarter, self-hosted AI assistant — multi-user, multi-agent.
+
+
+
+**Topics**：agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory
+
+**中文Topics**：agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory
+
+
+---
+
+### 2500. rehan-remade/universal-modder
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) |
+| ⭐ Stars | 6079 |
+| 🍴 Forks | 577 |
+| 👀 Watchers | 6079 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-30 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
+
+
+
+**Topics**：age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader
+
+**中文Topics**：age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader
 
 
 ---

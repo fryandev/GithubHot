@@ -1,7 +1,7 @@
 # 数据库 - 第 5 页
 
 > 数据库 相关的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
 共收录 **481** 个项目
 （第 5/5 页）
@@ -2270,6 +2270,7 @@ Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi
 
 **Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
+**中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
 
 ---

@@ -1,9 +1,9 @@
 # 工具 - 第 22 页
 
 > 工具 相关的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **2138** 个项目
+共收录 **2139** 个项目
 （第 22/22 页）
 
 ## 项目列表
@@ -958,6 +958,7 @@ Cursor plugin specification and official plugins
 
 **Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
+**中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
 
 ---
@@ -984,6 +985,7 @@ Free and open-source macOS menu bar toolkit.
 
 **Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
 
+**中文Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
 
 
 ---
@@ -1010,6 +1012,7 @@ Graphics Creation Tools
 
 **Topics**：3d, armorpaint, painting, texturing, tool
 
+**中文Topics**：3d, armorpaint, painting, texturing, tool
 
 
 ---
@@ -1062,6 +1065,34 @@ Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes
 
 **Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
 
+**中文Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
+
+
+---
+
+### 2139. rehan-remade/universal-modder
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) |
+| ⭐ Stars | 6079 |
+| 🍴 Forks | 577 |
+| 👀 Watchers | 6079 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-30 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
+
+
+
+**Topics**：age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader
+
+**中文Topics**：age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader
 
 
 ---

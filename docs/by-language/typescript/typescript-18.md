@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-09-13 21:11
+> 最后更新：2026-10-10 11:24
 
-共收录 **1740** 个项目
+共收录 **1745** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -1042,6 +1042,7 @@ Sketch Material 3 Expressive screens in the browser and turn them into vibe-codi
 
 **Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
 
+**中文Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
 
 
 ---
@@ -1094,6 +1095,7 @@ Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes
 
 **Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
 
+**中文Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
 
 
 ---
@@ -1119,6 +1121,139 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 
 **Topics**：agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402
+
+**中文Topics**：agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402
+
+
+---
+
+### 1741. hypit-ai/hypit
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hypit-ai/hypit](https://github.com/hypit-ai/hypit) |
+| ⭐ Stars | 20613 |
+| 🍴 Forks | 2261 |
+| 👀 Watchers | 20613 |
+| 📝 Open Issues | 11 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-29 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+
+
+
+**Topics**：agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
+
+**中文Topics**：agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
+
+
+---
+
+### 1742. tester-army/e2e
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/tester-army/e2e](https://github.com/tester-army/e2e) |
+| ⭐ Stars | 8458 |
+| 🍴 Forks | 404 |
+| 👀 Watchers | 8458 |
+| 📝 Open Issues | 61 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-22 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Next generation e2e testing framework for web and mobile apps.
+
+
+
+**Topics**：e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web
+
+**中文Topics**：e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web
+
+
+---
+
+### 1743. Albert-Weasker/niubigeo
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) |
+| ⭐ Stars | 6191 |
+| 🍴 Forks | 639 |
+| 👀 Watchers | 6191 |
+| 📝 Open Issues | 81 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-03 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1744. pablostanley/yoinks
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pablostanley/yoinks](https://github.com/pablostanley/yoinks) |
+| ⭐ Stars | 5647 |
+| 🍴 Forks | 475 |
+| 👀 Watchers | 5647 |
+| 📝 Open Issues | 29 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-16 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+yoink any video from your terminal. no shady ads.
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1745. KKKKhazix/AIHOT
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) |
+| ⭐ Stars | 6939 |
+| 🍴 Forks | 1701 |
+| 👀 Watchers | 6939 |
+| 📝 Open Issues | 3 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-28 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+
+
+
+**Topics**：ai, chinese, content-curation, daily-digest, docker-compose, llm, mcp, news-aggregator, postgresql, rss, self-hosted, typescript
 
 
 
