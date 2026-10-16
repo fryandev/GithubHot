@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **1816** 个项目
+共收录 **1817** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -449,6 +449,33 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 **Topics**：-
 
+
+
+---
+
+### 1817. wheresryan22/anatomy
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) |
+| ⭐ Stars | 12847 |
+| 🍴 Forks | 932 |
+| 👀 Watchers | 12847 |
+| 📝 Open Issues | 20 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-08 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | MIT |
+
+**简介**：
+An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+
+
+**Topics**：agent-skill, open-source, svg, vizualization
+
+**中文Topics**：agent-skill, open-source, svg, vizualization
 
 
 ---

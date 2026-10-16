@@ -1,9 +1,9 @@
 # 💻 C++ 热门项目 - 第 8 页
 
 > 使用 C++ 开发的热门开源项目
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **719** 个项目
+共收录 **720** 个项目
 （第 8/8 页）
 
 ## 项目列表
@@ -537,6 +537,33 @@ Add custom effect to global system title bar, support win10 and win11.
 
 **Topics**：acrylic, aero, aeroglass, dwm, mica, win10, win11
 
+
+
+---
+
+### 720. boykopovar/AnyPS5
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) |
+| ⭐ Stars | 38739 |
+| 🍴 Forks | 3448 |
+| 👀 Watchers | 38739 |
+| 📝 Open Issues | 853 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-03 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | GPL-2.0 |
+
+**简介**：
+Tool for automatic PS5 executables porting to Linux and Windows
+
+
+
+**Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
+
+**中文Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
 
 
 ---

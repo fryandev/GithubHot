@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **539** 个项目
+共收录 **542** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -1099,6 +1099,84 @@ Source control for agents. Use multiple coding agents, track their changes and q
 **Topics**：ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills
 
 **中文Topics**：ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills
+
+
+---
+
+### 540. storytold/wordcraft
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/storytold/wordcraft](https://github.com/storytold/wordcraft) |
+| ⭐ Stars | 13222 |
+| 🍴 Forks | 3398 |
+| 👀 Watchers | 13222 |
+| 📝 Open Issues | 1069 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-07 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 541. storytold/cadcraft
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/storytold/cadcraft](https://github.com/storytold/cadcraft) |
+| ⭐ Stars | 5160 |
+| 🍴 Forks | 2288 |
+| 👀 Watchers | 5160 |
+| 📝 Open Issues | 598 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-07 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 542. storytold/gridcraft
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/storytold/gridcraft](https://github.com/storytold/gridcraft) |
+| ⭐ Stars | 5200 |
+| 🍴 Forks | 2356 |
+| 👀 Watchers | 5200 |
+| 📝 Open Issues | 935 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-07 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+
+
+
+**Topics**：-
+
 
 
 ---

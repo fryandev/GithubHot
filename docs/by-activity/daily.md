@@ -1,68 +1,15 @@
 # 🔥 最近7天活跃
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **15** 个项目
+共收录 **21** 个项目
 
 
 ## 项目列表
 
 
-### 1. JustVugg/colibri
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/JustVugg/colibri](https://github.com/JustVugg/colibri) |
-| ⭐ Stars | 40836 |
-| 🍴 Forks | 4483 |
-| 👀 Watchers | 40836 |
-| 📝 Open Issues | 88 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-01 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-
-
-
-**Topics**：-
-
-
-
----
-
-### 2. NandhaKishorM/laya
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) |
-| ⭐ Stars | 32002 |
-| 🍴 Forks | 2848 |
-| 👀 Watchers | 32002 |
-| 📝 Open Issues | 99 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-09-18 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
-
-
-
-**Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
-
-**中文Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
-
-
----
-
-### 3. hypit-ai/hypit
+### 1. hypit-ai/hypit
 
 | 属性 | 信息 |
 |---|---|
@@ -89,33 +36,7 @@ Clone any viral video with AI agents. Not just a script, the whole workflow: swa
 
 ---
 
-### 4. openai/math
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/openai/math](https://github.com/openai/math) |
-| ⭐ Stars | 13163 |
-| 🍴 Forks | 1432 |
-| 👀 Watchers | 13163 |
-| 📝 Open Issues | 0 |
-| 💻 主语言 | Lean |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-06 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-暂无描述
-
-
-
-**Topics**：-
-
-
-
----
-
-### 5. storytold/artcraft
+### 2. storytold/artcraft
 
 | 属性 | 信息 |
 |---|---|
@@ -142,7 +63,7 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 
 ---
 
-### 6. pacifio/atlas
+### 3. pacifio/atlas
 
 | 属性 | 信息 |
 |---|---|
@@ -169,7 +90,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ---
 
-### 7. DuarteSantos8/openGym
+### 4. DuarteSantos8/openGym
 
 | 属性 | 信息 |
 |---|---|
@@ -196,7 +117,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ---
 
-### 8. jaredpalmer/kev
+### 5. jaredpalmer/kev
 
 | 属性 | 信息 |
 |---|---|
@@ -223,7 +144,7 @@ Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and
 
 ---
 
-### 9. tester-army/e2e
+### 6. tester-army/e2e
 
 | 属性 | 信息 |
 |---|---|
@@ -250,7 +171,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ---
 
-### 10. robbietilton/Compositor
+### 7. robbietilton/Compositor
 
 | 属性 | 信息 |
 |---|---|
@@ -276,7 +197,7 @@ The Photoshop alternative for Mac
 
 ---
 
-### 11. TencentCloud/Octop
+### 8. TencentCloud/Octop
 
 | 属性 | 信息 |
 |---|---|
@@ -303,7 +224,7 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
 ---
 
-### 12. Albert-Weasker/niubigeo
+### 9. Albert-Weasker/niubigeo
 
 | 属性 | 信息 |
 |---|---|
@@ -329,7 +250,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 ---
 
-### 13. rehan-remade/universal-modder
+### 10. rehan-remade/universal-modder
 
 | 属性 | 信息 |
 |---|---|
@@ -356,7 +277,7 @@ Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod
 
 ---
 
-### 14. KKKKhazix/AIHOT
+### 11. KKKKhazix/AIHOT
 
 | 属性 | 信息 |
 |---|---|
@@ -382,7 +303,7 @@ Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod
 
 ---
 
-### 15. alchaincyf/huashu-art-motion
+### 12. alchaincyf/huashu-art-motion
 
 | 属性 | 信息 |
 |---|---|
@@ -404,6 +325,245 @@ Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod
 
 **Topics**：-
 
+
+
+---
+
+### 13. boykopovar/AnyPS5
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) |
+| ⭐ Stars | 38739 |
+| 🍴 Forks | 3448 |
+| 👀 Watchers | 38739 |
+| 📝 Open Issues | 853 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-03 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | GPL-2.0 |
+
+**简介**：
+Tool for automatic PS5 executables porting to Linux and Windows
+
+
+
+**Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
+
+**中文Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
+
+
+---
+
+### 14. corsairdev/corsair
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/corsairdev/corsair](https://github.com/corsairdev/corsair) |
+| ⭐ Stars | 14864 |
+| 🍴 Forks | 696 |
+| 👀 Watchers | 14864 |
+| 📝 Open Issues | 362 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-10-14 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Connect your users to their apps
+
+
+
+**Topics**：agentic-ai, agents, ai, ai-agents, aiagents, api-integration, corsair, developer-tools, function-calling, integrations, javascript, llm, managed-oauth, mcp, oauth, oauth2, typescript, unified-api
+
+**中文Topics**：agentic-ai, agents, ai, ai-agents, aiagents, api-integration, corsair, developer-tools, function-calling, integrations, javascript, llm, managed-oauth, mcp, oauth, oauth2, typescript, unified-api
+
+
+---
+
+### 15. storytold/wordcraft
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/storytold/wordcraft](https://github.com/storytold/wordcraft) |
+| ⭐ Stars | 13222 |
+| 🍴 Forks | 3398 |
+| 👀 Watchers | 13222 |
+| 📝 Open Issues | 1069 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-07 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 16. wheresryan22/anatomy
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) |
+| ⭐ Stars | 12847 |
+| 🍴 Forks | 932 |
+| 👀 Watchers | 12847 |
+| 📝 Open Issues | 20 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-08 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | MIT |
+
+**简介**：
+An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+
+
+**Topics**：agent-skill, open-source, svg, vizualization
+
+**中文Topics**：agent-skill, open-source, svg, vizualization
+
+
+---
+
+### 17. storytold/cadcraft
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/storytold/cadcraft](https://github.com/storytold/cadcraft) |
+| ⭐ Stars | 5160 |
+| 🍴 Forks | 2288 |
+| 👀 Watchers | 5160 |
+| 📝 Open Issues | 598 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-07 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 18. storytold/gridcraft
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/storytold/gridcraft](https://github.com/storytold/gridcraft) |
+| ⭐ Stars | 5200 |
+| 🍴 Forks | 2356 |
+| 👀 Watchers | 5200 |
+| 📝 Open Issues | 935 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-07 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 19. CopilotKit/OpenDots
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) |
+| ⭐ Stars | 5434 |
+| 🍴 Forks | 775 |
+| 👀 Watchers | 5434 |
+| 📝 Open Issues | 73 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-29 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | MIT |
+
+**简介**：
+Your always-on AI coworkers that move between text, calls, and Slack.
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 20. ARahim3/DigUp
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ARahim3/DigUp](https://github.com/ARahim3/DigUp) |
+| ⭐ Stars | 4122 |
+| 🍴 Forks | 285 |
+| 👀 Watchers | 4122 |
+| 📝 Open Issues | 84 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-08 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | MIT |
+
+**简介**：
+Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
+
+
+
+**Topics**：embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift, tauri, windows
+
+**中文Topics**：embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift, tauri, windows
+
+
+---
+
+### 21. jhaizhou-ops/d2r-mobile
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) |
+| ⭐ Stars | 3173 |
+| 🍴 Forks | 954 |
+| 👀 Watchers | 3173 |
+| 📝 Open Issues | 21 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-12 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | MIT |
+
+**简介**：
+Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
+
+
+
+**Topics**：compatibility-layer, diablo-2-resurrected, diablo2, game-port, ios, ipad, iphone, mac, macos, metal, reign-of-the-warlock
+
+**中文Topics**：compatibility-layer, diablo-2-resurrected, diablo2, game-port, ios, ipad, iphone, mac, macos, metal, reign-of-the-warlock
 
 
 ---

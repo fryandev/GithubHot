@@ -1,112 +1,31 @@
 # 📅 最近30天活跃
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **12** 个项目
+共收录 **5** 个项目
 
 
 ## 项目列表
 
 
-### 1. t8y2/dbx
+### 1. JustVugg/colibri
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/t8y2/dbx](https://github.com/t8y2/dbx) |
-| ⭐ Stars | 19312 |
-| 🍴 Forks | 1874 |
-| 👀 Watchers | 19312 |
-| 📝 Open Issues | 1353 |
-| 💻 主语言 | Rust |
+| 链接 | [https://github.com/JustVugg/colibri](https://github.com/JustVugg/colibri) |
+| ⭐ Stars | 40836 |
+| 🍴 Forks | 4483 |
+| 👀 Watchers | 40836 |
+| 📝 Open Issues | 88 |
+| 💻 主语言 | C |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-29 |
-| 🔄 最后更新 | 2026-09-13 |
+| 📅 创建时间 | 2026-07-01 |
+| 🔄 最后更新 | 2026-10-10 |
 | 📜 License | Apache-2.0 |
 
 **简介**：
-20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
-
-
-
-**Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
-
-**中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
-
-
----
-
-### 2. vorssaint/vorssaint-utils
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) |
-| ⭐ Stars | 18657 |
-| 🍴 Forks | 670 |
-| 👀 Watchers | 18657 |
-| 📝 Open Issues | 469 |
-| 💻 主语言 | Swift |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-12 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | GPL-3.0 |
-
-**简介**：
-Free and open-source macOS menu bar toolkit.
-
-
-
-**Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
-
-**中文Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
-
-
----
-
-### 3. bilawalsidhu/gods-eye-view
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
-| ⭐ Stars | 31039 |
-| 🍴 Forks | 6222 |
-| 👀 Watchers | 31039 |
-| 📝 Open Issues | 219 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-22 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-
-
-
-**Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
-
-**中文Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
-
-
----
-
-### 4. tailscale/tailcat
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/tailscale/tailcat](https://github.com/tailscale/tailcat) |
-| ⭐ Stars | 6973 |
-| 🍴 Forks | 277 |
-| 👀 Watchers | 6973 |
-| 📝 Open Issues | 19 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2024-10-29 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | BSD-3-Clause |
-
-**简介**：
-like netcat, but over Tailscale's data plane, without Tailscale's control plane
+Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 
 
 
@@ -116,167 +35,34 @@ like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 ---
 
-### 5. lnkiai/m3e-canvas
+### 2. NandhaKishorM/laya
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) |
-| ⭐ Stars | 6420 |
-| 🍴 Forks | 653 |
-| 👀 Watchers | 6420 |
-| 📝 Open Issues | 2 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) |
+| ⭐ Stars | 32002 |
+| 🍴 Forks | 2848 |
+| 👀 Watchers | 32002 |
+| 📝 Open Issues | 99 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-09-02 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | MIT |
-
-**简介**：
-Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
-
-
-
-**Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
-
-**中文Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
-
-
----
-
-### 6. armory3d/armorpaint
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/armory3d/armorpaint](https://github.com/armory3d/armorpaint) |
-| ⭐ Stars | 4973 |
-| 🍴 Forks | 550 |
-| 👀 Watchers | 4973 |
-| 📝 Open Issues | 110 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2017-02-06 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Graphics Creation Tools
-
-
-
-**Topics**：3d, armorpaint, painting, texturing, tool
-
-**中文Topics**：3d, armorpaint, painting, texturing, tool
-
-
----
-
-### 7. Tencent/teamai-cli
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) |
-| ⭐ Stars | 4334 |
-| 🍴 Forks | 293 |
-| 👀 Watchers | 4334 |
-| 📝 Open Issues | 30 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-04-27 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-Make Every Team AI Native
-
-
-
-**Topics**：-
-
-
-
----
-
-### 8. vastsa/PI-Desktop
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) |
-| ⭐ Stars | 3219 |
-| 🍴 Forks | 244 |
-| 👀 Watchers | 3219 |
-| 📝 Open Issues | 58 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2023-03-22 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | LGPL-3.0 |
-
-**简介**：
-Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
-
-
-
-**Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
-
-**中文Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
-
-
----
-
-### 9. alsk1992/CloddsBot
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) |
-| ⭐ Stars | 2646 |
-| 🍴 Forks | 321 |
-| 👀 Watchers | 2646 |
-| 📝 Open Issues | 29 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-01-26 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | MIT |
-
-**简介**：
-Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
-
-
-
-**Topics**：agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402
-
-**中文Topics**：agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402
-
-
----
-
-### 10. cloudflare/security-audit-skill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
-| ⭐ Stars | 26981 |
-| 🍴 Forks | 1620 |
-| 👀 Watchers | 26981 |
-| 📝 Open Issues | 56 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-18 |
+| 📅 创建时间 | 2026-09-18 |
 | 🔄 最后更新 | 2026-10-10 |
-| 📜 License | MIT |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 
 
 
-**Topics**：-
+**Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
 
+**中文Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
 
 
 ---
 
-### 11. browser-use/jev-ultrafast
+### 3. browser-use/jev-ultrafast
 
 | 属性 | 信息 |
 |---|---|
@@ -302,7 +88,7 @@ Fastest and cheapest web agent
 
 ---
 
-### 12. google/ax
+### 4. google/ax
 
 | 属性 | 信息 |
 |---|---|
@@ -319,6 +105,32 @@ Fastest and cheapest web agent
 
 **简介**：
 Google's open agentic orchestration runtime
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 5. openai/math
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/openai/math](https://github.com/openai/math) |
+| ⭐ Stars | 13163 |
+| 🍴 Forks | 1432 |
+| 👀 Watchers | 13163 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Lean |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-06 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+暂无描述
 
 
 

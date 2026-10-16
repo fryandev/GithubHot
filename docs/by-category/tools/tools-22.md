@@ -1,9 +1,9 @@
 # 工具 - 第 22 页
 
 > 工具 相关的热门开源项目
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **2139** 个项目
+共收录 **2140** 个项目
 （第 22/22 页）
 
 ## 项目列表
@@ -1093,6 +1093,33 @@ Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod
 **Topics**：age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader
 
 **中文Topics**：age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader
+
+
+---
+
+### 2140. boykopovar/AnyPS5
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) |
+| ⭐ Stars | 38739 |
+| 🍴 Forks | 3448 |
+| 👀 Watchers | 38739 |
+| 📝 Open Issues | 853 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-03 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | GPL-2.0 |
+
+**简介**：
+Tool for automatic PS5 executables porting to Linux and Windows
+
+
+
+**Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
+
+**中文Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
 
 
 ---

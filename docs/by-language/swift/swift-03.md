@@ -1,9 +1,9 @@
 # 💻 Swift 热门项目 - 第 3 页
 
 > 使用 Swift 开发的热门开源项目
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **267** 个项目
+共收录 **268** 个项目
 （第 3/3 页）
 
 ## 项目列表
@@ -1880,6 +1880,33 @@ The Photoshop alternative for Mac
 
 **Topics**：-
 
+
+
+---
+
+### 268. ARahim3/DigUp
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ARahim3/DigUp](https://github.com/ARahim3/DigUp) |
+| ⭐ Stars | 4122 |
+| 🍴 Forks | 285 |
+| 👀 Watchers | 4122 |
+| 📝 Open Issues | 84 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-08 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | MIT |
+
+**简介**：
+Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
+
+
+
+**Topics**：embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift, tauri, windows
+
+**中文Topics**：embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift, tauri, windows
 
 
 ---

@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **1745** 个项目
+共收录 **1747** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -1254,6 +1254,59 @@ yoink any video from your terminal. no shady ads.
 
 
 **Topics**：ai, chinese, content-curation, daily-digest, docker-compose, llm, mcp, news-aggregator, postgresql, rss, self-hosted, typescript
+
+
+
+---
+
+### 1746. corsairdev/corsair
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/corsairdev/corsair](https://github.com/corsairdev/corsair) |
+| ⭐ Stars | 14864 |
+| 🍴 Forks | 696 |
+| 👀 Watchers | 14864 |
+| 📝 Open Issues | 362 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2025-10-14 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Connect your users to their apps
+
+
+
+**Topics**：agentic-ai, agents, ai, ai-agents, aiagents, api-integration, corsair, developer-tools, function-calling, integrations, javascript, llm, managed-oauth, mcp, oauth, oauth2, typescript, unified-api
+
+**中文Topics**：agentic-ai, agents, ai, ai-agents, aiagents, api-integration, corsair, developer-tools, function-calling, integrations, javascript, llm, managed-oauth, mcp, oauth, oauth2, typescript, unified-api
+
+
+---
+
+### 1747. CopilotKit/OpenDots
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) |
+| ⭐ Stars | 5434 |
+| 🍴 Forks | 775 |
+| 👀 Watchers | 5434 |
+| 📝 Open Issues | 73 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-29 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | MIT |
+
+**简介**：
+Your always-on AI coworkers that move between text, calls, and Slack.
+
+
+
+**Topics**：-
 
 
 

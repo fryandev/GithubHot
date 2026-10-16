@@ -1,9 +1,9 @@
 # 📆 最近90天活跃
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-10-10 11:24
+> 最后更新：2026-10-16 09:57
 
-共收录 **41** 个项目
+共收录 **49** 个项目
 
 
 ## 项目列表
@@ -65,36 +65,7 @@ Codex Dream Skin
 
 ---
 
-### 3. 0xNyk/council-of-high-intelligence
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) |
-| ⭐ Stars | 3649 |
-| 🍴 Forks | 5 |
-| 👀 Watchers | 3649 |
-| 📝 Open Issues | 19 |
-| 💻 主语言 | Shell |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-02 |
-| 🔄 最后更新 | 2026-07-19 |
-| 📜 License | MIT |
-
-**简介**：
-Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.
-
-**中文简介**：
-为艰难决策进行结构化的多角度审议。就 Claude Code、Codex、Gemini CLI 和 OpenCode 举办完整的委员会、重点三合会或双人辩论。
-
-
-**Topics**：agent-skill, ai-agents, claude-code, codex, decision-making, deliberation, gemini-cli, llm-routing, multi-agent-systems, multi-llm, open-source, opencode, prompt-engineering, structured-debate
-
-**中文Topics**：代理技能, 人工智能代理, 克劳德·代码, codex, 决策, 商议, Gemini-cli, llm 路由, 多代理系统, 多LLM, 开源, 开放代码, 即时工程, 结构化辩论
-
-
----
-
-### 4. Dicklesworthstone/destructive_command_guard
+### 3. Dicklesworthstone/destructive_command_guard
 
 | 属性 | 信息 |
 |---|---|
@@ -123,7 +94,7 @@ The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm
 
 ---
 
-### 5. bojieli/ai-agent-book
+### 4. bojieli/ai-agent-book
 
 | 属性 | 信息 |
 |---|---|
@@ -149,7 +120,7 @@ The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm
 
 ---
 
-### 6. block/buzz
+### 5. block/buzz
 
 | 属性 | 信息 |
 |---|---|
@@ -177,7 +148,7 @@ A hive mind communication platform
 
 ---
 
-### 7. ayghri/i-have-adhd
+### 6. ayghri/i-have-adhd
 
 | 属性 | 信息 |
 |---|---|
@@ -206,7 +177,7 @@ A skill for your coding agent to stop it from burying the answer. ADHD-friendly 
 
 ---
 
-### 8. oblien/openship
+### 7. oblien/openship
 
 | 属性 | 信息 |
 |---|---|
@@ -235,7 +206,7 @@ Self-hosted deployment platform
 
 ---
 
-### 9. every-app/open-seo
+### 8. every-app/open-seo
 
 | 属性 | 信息 |
 |---|---|
@@ -264,7 +235,7 @@ Semrush 和 Ahrefs 的开源替代品
 
 ---
 
-### 10. CoreBunch/Instatic
+### 9. CoreBunch/Instatic
 
 | 属性 | 信息 |
 |---|---|
@@ -293,7 +264,7 @@ Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS
 
 ---
 
-### 11. andrewyng/openworker
+### 10. andrewyng/openworker
 
 | 属性 | 信息 |
 |---|---|
@@ -319,7 +290,7 @@ Webflow、Framer 和 WordPress 的开源替代品。代理自托管可视化 CMS
 
 ---
 
-### 12. citrolabs/ego-lite
+### 11. citrolabs/ego-lite
 
 | 属性 | 信息 |
 |---|---|
@@ -348,7 +319,7 @@ AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理�
 
 ---
 
-### 13. MoonshotAI/Kimi-K3
+### 12. MoonshotAI/Kimi-K3
 
 | 属性 | 信息 |
 |---|---|
@@ -376,7 +347,7 @@ Open Frontier Intelligence
 
 ---
 
-### 14. alibaba/open-code-review
+### 13. alibaba/open-code-review
 
 | 属性 | 信息 |
 |---|---|
@@ -405,7 +376,7 @@ Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi
 
 ---
 
-### 15. firecrawl/pdf-inspector
+### 14. firecrawl/pdf-inspector
 
 | 属性 | 信息 |
 |---|---|
@@ -434,7 +405,7 @@ Fast Rust library for PDF inspection, classification, and text extraction. Intel
 
 ---
 
-### 16. firecrawl/anydoc
+### 15. firecrawl/anydoc
 
 | 属性 | 信息 |
 |---|---|
@@ -462,7 +433,7 @@ Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean 
 
 ---
 
-### 17. trycompai/crm
+### 16. trycompai/crm
 
 | 属性 | 信息 |
 |---|---|
@@ -490,7 +461,7 @@ Comp AI CRM 是一款专为 AI 客服人员设计的开源 CRM。代理优先的
 
 ---
 
-### 18. cloudflare/computer
+### 17. cloudflare/computer
 
 | 属性 | 信息 |
 |---|---|
@@ -518,7 +489,7 @@ Give your agent a computer 👾
 
 ---
 
-### 19. huangruiteng/loopx
+### 18. huangruiteng/loopx
 
 | 属性 | 信息 |
 |---|---|
@@ -547,7 +518,7 @@ Lightweight loop engineering state kernel for long-running AI agent teams. Agent
 
 ---
 
-### 20. FareedKhan-dev/kimi-k3-in-c
+### 19. FareedKhan-dev/kimi-k3-in-c
 
 | 属性 | 信息 |
 |---|---|
@@ -576,7 +547,7 @@ A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o
 
 ---
 
-### 21. emilkowalski/skills
+### 20. emilkowalski/skills
 
 | 属性 | 信息 |
 |---|---|
@@ -604,7 +575,7 @@ Skills for Designers and Engineers.
 
 ---
 
-### 22. zhaoxuya520/reverse-skill
+### 21. zhaoxuya520/reverse-skill
 
 | 属性 | 信息 |
 |---|---|
@@ -630,7 +601,7 @@ Reverse Engineering / Authorized Penetration Testing / Security Research Skill R
 
 ---
 
-### 23. cathrynlavery/diagram-design
+### 22. cathrynlavery/diagram-design
 
 | 属性 | 信息 |
 |---|---|
@@ -658,7 +629,7 @@ Claude Code 的 27 种编辑图表类型。独立的 HTML + SVG。没有阴影�
 
 ---
 
-### 24. PrimeIntellect-ai/prime-agent
+### 23. PrimeIntellect-ai/prime-agent
 
 | 属性 | 信息 |
 |---|---|
@@ -686,7 +657,7 @@ A self-improving RLM agent for coding workflows and long-running autonomous task
 
 ---
 
-### 25. guillaumemeyer/watermarks-remover
+### 24. guillaumemeyer/watermarks-remover
 
 | 属性 | 信息 |
 |---|---|
@@ -715,7 +686,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 ---
 
-### 26. anywhere-labs/deepseek-harness-desktop
+### 25. anywhere-labs/deepseek-harness-desktop
 
 | 属性 | 信息 |
 |---|---|
@@ -741,7 +712,7 @@ Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit
 
 ---
 
-### 27. tt-a1i/archify
+### 26. tt-a1i/archify
 
 | 属性 | 信息 |
 |---|---|
@@ -770,7 +741,7 @@ Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo
 
 ---
 
-### 28. semantica-agi/semantica
+### 27. semantica-agi/semantica
 
 | 属性 | 信息 |
 |---|---|
@@ -799,7 +770,7 @@ Graph-Native Infrastructure for Context and Accountable AI Systems
 
 ---
 
-### 29. awesome-dsh-plugin/awesome-dsh-plugin
+### 28. awesome-dsh-plugin/awesome-dsh-plugin
 
 | 属性 | 信息 |
 |---|---|
@@ -826,7 +797,7 @@ A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件�
 
 ---
 
-### 30. cordiverse/cordis
+### 29. cordiverse/cordis
 
 | 属性 | 信息 |
 |---|---|
@@ -855,7 +826,7 @@ Meta-Framework of Spatiotemporal Composability
 
 ---
 
-### 31. cactus-compute/needle
+### 30. cactus-compute/needle
 
 | 属性 | 信息 |
 |---|---|
@@ -884,7 +855,7 @@ Meta-Framework of Spatiotemporal Composability
 
 ---
 
-### 32. yjh051108/dsh-routing-suite
+### 31. yjh051108/dsh-routing-suite
 
 | 属性 | 信息 |
 |---|---|
@@ -912,7 +883,7 @@ dsh-routing-suite — 注入器 + 路由器标准套件：首先安装运行时�
 
 ---
 
-### 33. zhu1090093659/dsh-web-ui
+### 32. zhu1090093659/dsh-web-ui
 
 | 属性 | 信息 |
 |---|---|
@@ -941,7 +912,7 @@ DeepSeek Harness (DSH) Web UI 的插件和皮肤集合 - 任务板、git 图表�
 
 ---
 
-### 34. akitaonrails/ai-memory
+### 33. akitaonrails/ai-memory
 
 | 属性 | 信息 |
 |---|---|
@@ -969,7 +940,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ---
 
-### 35. AprilNEA/OpenLogi
+### 34. AprilNEA/OpenLogi
 
 | 属性 | 信息 |
 |---|---|
@@ -998,7 +969,7 @@ Solution for long term memory for agent coding CLIs and to facilitate handoff be
 
 ---
 
-### 36. Tencent/AI-Infra-Guard
+### 35. Tencent/AI-Infra-Guard
 
 | 属性 | 信息 |
 |---|---|
@@ -1027,7 +998,7 @@ A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skil
 
 ---
 
-### 37. cursor/plugins
+### 36. cursor/plugins
 
 | 属性 | 信息 |
 |---|---|
@@ -1055,7 +1026,7 @@ Cursor plugin specification and official plugins
 
 ---
 
-### 38. s1dashu/ip-as-logo-skill
+### 37. s1dashu/ip-as-logo-skill
 
 | 属性 | 信息 |
 |---|---|
@@ -1084,7 +1055,7 @@ A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP
 
 ---
 
-### 39. mahlernim/google-timeline-visualizer
+### 38. mahlernim/google-timeline-visualizer
 
 | 属性 | 信息 |
 |---|---|
@@ -1112,7 +1083,88 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 ---
 
-### 40. sapientinc/PRAXIST
+### 39. t8y2/dbx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/t8y2/dbx](https://github.com/t8y2/dbx) |
+| ⭐ Stars | 19312 |
+| 🍴 Forks | 1874 |
+| 👀 Watchers | 19312 |
+| 📝 Open Issues | 1353 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-29 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
+
+
+
+**Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
+**中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
+
+---
+
+### 40. vorssaint/vorssaint-utils
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) |
+| ⭐ Stars | 18657 |
+| 🍴 Forks | 670 |
+| 👀 Watchers | 18657 |
+| 📝 Open Issues | 469 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+Free and open-source macOS menu bar toolkit.
+
+
+
+**Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
+**中文Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
+
+---
+
+### 41. bilawalsidhu/gods-eye-view
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
+| ⭐ Stars | 31039 |
+| 🍴 Forks | 6222 |
+| 👀 Watchers | 31039 |
+| 📝 Open Issues | 219 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-22 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+
+
+
+**Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
+
+**中文Topics**：3d-globe, cesium, flight-tracking, geospatial, geospatial-intelligence, gis, osint, photogrammetry, satellite-tracking, spatial-intelligence, webgl, worldview
+
+
+---
+
+### 42. sapientinc/PRAXIST
 
 | 属性 | 信息 |
 |---|---|
@@ -1138,23 +1190,183 @@ Autonomous research system for measurable, computer-executable research.
 
 ---
 
-### 41. pablostanley/yoinks
+### 43. tailscale/tailcat
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/pablostanley/yoinks](https://github.com/pablostanley/yoinks) |
-| ⭐ Stars | 5647 |
-| 🍴 Forks | 475 |
-| 👀 Watchers | 5647 |
+| 链接 | [https://github.com/tailscale/tailcat](https://github.com/tailscale/tailcat) |
+| ⭐ Stars | 6973 |
+| 🍴 Forks | 277 |
+| 👀 Watchers | 6973 |
+| 📝 Open Issues | 19 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2024-10-29 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | BSD-3-Clause |
+
+**简介**：
+like netcat, but over Tailscale's data plane, without Tailscale's control plane
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 44. lnkiai/m3e-canvas
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) |
+| ⭐ Stars | 6420 |
+| 🍴 Forks | 653 |
+| 👀 Watchers | 6420 |
+| 📝 Open Issues | 2 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-02 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | MIT |
+
+**简介**：
+Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+
+
+
+**Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
+
+**中文Topics**：design-tool, material-3-expressive, material-design, material3, nextjs, prompt, react, vibe-coding
+
+
+---
+
+### 45. armory3d/armorpaint
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/armory3d/armorpaint](https://github.com/armory3d/armorpaint) |
+| ⭐ Stars | 4973 |
+| 🍴 Forks | 550 |
+| 👀 Watchers | 4973 |
+| 📝 Open Issues | 110 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2017-02-06 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Graphics Creation Tools
+
+
+
+**Topics**：3d, armorpaint, painting, texturing, tool
+
+**中文Topics**：3d, armorpaint, painting, texturing, tool
+
+
+---
+
+### 46. Tencent/teamai-cli
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) |
+| ⭐ Stars | 4334 |
+| 🍴 Forks | 293 |
+| 👀 Watchers | 4334 |
+| 📝 Open Issues | 30 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-27 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Make Every Team AI Native
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 47. vastsa/PI-Desktop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) |
+| ⭐ Stars | 3219 |
+| 🍴 Forks | 244 |
+| 👀 Watchers | 3219 |
+| 📝 Open Issues | 58 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2023-03-22 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | LGPL-3.0 |
+
+**简介**：
+Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
+
+
+
+**Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
+
+**中文Topics**：ai-agent, coding-agent, desktop-app, electron, global, i18n, local-first, mcp, pi, pi-agent, pi-desktop, plugins, react, rust, typescript
+
+
+---
+
+### 48. alsk1992/CloddsBot
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) |
+| ⭐ Stars | 2646 |
+| 🍴 Forks | 321 |
+| 👀 Watchers | 2646 |
 | 📝 Open Issues | 29 |
 | 💻 主语言 | TypeScript |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-16 |
+| 📅 创建时间 | 2026-01-26 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | MIT |
+
+**简介**：
+Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.
+
+
+
+**Topics**：agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402
+
+**中文Topics**：agi, ai, arbitrage, claude, crypto, defi, ethereum, futures, hft, hyperliquid, kalshi, polymarket, prediction-markets, pumpswap, solana, telegram-bot, trading, trading-bot, typescript, x402
+
+
+---
+
+### 49. cloudflare/security-audit-skill
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
+| ⭐ Stars | 26981 |
+| 🍴 Forks | 1620 |
+| 👀 Watchers | 26981 |
+| 📝 Open Issues | 56 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-18 |
 | 🔄 最后更新 | 2026-10-10 |
 | 📜 License | MIT |
 
 **简介**：
-yoink any video from your terminal. no shady ads.
+A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 
 
 
