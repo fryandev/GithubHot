@@ -1,9 +1,9 @@
 # 数据库 - 第 5 页
 
 > 数据库 相关的热门开源项目
-> 最后更新：2026-10-16 10:01
+> 最后更新：2026-10-26 15:46
 
-共收录 **481** 个项目
+共收录 **482** 个项目
 （第 5/5 页）
 
 ## 项目列表
@@ -2271,6 +2271,33 @@ Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code revi
 **Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
 
 **中文Topics**：ai, cli, clickhouse, database, database-client, database-management, docker, gui, mcp, mongodb, mysql, postgresql, redis, rust, sql-server, sqlite, tauri, vue
+
+
+---
+
+### 482. SnailSploit/Claude-Red
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) |
+| ⭐ Stars | 9190 |
+| 🍴 Forks | 1218 |
+| 👀 Watchers | 9190 |
+| 📝 Open Issues | 37 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-04 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+
+
+
+**Topics**：claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills
+
+**中文Topics**：claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills
 
 
 ---

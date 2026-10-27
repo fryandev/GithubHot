@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-10-16 10:01
+> 最后更新：2026-10-26 15:46
 
-共收录 **1817** 个项目
+共收录 **1819** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -476,6 +476,59 @@ An agent skill for creating detailed, interactive isometric illustrations of rea
 **Topics**：agent-skill, open-source, svg, vizualization
 
 **中文Topics**：agent-skill, open-source, svg, vizualization
+
+
+---
+
+### 1818. withmarbleapp/os-taxonomy
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) |
+| ⭐ Stars | 7367 |
+| 🍴 Forks | 1192 |
+| 👀 Watchers | 7367 |
+| 📝 Open Issues | 11 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-08 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | ODbL-1.0 |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1819. HeyPuter/everything
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/HeyPuter/everything](https://github.com/HeyPuter/everything) |
+| ⭐ Stars | 3903 |
+| 🍴 Forks | 486 |
+| 👀 Watchers | 3903 |
+| 📝 Open Issues | 18 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-13 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+We're rebuilding and open-sourcing the world’s software from scratch.
+
+
+
+**Topics**：adobe, cad, microsoft, office, photoshop, saas, spreadsheet
+
+**中文Topics**：adobe, cad, microsoft, office, photoshop, saas, spreadsheet
 
 
 ---

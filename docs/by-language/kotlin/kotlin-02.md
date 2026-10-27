@@ -1,9 +1,9 @@
 # 💻 Kotlin 热门项目 - 第 2 页
 
 > 使用 Kotlin 开发的热门开源项目
-> 最后更新：2026-10-16 10:01
+> 最后更新：2026-10-26 15:46
 
-共收录 **189** 个项目
+共收录 **190** 个项目
 （第 2/2 页）
 
 ## 项目列表
@@ -2485,6 +2485,32 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 **中文简介**：
 使用您的 Google 位置记录（时间轴）数据可视化您这一年的旅行情况
+
+
+**Topics**：-
+
+
+
+---
+
+### 190. pengchujin/aerial-tv
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) |
+| ⭐ Stars | 5507 |
+| 🍴 Forks | 457 |
+| 👀 Watchers | 5507 |
+| 📝 Open Issues | 267 |
+| 💻 主语言 | Kotlin |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-20 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+
 
 
 **Topics**：-

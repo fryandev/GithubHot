@@ -1,9 +1,9 @@
 # 💻 Java 热门项目 - 第 8 页
 
 > 使用 Java 开发的热门开源项目
-> 最后更新：2026-10-16 10:01
+> 最后更新：2026-10-26 15:46
 
-共收录 **797** 个项目
+共收录 **798** 个项目
 （第 8/8 页）
 
 ## 项目列表
@@ -2706,6 +2706,33 @@ Java LintCode/LeetCode 问题解决方案
 
 **Topics**：algorithm, dynamicprogramming, java, java-solution, leetcode, lintcode
 
+
+
+---
+
+### 798. simbasjungles/free-my-tv
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) |
+| ⭐ Stars | 4676 |
+| 🍴 Forks | 771 |
+| 👀 Watchers | 4676 |
+| 📝 Open Issues | 76 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-19 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+
+
+
+**Topics**：android-tv, claude-code, google-tv, home-screen, launcher, no-ads, open-source, samsung-tizen, tizen, tmdb, webos
+
+**中文Topics**：android-tv, claude-code, google-tv, home-screen, launcher, no-ads, open-source, samsung-tizen, tizen, tmdb, webos
 
 
 ---

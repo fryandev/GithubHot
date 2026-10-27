@@ -1,10 +1,10 @@
 # 💻 Python 热门项目 - 第 25 页
 
 > 使用 Python 开发的热门开源项目
-> 最后更新：2026-10-16 10:01
+> 最后更新：2026-10-26 15:46
 
-共收录 **2500** 个项目
-（第 25/25 页）
+共收录 **2505** 个项目
+（第 25/26 页）
 
 ## 项目列表
 
@@ -2802,7 +2802,7 @@ Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod
 <div align="center">
 
 [← 上一页](python-24.md)
-
-
+ | 
+[下一页 →](python-26.md)
 
 </div>

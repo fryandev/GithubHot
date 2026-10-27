@@ -1,42 +1,95 @@
 # 📊 周飙升榜
 
 > 📊 周飙升榜 项目列表
-> 最后更新：2026-10-16 10:01
+> 最后更新：2026-10-26 15:46
 
-共收录 **19** 个项目
+共收录 **20** 个项目
 
 
 ## 项目列表
 
 
-### 1. boykopovar/AnyPS5
+### 1. Gathin23/cleanyourtv
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) |
-| ⭐ Stars | 38739 |
-| 🍴 Forks | 3448 |
-| 👀 Watchers | 38739 |
-| 📝 Open Issues | 853 |
-| 💻 主语言 | C++ |
+| 链接 | [https://github.com/Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) |
+| ⭐ Stars | 36584 |
+| 🍴 Forks | 4370 |
+| 👀 Watchers | 36584 |
+| 📝 Open Issues | 177 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-08-03 |
-| 🔄 最后更新 | 2026-10-16 |
-| 📜 License | GPL-2.0 |
+| 📅 创建时间 | 2026-10-17 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | NOASSERTION |
 
 **简介**：
-Tool for automatic PS5 executables porting to Linux and Windows
+Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 
 
-**Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
+**Topics**：adb, adblock, android-tv, android-tv-launcher, apple-tv, bloatware-removal, claude-code, debloat, fire-tv, google-tv, launcher, privacy, smart-tv, sony-bravia, tcl, vibe-coding, xiaomi
 
-**中文Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
+**中文Topics**：adb, adblock, android-tv, android-tv-launcher, apple-tv, bloatware-removal, claude-code, debloat, fire-tv, google-tv, launcher, privacy, smart-tv, sony-bravia, tcl, vibe-coding, xiaomi
 
 
 ---
 
-### 2. storytold/artcraft
+### 2. deepseek-ai/DeepInfer
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) |
+| ⭐ Stars | 22660 |
+| 🍴 Forks | 2626 |
+| 👀 Watchers | 22660 |
+| 📝 Open Issues | 210 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-16 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 3. wheresryan22/anatomy
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) |
+| ⭐ Stars | 12847 |
+| 🍴 Forks | 932 |
+| 👀 Watchers | 12847 |
+| 📝 Open Issues | 20 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-08 |
+| 🔄 最后更新 | 2026-10-16 |
+| 📜 License | MIT |
+
+**简介**：
+An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
+
+
+
+**Topics**：agent-skill, open-source, svg, vizualization
+
+**中文Topics**：agent-skill, open-source, svg, vizualization
+
+
+---
+
+### 4. storytold/artcraft
 
 | 属性 | 信息 |
 |---|---|
@@ -63,159 +116,26 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 
 ---
 
-### 3. tester-army/e2e
+### 5. akitaonrails/ai-memory
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/tester-army/e2e](https://github.com/tester-army/e2e) |
-| ⭐ Stars | 8458 |
-| 🍴 Forks | 404 |
-| 👀 Watchers | 8458 |
-| 📝 Open Issues | 61 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) |
+| ⭐ Stars | 2918 |
+| 🍴 Forks | 244 |
+| 👀 Watchers | 2918 |
+| 📝 Open Issues | 9 |
+| 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-22 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Next generation e2e testing framework for web and mobile apps.
-
-
-
-**Topics**：e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web
-
-**中文Topics**：e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web
-
-
----
-
-### 4. DuarteSantos8/openGym
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) |
-| ⭐ Stars | 8724 |
-| 🍴 Forks | 1087 |
-| 👀 Watchers | 8724 |
-| 📝 Open Issues | 70 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-18 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | AGPL-3.0 |
-
-**简介**：
-Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-
-
-
-**Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
-
-**中文Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
-
-
----
-
-### 5. openai/math
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/openai/math](https://github.com/openai/math) |
-| ⭐ Stars | 13163 |
-| 🍴 Forks | 1432 |
-| 👀 Watchers | 13163 |
-| 📝 Open Issues | 0 |
-| 💻 主语言 | Lean |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-06 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-暂无描述
-
-
-
-**Topics**：-
-
-
-
----
-
-### 6. rehan-remade/universal-modder
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) |
-| ⭐ Stars | 6079 |
-| 🍴 Forks | 577 |
-| 👀 Watchers | 6079 |
-| 📝 Open Issues | 52 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-09-30 |
-| 🔄 最后更新 | 2026-10-10 |
+| 📅 创建时间 | 2026-05-21 |
+| 🔄 最后更新 | 2026-08-19 |
 | 📜 License | MIT |
 
 **简介**：
-Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
-
-
-
-**Topics**：age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader
-
-**中文Topics**：age-of-empires, claude-code, claude-code-plugin, fal, game-assets, game-modding, mcp, modding, reverse-engineering, tmodloader
-
-
----
-
-### 7. cloudflare/security-audit-skill
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) |
-| ⭐ Stars | 26981 |
-| 🍴 Forks | 1620 |
-| 👀 Watchers | 26981 |
-| 📝 Open Issues | 56 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-18 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | MIT |
-
-**简介**：
-A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-
-
-
-**Topics**：-
-
-
-
----
-
-### 8. liquidslr/system-design-notes
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) |
-| ⭐ Stars | 6261 |
-| 🍴 Forks | 1232 |
-| 👀 Watchers | 6261 |
-| 📝 Open Issues | 0 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2024-12-24 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | 未知 |
-
-**简介**：
-Notes of the book System Desgin Interview - An Insider's Guide
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 **中文简介**：
-《系统设计访谈 - 业内人士指南》一书的注释
+用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换
 
 
 **Topics**：-
@@ -224,7 +144,35 @@ Notes of the book System Desgin Interview - An Insider's Guide
 
 ---
 
-### 9. anthropics/knowledge-work-plugins
+### 6. NVIDIA/OpenShell
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) |
+| ⭐ Stars | 6859 |
+| 🍴 Forks | 814 |
+| 👀 Watchers | 6859 |
+| 📝 Open Issues | 233 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+OpenShell is the safe, private runtime for autonomous AI agents.
+
+**中文简介**：
+OpenShell 是自主 AI 代理的安全、私有运行时。
+
+
+**Topics**：-
+
+
+
+---
+
+### 7. anthropics/knowledge-work-plugins
 
 | 属性 | 信息 |
 |---|---|
@@ -252,53 +200,105 @@ Open source repository of plugins primarily intended for knowledge workers to us
 
 ---
 
-### 10. vorssaint/vorssaint-utils
+### 8. ly05010419/MacNativeGames
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) |
-| ⭐ Stars | 18657 |
-| 🍴 Forks | 670 |
-| 👀 Watchers | 18657 |
-| 📝 Open Issues | 469 |
-| 💻 主语言 | Swift |
+| 链接 | [https://github.com/ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) |
+| ⭐ Stars | 5581 |
+| 🍴 Forks | 808 |
+| 👀 Watchers | 5581 |
+| 📝 Open Issues | 172 |
+| 💻 主语言 | C |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-12 |
-| 🔄 最后更新 | 2026-09-13 |
-| 📜 License | GPL-3.0 |
+| 📅 创建时间 | 2026-10-17 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
 
 **简介**：
-Free and open-source macOS menu bar toolkit.
+Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.
 
 
 
-**Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+**Topics**：apple-silicon, arm64, breath-of-the-wild, game-port, ios, ipados, macos, metal, native-port, tears-of-the-kingdom, ultrawide, zelda
 
-**中文Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+**中文Topics**：apple-silicon, arm64, breath-of-the-wild, game-port, ios, ipados, macos, metal, native-port, tears-of-the-kingdom, ultrawide, zelda
 
 
 ---
 
-### 11. tashfeenahmed/freellmapi
+### 9. DuarteSantos8/openGym
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) |
-| ⭐ Stars | 7965 |
-| 🍴 Forks | 1298 |
-| 👀 Watchers | 7965 |
-| 📝 Open Issues | 28 |
+| 链接 | [https://github.com/DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) |
+| ⭐ Stars | 8724 |
+| 🍴 Forks | 1087 |
+| 👀 Watchers | 8724 |
+| 📝 Open Issues | 70 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-18 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+
+
+
+**Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
+
+**中文Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
+
+
+---
+
+### 10. hypit-ai/hypit
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/hypit-ai/hypit](https://github.com/hypit-ai/hypit) |
+| ⭐ Stars | 20613 |
+| 🍴 Forks | 2261 |
+| 👀 Watchers | 20613 |
+| 📝 Open Issues | 11 |
 | 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-04-21 |
-| 🔄 最后更新 | 2026-06-06 |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-29 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+
+
+
+**Topics**：agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
+
+**中文Topics**：agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
+
+
+---
+
+### 11. pengchujin/aerial-tv
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) |
+| ⭐ Stars | 5507 |
+| 🍴 Forks | 457 |
+| 👀 Watchers | 5507 |
+| 📝 Open Issues | 267 |
+| 💻 主语言 | Kotlin |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-20 |
+| 🔄 最后更新 | 2026-10-26 |
 | 📜 License | MIT |
 
 **简介**：
-OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
+给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
-**中文简介**：
-OpenAI 兼容代理，将 16 个 LLM 提供商的免费层（约 1.7B 代币/月）堆叠在一个 /v1 端点后面 - 以及任何自定义 OpenAI 兼容端点。智能路由、自动故障转移、加密密钥。仅个人实验。
 
 
 **Topics**：-
@@ -307,51 +307,49 @@ OpenAI 兼容代理，将 16 个 LLM 提供商的免费层（约 1.7B 代币/月
 
 ---
 
-### 12. earthtojake/text-to-cad
+### 12. withmarbleapp/os-taxonomy
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) |
-| ⭐ Stars | 5711 |
-| 🍴 Forks | 676 |
-| 👀 Watchers | 5711 |
-| 📝 Open Issues | 15 |
+| 链接 | [https://github.com/withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) |
+| ⭐ Stars | 7367 |
+| 🍴 Forks | 1192 |
+| 👀 Watchers | 7367 |
+| 📝 Open Issues | 11 |
 | 💻 主语言 | JavaScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-04-22 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | MIT |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-07-08 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | ODbL-1.0 |
 
 **简介**：
-A collection of agent skills for CAD, robotics and hardware design
-
-**中文简介**：
-CAD、机器人和硬件设计的代理技能集合
+暂无描述
 
 
-**Topics**：3mf, agents, ai-agents, build123d, cad, dxf, glb, mechanical-engineering, opencascade, robotics, sdf, srdf, step, stl, stp, text-to-cad, urdf
+
+**Topics**：-
 
 
 
 ---
 
-### 13. CopilotKit/OpenDots
+### 13. storytold/wordcraft
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) |
-| ⭐ Stars | 5434 |
-| 🍴 Forks | 775 |
-| 👀 Watchers | 5434 |
-| 📝 Open Issues | 73 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/storytold/wordcraft](https://github.com/storytold/wordcraft) |
+| ⭐ Stars | 13222 |
+| 🍴 Forks | 3398 |
+| 👀 Watchers | 13222 |
+| 📝 Open Issues | 1069 |
+| 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-09-29 |
+| 📅 创建时间 | 2026-10-07 |
 | 🔄 最后更新 | 2026-10-16 |
-| 📜 License | MIT |
+| 📜 License | Apache-2.0 |
 
 **简介**：
-Your always-on AI coworkers that move between text, calls, and Slack.
+An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 
 
@@ -387,24 +385,134 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 ---
 
-### 15. Albert-Weasker/niubigeo
+### 15. vorssaint/vorssaint-utils
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) |
-| ⭐ Stars | 6191 |
-| 🍴 Forks | 639 |
-| 👀 Watchers | 6191 |
-| 📝 Open Issues | 81 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) |
+| ⭐ Stars | 18657 |
+| 🍴 Forks | 670 |
+| 👀 Watchers | 18657 |
+| 📝 Open Issues | 469 |
+| 💻 主语言 | Swift |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-09-03 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
+| 📅 创建时间 | 2026-06-12 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | GPL-3.0 |
 
 **简介**：
-Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing
+Free and open-source macOS menu bar toolkit.
 
+
+
+**Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
+**中文Topics**：alt-tab, app-uninstaller, appkit, finder, free, keep-awake, mac-os, menu-bar, menubar, open-source, swift, swift-ui, system-monitor, uninstaller, volume-mixer, window-switcher
+
+
+---
+
+### 16. anywhere-labs/deepseek-harness-desktop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) |
+| ⭐ Stars | 14199 |
+| 🍴 Forks | 657 |
+| 👀 Watchers | 14199 |
+| 📝 Open Issues | 147 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-13 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+
+
+
+**Topics**：cordis, cordis-plugin, deepseek, deepseek-harness, desktop, dsh, dsh-plugin, dsh-plugin-desktop
+
+
+
+---
+
+### 17. HeyPuter/everything
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/HeyPuter/everything](https://github.com/HeyPuter/everything) |
+| ⭐ Stars | 3903 |
+| 🍴 Forks | 486 |
+| 👀 Watchers | 3903 |
+| 📝 Open Issues | 18 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-13 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+We're rebuilding and open-sourcing the world’s software from scratch.
+
+
+
+**Topics**：adobe, cad, microsoft, office, photoshop, saas, spreadsheet
+
+**中文Topics**：adobe, cad, microsoft, office, photoshop, saas, spreadsheet
+
+
+---
+
+### 18. earthtojake/text-to-cad
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) |
+| ⭐ Stars | 5711 |
+| 🍴 Forks | 676 |
+| 👀 Watchers | 5711 |
+| 📝 Open Issues | 15 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-04-22 |
+| 🔄 最后更新 | 2026-06-06 |
+| 📜 License | MIT |
+
+**简介**：
+A collection of agent skills for CAD, robotics and hardware design
+
+**中文简介**：
+CAD、机器人和硬件设计的代理技能集合
+
+
+**Topics**：3mf, agents, ai-agents, build123d, cad, dxf, glb, mechanical-engineering, opencascade, robotics, sdf, srdf, step, stl, stp, text-to-cad, urdf
+
+
+
+---
+
+### 19. cursor/plugins
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/cursor/plugins](https://github.com/cursor/plugins) |
+| ⭐ Stars | 4423 |
+| 🍴 Forks | 367 |
+| 👀 Watchers | 4423 |
+| 📝 Open Issues | 52 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-01-23 |
+| 🔄 最后更新 | 2026-08-22 |
+| 📜 License | 未知 |
+
+**简介**：
+Cursor plugin specification and official plugins
+
+**中文简介**：
+光标插件规范和官方插件
 
 
 **Topics**：-
@@ -413,109 +521,30 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 ---
 
-### 16. TencentCloud/Octop
+### 20. mksglu/context-mode
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/TencentCloud/Octop](https://github.com/TencentCloud/Octop) |
-| ⭐ Stars | 8288 |
-| 🍴 Forks | 1005 |
-| 👀 Watchers | 8288 |
-| 📝 Open Issues | 696 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-08 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | MIT |
-
-**简介**：
-A smarter, self-hosted AI assistant — multi-user, multi-agent.
-
-
-
-**Topics**：agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory
-
-**中文Topics**：agent, agentic-ai, ai, ai-agent, ai-agents, local-first, long-term-memory
-
-
----
-
-### 17. pablostanley/yoinks
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/pablostanley/yoinks](https://github.com/pablostanley/yoinks) |
-| ⭐ Stars | 5647 |
-| 🍴 Forks | 475 |
-| 👀 Watchers | 5647 |
-| 📝 Open Issues | 29 |
+| 链接 | [https://github.com/mksglu/context-mode](https://github.com/mksglu/context-mode) |
+| ⭐ Stars | 16514 |
+| 🍴 Forks | 1191 |
+| 👀 Watchers | 16514 |
+| 📝 Open Issues | 27 |
 | 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-16 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | MIT |
-
-**简介**：
-yoink any video from your terminal. no shady ads.
-
-
-
-**Topics**：-
-
-
-
----
-
-### 18. hypit-ai/hypit
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/hypit-ai/hypit](https://github.com/hypit-ai/hypit) |
-| ⭐ Stars | 20613 |
-| 🍴 Forks | 2261 |
-| 👀 Watchers | 20613 |
-| 📝 Open Issues | 11 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-29 |
-| 🔄 最后更新 | 2026-10-10 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-02-23 |
+| 🔄 最后更新 | 2026-06-06 |
 | 📜 License | NOASSERTION |
 
 **简介**：
-Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.
+Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms
+
+**中文简介**：
+AI 编码代理的上下文窗口优化。沙盒工具输出，减少 98%。 15个平台
 
 
+**Topics**：antigravity, claude, claude-code, claude-code-hooks, claude-code-plugins, claude-code-skill, codex, codex-cli, context-mode, copilot, cursor-plugin, kiro, mcp, mcp-server, mcp-tools, openclaw, opencode, pi-agent, skills, zed-extension
 
-**Topics**：agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
-
-**中文Topics**：agentic-ai, ai, ai-agents, ai-video, compiler, dsl, ffmpeg, generative-ai, llm, markup-language, monorepo, plugin-system, programming-language, text-to-video, typescript, video, video-automation, video-clone, video-editing, video-generation
-
-
----
-
-### 19. NandhaKishorM/laya
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) |
-| ⭐ Stars | 32002 |
-| 🍴 Forks | 2848 |
-| 👀 Watchers | 32002 |
-| 📝 Open Issues | 99 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-09-18 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
-
-
-
-**Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
-
-**中文Topics**：calibration, classification, decision-model, huggingface, jev, modernbert, multilingual, nlp, python, pytorch, routing, typed-decisions, zero-shot
 
 
 ---

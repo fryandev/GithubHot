@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-10-16 10:01
+> 最后更新：2026-10-26 15:46
 
 共收录 **10** 个项目
 
@@ -9,77 +9,51 @@
 ## 项目列表
 
 
-### 1. wheresryan22/anatomy
+### 1. NVIDIA/OpenShell
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) |
-| ⭐ Stars | 12847 |
-| 🍴 Forks | 932 |
-| 👀 Watchers | 12847 |
-| 📝 Open Issues | 20 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-08 |
-| 🔄 最后更新 | 2026-10-16 |
-| 📜 License | MIT |
-
-**简介**：
-An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
-
-
-
-**Topics**：agent-skill, open-source, svg, vizualization
-
-**中文Topics**：agent-skill, open-source, svg, vizualization
-
-
----
-
-### 2. jhaizhou-ops/d2r-mobile
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) |
-| ⭐ Stars | 3173 |
-| 🍴 Forks | 954 |
-| 👀 Watchers | 3173 |
-| 📝 Open Issues | 21 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-12 |
-| 🔄 最后更新 | 2026-10-16 |
-| 📜 License | MIT |
-
-**简介**：
-Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层
-
-
-
-**Topics**：compatibility-layer, diablo-2-resurrected, diablo2, game-port, ios, ipad, iphone, mac, macos, metal, reign-of-the-warlock
-
-**中文Topics**：compatibility-layer, diablo-2-resurrected, diablo2, game-port, ios, ipad, iphone, mac, macos, metal, reign-of-the-warlock
-
-
----
-
-### 3. storytold/wordcraft
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/storytold/wordcraft](https://github.com/storytold/wordcraft) |
-| ⭐ Stars | 13222 |
-| 🍴 Forks | 3398 |
-| 👀 Watchers | 13222 |
-| 📝 Open Issues | 1069 |
+| 链接 | [https://github.com/NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) |
+| ⭐ Stars | 6859 |
+| 🍴 Forks | 814 |
+| 👀 Watchers | 6859 |
+| 📝 Open Issues | 233 |
 | 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-07 |
-| 🔄 最后更新 | 2026-10-16 |
+| 🔥 热度等级 | hot |
+| 📅 创建时间 | 2026-02-24 |
+| 🔄 最后更新 | 2026-06-06 |
 | 📜 License | Apache-2.0 |
 
 **简介**：
-An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+OpenShell is the safe, private runtime for autonomous AI agents.
+
+**中文简介**：
+OpenShell 是自主 AI 代理的安全、私有运行时。
+
+
+**Topics**：-
+
+
+
+---
+
+### 2. pengchujin/aerial-tv
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) |
+| ⭐ Stars | 5507 |
+| 🍴 Forks | 457 |
+| 👀 Watchers | 5507 |
+| 📝 Open Issues | 267 |
+| 💻 主语言 | Kotlin |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-20 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
 
 
 
@@ -89,34 +63,114 @@ An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 ---
 
-### 4. corsairdev/corsair
+### 3. SnailSploit/Claude-Red
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/corsairdev/corsair](https://github.com/corsairdev/corsair) |
-| ⭐ Stars | 14864 |
-| 🍴 Forks | 696 |
-| 👀 Watchers | 14864 |
-| 📝 Open Issues | 362 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) |
+| ⭐ Stars | 9190 |
+| 🍴 Forks | 1218 |
+| 👀 Watchers | 9190 |
+| 📝 Open Issues | 37 |
+| 💻 主语言 | Python |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2025-10-14 |
-| 🔄 最后更新 | 2026-10-16 |
-| 📜 License | NOASSERTION |
+| 📅 创建时间 | 2026-03-04 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
 
 **简介**：
-Connect your users to their apps
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
 
 
 
-**Topics**：agentic-ai, agents, ai, ai-agents, aiagents, api-integration, corsair, developer-tools, function-calling, integrations, javascript, llm, managed-oauth, mcp, oauth, oauth2, typescript, unified-api
+**Topics**：claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills
 
-**中文Topics**：agentic-ai, agents, ai, ai-agents, aiagents, api-integration, corsair, developer-tools, function-calling, integrations, javascript, llm, managed-oauth, mcp, oauth, oauth2, typescript, unified-api
+**中文Topics**：claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills
 
 
 ---
 
-### 5. DuarteSantos8/openGym
+### 4. xiaoyang111222/cn-math-taxonomy
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) |
+| ⭐ Stars | 3883 |
+| 🍴 Forks | 953 |
+| 👀 Watchers | 3883 |
+| 📝 Open Issues | 12 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-18 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
+
+
+
+**Topics**：chinese, curriculum, diagnostic, edtech, education, elementary-school, english, high-school, junior-high-school, k12, knowledge-graph, math, mathematics, middle-school, open-data, primary-school
+
+
+
+---
+
+### 5. simbasjungles/free-my-tv
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) |
+| ⭐ Stars | 4676 |
+| 🍴 Forks | 771 |
+| 👀 Watchers | 4676 |
+| 📝 Open Issues | 76 |
+| 💻 主语言 | Java |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-19 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+
+
+
+**Topics**：android-tv, claude-code, google-tv, home-screen, launcher, no-ads, open-source, samsung-tizen, tizen, tmdb, webos
+
+**中文Topics**：android-tv, claude-code, google-tv, home-screen, launcher, no-ads, open-source, samsung-tizen, tizen, tmdb, webos
+
+
+---
+
+### 6. ly05010419/MacNativeGames
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) |
+| ⭐ Stars | 5581 |
+| 🍴 Forks | 808 |
+| 👀 Watchers | 5581 |
+| 📝 Open Issues | 172 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-17 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.
+
+
+
+**Topics**：apple-silicon, arm64, breath-of-the-wild, game-port, ios, ipados, macos, metal, native-port, tears-of-the-kingdom, ultrawide, zelda
+
+**中文Topics**：apple-silicon, arm64, breath-of-the-wild, game-port, ios, ipados, macos, metal, native-port, tears-of-the-kingdom, ultrawide, zelda
+
+
+---
+
+### 7. DuarteSantos8/openGym
 
 | 属性 | 信息 |
 |---|---|
@@ -143,136 +197,86 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ---
 
-### 6. ARahim3/DigUp
+### 8. akitaonrails/ai-memory
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/ARahim3/DigUp](https://github.com/ARahim3/DigUp) |
-| ⭐ Stars | 4122 |
-| 🍴 Forks | 285 |
-| 👀 Watchers | 4122 |
-| 📝 Open Issues | 84 |
-| 💻 主语言 | Swift |
+| 链接 | [https://github.com/akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) |
+| ⭐ Stars | 2918 |
+| 🍴 Forks | 244 |
+| 👀 Watchers | 2918 |
+| 📝 Open Issues | 9 |
+| 💻 主语言 | Rust |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-08 |
-| 🔄 最后更新 | 2026-10-16 |
+| 📅 创建时间 | 2026-05-21 |
+| 🔄 最后更新 | 2026-08-19 |
 | 📜 License | MIT |
 
 **简介**：
-Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.
-
-
-
-**Topics**：embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift, tauri, windows
-
-**中文Topics**：embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift, tauri, windows
-
-
----
-
-### 7. storytold/cadcraft
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/storytold/cadcraft](https://github.com/storytold/cadcraft) |
-| ⭐ Stars | 5160 |
-| 🍴 Forks | 2288 |
-| 👀 Watchers | 5160 |
-| 📝 Open Issues | 598 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-07 |
-| 🔄 最后更新 | 2026-10-16 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
-
-
-
-**Topics**：-
-
-
-
----
-
-### 8. storytold/gridcraft
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/storytold/gridcraft](https://github.com/storytold/gridcraft) |
-| ⭐ Stars | 5200 |
-| 🍴 Forks | 2356 |
-| 👀 Watchers | 5200 |
-| 📝 Open Issues | 935 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-07 |
-| 🔄 最后更新 | 2026-10-16 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
-
-
-
-**Topics**：-
-
-
-
----
-
-### 9. tester-army/e2e
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/tester-army/e2e](https://github.com/tester-army/e2e) |
-| ⭐ Stars | 8458 |
-| 🍴 Forks | 404 |
-| 👀 Watchers | 8458 |
-| 📝 Open Issues | 61 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-22 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Next generation e2e testing framework for web and mobile apps.
-
-
-
-**Topics**：e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web
-
-**中文Topics**：e2e, e2e-testing, end-to-end-testing, mobile, mobile-testing, playwright, web
-
-
----
-
-### 10. mobile-next/mobile-mcp
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) |
-| ⭐ Stars | 5128 |
-| 🍴 Forks | 446 |
-| 👀 Watchers | 5128 |
-| 📝 Open Issues | 48 |
-| 💻 主语言 | TypeScript |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2025-03-28 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 **中文简介**：
-用于移动自动化和抓取的模型上下文协议服务器（iOS、Android、仿真器、模拟器和真实设备）
+用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换
 
 
-**Topics**：agent, android, emulator, ios, mcp, mobile, physical, real, simulator
+**Topics**：-
 
+
+
+---
+
+### 9. rlaope/oh-my-hermes
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) |
+| ⭐ Stars | 4235 |
+| 🍴 Forks | 320 |
+| 👀 Watchers | 4235 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-06-03 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+The coding intelligence and skills for Hermes Agent ⚚ just install once. then type 'dag-ulw' to be graph engineering master.
+
+
+
+**Topics**：agent, ai, ai-agent, ai-tools, claude-code, codex, hermes-agent, hermes-skill, skills
+
+**中文Topics**：agent, ai, ai-agent, ai-tools, claude-code, codex, hermes-agent, hermes-skill, skills
+
+
+---
+
+### 10. citrolabs/ego-lite
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) |
+| ⭐ Stars | 5315 |
+| 🍴 Forks | 256 |
+| 👀 Watchers | 5315 |
+| 📝 Open Issues | 41 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-04-16 |
+| 🔄 最后更新 | 2026-07-27 |
+| 📜 License | MIT |
+
+**简介**：
+The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+
+**中文简介**：
+AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理（如 Codex 或 Claude Code）共享您登录的浏览器状态而构建，而不会打扰您。零成本，零配置。
+
+
+**Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
+
+**中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
 
 
 ---

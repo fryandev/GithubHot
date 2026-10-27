@@ -1,9 +1,9 @@
 # 移动端 - 第 12 页
 
 > 移动端 相关的热门开源项目
-> 最后更新：2026-10-16 10:01
+> 最后更新：2026-10-26 15:46
 
-共收录 **1113** 个项目
+共收录 **1115** 个项目
 （第 12/12 页）
 
 ## 项目列表
@@ -368,6 +368,59 @@ Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the 
 **Topics**：compatibility-layer, diablo-2-resurrected, diablo2, game-port, ios, ipad, iphone, mac, macos, metal, reign-of-the-warlock
 
 **中文Topics**：compatibility-layer, diablo-2-resurrected, diablo2, game-port, ios, ipad, iphone, mac, macos, metal, reign-of-the-warlock
+
+
+---
+
+### 1114. Gathin23/cleanyourtv
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) |
+| ⭐ Stars | 36584 |
+| 🍴 Forks | 4370 |
+| 👀 Watchers | 36584 |
+| 📝 Open Issues | 177 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-17 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
+
+
+**Topics**：adb, adblock, android-tv, android-tv-launcher, apple-tv, bloatware-removal, claude-code, debloat, fire-tv, google-tv, launcher, privacy, smart-tv, sony-bravia, tcl, vibe-coding, xiaomi
+
+**中文Topics**：adb, adblock, android-tv, android-tv-launcher, apple-tv, bloatware-removal, claude-code, debloat, fire-tv, google-tv, launcher, privacy, smart-tv, sony-bravia, tcl, vibe-coding, xiaomi
+
+
+---
+
+### 1115. pengchujin/aerial-tv
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) |
+| ⭐ Stars | 5507 |
+| 🍴 Forks | 457 |
+| 👀 Watchers | 5507 |
+| 📝 Open Issues | 267 |
+| 💻 主语言 | Kotlin |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-20 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+
+
+
+**Topics**：-
+
 
 
 ---
