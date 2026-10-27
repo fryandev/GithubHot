@@ -1,9 +1,9 @@
 # 🔥 最近7天活跃
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-10-26 15:46
+> 最后更新：2026-10-27 19:42
 
-共收录 **9** 个项目
+共收录 **11** 个项目
 
 
 ## 项目列表
@@ -244,6 +244,59 @@ The coding intelligence and skills for Hermes Agent ⚚ just install once. then 
 
 **Topics**：chinese, curriculum, diagnostic, edtech, education, elementary-school, english, high-school, junior-high-school, k12, knowledge-graph, math, mathematics, middle-school, open-data, primary-school
 
+
+
+---
+
+### 10. JustAResearcher/gpu-unlock-ada
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) |
+| ⭐ Stars | 4090 |
+| 🍴 Forks | 533 |
+| 👀 Watchers | 4090 |
+| 📝 Open Issues | 30 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-23 |
+| 🔄 最后更新 | 2026-10-27 |
+| 📜 License | GPL-2.0 |
+
+**简介**：
+GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 11. JoasASantos/REA-Prompts
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) |
+| ⭐ Stars | 2901 |
+| 🍴 Forks | 520 |
+| 👀 Watchers | 2901 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Batchfile |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-19 |
+| 🔄 最后更新 | 2026-10-27 |
+| 📜 License | MIT |
+
+**简介**：
+REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
+
+
+
+**Topics**：prompt-engineering, rea, reverse-enginnering
+
+**中文Topics**：prompt-engineering, rea, reverse-enginnering
 
 
 ---

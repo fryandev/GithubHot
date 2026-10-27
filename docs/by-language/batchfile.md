@@ -1,9 +1,9 @@
 # 💻 Batchfile 热门项目
 
 > 使用 Batchfile 开发的热门开源项目
-> 最后更新：2026-10-26 15:46
+> 最后更新：2026-10-27 19:42
 
-共收录 **13** 个项目
+共收录 **14** 个项目
 
 
 ## 项目列表
@@ -368,6 +368,33 @@ A modern cross-platform low-level graphics library and rendering framework
 
 **Topics**：3d-engine, d3d11, d3d12, directx, directx11, directx12, gamedev, graphics-engine, graphics-library, graphics-programming, ibl, opengl, opengl-es, pbr, ray-tracing, raytracing, renderer, rendering, vulkan, vulkan-game-engine
 
+
+
+---
+
+### 14. JoasASantos/REA-Prompts
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) |
+| ⭐ Stars | 2901 |
+| 🍴 Forks | 520 |
+| 👀 Watchers | 2901 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Batchfile |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-19 |
+| 🔄 最后更新 | 2026-10-27 |
+| 📜 License | MIT |
+
+**简介**：
+REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
+
+
+
+**Topics**：prompt-engineering, rea, reverse-enginnering
+
+**中文Topics**：prompt-engineering, rea, reverse-enginnering
 
 
 ---

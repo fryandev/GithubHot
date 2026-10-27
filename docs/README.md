@@ -1,13 +1,13 @@
 # 🔥 GitHub 热门项目精选
 
-> 最后更新：2026-10-26 15:46
+> 最后更新：2026-10-27 19:42
 
 ## 📊 数据概览
 
 | 指标 | 数值 |
 |---|---|
-| 收录项目总数 | 14508 |
-| 热门项目数 | 14508 |
+| 收录项目总数 | 14510 |
+| 热门项目数 | 14510 |
 | 涵盖语言 | 151 种 |
 | 涵盖领域 | 12 个 |
 
@@ -22,7 +22,7 @@
 - [Java](by-language/java.md) (798)
 - [C++](by-language/cplusplus.md) (720)
 - [Rust](by-language/rust.md) (542)
-- [C](by-language/c.md) (515)
+- [C](by-language/c.md) (516)
 - [C#](by-language/csharp.md) (367)
 - [Jupyter Notebook](by-language/jupyter-notebook.md) (342)
 - [Shell](by-language/shell.md) (338)
@@ -60,7 +60,7 @@
 
 ### 按活跃
 
-- [🔥 最近7天活跃](by-activity/daily.md) (9)
+- [🔥 最近7天活跃](by-activity/daily.md) (11)
 - [📅 最近30天活跃](by-activity/weekly.md) (27)
 - [📆 最近90天活跃](by-activity/monthly.md) (37)
 

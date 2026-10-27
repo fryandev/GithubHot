@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-10-26 15:46
+> 最后更新：2026-10-27 19:42
 
 共收录 **10** 个项目
 
@@ -9,35 +9,7 @@
 ## 项目列表
 
 
-### 1. NVIDIA/OpenShell
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) |
-| ⭐ Stars | 6859 |
-| 🍴 Forks | 814 |
-| 👀 Watchers | 6859 |
-| 📝 Open Issues | 233 |
-| 💻 主语言 | Rust |
-| 🔥 热度等级 | hot |
-| 📅 创建时间 | 2026-02-24 |
-| 🔄 最后更新 | 2026-06-06 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-OpenShell is the safe, private runtime for autonomous AI agents.
-
-**中文简介**：
-OpenShell 是自主 AI 代理的安全、私有运行时。
-
-
-**Topics**：-
-
-
-
----
-
-### 2. pengchujin/aerial-tv
+### 1. pengchujin/aerial-tv
 
 | 属性 | 信息 |
 |---|---|
@@ -63,34 +35,33 @@ OpenShell 是自主 AI 代理的安全、私有运行时。
 
 ---
 
-### 3. SnailSploit/Claude-Red
+### 2. JustAResearcher/gpu-unlock-ada
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) |
-| ⭐ Stars | 9190 |
-| 🍴 Forks | 1218 |
-| 👀 Watchers | 9190 |
-| 📝 Open Issues | 37 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) |
+| ⭐ Stars | 4090 |
+| 🍴 Forks | 533 |
+| 👀 Watchers | 4090 |
+| 📝 Open Issues | 30 |
+| 💻 主语言 | C |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-04 |
-| 🔄 最后更新 | 2026-10-26 |
-| 📜 License | MIT |
+| 📅 创建时间 | 2026-10-23 |
+| 🔄 最后更新 | 2026-10-27 |
+| 📜 License | GPL-2.0 |
 
 **简介**：
-claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
 
 
 
-**Topics**：claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills
+**Topics**：-
 
-**中文Topics**：claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills
 
 
 ---
 
-### 4. xiaoyang111222/cn-math-taxonomy
+### 3. xiaoyang111222/cn-math-taxonomy
 
 | 属性 | 信息 |
 |---|---|
@@ -116,61 +87,7 @@ claude-red is a curated library of offensive security skills designed for the Cl
 
 ---
 
-### 5. simbasjungles/free-my-tv
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) |
-| ⭐ Stars | 4676 |
-| 🍴 Forks | 771 |
-| 👀 Watchers | 4676 |
-| 📝 Open Issues | 76 |
-| 💻 主语言 | Java |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-19 |
-| 🔄 最后更新 | 2026-10-26 |
-| 📜 License | MIT |
-
-**简介**：
-A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
-
-
-
-**Topics**：android-tv, claude-code, google-tv, home-screen, launcher, no-ads, open-source, samsung-tizen, tizen, tmdb, webos
-
-**中文Topics**：android-tv, claude-code, google-tv, home-screen, launcher, no-ads, open-source, samsung-tizen, tizen, tmdb, webos
-
-
----
-
-### 6. ly05010419/MacNativeGames
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) |
-| ⭐ Stars | 5581 |
-| 🍴 Forks | 808 |
-| 👀 Watchers | 5581 |
-| 📝 Open Issues | 172 |
-| 💻 主语言 | C |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-17 |
-| 🔄 最后更新 | 2026-10-26 |
-| 📜 License | MIT |
-
-**简介**：
-Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.
-
-
-
-**Topics**：apple-silicon, arm64, breath-of-the-wild, game-port, ios, ipados, macos, metal, native-port, tears-of-the-kingdom, ultrawide, zelda
-
-**中文Topics**：apple-silicon, arm64, breath-of-the-wild, game-port, ios, ipados, macos, metal, native-port, tears-of-the-kingdom, ultrawide, zelda
-
-
----
-
-### 7. DuarteSantos8/openGym
+### 4. DuarteSantos8/openGym
 
 | 属性 | 信息 |
 |---|---|
@@ -197,62 +114,115 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ---
 
-### 8. akitaonrails/ai-memory
+### 5. JoasASantos/REA-Prompts
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) |
-| ⭐ Stars | 2918 |
-| 🍴 Forks | 244 |
-| 👀 Watchers | 2918 |
-| 📝 Open Issues | 9 |
-| 💻 主语言 | Rust |
+| 链接 | [https://github.com/JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) |
+| ⭐ Stars | 2901 |
+| 🍴 Forks | 520 |
+| 👀 Watchers | 2901 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | Batchfile |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-05-21 |
-| 🔄 最后更新 | 2026-08-19 |
+| 📅 创建时间 | 2026-10-19 |
+| 🔄 最后更新 | 2026-10-27 |
 | 📜 License | MIT |
 
 **简介**：
-Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
-
-**中文简介**：
-用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换
+REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program
 
 
-**Topics**：-
 
+**Topics**：prompt-engineering, rea, reverse-enginnering
+
+**中文Topics**：prompt-engineering, rea, reverse-enginnering
 
 
 ---
 
-### 9. rlaope/oh-my-hermes
+### 6. simbasjungles/free-my-tv
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) |
-| ⭐ Stars | 4235 |
-| 🍴 Forks | 320 |
-| 👀 Watchers | 4235 |
-| 📝 Open Issues | 13 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) |
+| ⭐ Stars | 4676 |
+| 🍴 Forks | 771 |
+| 👀 Watchers | 4676 |
+| 📝 Open Issues | 76 |
+| 💻 主语言 | Java |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-06-03 |
+| 📅 创建时间 | 2026-10-19 |
 | 🔄 最后更新 | 2026-10-26 |
 | 📜 License | MIT |
 
 **简介**：
-The coding intelligence and skills for Hermes Agent ⚚ just install once. then type 'dag-ulw' to be graph engineering master.
+A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
 
 
 
-**Topics**：agent, ai, ai-agent, ai-tools, claude-code, codex, hermes-agent, hermes-skill, skills
+**Topics**：android-tv, claude-code, google-tv, home-screen, launcher, no-ads, open-source, samsung-tizen, tizen, tmdb, webos
 
-**中文Topics**：agent, ai, ai-agent, ai-tools, claude-code, codex, hermes-agent, hermes-skill, skills
+**中文Topics**：android-tv, claude-code, google-tv, home-screen, launcher, no-ads, open-source, samsung-tizen, tizen, tmdb, webos
 
 
 ---
 
-### 10. citrolabs/ego-lite
+### 7. SnailSploit/Claude-Red
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) |
+| ⭐ Stars | 9190 |
+| 🍴 Forks | 1218 |
+| 👀 Watchers | 9190 |
+| 📝 Open Issues | 37 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-04 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
+
+
+
+**Topics**：claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills
+
+**中文Topics**：claude-ai, claude-pt, claude-skills, redteam, redteam-tools, skills
+
+
+---
+
+### 8. ly05010419/MacNativeGames
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) |
+| ⭐ Stars | 5581 |
+| 🍴 Forks | 808 |
+| 👀 Watchers | 5581 |
+| 📝 Open Issues | 172 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-17 |
+| 🔄 最后更新 | 2026-10-26 |
+| 📜 License | MIT |
+
+**简介**：
+Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.
+
+
+
+**Topics**：apple-silicon, arm64, breath-of-the-wild, game-port, ios, ipados, macos, metal, native-port, tears-of-the-kingdom, ultrawide, zelda
+
+**中文Topics**：apple-silicon, arm64, breath-of-the-wild, game-port, ios, ipados, macos, metal, native-port, tears-of-the-kingdom, ultrawide, zelda
+
+
+---
+
+### 9. citrolabs/ego-lite
 
 | 属性 | 信息 |
 |---|---|
@@ -277,6 +247,34 @@ AI 代理运行浏览器自动化的最快浏览器，专为与您的 AI 代理�
 **Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
 
 **中文Topics**：agent-skills, ai-agent, automation, browser, browser-automation, claude-code, codex, hermes-agent, skills, skills-sh
+
+
+---
+
+### 10. akitaonrails/ai-memory
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) |
+| ⭐ Stars | 2918 |
+| 🍴 Forks | 244 |
+| 👀 Watchers | 2918 |
+| 📝 Open Issues | 9 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-05-21 |
+| 🔄 最后更新 | 2026-08-19 |
+| 📜 License | MIT |
+
+**简介**：
+Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+
+**中文简介**：
+用于代理编码 CLI 的长期记忆解决方案，并促进不同代理供应商之间的切换
+
+
+**Topics**：-
+
 
 
 ---
