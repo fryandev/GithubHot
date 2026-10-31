@@ -1,9 +1,9 @@
 # 📅 最近30天活跃
 
 > 📅 最近30天活跃 项目列表
-> 最后更新：2026-10-27 19:42
+> 最后更新：2026-10-31 16:35
 
-共收录 **27** 个项目
+共收录 **25** 个项目
 
 
 ## 项目列表
@@ -62,33 +62,7 @@ Non-autoregressive System 1 decision engine. Typed choice, score and yes/no deci
 
 ---
 
-### 3. browser-use/jev-ultrafast
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) |
-| ⭐ Stars | 22480 |
-| 🍴 Forks | 1651 |
-| 👀 Watchers | 22480 |
-| 📝 Open Issues | 190 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-09-16 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | MIT |
-
-**简介**：
-Fastest and cheapest web agent
-
-
-
-**Topics**：-
-
-
-
----
-
-### 4. hypit-ai/hypit
+### 3. hypit-ai/hypit
 
 | 属性 | 信息 |
 |---|---|
@@ -115,33 +89,7 @@ Clone any viral video with AI agents. Not just a script, the whole workflow: swa
 
 ---
 
-### 5. google/ax
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/google/ax](https://github.com/google/ax) |
-| ⭐ Stars | 13387 |
-| 🍴 Forks | 676 |
-| 👀 Watchers | 13387 |
-| 📝 Open Issues | 71 |
-| 💻 主语言 | Go |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-03-30 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | Apache-2.0 |
-
-**简介**：
-Google's open agentic orchestration runtime
-
-
-
-**Topics**：-
-
-
-
----
-
-### 6. openai/math
+### 4. openai/math
 
 | 属性 | 信息 |
 |---|---|
@@ -167,7 +115,7 @@ Google's open agentic orchestration runtime
 
 ---
 
-### 7. storytold/artcraft
+### 5. storytold/artcraft
 
 | 属性 | 信息 |
 |---|---|
@@ -194,7 +142,7 @@ ArtCraft is an intentional crafting engine for artists, designers, and filmmaker
 
 ---
 
-### 8. pacifio/atlas
+### 6. pacifio/atlas
 
 | 属性 | 信息 |
 |---|---|
@@ -221,7 +169,7 @@ Source control for agents. Use multiple coding agents, track their changes and q
 
 ---
 
-### 9. DuarteSantos8/openGym
+### 7. DuarteSantos8/openGym
 
 | 属性 | 信息 |
 |---|---|
@@ -248,7 +196,7 @@ Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets
 
 ---
 
-### 10. jaredpalmer/kev
+### 8. jaredpalmer/kev
 
 | 属性 | 信息 |
 |---|---|
@@ -275,7 +223,7 @@ Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and
 
 ---
 
-### 11. tester-army/e2e
+### 9. tester-army/e2e
 
 | 属性 | 信息 |
 |---|---|
@@ -302,7 +250,7 @@ Next generation e2e testing framework for web and mobile apps.
 
 ---
 
-### 12. robbietilton/Compositor
+### 10. robbietilton/Compositor
 
 | 属性 | 信息 |
 |---|---|
@@ -328,7 +276,7 @@ The Photoshop alternative for Mac
 
 ---
 
-### 13. TencentCloud/Octop
+### 11. TencentCloud/Octop
 
 | 属性 | 信息 |
 |---|---|
@@ -355,7 +303,7 @@ A smarter, self-hosted AI assistant — multi-user, multi-agent.
 
 ---
 
-### 14. Albert-Weasker/niubigeo
+### 12. Albert-Weasker/niubigeo
 
 | 属性 | 信息 |
 |---|---|
@@ -381,7 +329,7 @@ Open-source AI brand visibility and competitor reports. Official website: https:
 
 ---
 
-### 15. rehan-remade/universal-modder
+### 13. rehan-remade/universal-modder
 
 | 属性 | 信息 |
 |---|---|
@@ -408,7 +356,7 @@ Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod
 
 ---
 
-### 16. KKKKhazix/AIHOT
+### 14. KKKKhazix/AIHOT
 
 | 属性 | 信息 |
 |---|---|
@@ -434,7 +382,7 @@ Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod
 
 ---
 
-### 17. alchaincyf/huashu-art-motion
+### 15. alchaincyf/huashu-art-motion
 
 | 属性 | 信息 |
 |---|---|
@@ -460,7 +408,7 @@ Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod
 
 ---
 
-### 18. boykopovar/AnyPS5
+### 16. boykopovar/AnyPS5
 
 | 属性 | 信息 |
 |---|---|
@@ -487,7 +435,7 @@ Tool for automatic PS5 executables porting to Linux and Windows
 
 ---
 
-### 19. corsairdev/corsair
+### 17. corsairdev/corsair
 
 | 属性 | 信息 |
 |---|---|
@@ -514,7 +462,7 @@ Connect your users to their apps
 
 ---
 
-### 20. storytold/wordcraft
+### 18. storytold/wordcraft
 
 | 属性 | 信息 |
 |---|---|
@@ -540,7 +488,7 @@ An open-source, clean-room reimplementation of Microsoft Word in pure Rust
 
 ---
 
-### 21. wheresryan22/anatomy
+### 19. wheresryan22/anatomy
 
 | 属性 | 信息 |
 |---|---|
@@ -567,7 +515,7 @@ An agent skill for creating detailed, interactive isometric illustrations of rea
 
 ---
 
-### 22. storytold/cadcraft
+### 20. storytold/cadcraft
 
 | 属性 | 信息 |
 |---|---|
@@ -593,7 +541,7 @@ CADCraft: computer-aided design and drafting — an open-source, clean-room Auto
 
 ---
 
-### 23. storytold/gridcraft
+### 21. storytold/gridcraft
 
 | 属性 | 信息 |
 |---|---|
@@ -619,7 +567,7 @@ GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur
 
 ---
 
-### 24. CopilotKit/OpenDots
+### 22. CopilotKit/OpenDots
 
 | 属性 | 信息 |
 |---|---|
@@ -645,7 +593,7 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 ---
 
-### 25. ARahim3/DigUp
+### 23. ARahim3/DigUp
 
 | 属性 | 信息 |
 |---|---|
@@ -672,7 +620,7 @@ Search your computer by what's in your files: photos, PDFs, documents, recording
 
 ---
 
-### 26. jhaizhou-ops/d2r-mobile
+### 24. jhaizhou-ops/d2r-mobile
 
 | 属性 | 信息 |
 |---|---|
@@ -699,7 +647,7 @@ Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the 
 
 ---
 
-### 27. SnailSploit/Claude-Red
+### 25. SnailSploit/Claude-Red
 
 | 属性 | 信息 |
 |---|---|

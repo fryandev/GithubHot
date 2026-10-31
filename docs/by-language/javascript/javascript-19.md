@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-10-27 19:42
+> 最后更新：2026-10-31 16:35
 
-共收录 **1819** 个项目
+共收录 **1820** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -529,6 +529,33 @@ We're rebuilding and open-sourcing the world’s software from scratch.
 **Topics**：adobe, cad, microsoft, office, photoshop, saas, spreadsheet
 
 **中文Topics**：adobe, cad, microsoft, office, photoshop, saas, spreadsheet
+
+
+---
+
+### 1820. QingYunA/answer-me-with-html
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) |
+| ⭐ Stars | 4941 |
+| 🍴 Forks | 335 |
+| 👀 Watchers | 4941 |
+| 📝 Open Issues | 6 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-02 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | MIT |
+
+**简介**：
+Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+
+
+
+**Topics**：agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, dsh-plugin, explainer, html, llm, ste100
+
+**中文Topics**：agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, dsh-plugin, explainer, html, llm, ste100
 
 
 ---

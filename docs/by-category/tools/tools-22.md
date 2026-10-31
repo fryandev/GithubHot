@@ -1,9 +1,9 @@
 # 工具 - 第 22 页
 
 > 工具 相关的热门开源项目
-> 最后更新：2026-10-27 19:42
+> 最后更新：2026-10-31 16:35
 
-共收录 **2140** 个项目
+共收录 **2142** 个项目
 （第 22/22 页）
 
 ## 项目列表
@@ -1120,6 +1120,59 @@ Tool for automatic PS5 executables porting to Linux and Windows
 **Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
 
 **中文Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
+
+
+---
+
+### 2141. CopilotKit/OpenBot
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) |
+| ⭐ Stars | 8975 |
+| 🍴 Forks | 1122 |
+| 👀 Watchers | 8975 |
+| 📝 Open Issues | 78 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-17 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | MIT |
+
+**简介**：
+Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+
+
+
+**Topics**：ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp
+
+**中文Topics**：ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp
+
+
+---
+
+### 2142. interplains/Zero-Breach-Toolkit
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) |
+| ⭐ Stars | 3915 |
+| 🍴 Forks | 421 |
+| 👀 Watchers | 3915 |
+| 📝 Open Issues | 8 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-25 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+
+
+
+**Topics**：-
+
 
 
 ---

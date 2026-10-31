@@ -1,9 +1,9 @@
 # 📆 最近90天活跃
 
 > 📆 最近90天活跃 项目列表
-> 最后更新：2026-10-27 19:42
+> 最后更新：2026-10-31 16:35
 
-共收录 **37** 个项目
+共收录 **39** 个项目
 
 
 ## 项目列表
@@ -1029,6 +1029,58 @@ Open Source AI trading agent that operates autonomously across 1000+ markets - P
 
 **简介**：
 A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 38. browser-use/jev-ultrafast
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) |
+| ⭐ Stars | 22480 |
+| 🍴 Forks | 1651 |
+| 👀 Watchers | 22480 |
+| 📝 Open Issues | 190 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-09-16 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | MIT |
+
+**简介**：
+Fastest and cheapest web agent
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 39. google/ax
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/google/ax](https://github.com/google/ax) |
+| ⭐ Stars | 13387 |
+| 🍴 Forks | 676 |
+| 👀 Watchers | 13387 |
+| 📝 Open Issues | 71 |
+| 💻 主语言 | Go |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-03-30 |
+| 🔄 最后更新 | 2026-10-10 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Google's open agentic orchestration runtime
 
 
 

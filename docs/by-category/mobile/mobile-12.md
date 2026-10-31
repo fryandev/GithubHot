@@ -1,9 +1,9 @@
 # 移动端 - 第 12 页
 
 > 移动端 相关的热门开源项目
-> 最后更新：2026-10-27 19:42
+> 最后更新：2026-10-31 16:35
 
-共收录 **1115** 个项目
+共收录 **1117** 个项目
 （第 12/12 页）
 
 ## 项目列表
@@ -416,6 +416,58 @@ Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 **简介**：
 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1116. rddmwmddr/android-ad-cleaner
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) |
+| ⭐ Stars | 5210 |
+| 🍴 Forks | 470 |
+| 👀 Watchers | 5210 |
+| 📝 Open Issues | 128 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-24 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | MIT |
+
+**简介**：
+关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+
+
+**Topics**：adb, ai-agent, android, coloros, debloat, hyperos, magicos, originos
+
+
+
+---
+
+### 1117. interplains/Zero-Breach-Toolkit
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) |
+| ⭐ Stars | 3915 |
+| 🍴 Forks | 421 |
+| 👀 Watchers | 3915 |
+| 📝 Open Issues | 8 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-25 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
 
 
 

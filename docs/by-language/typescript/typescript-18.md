@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-10-27 19:42
+> 最后更新：2026-10-31 16:35
 
-共收录 **1747** 个项目
+共收录 **1749** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -1307,6 +1307,59 @@ Your always-on AI coworkers that move between text, calls, and Slack.
 
 
 **Topics**：-
+
+
+
+---
+
+### 1748. CopilotKit/OpenBot
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) |
+| ⭐ Stars | 8975 |
+| 🍴 Forks | 1122 |
+| 👀 Watchers | 8975 |
+| 📝 Open Issues | 78 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-17 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | MIT |
+
+**简介**：
+Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+
+
+
+**Topics**：ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp
+
+**中文Topics**：ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp
+
+
+---
+
+### 1749. anhao/ai-pose-gallery-zh
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) |
+| ⭐ Stars | 4244 |
+| 🍴 Forks | 1087 |
+| 👀 Watchers | 4244 |
+| 📝 Open Issues | 7 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-27 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+
+
+
+**Topics**：ai-art, chinese, cloudflare-pages, gallery, i18n, pose, reference-images, static-site
 
 
 

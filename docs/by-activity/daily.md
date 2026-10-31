@@ -1,9 +1,9 @@
 # 🔥 最近7天活跃
 
 > 🔥 最近7天活跃 项目列表
-> 最后更新：2026-10-27 19:42
+> 最后更新：2026-10-31 16:35
 
-共收录 **11** 个项目
+共收录 **17** 个项目
 
 
 ## 项目列表
@@ -297,6 +297,164 @@ REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out 
 **Topics**：prompt-engineering, rea, reverse-enginnering
 
 **中文Topics**：prompt-engineering, rea, reverse-enginnering
+
+
+---
+
+### 12. CopilotKit/OpenBot
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) |
+| ⭐ Stars | 8975 |
+| 🍴 Forks | 1122 |
+| 👀 Watchers | 8975 |
+| 📝 Open Issues | 78 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-08-17 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | MIT |
+
+**简介**：
+Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
+
+
+
+**Topics**：ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp
+
+**中文Topics**：ag-ui, agent-governance, ai-agents, browser-automation, copilotkit, generative-ui, mcp
+
+
+---
+
+### 13. unclebob/ub-mode
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/unclebob/ub-mode](https://github.com/unclebob/ub-mode) |
+| ⭐ Stars | 5482 |
+| 🍴 Forks | 301 |
+| 👀 Watchers | 5482 |
+| 📝 Open Issues | 8 |
+| 💻 主语言 | 未知 |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-25 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | 未知 |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 14. rddmwmddr/android-ad-cleaner
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) |
+| ⭐ Stars | 5210 |
+| 🍴 Forks | 470 |
+| 👀 Watchers | 5210 |
+| 📝 Open Issues | 128 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-24 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | MIT |
+
+**简介**：
+关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+
+
+
+**Topics**：adb, ai-agent, android, coloros, debloat, hyperos, magicos, originos
+
+
+
+---
+
+### 15. QingYunA/answer-me-with-html
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) |
+| ⭐ Stars | 4941 |
+| 🍴 Forks | 335 |
+| 👀 Watchers | 4941 |
+| 📝 Open Issues | 6 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-02 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | MIT |
+
+**简介**：
+Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
+
+
+
+**Topics**：agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, dsh-plugin, explainer, html, llm, ste100
+
+**中文Topics**：agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, dsh-plugin, explainer, html, llm, ste100
+
+
+---
+
+### 16. anhao/ai-pose-gallery-zh
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) |
+| ⭐ Stars | 4244 |
+| 🍴 Forks | 1087 |
+| 👀 Watchers | 4244 |
+| 📝 Open Issues | 7 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-27 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
+
+
+
+**Topics**：ai-art, chinese, cloudflare-pages, gallery, i18n, pose, reference-images, static-site
+
+
+
+---
+
+### 17. interplains/Zero-Breach-Toolkit
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) |
+| ⭐ Stars | 3915 |
+| 🍴 Forks | 421 |
+| 👀 Watchers | 3915 |
+| 📝 Open Issues | 8 |
+| 💻 主语言 | Python |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-25 |
+| 🔄 最后更新 | 2026-10-31 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+
+
+
+**Topics**：-
+
 
 
 ---
