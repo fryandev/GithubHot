@@ -1,7 +1,7 @@
 # 📈 日飙升榜
 
 > 📈 日飙升榜 项目列表
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
 共收录 **10** 个项目
 
@@ -9,49 +9,23 @@
 ## 项目列表
 
 
-### 1. anhao/ai-pose-gallery-zh
+### 1. heydamir/unslop
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) |
-| ⭐ Stars | 4244 |
-| 🍴 Forks | 1087 |
-| 👀 Watchers | 4244 |
-| 📝 Open Issues | 7 |
-| 💻 主语言 | TypeScript |
+| 链接 | [https://github.com/heydamir/unslop](https://github.com/heydamir/unslop) |
+| ⭐ Stars | 17018 |
+| 🍴 Forks | 983 |
+| 👀 Watchers | 17018 |
+| 📝 Open Issues | 4 |
+| 💻 主语言 | JavaScript |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-27 |
-| 🔄 最后更新 | 2026-10-31 |
-| 📜 License | NOASSERTION |
+| 📅 创建时间 | 2026-10-29 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | CC-BY-4.0 |
 
 **简介**：
-中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊
-
-
-
-**Topics**：ai-art, chinese, cloudflare-pages, gallery, i18n, pose, reference-images, static-site
-
-
-
----
-
-### 2. unclebob/ub-mode
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/unclebob/ub-mode](https://github.com/unclebob/ub-mode) |
-| ⭐ Stars | 5482 |
-| 🍴 Forks | 301 |
-| 👀 Watchers | 5482 |
-| 📝 Open Issues | 8 |
-| 💻 主语言 | 未知 |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-25 |
-| 🔄 最后更新 | 2026-10-31 |
-| 📜 License | 未知 |
-
-**简介**：
-暂无描述
+A Claude skill that turns vibecoded, AI-looking UI into a designed interface
 
 
 
@@ -61,34 +35,33 @@
 
 ---
 
-### 3. HeyPuter/everything
+### 2. huamidev/GestaltX
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/HeyPuter/everything](https://github.com/HeyPuter/everything) |
-| ⭐ Stars | 3903 |
-| 🍴 Forks | 486 |
-| 👀 Watchers | 3903 |
-| 📝 Open Issues | 18 |
-| 💻 主语言 | JavaScript |
+| 链接 | [https://github.com/huamidev/GestaltX](https://github.com/huamidev/GestaltX) |
+| ⭐ Stars | 7816 |
+| 🍴 Forks | 2676 |
+| 👀 Watchers | 7816 |
+| 📝 Open Issues | 88 |
+| 💻 主语言 | Swift |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-13 |
-| 🔄 最后更新 | 2026-10-26 |
-| 📜 License | MIT |
+| 📅 创建时间 | 2026-11-09 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | GPL-3.0 |
 
 **简介**：
-We're rebuilding and open-sourcing the world’s software from scratch.
+An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
 
 
-**Topics**：adobe, cad, microsoft, office, photoshop, saas, spreadsheet
+**Topics**：-
 
-**中文Topics**：adobe, cad, microsoft, office, photoshop, saas, spreadsheet
 
 
 ---
 
-### 4. CopilotKit/OpenBot
+### 3. CopilotKit/OpenBot
 
 | 属性 | 信息 |
 |---|---|
@@ -115,50 +88,51 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 ---
 
-### 5. DuarteSantos8/openGym
+### 4. shadcn/improve
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) |
-| ⭐ Stars | 8724 |
-| 🍴 Forks | 1087 |
-| 👀 Watchers | 8724 |
-| 📝 Open Issues | 70 |
-| 💻 主语言 | JavaScript |
+| 链接 | [https://github.com/shadcn/improve](https://github.com/shadcn/improve) |
+| ⭐ Stars | 3838 |
+| 🍴 Forks | 134 |
+| 👀 Watchers | 3838 |
+| 📝 Open Issues | 6 |
+| 💻 主语言 | 未知 |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-07-18 |
-| 🔄 最后更新 | 2026-10-10 |
-| 📜 License | AGPL-3.0 |
+| 📅 创建时间 | 2026-06-10 |
+| 🔄 最后更新 | 2026-06-14 |
+| 📜 License | MIT |
 
 **简介**：
-Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
+Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+
+**中文简介**：
+使用最有能力的模型来审核您的代码库并编写更便宜的模型执行计划。
 
 
+**Topics**：-
 
-**Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
-
-**中文Topics**：bodyweight, docker, fitness, fitness-tracker, gym, health, mcp, nodejs, passkeys, progressive-web-applications, pwa, react, self-hosted, self-hosting, vite, webauthn, weightlifting, workout-tracker
 
 
 ---
 
-### 6. interplains/Zero-Breach-Toolkit
+### 5. JenkinWoo/sheeridVerify
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) |
-| ⭐ Stars | 3915 |
-| 🍴 Forks | 421 |
-| 👀 Watchers | 3915 |
-| 📝 Open Issues | 8 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) |
+| ⭐ Stars | 3315 |
+| 🍴 Forks | 1561 |
+| 👀 Watchers | 3315 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | JavaScript |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-25 |
-| 🔄 最后更新 | 2026-10-31 |
-| 📜 License | Apache-2.0 |
+| 📅 创建时间 | 2026-11-06 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | ISC |
 
 **简介**：
-Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+暂无描述
 
 
 
@@ -168,33 +142,111 @@ Free, open-source, offline checks for traces of known mercenary spyware. Works o
 
 ---
 
-### 7. rddmwmddr/android-ad-cleaner
+### 6. tailscale/tailcat
 
 | 属性 | 信息 |
 |---|---|
-| 链接 | [https://github.com/rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) |
-| ⭐ Stars | 5210 |
-| 🍴 Forks | 470 |
-| 👀 Watchers | 5210 |
-| 📝 Open Issues | 128 |
-| 💻 主语言 | Python |
+| 链接 | [https://github.com/tailscale/tailcat](https://github.com/tailscale/tailcat) |
+| ⭐ Stars | 6973 |
+| 🍴 Forks | 277 |
+| 👀 Watchers | 6973 |
+| 📝 Open Issues | 19 |
+| 💻 主语言 | Go |
 | 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-24 |
-| 🔄 最后更新 | 2026-10-31 |
-| 📜 License | MIT |
+| 📅 创建时间 | 2024-10-29 |
+| 🔄 最后更新 | 2026-09-13 |
+| 📜 License | BSD-3-Clause |
 
 **简介**：
-关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+like netcat, but over Tailscale's data plane, without Tailscale's control plane
 
 
 
-**Topics**：adb, ai-agent, android, coloros, debloat, hyperos, magicos, originos
+**Topics**：-
 
 
 
 ---
 
-### 8. pengchujin/aerial-tv
+### 7. tangerineturtle1/NX2navi
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) |
+| ⭐ Stars | 4256 |
+| 🍴 Forks | 338 |
+| 👀 Watchers | 4256 |
+| 📝 Open Issues | 784 |
+| 💻 主语言 | C |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-11-07 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | MIT |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 8. KKKKhazix/agent-autoloop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) |
+| ⭐ Stars | 5631 |
+| 🍴 Forks | 1043 |
+| 👀 Watchers | 5631 |
+| 📝 Open Issues | 6 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-11-03 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | MIT |
+
+**简介**：
+让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+
+
+
+**Topics**：ai-agents, automation, claude-code, cli, codex, event-driven, mcp, nodejs, self-hosted, typescript, workflow
+
+
+
+---
+
+### 9. zortos293/Lichii
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zortos293/Lichii](https://github.com/zortos293/Lichii) |
+| ⭐ Stars | 9447 |
+| 🍴 Forks | 1514 |
+| 👀 Watchers | 9447 |
+| 📝 Open Issues | 516 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-31 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+VERY experimental Nintendo Switch 2 emulator
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 10. pengchujin/aerial-tv
 
 | 属性 | 信息 |
 |---|---|
@@ -216,59 +268,6 @@ Free, open-source, offline checks for traces of known mercenary spyware. Works o
 
 **Topics**：-
 
-
-
----
-
-### 9. xiaoyang111222/cn-math-taxonomy
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) |
-| ⭐ Stars | 3883 |
-| 🍴 Forks | 953 |
-| 👀 Watchers | 3883 |
-| 📝 Open Issues | 12 |
-| 💻 主语言 | Python |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-18 |
-| 🔄 最后更新 | 2026-10-26 |
-| 📜 License | NOASSERTION |
-
-**简介**：
-数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。
-
-
-
-**Topics**：chinese, curriculum, diagnostic, edtech, education, elementary-school, english, high-school, junior-high-school, k12, knowledge-graph, math, mathematics, middle-school, open-data, primary-school
-
-
-
----
-
-### 10. QingYunA/answer-me-with-html
-
-| 属性 | 信息 |
-|---|---|
-| 链接 | [https://github.com/QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) |
-| ⭐ Stars | 4941 |
-| 🍴 Forks | 335 |
-| 👀 Watchers | 4941 |
-| 📝 Open Issues | 6 |
-| 💻 主语言 | JavaScript |
-| 🔥 热度等级 | - |
-| 📅 创建时间 | 2026-10-02 |
-| 🔄 最后更新 | 2026-10-31 |
-| 📜 License | MIT |
-
-**简介**：
-Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
-
-
-
-**Topics**：agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, dsh-plugin, explainer, html, llm, ste100
-
-**中文Topics**：agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, dsh-plugin, explainer, html, llm, ste100
 
 
 ---

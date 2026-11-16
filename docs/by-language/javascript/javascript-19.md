@@ -1,9 +1,9 @@
 # 💻 JavaScript 热门项目 - 第 19 页
 
 > 使用 JavaScript 开发的热门开源项目
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
-共收录 **1820** 个项目
+共收录 **1823** 个项目
 （第 19/19 页）
 
 ## 项目列表
@@ -556,6 +556,85 @@ Answer me with HTML — an agent skill that answers hard questions with a one-pa
 **Topics**：agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, dsh-plugin, explainer, html, llm, ste100
 
 **中文Topics**：agent-skill, ai-agent, claude-code, claude-code-skill, claude-skill, claude-skills, cli, diagram, dsh-plugin, explainer, html, llm, ste100
+
+
+---
+
+### 1821. heydamir/unslop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/heydamir/unslop](https://github.com/heydamir/unslop) |
+| ⭐ Stars | 17018 |
+| 🍴 Forks | 983 |
+| 👀 Watchers | 17018 |
+| 📝 Open Issues | 4 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-29 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | CC-BY-4.0 |
+
+**简介**：
+A Claude skill that turns vibecoded, AI-looking UI into a designed interface
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1822. patch-gg/pixelfx
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) |
+| ⭐ Stars | 7671 |
+| 🍴 Forks | 1003 |
+| 👀 Watchers | 7671 |
+| 📝 Open Issues | 13 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-30 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | MIT |
+
+**简介**：
+244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.
+
+
+
+**Topics**：agent-skills, animation, canvas, claude-code-plugin, gamedev, pixel-art, sprite-sheet, vfx
+
+**中文Topics**：agent-skills, animation, canvas, claude-code-plugin, gamedev, pixel-art, sprite-sheet, vfx
+
+
+---
+
+### 1823. JenkinWoo/sheeridVerify
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) |
+| ⭐ Stars | 3315 |
+| 🍴 Forks | 1561 |
+| 👀 Watchers | 3315 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | JavaScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-11-06 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | ISC |
+
+**简介**：
+暂无描述
+
+
+
+**Topics**：-
+
 
 
 ---

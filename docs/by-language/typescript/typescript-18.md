@@ -1,9 +1,9 @@
 # 💻 TypeScript 热门项目 - 第 18 页
 
 > 使用 TypeScript 开发的热门开源项目
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
-共收录 **1749** 个项目
+共收录 **1751** 个项目
 （第 18/18 页）
 
 ## 项目列表
@@ -1360,6 +1360,58 @@ Open-source AI coworkers that each get a computer of their own: a browser, files
 
 
 **Topics**：ai-art, chinese, cloudflare-pages, gallery, i18n, pose, reference-images, static-site
+
+
+
+---
+
+### 1750. deepseek-ai/dsh-superagent-prototype
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) |
+| ⭐ Stars | 23437 |
+| 🍴 Forks | 2871 |
+| 👀 Watchers | 23437 |
+| 📝 Open Issues | 0 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-31 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | MIT |
+
+**简介**：
+Towards a More Autonomous Agent System
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1751. KKKKhazix/agent-autoloop
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) |
+| ⭐ Stars | 5631 |
+| 🍴 Forks | 1043 |
+| 👀 Watchers | 5631 |
+| 📝 Open Issues | 6 |
+| 💻 主语言 | TypeScript |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-11-03 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | MIT |
+
+**简介**：
+让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+
+
+
+**Topics**：ai-agents, automation, claude-code, cli, codex, event-driven, mcp, nodejs, self-hosted, typescript, workflow
 
 
 

@@ -1,9 +1,9 @@
 # 💻 C++ 热门项目 - 第 8 页
 
 > 使用 C++ 开发的热门开源项目
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
-共收录 **720** 个项目
+共收录 **721** 个项目
 （第 8/8 页）
 
 ## 项目列表
@@ -564,6 +564,32 @@ Tool for automatic PS5 executables porting to Linux and Windows
 **Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
 
 **中文Topics**：anyps5, dynamic-library, game-porting, ps5, ps5-tools, spir-v, vulkan
+
+
+---
+
+### 721. zortos293/Lichii
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/zortos293/Lichii](https://github.com/zortos293/Lichii) |
+| ⭐ Stars | 9447 |
+| 🍴 Forks | 1514 |
+| 👀 Watchers | 9447 |
+| 📝 Open Issues | 516 |
+| 💻 主语言 | C++ |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-31 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+VERY experimental Nintendo Switch 2 emulator
+
+
+
+**Topics**：-
+
 
 
 ---

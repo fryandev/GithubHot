@@ -1,9 +1,9 @@
 # 💻 Kotlin 热门项目 - 第 2 页
 
 > 使用 Kotlin 开发的热门开源项目
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
-共收录 **190** 个项目
+共收录 **191** 个项目
 （第 2/2 页）
 
 ## 项目列表
@@ -2515,6 +2515,33 @@ Visualize your year in travel using your Google Location History (Timeline) data
 
 **Topics**：-
 
+
+
+---
+
+### 191. wangzan101/Mika
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/wangzan101/Mika](https://github.com/wangzan101/Mika) |
+| ⭐ Stars | 8811 |
+| 🍴 Forks | 2006 |
+| 👀 Watchers | 8811 |
+| 📝 Open Issues | 127 |
+| 💻 主语言 | Kotlin |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-29 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+An on-device AI agent for Android that operates apps and the web to get things done for you.
+
+
+
+**Topics**：accessibility, ai-agent, android, automation, jetpack-compose, kotlin, llm, mobile-agent
+
+**中文Topics**：accessibility, ai-agent, android, automation, jetpack-compose, kotlin, llm, mobile-agent
 
 
 ---

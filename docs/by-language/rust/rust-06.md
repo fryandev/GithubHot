@@ -1,9 +1,9 @@
 # 💻 Rust 热门项目 - 第 6 页
 
 > 使用 Rust 开发的热门开源项目
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
-共收录 **542** 个项目
+共收录 **544** 个项目
 （第 6/6 页）
 
 ## 项目列表
@@ -1177,6 +1177,59 @@ GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur
 
 **Topics**：-
 
+
+
+---
+
+### 543. storytold/craft-anything
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/storytold/craft-anything](https://github.com/storytold/craft-anything) |
+| ⭐ Stars | 34338 |
+| 🍴 Forks | 6935 |
+| 👀 Watchers | 34338 |
+| 📝 Open Issues | 376 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-31 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+Craft Anything: understand how any software works, and craft your own.
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 544. Minireel/HGhub
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/Minireel/HGhub](https://github.com/Minireel/HGhub) |
+| ⭐ Stars | 9348 |
+| 🍴 Forks | 7695 |
+| 👀 Watchers | 9348 |
+| 📝 Open Issues | 7 |
+| 💻 主语言 | Rust |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-11-03 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | NOASSERTION |
+
+**简介**：
+Plug-in media player
+
+
+
+**Topics**：android, drama, free, movie-web-app, reels, windows
+
+**中文Topics**：android, drama, free, movie-web-app, reels, windows
 
 
 ---

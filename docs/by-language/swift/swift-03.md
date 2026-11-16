@@ -1,9 +1,9 @@
 # 💻 Swift 热门项目 - 第 3 页
 
 > 使用 Swift 开发的热门开源项目
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
-共收录 **268** 个项目
+共收录 **269** 个项目
 （第 3/3 页）
 
 ## 项目列表
@@ -1907,6 +1907,32 @@ Search your computer by what's in your files: photos, PDFs, documents, recording
 **Topics**：embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift, tauri, windows
 
 **中文Topics**：embeddinggemma, embeddings, file-search, linux, llama-cpp, local-first, macos, menubar-app, multimodal, on-device, semantic-search, swift, tauri, windows
+
+
+---
+
+### 269. huamidev/GestaltX
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/huamidev/GestaltX](https://github.com/huamidev/GestaltX) |
+| ⭐ Stars | 7816 |
+| 🍴 Forks | 2676 |
+| 👀 Watchers | 7816 |
+| 📝 Open Issues | 88 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-11-09 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
+
+
+
+**Topics**：-
+
 
 
 ---

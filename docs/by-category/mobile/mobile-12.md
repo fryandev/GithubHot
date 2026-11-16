@@ -1,9 +1,9 @@
 # 移动端 - 第 12 页
 
 > 移动端 相关的热门开源项目
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
-共收录 **1117** 个项目
+共收录 **1119** 个项目
 （第 12/12 页）
 
 ## 项目列表
@@ -468,6 +468,59 @@ Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
 
 **简介**：
 Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.
+
+
+
+**Topics**：-
+
+
+
+---
+
+### 1118. wangzan101/Mika
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/wangzan101/Mika](https://github.com/wangzan101/Mika) |
+| ⭐ Stars | 8811 |
+| 🍴 Forks | 2006 |
+| 👀 Watchers | 8811 |
+| 📝 Open Issues | 127 |
+| 💻 主语言 | Kotlin |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-29 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | Apache-2.0 |
+
+**简介**：
+An on-device AI agent for Android that operates apps and the web to get things done for you.
+
+
+
+**Topics**：accessibility, ai-agent, android, automation, jetpack-compose, kotlin, llm, mobile-agent
+
+**中文Topics**：accessibility, ai-agent, android, automation, jetpack-compose, kotlin, llm, mobile-agent
+
+
+---
+
+### 1119. huamidev/GestaltX
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/huamidev/GestaltX](https://github.com/huamidev/GestaltX) |
+| ⭐ Stars | 7816 |
+| 🍴 Forks | 2676 |
+| 👀 Watchers | 7816 |
+| 📝 Open Issues | 88 |
+| 💻 主语言 | Swift |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-11-09 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | GPL-3.0 |
+
+**简介**：
+An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
 
 
 

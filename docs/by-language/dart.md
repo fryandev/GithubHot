@@ -1,9 +1,9 @@
 # 💻 Dart 热门项目
 
 > 使用 Dart 开发的热门开源项目
-> 最后更新：2026-10-31 16:35
+> 最后更新：2026-11-16 20:03
 
-共收录 **80** 个项目
+共收录 **81** 个项目
 
 
 ## 项目列表
@@ -2245,6 +2245,32 @@ Mobile music utility built with Flutter and Go. High-quality audio management fo
 
 
 **Topics**：android, flac, flutter, golang, ios, lossless, music-downloader, music-management
+
+
+
+---
+
+### 81. ccch1mneyyy/dsh-Go
+
+| 属性 | 信息 |
+|---|---|
+| 链接 | [https://github.com/ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) |
+| ⭐ Stars | 24398 |
+| 🍴 Forks | 1153 |
+| 👀 Watchers | 24398 |
+| 📝 Open Issues | 646 |
+| 💻 主语言 | Dart |
+| 🔥 热度等级 | - |
+| 📅 创建时间 | 2026-10-25 |
+| 🔄 最后更新 | 2026-11-16 |
+| 📜 License | AGPL-3.0 |
+
+**简介**：
+dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+
+
+
+**Topics**：ai-agent, android, android-app, coding-agent, deepseek, deepseek-harness, dsh, dsh-plugin, dsh-tui, flutter, llm
 
 
 
